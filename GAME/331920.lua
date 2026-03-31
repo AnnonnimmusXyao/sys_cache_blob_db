@@ -1,0 +1,5 @@
+--game: Airline Tycoon Deluxe
+
+addappid(331920)
+addappid(331921,0,"dd4f26873d7eb98ac6aeb594b144c6e0ecafb3546cc2b99c13a8a513d58c4f85")
+addappid(331926,0,"6c2b18341d4a9e38c9c12ee21b97b31ea53dd12c1de439882a5bfefc5cadda4b")
