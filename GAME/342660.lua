@@ -1,0 +1,4 @@
+--game: Brawlerz Arena
+
+addappid(342660)
+addappid(342661,0,"5dc7ecaab2c702628524bb6971e03bac01bdd20dee3f6f2c20c39675f096e13b")
