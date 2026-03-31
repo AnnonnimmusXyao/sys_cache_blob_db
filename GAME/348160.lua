@@ -1,0 +1,4 @@
+--game: RUMP! - It's a Jump and Rump!
+
+addappid(348160)
+addappid(348161,0,"8269992929378edb1230425822369c96537f1a5439665f0616b558452529af46")
