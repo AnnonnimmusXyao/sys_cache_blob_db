@@ -1,0 +1,5 @@
+--game: Lovely Planet
+
+addappid(228983)
+addappid(298600)
+addappid(298601,0,"7bfe86a851d0084b323659571f3c82521feb838d970776591943d537cb5b5ab5")
