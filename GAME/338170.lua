@@ -1,0 +1,4 @@
+--game: Ratz Instagib
+
+addappid(338170)
+addappid(338171,0,"a0db2a939c93f1889ed7d74eca3c3b0f0f4175e2177880593435285c8bdbaff8")
