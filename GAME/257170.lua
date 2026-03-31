@@ -1,0 +1,5 @@
+--game: Rebuild 3: Gangs of Deadsville
+
+addappid(257170)
+addappid(257171,0,"629fe9b2320891b6b0d095153ef5d1c4802530c445acd092a6a87930e0837a21")
+addappid(301140,0,"f494a14e14821fc2c86eeae2dcb99d76ab46de436bfacd8b6da84243bb9f7636")
