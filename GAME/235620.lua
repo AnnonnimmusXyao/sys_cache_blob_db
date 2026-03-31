@@ -1,0 +1,13 @@
+--game: Small World
+
+addappid(228982)
+addappid(228985)
+addappid(235620)
+addappid(235621,0,"42d7b0ec99a314ca7dcdcaef8eedd6e95e5498a409fa766730b7f61cb1d7f1ea")
+addappid(235622,0,"6f1c38894c1b7f386a6f0c3d5936cd00744468bd495e3a0bc95fcbd519f440f6")
+addappid(235626,0,"c3ef008b70fe9c42c442266ea444ce3a8eac7cd8711d5643b971a58899da87b4")
+addappid(259590)
+addappid(259591)
+addappid(259592)
+addappid(1267510)
+addappid(1387630)
