@@ -1,0 +1,5 @@
+--game: Winged Sakura: Mindy's Arc
+
+addappid(331390)
+addappid(331391,0,"5810cc9aa527e64f78f8a62f47fb6610b38e2dbd0257c7860f1700bdefcea27d")
+addappid(331392,0,"3aeab18412d99b1a3dc7edb1ed49065ea0c5f2640053ec600da8814f611af843")
