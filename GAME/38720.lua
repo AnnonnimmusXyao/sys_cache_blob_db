@@ -1,0 +1,5 @@
+--game: RUSH
+
+addappid(38720)
+addappid(228983)
+addappid(38723,0,"e0717633dbf6bd0cd4e630b912a96bcd42bd63245f5803789dabb4fb4409a756")
