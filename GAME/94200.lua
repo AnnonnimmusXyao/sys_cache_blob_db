@@ -1,0 +1,6 @@
+--game: Jamestown
+
+addappid(94200)
+addappid(228982)
+addappid(229020)
+addappid(94201,0,"a4591b9f36a901802d9c8dbe0b7a1aa356d7e67158974bb259d90e0f1b259864")
