@@ -1,0 +1,4 @@
+--game: FATE: Undiscovered Realms
+
+addappid(276890)
+addappid(276891,0,"9d14c038aef01c7a7edda41cf4303b31838df8ec5a7162660e9d292e6221c594")
