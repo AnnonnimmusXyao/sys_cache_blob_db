@@ -1,0 +1,6 @@
+--game: Blue Estate The Game
+
+addappid(228983)
+addappid(228985)
+addappid(305380)
+addappid(305381,0,"cf2cd1934e2b80bbd0bcff1062717a736c12d607b8e4681cdbd193df87fb4649")
