@@ -1,0 +1,6 @@
+--game: World of Subways 2 – Berlin Line 7
+
+addappid(283600)
+addappid(228982)
+addappid(283601,0,"7ea8c37abd892c385a8d7fc242cd46e9afd9a4d4b3e611509138f8ed8c80b655")
+addappid(283602,0,"ce8651949f18c3254bbec4b380b2e32a70fa5db05274dcbe5500d4e8b5f862b1")
