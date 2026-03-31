@@ -1,0 +1,4 @@
+--game: Astro Tripper
+
+addappid(110600)
+addappid(110601,0,"7a9812387ce101d1dd1e106ca493d8acf41aadd806b73a92d2a967416819872b")
