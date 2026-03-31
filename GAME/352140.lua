@@ -1,0 +1,4 @@
+--game: Finders
+
+addappid(352140)
+addappid(352141,0,"1c9301c78a2df21e0922dc3a1abaf7eb14b2e80eaf67fbd2aff532c4587af77a")
