@@ -1,0 +1,6 @@
+--game: Singularity™
+
+addappid(42670)
+addappid(229033)
+addappid(42671,0,"57ee2d1dfbccfc21c9c7cd5d33b173b8f747280202f99fbac5534836ca4696db")
+addappid(42672,0,"2db0a5e36a26e540cee83f2ae48d007b43cd758c36af0db9f2dc980e1d8621b9")
