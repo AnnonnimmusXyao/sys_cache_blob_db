@@ -1,0 +1,6 @@
+--game: Spy Fox in "Dry Cereal"
+
+addappid(283980)
+addappid(283981,0,"ab8515c871b9ad7e75f9237fdaf993e811fca7e77e17879d8ab36dcd236ece0e")
+addappid(283984,0,"13c02ffdcd49464c7fc2a347f1cbca3c1c7ba0644c7c0ae9178b61ee8f2daedd")
+addappid(283985,0,"f12895275535a988508da29ed7659913ec820cbd676145f7cd4e2f619c461893")
