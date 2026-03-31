@@ -1,0 +1,5 @@
+--game: Death to Spies
+
+addappid(9800)
+addappid(9801,0,"731e3f8c466063659de235cab1ad44a092dbefb4bbdb2d38b5af288e4546eae2")
+addappid(9802,0,"033d7e4772206ef8357d569ca80d4ea000f4c84cbf7beb3ae17d521f7b15376c")
