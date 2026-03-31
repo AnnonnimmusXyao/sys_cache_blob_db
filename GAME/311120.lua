@@ -1,0 +1,5 @@
+--game: The Stalin Subway: Red Veil
+
+addappid(311120)
+addappid(311121,0,"04a1e1dd66f1a1a5ff2bb4f1ec5509e8086640dfde4286ab1d82588e8e02c604")
+addappid(311122,0,"ad47693791093ec884e6707eda116e68594d2ae8efb26da265917a43867051cb")
