@@ -1,0 +1,4 @@
+--game: Nancy Drew®: Legend of the Crystal Skull
+
+addappid(31860)
+addappid(31861,0,"aa341a65ef80421b47c1a4fb0c448276638f77d859aa5f65d508df3b071a332c")
