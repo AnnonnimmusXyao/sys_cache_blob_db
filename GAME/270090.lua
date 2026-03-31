@@ -1,0 +1,4 @@
+--game: //N.P.P.D. RUSH//- The milk of Ultraviolet
+
+addappid(270090)
+addappid(270091,0,"d6024f3c5c49405b603eec25b123e3d301d6bc26773839ac017eb446098ed1e5")
