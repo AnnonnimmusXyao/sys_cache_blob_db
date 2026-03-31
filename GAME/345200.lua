@@ -1,0 +1,4 @@
+--game: Tasty Blue
+
+addappid(345200)
+addappid(345201,0,"5ff901dc074a9655a9293c3c2c7db4a5550a4c86b562c3e5d593fdb8291828c1")
