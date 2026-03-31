@@ -1,0 +1,4 @@
+--game: PANZER BALL
+
+addappid(325260)
+addappid(325261,0,"9526235b93c6a72cf29081a7460ff8c062bf5322102a2deebfabb2fdf3a0ebc4")
