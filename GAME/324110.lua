@@ -1,0 +1,8 @@
+--game: Moto Racer Collection
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(229000)
+addappid(324110)
+addappid(324111,0,"01caa53ada21155ce02affb4e4d9181fdaa26d2df2566399559671a7632c3b95")
