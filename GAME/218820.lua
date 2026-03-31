@@ -1,0 +1,6 @@
+--game: Mercenary Kings: Reloaded Edition
+
+addappid(218820)
+addappid(218821,0,"43840656b6bed47fb05e092d959666c2209be91903dfd98e760769d9bc914429")
+addappid(228983)
+addappid(229002)
