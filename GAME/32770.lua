@@ -1,0 +1,4 @@
+--game: Joint Operations: Combined Arms Gold
+
+addappid(32770)
+addappid(32771,0,"0b29186655efcb2c4bc6892361e468720f0487505714a82f70c264bde1b68768")
