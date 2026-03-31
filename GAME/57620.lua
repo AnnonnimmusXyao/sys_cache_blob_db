@@ -1,0 +1,6 @@
+--game: Patrician IV
+
+addappid(57620)
+addappid(57621,0,"807847b9b9a7a5d6f6fb1ba495ff8fdabdfcad9f50c5d14b241fd6e3199ad784")
+addappid(57731)
+addappid(57622,0,"499317e7e3e8e8f738dfce55d332c95d70537f53be3fb13e8da6ae5df5bc612a")
