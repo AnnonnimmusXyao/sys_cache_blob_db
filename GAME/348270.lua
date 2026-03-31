@@ -1,0 +1,5 @@
+--game: Social Justice Warriors
+
+addappid(348270)
+addappid(348271,0,"facc1815ddf497962235db275c2c3508f0aa235e5cf2e8d64b07df9b6657d7d7")
+addappid(348274,0,"fce74d6ce922324282cb0735b6dd54302d6cd97e2ab0a8ff88f22dce03f8f7b7")
