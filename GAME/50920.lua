@@ -1,0 +1,4 @@
+--game: Hidden Expedition: Amazon
+
+addappid(50920)
+addappid(50921,0,"a172739c768909584856dedcba7693d80887679ce608e00214a8415934aa19af")
