@@ -1,0 +1,4 @@
+--game: Alpha Kimori™ 1
+
+addappid(265870)
+addappid(265871,0,"edff9494b823c3c583256e37ed74af65dedf781c8603dc5f48bf2a9aa916ce02")
