@@ -1,0 +1,5 @@
+--game: Data Jammers: FastForward
+
+addappid(110500)
+addappid(110501,0,"0475b60eafef39b2570118324c624170ec5808b43419e63d86e39adf65fb07a1")
+addappid(110502,0,"7b4cf802feab3339fe0c9477311f8079d51d86ee9a19676a1a6381dd2a39b5d6")
