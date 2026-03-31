@@ -1,0 +1,4 @@
+--game: Drifter
+
+addappid(259450)
+addappid(259451,0,"097bf0b2027ddd585f8e77c789632e80b462a7fcd547b3bd40f7480355478a37")
