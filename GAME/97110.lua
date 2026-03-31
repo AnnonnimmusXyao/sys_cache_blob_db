@@ -1,0 +1,4 @@
+--game: Kohan: Immortal Sovereigns
+
+addappid(97110)
+addappid(97111,0,"91596b1fdf8854b19f48652afdd55f6fdeaf2ff67c89ddcf52ae67c7bc5d42cf")
