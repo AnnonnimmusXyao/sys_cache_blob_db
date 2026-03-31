@@ -1,0 +1,4 @@
+--game: Retro Game Crunch
+
+addappid(290040)
+addappid(290041,0,"eb60d0818b64df9bc0a9a3128197b810fde8dfd1c7499e06bce5ea56c840e6de")
