@@ -1,0 +1,4 @@
+--game: Valdis Story: Abyssal City
+
+addappid(252030)
+addappid(252031,0,"68a69eae1e2b5e510836415db3917d386db459464f57625387d2220b44f340f9")
