@@ -1,0 +1,4 @@
+--game: Vol'Talkes - The AI War
+
+addappid(347050)
+addappid(347051,0,"afd85b61972a90dd268744013dee8e167bfa3c644c731a58657ca631b96c200f")
