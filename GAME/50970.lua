@@ -1,0 +1,4 @@
+--game: Mystery Case Files: Madame Fate®
+
+addappid(50970)
+addappid(50971,0,"8223f27229abaf237a3fe69dba34500045cebe08d665a74edd5fa4222b0635dc")
