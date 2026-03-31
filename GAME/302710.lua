@@ -1,0 +1,7 @@
+--game: BlazeRush
+
+addappid(228983)
+addappid(302710)
+addappid(302711,0,"6bfc23663c95cb76be822f390402673c479ec96572aea3c5feff75e7894bf64e")
+addappid(302712,0,"3a3f3687ddd5a769a007fc1532e6a5f51866522b9b72551bda684028c563def4")
+addappid(2934580)
