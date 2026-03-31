@@ -1,0 +1,4 @@
+--game: 12 Labours of Hercules
+
+addappid(342580)
+addappid(342581,0,"f7b42f7d7007adf300d31984b1fb2eb1f3cb8eb57446783e7c9a605ef2b4da57")
