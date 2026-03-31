@@ -1,0 +1,6 @@
+--game: Residue: Final Cut
+
+addappid(229001)
+addappid(229011)
+addappid(265790)
+addappid(265791,0,"4c1e3282f16129d8f48200af5cfabc270beba887877efd775963c7ec892e5243")
