@@ -1,0 +1,17 @@
+--game: Dungeon of the ENDLESS™
+
+addappid(228983)
+addappid(249050)
+addappid(249051,0,"6d80e58f49ef3fb5f2851a475f109b1361bc5469b710248e1bc4af4c6a9d844c")
+addappid(249052,0,"ab875e1bf4fe5a00a49921e8030ee08a00cd01b3bf7264b581feceac5187db38")
+addappid(249053,0,"ea27923e33a1d9af43aa64d75080b5596701aa4d57d31466683f5e6d6d5e225d")
+addappid(249054,0,"74e06f815f5e1b84a906f41eeb6de78ba8cbf0c109db319bbb7aa0d6a30bbf39")
+addappid(268080)
+addappid(268081)
+addappid(268082)
+addappid(349770)
+addappid(365940)
+addappid(407200)
+addappid(407210)
+addappid(410940)
+addappid(744930)
