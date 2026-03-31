@@ -1,0 +1,6 @@
+--game: Hack 'n' Slash
+
+addappid(228983)
+addappid(246070)
+addappid(246071,0,"43352e33659d5e22e696c9674563e6c2195b4c9e3be40a90b567fc3d25e05f44")
+addappid(296320,0,"fe119b22e9da30d4f86a6da9d8aeb7f3d1f6595b432df52847afe5af1355154e")
