@@ -1,0 +1,7 @@
+--game: AudioSurf
+
+addappid(12900)
+addappid(12902,0,"44f4f97c1899f42989a7337e1b1a92cfaa74eef044441f16c589b36dcc06da39")
+addappid(12903,0,"cab4a1d94973956ee9a9ff3df89f0ad6a1514922a9595291d6cbf98c51e443ba")
+addappid(228982)
+addappid(228981)
