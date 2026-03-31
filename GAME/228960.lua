@@ -1,0 +1,6 @@
+--game: Skulls of the Shogun
+
+addappid(228960)
+addappid(228961,0,"400ee5291dfc34dc89ada07ef3683417798aa1b4b8a09c6623f46f8d30c14f93")
+addappid(229003)
+addappid(229012)
