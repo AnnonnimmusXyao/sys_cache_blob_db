@@ -1,0 +1,7 @@
+--game: Men of War: Vietnam
+
+addappid(63940)
+addappid(63941,0,"e1659af0f71e5e5f53f9ead48a335a745b143e2cb3a39f48fbff137629e7a396")
+addappid(63942,0,"0dcde7389e9216d1c413317ad1bbe7c4dda709ac123d553ef609928d62bad5e6")
+addappid(63945,0,"3e97f0312d2bdbcd0be9abec681bac06f4afea69bdb4bebdf60dbd83dc2722a3")
+addappid(63946,0,"90e7687a3babdd5f28ee76998b3e6b952a2d91234c3266be283de8e7bd388854")
