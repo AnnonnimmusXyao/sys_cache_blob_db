@@ -1,0 +1,4 @@
+--game: The Entente Gold
+
+addappid(285480)
+addappid(285481,0,"b4f120dbb4e224ee137226d65f4528356413e872c8872c9ad88f3b46239c8266")
