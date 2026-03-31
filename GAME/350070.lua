@@ -1,0 +1,4 @@
+--game: Environmental Station Alpha
+
+addappid(350070)
+addappid(350071,0,"1abcb9e62c9e134f4bf2c85bada045d31baa85c29ca3a86c022229e0a5d97179")
