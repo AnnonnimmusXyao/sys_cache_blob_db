@@ -1,0 +1,4 @@
+--game: Yatagarasu Attack on Cataclysm
+
+addappid(319280)
+addappid(319281,0,"f9976490fdc76047ef10daebdc0dea027210fc9227360609e9d2ead453646633")
