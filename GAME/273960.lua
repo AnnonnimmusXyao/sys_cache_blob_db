@@ -1,0 +1,5 @@
+--game: Mechs & Mercs: Black Talons
+
+addappid(273960)
+addappid(228983)
+addappid(273961,0,"3f44135c82251053957fa0397716a9baed68aea84971a765c0cd9aada8f492e1")
