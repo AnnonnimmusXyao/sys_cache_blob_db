@@ -1,0 +1,4 @@
+--game: Spectrum: First Light
+
+addappid(346430)
+addappid(346431,0,"1e02f315e76d89bc68a6ddc3bae629ae6cf5bd18430b6cf0881bd7086ebb06ca")
