@@ -1,0 +1,4 @@
+--game: Debugger 3.16: Hack'n'Run
+
+addappid(339720)
+addappid(339722,0,"dae22402ca3b9d4fd2f59962ce44a42243f7211bc27e653d85ff51fd599040c6")
