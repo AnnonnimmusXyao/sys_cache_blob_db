@@ -1,0 +1,8 @@
+--game: Assassin's Creed Freedom Cry
+
+addappid(228982)
+addappid(228983)
+addappid(229004)
+addappid(277590)
+addappid(277591,0,"78c2c8401115c053bafc67ee78274b0842e4cea71428bd07e00a086cbd93f4ed")
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
