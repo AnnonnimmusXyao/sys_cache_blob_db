@@ -1,0 +1,4 @@
+--game: Cults and Daggers
+
+addappid(333350)
+addappid(333351,0,"25f93d71898fabbcf46063bc0fdc18cb57079f0febe9af19a63f80e2d20697be")
