@@ -1,0 +1,4 @@
+--game: Psy High
+
+addappid(339510)
+addappid(339511,0,"eabd83b324a387d0fc444cd9d07a3be9301510ea06917785bfb7c073d6994e01")
