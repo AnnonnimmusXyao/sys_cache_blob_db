@@ -1,0 +1,10 @@
+--game: Super Dungeon Bros
+
+addappid(306000)
+addappid(306001,0,"5b9769f67ef9b747ce6cff13ba1926b0edeb8f0e58398fd9e37c6804bcbfea70")
+addappid(435610)
+addappid(439230)
+addappid(439231)
+addappid(439232)
+addappid(468140)
+addappid(679940)
