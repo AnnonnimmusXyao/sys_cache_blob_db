@@ -1,0 +1,11 @@
+--game: Ascension: Deckbuilding Game
+
+addappid(228982)
+addappid(228983)
+addappid(320430)
+addappid(320431,0,"43165e65a1d64e976dd456d3c965d9a9a429944bfb95d4d203fa1d86cff53d89")
+addappid(858930)
+addappid(899140)
+addappid(942590)
+addappid(987500)
+addappid(1644730)
