@@ -1,0 +1,4 @@
+--game: Tom vs. The Armies of Hell
+
+addappid(262630)
+addappid(262631,0,"7e7b4d4d7260d9001988d00f7f89b16bb6ac3355723ceef93f5cf3314476b854")
