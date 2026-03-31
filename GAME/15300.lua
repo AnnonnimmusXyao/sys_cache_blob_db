@@ -1,0 +1,4 @@
+--game: Tom Clancy's Ghost Recon®
+
+addappid(15300)
+addappid(15301,0,"92b2da80ef447bbbaa42b8639427e44852bf9b6517ef8e184c7343783cdcb029")
