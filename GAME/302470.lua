@@ -1,0 +1,4 @@
+--game: Battle Mages
+
+addappid(302470)
+addappid(302471,0,"bcb1f8d49c39b7e70d6880c0bb1dda6a35741046176fae2273766ea2c0cbb55a")
