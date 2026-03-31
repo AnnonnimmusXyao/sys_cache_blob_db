@@ -1,0 +1,7 @@
+--game: Prime World: Defenders
+
+addappid(228983)
+addappid(235360)
+addappid(235364,0,"607155aca3a7e3670771fc3b5589419793921374b3a5d43e1b8bb6fef50ed999")
+addappid(235365,0,"99af3ffc18b89adf12be37c44483cb56233aac56f23927854fbfa248cec6560d")
+addappid(236990)
