@@ -1,0 +1,5 @@
+--game: Hacker Evolution Duality
+
+addappid(70120)
+addappid(70121,0,"84c3b10d605d704bba938a9857065fb689705f37e176bdcf2962a5117cad90f2")
+addappid(211990,0,"7af11ea2ad90f0f2bfd4939cc8b7848919b6f6806433f7d1953b83d0fe2fb480")
