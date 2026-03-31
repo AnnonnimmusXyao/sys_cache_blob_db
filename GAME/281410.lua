@@ -1,0 +1,4 @@
+--game: UberSoldier II
+
+addappid(281410)
+addappid(281411,0,"9905f520ed19aff1eba3a43b9eca36c85f5333e549c4a288bfcd8a1620e98ac6")
