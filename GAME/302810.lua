@@ -1,0 +1,4 @@
+--game: Divinia Chronicles: Relics of Gan-Ti
+
+addappid(302810)
+addappid(302811,0,"d3ed900f9cd3bb294ea87bf4e53492eb0d52c69c59a4d7cd9d51519426fd0516")
