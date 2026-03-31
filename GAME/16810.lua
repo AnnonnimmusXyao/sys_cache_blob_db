@@ -1,0 +1,6 @@
+--game: Sid Meier's Civilization IV: Colonization
+
+addappid(16810)
+addappid(34471,0,"916deb73a865e862f519c88638a3adb6279dc28541b6f7251301917ceaf312ed")
+addappid(16811,0,"ea311a036a2e4ca8eceb8e8778eb730f9b24ab744db729683fc3840178d60dfd")
+addappid(16812,0,"deba2bf70e820bf1225cb2c31820245b8a0e106a452605af4e8b4f3f7685dbd4")
