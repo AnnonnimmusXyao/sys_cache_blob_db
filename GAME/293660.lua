@@ -1,0 +1,4 @@
+--game: TRI: Of Friendship and Madness
+
+addappid(293660)
+addappid(293661,0,"22145edf6b5ee6bafe9b3f94f52eb922c546479dde8490243e532df89e0a0195")
