@@ -1,0 +1,12 @@
+--game: Way of the Samurai 4
+
+addappid(312780)
+addappid(312781,0,"283af22c8e9dc9a74670197b5d11f643529eccb13deb029f6d087ca71bfbda23")
+addappid(333810)
+addappid(333811)
+addappid(333812)
+addappid(333813)
+addappid(333814)
+addappid(333815)
+addappid(333816)
+addappid(333817)
