@@ -1,0 +1,5 @@
+--game: BattleLore: Command
+
+addappid(348400)
+addappid(348401,0,"d0ecb49d6eee24e7c304a7e7ce49ef92c04685c1803c88704aff018b043aa5fe")
+addappid(351930)
