@@ -1,0 +1,6 @@
+--game: Faery - Legends of Avalon
+
+addappid(303790)
+addappid(229032)
+addappid(303791,0,"d8b7ac242238f3a39290e33c316baf46e66326ee619378bc2ca796067a0442b3")
+addappid(303792,0,"4e6d0241ae4b724c2df1e3157699c1790a5f4e58eb163134b13d5d48d2b565dd")
