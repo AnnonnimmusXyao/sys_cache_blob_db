@@ -1,0 +1,9 @@
+--game: Arma 2: Operation Arrowhead
+
+addappid(33930)
+addappid(33931,0,"3b324ca60026d263ac2c391af625442d40c7675e5f1894a9e340c0c435d1499e")
+addappid(33932)
+addappid(33933)
+addappid(33934,0,"e76a2c7fff33e0185e60063b7dadb06d7ecbac7eb586b3cf54bdbbd387afed56")
+addappid(33936)
+addappid(33960)
