@@ -1,0 +1,6 @@
+--game: Perfect Golf
+
+addappid(288140)
+addappid(288144,0,"0202a787dd746c526d7171cbebbe82efccbd65255833936ad41049fba31d7fce")
+addappid(288145,0,"953d3744511fd4aab2ffa2a83f3d3b17c8fbfa65a4e8de945b006cd0a5b07a80")
+addappid(535420,0,"38300eb5fdae634c4fffb45edbe16f7d612bdf87b471db01868784736fd95d87")
