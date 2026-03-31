@@ -1,0 +1,7 @@
+--game: IHF Handball Challenge 14
+
+addappid(228985)
+addappid(229020)
+addappid(229032)
+addappid(279460)
+addappid(279461,0,"31c235c3ed795670d3345fe21e5b37e3059495287a8bc83ac64b19de172aacec")
