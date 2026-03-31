@@ -1,0 +1,4 @@
+--game: Hero of the Kingdom
+
+addappid(259550)
+addappid(259554,0,"24e1b7ce66f9615c0928aaf32c9981ea98ded81b1d66e83cc39b44b1f90aa424")
