@@ -1,0 +1,4 @@
+--game: M4 Tank Brigade
+
+addappid(348810)
+addappid(348811,0,"4975fc5f07dcdf2e0441842f3ac8f32d14ed6559e780058f65b6026d64983b67")
