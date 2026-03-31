@@ -1,0 +1,5 @@
+--game: QP Shooting - Dangerous!!
+
+addappid(229000)
+addappid(316600)
+addappid(316601,0,"c74425bd896c400de53aeece45b974b9c6534bd07f1a44047f6cc8129e175315")
