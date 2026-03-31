@@ -1,0 +1,4 @@
+--game: Elastrix
+
+addappid(336700)
+addappid(336701,0,"9174bd77da6b0a78cfe3dbe1c3fbdd625e73bf395739078e1c9e936629bf67a5")
