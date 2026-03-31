@@ -1,0 +1,4 @@
+--game: Stratus: Battle For The Sky
+
+addappid(355490)
+addappid(355491,0,"5db83520ba55cac485d7a40687d90b729b21e12a0a00f82a9804fb6ba1454ffb")
