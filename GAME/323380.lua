@@ -1,0 +1,4 @@
+--game: The Magic Circle
+
+addappid(323380)
+addappid(323387,0,"e9d425229ce6af7abc58c1c0b4368a04618712a0a081611cbc32e0444075ade1")
