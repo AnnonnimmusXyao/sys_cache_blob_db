@@ -1,0 +1,4 @@
+--game: Predestination
+
+addappid(340210)
+addappid(340211,0,"eaa3d9a028073f27855120fd3bf15ae5b8c641f979e201948ca6d5ecf4874135")
