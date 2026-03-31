@@ -1,0 +1,4 @@
+--game: Paws and Claws: Pampered Pets
+
+addappid(33700)
+addappid(33701,0,"0d16e0d8cd8c226e2f35435571a73bd1126e9ed2d7ae279b6bd01bc839041816")
