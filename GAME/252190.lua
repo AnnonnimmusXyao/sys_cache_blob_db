@@ -1,0 +1,4 @@
+--game: Defender's Quest 2: Mists of Ruin
+
+addappid(252190)
+addappid(252192,0,"202c3aabd5508bd3c3f1557f404cd6eb8428454a81f93d85761215c20ec5904d")
