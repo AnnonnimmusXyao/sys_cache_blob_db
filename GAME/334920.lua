@@ -1,0 +1,7 @@
+--game: Zero-K
+
+addappid(334920)
+addappid(334921,0,"c0eb74e9aa418970fb1f834173b9bbbd598920ca9d17ca742d3f2b4421f73fe8")
+addappid(842950)
+addappid(842951)
+addappid(842952)
