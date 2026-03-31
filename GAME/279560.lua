@@ -1,0 +1,6 @@
+--game: Dracula 4 and  5 - Special Steam Edition
+
+addappid(228983)
+addappid(229020)
+addappid(279560)
+addappid(279561,0,"a1d2ec63571e9e03b0bee185ddac26bded251aa0d4a604221a5d66e495ba4e66")
