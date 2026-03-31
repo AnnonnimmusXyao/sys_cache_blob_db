@@ -1,0 +1,6 @@
+--game: Survivalist
+
+addappid(229003)
+addappid(229012)
+addappid(340050)
+addappid(340051,0,"730782494a436dd3b5d0a933732c72583b4db156ef2c92d957bf2b28ebb81b82")
