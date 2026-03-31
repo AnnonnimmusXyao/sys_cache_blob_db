@@ -1,0 +1,7 @@
+--game: DETOUR
+
+addappid(92100)
+addappid(92101,0,"f9fae6ccc70d991127b49bed5180850a37a005936b2c7ea7ec800a9c6cad1740")
+addappid(228982)
+addappid(229000)
+addappid(229011)
