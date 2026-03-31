@@ -1,0 +1,6 @@
+--game: Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™
+
+addappid(260230)
+addappid(228983)
+addappid(260231,0,"6c41bd4691a0b3d82697e2b41689bb5b94b99f6d250f162227b1cd98bd902c4a")
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
