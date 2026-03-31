@@ -1,0 +1,5 @@
+--game: Disney's Treasure Planet: Battle of Procyon
+
+addappid(331970)
+addappid(331971,0,"ee322aebf25c8bd834f2cd02d5ac9a84692122a11f366d1d6167fc1ac12bd77b")
+addappid(331972,0,"e306e604adbbb4b1cc3007f9b767852e94003addcae1bcd77102275c9d757517")
