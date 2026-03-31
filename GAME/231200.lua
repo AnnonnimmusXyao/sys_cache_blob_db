@@ -1,0 +1,4 @@
+--game: Kentucky Route Zero: PC Edition
+
+addappid(231200)
+addappid(231203,0,"828bdc92db9b07fd9ded2bc02e1c73e5e64020e213935474927fcb790aa609c7")
