@@ -1,0 +1,8 @@
+--game: Caromble!
+
+addappid(228983)
+addappid(228985)
+addappid(229003)
+addappid(347660)
+addappid(347661,0,"e35efb593fe8201889d3bf8ecd9c44c6d354d1cdcd0f01b0cc97a086869e2c41")
+addappid(347662,0,"3d7c299b9a20ed6ded251a93ed747d100548411a3422eb1429d2ae12e801a77d")
