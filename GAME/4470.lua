@@ -1,0 +1,4 @@
+--game: Silverfall: Earth Awakening
+
+addappid(4470)
+addappid(4471,0,"f79596eb02cc23b2461f910d046e3d5710f9cb999e91cefaef6ca4b3de60a69f")
