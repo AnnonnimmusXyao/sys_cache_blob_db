@@ -1,0 +1,6 @@
+--game: A Game of Thrones - Genesis
+
+addappid(58550)
+addappid(58552,0,"a43338adb37f0aabe52aa6aa2270dfbb01138b4411c79c3487cfcd4133aa4b65")
+addappid(58551,0,"09a6af96fdc89cf2c2ccea016403ff22b27d84c60a2e7098034ddb02f155e014")
+addappid(58553,0,"0437561aad5da69adbf82a05cc74889f9bead83805328269b9c3a44cbc3ee090")
