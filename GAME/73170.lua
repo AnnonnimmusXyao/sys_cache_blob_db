@@ -1,0 +1,7 @@
+--game: Darkest Hour: A Hearts of Iron Game
+
+addappid(73170)
+addappid(73171,0,"f20fbe34b6198780a177833657451d380c4778439c6d38e1a95d6d25b938474b")
+addappid(73179)
+addappid(228981)
+addappid(228983)
