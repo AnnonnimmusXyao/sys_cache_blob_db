@@ -1,0 +1,4 @@
+--game: Robowars
+
+addappid(285090)
+addappid(285091,0,"b2f232729170a555208821baab833776c03c8ebf36b07ac0f21dd2a0197c465b")
