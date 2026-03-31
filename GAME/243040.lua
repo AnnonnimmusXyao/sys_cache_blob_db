@@ -1,0 +1,4 @@
+--game: Startopia
+
+addappid(243040)
+addappid(243041,0,"3563a2e3354f81cf2284d6a2b7520aa90966f2da79ddff2b413ce7898128f728")
