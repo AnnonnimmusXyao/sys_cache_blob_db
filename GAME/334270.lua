@@ -1,0 +1,4 @@
+--game: Star Traders: 4X Empires
+
+addappid(334270)
+addappid(334271,0,"c192c19c336db44fefc0b528893288b6277a3529ebc0c911e540d8a594837b81")
