@@ -1,0 +1,5 @@
+--game: Hexcells Plus
+
+addappid(228983)
+addappid(271900)
+addappid(271901,0,"e2faaa7a830ebbb3608e49388cc78273b99b9c9e57320e0e6a15900d624d9fa2")
