@@ -1,0 +1,4 @@
+--game: Botanicula
+
+addappid(207690)
+addappid(207691,0,"44f283926d3665192b3467735dfc6e572ee77ad366f795120dede4dae85f6fee")
