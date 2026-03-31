@@ -1,0 +1,4 @@
+--game: Type:Rider
+
+addappid(258890)
+addappid(258891,0,"16d478a42114838f79113cc60def5029ffaf1711b74e1f3d5b6ed2198e8e4dbd")
