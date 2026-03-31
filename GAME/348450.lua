@@ -1,0 +1,5 @@
+--game: Lex Mortis
+
+addappid(229002)
+addappid(348450)
+addappid(348451,0,"0b7450db18fb2942892f38c671d664253cfaff23c83eb93072761137ce9cb2f1")
