@@ -1,0 +1,5 @@
+--game: Astebreed: Definitive Edition
+
+addappid(228985)
+addappid(283680)
+addappid(283681,0,"7f6bf8bdaabd54b84f7cc819600e938825736736627d92ecfd174915f12a6dfe")
