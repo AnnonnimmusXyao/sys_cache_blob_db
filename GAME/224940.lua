@@ -1,0 +1,4 @@
+--game: Legacy of Kain: Soul Reaver 2 (2001)
+
+addappid(224940)
+addappid(224941,0,"be5213fa65e18ef3326472ee087732d4c1026127d41c84a008ede6cb3f49b487")
