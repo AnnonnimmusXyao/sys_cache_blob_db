@@ -1,0 +1,15 @@
+--game: Ragnarok Online 2
+
+addappid(228983,0,"77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b")
+addappid(229031,0,"98d01f1eaa90ae08f978994e043bcbbf1f23fc72a325528ca7d722c827c0eb54")
+addappid(231060)
+addappid(239370)
+addappid(239380)
+addappid(247180)
+addappid(247190)
+addappid(265090)
+addappid(267860)
+addappid(267861)
+addappid(267862)
+addappid(267863)
+addappid(267864)
