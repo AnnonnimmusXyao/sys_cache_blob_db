@@ -1,0 +1,6 @@
+--game: King Arthur II: The Role-Playing Wargame
+
+addappid(24480)
+addappid(24496,0,"438b5d99b2a290dc61da3dc213931cddf5a359b16a1502cadd1c1cc31b916dab")
+addappid(24486,0,"8124147ce1488e2b5bed65f0a1c8e69d6d7a453b49ad65826ed9ad86c9767ffd")
+addappid(24489,0,"f5d61588ec2eded634e9d9485e01e36c79e39f55dc3f7613d0008efe8984453c")
