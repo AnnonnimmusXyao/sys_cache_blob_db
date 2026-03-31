@@ -1,0 +1,4 @@
+--game: Snail Bob 2: Tiny Troubles
+
+addappid(349760)
+addappid(349762,0,"5dfa9a889bdb7e65a1a56b1608114d77c2ea08b8b430681f085a3566569e6336")
