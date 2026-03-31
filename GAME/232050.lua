@@ -1,0 +1,6 @@
+--game: Eador. Masters of the Broken World
+
+addappid(232050)
+addappid(228983)
+addappid(229000)
+addappid(232051,0,"286102318abfd88fbfe1e7dd5b86a27a9822323b674ea7f57eb02de03e196005")
