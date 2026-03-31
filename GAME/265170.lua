@@ -1,0 +1,5 @@
+--game: Acceleration of SUGURI X-Edition HD
+
+addappid(228982)
+addappid(265170)
+addappid(265171,0,"969582208b85e6647d82bcb8d3a438fdf3df491c5b7884eb5241c5980693b85b")
