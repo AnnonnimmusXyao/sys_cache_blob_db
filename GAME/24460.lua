@@ -1,0 +1,5 @@
+--game: King Arthur: Fallen Champions
+
+addappid(24460)
+addappid(24461,0,"ee414393edf8a8e08d925a4fb413682f7908ae2366b79ba2ae73fc58d4eb0b05")
+addappid(24462,0,"5eb4c45d3a666035f3ccc1d9f56ca36432850de818aafb76673543ef015224cb")
