@@ -1,0 +1,7 @@
+--game: Plebby Quest: The Crusades
+
+addappid(228983)
+addappid(229020)
+addappid(334310)
+addappid(334311,0,"85dd89314a030b17c09d905733744e59bdc25adb6ab84c2eee091bfa9c53df49")
+addappid(1558310)
