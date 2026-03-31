@@ -1,0 +1,4 @@
+--game: Nancy Drew®: Curse of Blackmoor Manor
+
+addappid(31830)
+addappid(31831,0,"b4d7c901b8f86f05d92c6aeb93702c5ae74e333844cf1a63bff993133a1afe61")
