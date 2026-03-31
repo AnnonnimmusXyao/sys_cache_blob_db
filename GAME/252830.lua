@@ -1,0 +1,4 @@
+--game: Claire
+
+addappid(252830)
+addappid(252832,0,"30794a30546dc1f758c16d13f692c9aec9cbab64f47a86d2c0173b1132c3e977")
