@@ -1,0 +1,8 @@
+--game: Alien Breed 3: Descent
+
+addappid(22642)
+addappid(22670)
+addappid(22671,0,"471164186d29041ab03ec6478df2ff69dea80b033969bce52e8f31e313efe3d9")
+addappid(22672,0,"adce81fd9087f4521642d21ee0340bcc5d1996bf0ca841b9967eb57af734e8cc")
+addappid(22677,0,"4fc4ae9a07a16798ded1b12f8749e8b9e011936dc905fcc113146d0d2da7eefb")
+addappid(22678)
