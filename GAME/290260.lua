@@ -1,0 +1,4 @@
+--game: Sokobond
+
+addappid(290260)
+addappid(290261,0,"ca5455d2146485f2e8fee1662236f810c4ba24b5a5ac85facfcc87db83920ecc")
