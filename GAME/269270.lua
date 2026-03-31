@@ -1,0 +1,4 @@
+--game: LOVE
+
+addappid(269270)
+addappid(269271,0,"3c0a73276f5d384963e9d56d81dc7cd1cd5f2d12e30440a1170aac958bb9bacf")
