@@ -1,0 +1,6 @@
+--game: Chuzzle Deluxe
+
+addappid(3310)
+addappid(3311,0,"a43fb836c6313a0cc6158ffc959f55c733141be9f6d4d16f3c5a5ed935ddbebd")
+addappid(3314,0,"532167b35dd2cbb1c6a8be473b3c6199070d11b5021088cefb9240762d2c847e")
+addappid(3316,0,"b3a868a92b506b38e3a5c8b200fa4fa3ae32967c38a3e62a0fa83d9a6abd5cb6")
