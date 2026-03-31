@@ -1,0 +1,4 @@
+--game: Haegemonia: The Solon Heritage
+
+addappid(294790)
+addappid(294792,0,"810025d82098593ad9813feeff0e9fe5bafb3516e00c2d2e6e24d873b3904773")
