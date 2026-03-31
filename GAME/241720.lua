@@ -1,0 +1,12 @@
+--game: Guncraft
+
+addappid(229002)
+addappid(229012)
+addappid(241720)
+addappid(241721,0,"117e504e4d82f8e86b226a8cc0080e5043147732abc225961716e03f075cde37")
+addappid(259120)
+addappid(259121)
+addappid(259122)
+addappid(280030)
+addappid(280031)
+addappid(280032)
