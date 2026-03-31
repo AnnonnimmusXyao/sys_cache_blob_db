@@ -1,0 +1,6 @@
+--game: Majesty 2 Collection
+
+addappid(73020)
+addappid(73021,0,"aab293d2026fda31097626a6fe04a8da7b0dfec957c2fbd332c10b63112b9a35")
+addappid(73022,0,"c8ce5555253abe877feeb00a6d1a24fa534c7f7db2469677930cc31d2838fe73")
+addappid(73025,0,"271229cf2110639c7fdbf9f3d9dc493e83e98ca4f560cfae75c80db54c81d375")
