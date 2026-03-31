@@ -1,0 +1,10 @@
+--game: Bulwark: Falconeer Chronicles
+
+addappid(290100)
+addappid(290102,0,"8964452056d0aeece0de5a0de024de4bb431008c7e976f89e75fa35e227042fd")
+addappid(2727620)
+addappid(2789830)
+addappid(2789840)
+addappid(3165180)
+addappid(3165190)
+addappid(3478410)
