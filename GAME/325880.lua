@@ -1,0 +1,4 @@
+--game: Crystal Catacombs
+
+addappid(325880)
+addappid(325881,0,"f7d8669a772c9d718dc79363d5d0554cb22cb2f6574980c9e749d2f6c0fc5da5")
