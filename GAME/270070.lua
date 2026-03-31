@@ -1,0 +1,4 @@
+--game: The Girl and the Robot
+
+addappid(270070)
+addappid(270071,0,"9953adaedaeaff31fb486711970aad628534ae3083059659d99ee01a8c893eb0")
