@@ -1,0 +1,9 @@
+--game: Stronghold Legends: Steam Edition
+
+addappid(40980)
+addappid(40981,0,"c1c382c8aa767a8ba91e585e6c2b4502a11a623d0ba8542cbccbe6e1f049bbe4")
+addappid(40982,0,"8ec4ed81cfa3b972c0b8a2972d453e51a218dc789b13ccd68f52c49036acd5c7")
+addappid(40983,0,"bc226ca49cbe4dc7670388e7d735d831d7e35c87e5c7c4f7b3e3b8b2bcbddf29")
+addappid(40984,0,"3691b5fde619fee2dc5f87eddac1a1fc47d1c4be9742bc6fd99388f2bb568c83")
+addappid(40986,0,"6bfd7376a2aaea11760fa8aff2f7da184c0c54abeebcf44ccb07ccde7f9fee2e")
+addappid(40989,0,"8c008792271ae8087061c71ad94b2d738a26d2651b3e9274be28888ab019cb42")
