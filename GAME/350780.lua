@@ -1,0 +1,4 @@
+--game: MANOS: The Hands of Fate ~ Director's Cut
+
+addappid(350780)
+addappid(350781,0,"a114db95d1085e7b1b3cdbaf61cbfb61beb60fd55025f16b5cbd1a6b1bb575c1")
