@@ -1,0 +1,4 @@
+--game: Second Coming: Tactical Training
+
+addappid(355090)
+addappid(355091,0,"f231064f923f02d34ff5fded97fa8ad88c80ead2ad3b391d53629cdb7d709bcd")
