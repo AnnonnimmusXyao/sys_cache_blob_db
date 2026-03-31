@@ -1,0 +1,4 @@
+--game: A Fistful of Gun
+
+addappid(229810)
+addappid(229811,0,"62c9433689b17c8f7d5ff2dffc64772abee3cc2a16f78a8a0f2d02e8c85264c1")
