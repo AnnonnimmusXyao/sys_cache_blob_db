@@ -1,0 +1,5 @@
+--game: Horizon Shift
+
+addappid(326120)
+addappid(229004)
+addappid(326121,0,"225e7923b6438c2232675b64677053d4ed6e587e35d96edd6ef1efe0573de571")
