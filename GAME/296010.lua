@@ -1,0 +1,4 @@
+--game: NeonXSZ
+
+addappid(296010)
+addappid(296012,0,"7dd572c3fee9d6c5f9158acbd6257d4c3800a826dcbb607c63cdacb35a0ea776")
