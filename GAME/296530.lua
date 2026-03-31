@@ -1,0 +1,4 @@
+--game: Coldfire Keep
+
+addappid(296530)
+addappid(296531,0,"bc7d12d88c83160ecc77799b4c37973379042e9cdeea2a4fdca7c9b42f215fed")
