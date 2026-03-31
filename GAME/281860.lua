@@ -1,0 +1,10 @@
+--game: RefleX
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229000)
+addappid(281860)
+addappid(281861,0,"9e6c1a939e2b7daf1a0615bf9ca6f2eff098ae8be14107cf99945be23bc5bd69")
+addappid(281862,0,"edd5a8eb4371e6d52a9e044de014a1c442a28cd64fab9e2faf2a5b4d5b75b2fe")
