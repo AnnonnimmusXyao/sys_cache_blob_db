@@ -1,0 +1,4 @@
+--game: Stick RPG 2: Director's Cut
+
+addappid(307640)
+addappid(307641,0,"4c10e7a218abbbbfcd7d519d3cfd4e48dba9ff769eded9b4942c574610404c59")
