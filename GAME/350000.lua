@@ -1,0 +1,4 @@
+--game: Exostorm
+
+addappid(350000)
+addappid(350001,0,"882d65f176c1ec0a4bffa798437d0b6c8f2e6bf29cbc952ab107d707aa88bae9")
