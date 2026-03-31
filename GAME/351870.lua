@@ -1,0 +1,4 @@
+--game: Cultures - 8th Wonder of the World
+
+addappid(351870)
+addappid(351871,0,"29bd950e6ab6c65337ab0d9bb5245ab431a3379016b0c1efcfbdf45c8da9b7c7")
