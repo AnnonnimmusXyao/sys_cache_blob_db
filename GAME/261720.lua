@@ -1,0 +1,7 @@
+--game: Holy Avatar vs. Maidens of the Dead
+
+addappid(228982)
+addappid(229002)
+addappid(229020)
+addappid(261720)
+addappid(261721,0,"0029556174c7cc47d06bc28f623b2822c8a40a311831e56cc74c8822ae2a3357")
