@@ -1,0 +1,5 @@
+--game: 18 Wheels of Steel: Extreme Trucker
+
+addappid(33730)
+addappid(33731,0,"5bd30b24ce0019191f41dfdb29cccbe837998dde7cb4b93dcd37a65849a7a2d3")
+addappid(33732,0,"b777fae5bbc0248e2b17398c34d097e1f3e5371aeffdf0529dd01b0613389958")
