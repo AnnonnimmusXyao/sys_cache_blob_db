@@ -1,0 +1,4 @@
+--game: Cradle of Rome
+
+addappid(38170)
+addappid(38171,0,"48c0f95a97667d6599db1744d214085f6885e41347a142a5e26952a94ac4b5da")
