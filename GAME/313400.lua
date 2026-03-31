@@ -1,0 +1,6 @@
+--game: REVOLVER360 RE:ACTOR
+
+addappid(229002)
+addappid(229012)
+addappid(313400)
+addappid(313401,0,"23e1c7f322ced5fe6ab88e353208c021ae829741126a0a5fff150e720746167a")
