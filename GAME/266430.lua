@@ -1,0 +1,4 @@
+--game: Anarchy Arcade
+
+addappid(266430)
+addappid(266431,0,"3d052e64a9f1c780d40de3395b9b7fbaac5736e3bd38fbc41eb05e00de390ada")
