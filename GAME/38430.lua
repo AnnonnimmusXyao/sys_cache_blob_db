@@ -1,0 +1,4 @@
+--game: Kingpin — Life of Crime
+
+addappid(38430)
+addappid(38431,0,"060fd8971db387bb172010aa7e85249cb00654d7b18bbe04495632f87cd54a3c")
