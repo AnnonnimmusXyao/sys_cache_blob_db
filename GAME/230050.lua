@@ -1,0 +1,6 @@
+--game: DLC Quest
+
+addappid(229003)
+addappid(229012)
+addappid(230050)
+addappid(230051,0,"50dee201bc1ab15631892ab706683ccc7b32002ce04728e16bc3e14f31affce8")
