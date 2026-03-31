@@ -1,0 +1,11 @@
+--game: Abyss Odyssey
+
+addappid(255070)
+addappid(228983)
+addappid(229002)
+addappid(229003)
+addappid(229004)
+addappid(229020)
+addappid(229031)
+addappid(255071,0,"e98ae1ff35af615cd7f953505442fbc58072aac748145754cd3de90f984c84bc")
+addappid(255073,0,"7ecfc81fe1158b6bb1886217a7ffe2e7517b499eea3613358d67b4fd111e7ab9")
