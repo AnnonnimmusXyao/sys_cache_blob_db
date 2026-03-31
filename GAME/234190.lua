@@ -1,0 +1,4 @@
+--game: Receiver
+
+addappid(234190)
+addappid(234195,0,"f962f2620aa6a50cfb2059f04eff982dff498a59a1a727b4c3e12b993462cc9a")
