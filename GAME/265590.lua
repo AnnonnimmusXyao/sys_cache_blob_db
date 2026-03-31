@@ -1,0 +1,7 @@
+--game: The Red Solstice
+
+addappid(265590)
+addappid(228983)
+addappid(228985)
+addappid(229020)
+addappid(265591,0,"1683eb111ecf5633b4ba15a15110e57e9c4479b174b584a2cda72aa82f9ecd7b")
