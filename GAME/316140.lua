@@ -1,0 +1,4 @@
+--game: Appointment with FEAR (Standalone)
+
+addappid(316140)
+addappid(316143,0,"648236d57b99441d012f60ad1f25254dd08351db4fca563f81e4bd21e9019a46")
