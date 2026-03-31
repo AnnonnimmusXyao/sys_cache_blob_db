@@ -1,0 +1,4 @@
+--game: Build-A-Lot 2: Town of the Year
+
+addappid(38090)
+addappid(38091,0,"da2f2ac022477747ffd3fcc858aefbb6f0e826a953c6b78448cbfc39336f8404")
