@@ -1,0 +1,4 @@
+--game: Super Cane Magic ZERO - Legend of the Cane Cane
+
+addappid(336440)
+addappid(336442,0,"f1f00d5ee753f3392e1fb12ae4b7493f4dbf571aa68c3560f76b51c18ebf810f")
