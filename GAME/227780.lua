@@ -1,0 +1,7 @@
+--game: Serious Sam Classics: Revolution
+
+addappid(227780)
+addappid(228983)
+addappid(228985)
+addappid(229003)
+addappid(227782,0,"08c08404f83375b1a687457640efc658ef722cca9fc933fd5bbe12ec3a20c6f1")
