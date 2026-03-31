@@ -1,0 +1,5 @@
+--game: Codename: Panzers - Cold War
+
+addappid(9850)
+addappid(228982)
+addappid(9851,0,"78a20670dc4d01ca081da7872728e62deb4ff23d4da708bf0888cdc917fa3508")
