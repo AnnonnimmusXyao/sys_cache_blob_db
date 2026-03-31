@@ -1,0 +1,4 @@
+--game: Super Galaxy Squadron EX Turbo
+
+addappid(345860)
+addappid(345861,0,"716eaceaf9a76c0bb9fa37dc690c005270b212685a3617a4894c7296755f40d3")
