@@ -1,0 +1,4 @@
+--game: Delver
+
+addappid(249630)
+addappid(249631,0,"d7d1c1b5031e28402d165b7463fb8b0c536833a1399c1c952ca0d7a11a86ada0")
