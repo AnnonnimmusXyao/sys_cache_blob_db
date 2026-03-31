@@ -1,0 +1,5 @@
+--game: Championship Manager 2007
+
+addappid(8040)
+addappid(8041,0,"141cbc773b2fb740c19d416544348f38a068a4a0329de4732498d52ee4561337")
+addappid(8042,0,"5f87eddd5ad601f76cba060e2bb22eeb5375cac8ceb018f537636acee977513f")
