@@ -1,0 +1,4 @@
+--game: Bad Bots
+
+addappid(235070)
+addappid(235071,0,"5e8b87dd8b0f48392103975a10647067d3ff11ff2880ae88965fffa5da40a295")
