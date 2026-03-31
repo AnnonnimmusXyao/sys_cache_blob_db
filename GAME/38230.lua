@@ -1,0 +1,4 @@
+--game: Hotel Giant 2
+
+addappid(38230)
+addappid(38231,0,"e2c050356423a5ff3a9b1af016f4299fbde6a031f303ddbd9cc79822bc042206")
