@@ -1,0 +1,4 @@
+--game: JumpJet Rex
+
+addappid(329460)
+addappid(329461,0,"448d1ec79ecbd1c70ae87bf9c4c4056d9f23ea224d029a564ed9196cea96ef23")
