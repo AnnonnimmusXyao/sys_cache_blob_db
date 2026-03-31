@@ -1,0 +1,5 @@
+--game: 001 Game Creator: 2025 Edition
+
+addappid(347400)
+addappid(347401,0,"3b7940247a68bcd03fe6fea16b52132e6250e07b85edfef9405a0c795602e92b")
+addappid(736530,0,"3e9fb9fe6a41dae472667a1bb0afdde455985b41dd274ae75077599c7273ab12")
