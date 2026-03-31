@@ -1,0 +1,4 @@
+--game: Shelter
+
+addappid(244710)
+addappid(244711,0,"4d34e59d22fcc85fdd64c9a7d9a4d6c7716f273c004619018120623871f42973")
