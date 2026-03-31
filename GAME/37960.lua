@@ -1,0 +1,4 @@
+--game: Jewel Quest Pack
+
+addappid(37960)
+addappid(37961,0,"2cb640d0eb52caa03dbf63df04a10a770634ca9965ca0ae946a90500ef230049")
