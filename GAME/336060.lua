@@ -1,0 +1,6 @@
+--game: Raptor: Call of The Shadows - 2015 Edition
+
+addappid(228985)
+addappid(229002)
+addappid(336060)
+addappid(336061,0,"1cd4d39fda66c2aad61218e6b59582266387da6476a850644536baa098f4ded9")
