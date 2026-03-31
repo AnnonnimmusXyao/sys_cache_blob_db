@@ -1,0 +1,7 @@
+--game: EvilQuest
+
+addappid(263820)
+addappid(228985)
+addappid(229002)
+addappid(229012)
+addappid(263821,0,"9b148cdd4948d1d46c6cd59d87861e4363a8b2ed980f6f896110f993c3a7218f")
