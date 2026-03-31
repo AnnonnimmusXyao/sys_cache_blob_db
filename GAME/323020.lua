@@ -1,0 +1,4 @@
+--game: Destructamundo
+
+addappid(323020)
+addappid(323021,0,"7ef69f46c17af0b89135afe8960c966e3e48d7668b8114302154caf9f92265bc")
