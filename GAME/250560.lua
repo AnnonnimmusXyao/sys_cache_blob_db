@@ -1,0 +1,5 @@
+--game: Fight The Dragon
+
+addappid(250560)
+addappid(250562,0,"cdac37318cef4b31e293602535c8a407f29edbbec4a1bdcefb7342f4a1472bd1")
+addappid(250563,0,"7dcb2d715e052ed1590c689652754cb29130b47d2d7b6449fab619a277812a7e")
