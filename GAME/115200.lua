@@ -1,0 +1,5 @@
+--game: Cossacks II: Napoleonic Wars
+
+addappid(115200)
+addappid(115201,0,"2157cbe8cef1e284c94a77c91234e06c877010da7a3ef7515adaefb311fff824")
+addappid(115202,0,"0edebd5b687ecdfaac2aa51ad0d292370f502e23932a30a45aae8fa7c0ed426c")
