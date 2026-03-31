@@ -1,0 +1,5 @@
+--game: Galactic Civilizations® I: Ultimate Edition
+
+addappid(214150)
+addappid(214151,0,"ff4226d376339d9365e724bcb1c8d241798a8e18bead51766cf77d7a41f06bc8")
+addappid(648840)
