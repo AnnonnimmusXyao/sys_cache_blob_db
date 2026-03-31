@@ -1,0 +1,4 @@
+--game: The Depths of Tolagal
+
+addappid(340600)
+addappid(340602,0,"cd462a66c7686bb623d6529fcd5c542e59da1eeaeaa81d6095e534f25f6a0093")
