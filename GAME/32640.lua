@@ -1,0 +1,4 @@
+--game: Delta Force Land Warrior
+
+addappid(32640)
+addappid(32641,0,"16dd5186b5162d1898032670fa83929bcf6bfef8672ddbe2caad7699291b7609")
