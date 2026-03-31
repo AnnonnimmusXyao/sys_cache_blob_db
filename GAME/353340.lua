@@ -1,0 +1,4 @@
+--game: Dungeon Highway
+
+addappid(353340)
+addappid(353342,0,"29125004bfd85721d0c761f1bd57c851bb53931dcbdb99e26986b508cfe5e527")
