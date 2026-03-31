@@ -1,0 +1,8 @@
+--game: Murder Miners
+
+addappid(229002)
+addappid(229012)
+addappid(274900)
+addappid(274901,0,"47c8c5de20728ea128cdeab1aa121023dff106b685758b185e46fcd7d1c269c3")
+addappid(274902,0,"031f83c3b63fdf937359c01d7f30c0aec97943e5582138cde41b688f4c423a07")
+addappid(1021280)
