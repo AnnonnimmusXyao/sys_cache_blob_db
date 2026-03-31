@@ -1,0 +1,7 @@
+--game: Sonic & All-Stars Racing Transformed Collection
+
+addappid(212480)
+addappid(212481,0,"b8ac8993c7efb0a17d52f8b140c8d7be8d0332c6ec92c026c7d43ac5319fd071")
+addappid(229660)
+addappid(264600)
+addappid(271030)
