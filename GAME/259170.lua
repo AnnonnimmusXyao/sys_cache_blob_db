@@ -1,0 +1,5 @@
+--game: Alone in the Dark (2008)
+
+addappid(228981)
+addappid(259170)
+addappid(259171,0,"36a625c3c671f93e981314833d0250232a6ff453cd9f7f626e94425c2f7f731a")
