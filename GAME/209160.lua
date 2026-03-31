@@ -1,0 +1,15 @@
+--game: Call of Duty®: Ghosts
+
+addappid(209160)
+addappid(209161,0,"6c5f97d6127289ac53c5c62d467652ef5ac48c597a8cdc0eccb13c2e0fc61520")
+addappid(209162)
+addappid(209163,0,"add37e1da3d2ec3cbab0a8976f8bc8bf6ee91f7f3f80e33f2855434803b7dc3d")
+addappid(209172)
+addappid(209173)
+addappid(209174)
+addappid(209175)
+addappid(209176)
+addappid(209177)
+addappid(209178)
+addappid(209179)
+addappid(229002)
