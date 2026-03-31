@@ -1,0 +1,4 @@
+--game: You Are Not The Hero
+
+addappid(268970)
+addappid(268971,0,"c7cf6d4be3192f39534c8b5e1f966e9a2b2bc19c2bf6522b19b9d6b13fc1444f")
