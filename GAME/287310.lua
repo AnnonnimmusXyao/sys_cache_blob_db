@@ -1,0 +1,4 @@
+--game: Re-Volt
+
+addappid(287310)
+addappid(287311,0,"982ed8d8dc570751124b3255d525f6a5fdc0a17df46013e6ec2c9a860ca23c83")
