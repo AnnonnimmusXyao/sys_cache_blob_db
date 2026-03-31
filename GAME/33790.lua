@@ -1,0 +1,5 @@
+--game: Elizabeth Find M.D. - Diagnosis Mystery - Season 2
+
+addappid(33790)
+addappid(33791,0,"1d30aee50a86d64a468c1aaf92fd47c25c47a8145874a91b59046ed7a170fb71")
+addappid(33792,0,"2383ed148cdbc024aa424f7d76a3da8d6ddcb72f3937e7d8382bfb0865630e6f")
