@@ -1,0 +1,4 @@
+--game: StuntMANIA Reloaded
+
+addappid(324750)
+addappid(324753,0,"5993fc4e34e79eca42bc4f57e223d2adee4a747636f9fdc9996e04adc4cd3c54")
