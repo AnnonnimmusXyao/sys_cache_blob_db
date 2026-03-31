@@ -1,0 +1,4 @@
+--game: Booster Trooper
+
+addappid(27920)
+addappid(27921,0,"6adaac978f87b820e749fa9c14cf9df794fac83b20d22c08eae220369a8f0d7e")
