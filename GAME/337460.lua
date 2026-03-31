@@ -1,0 +1,4 @@
+--game: 18 Wheels of Steel: Pedal to the Metal
+
+addappid(337460)
+addappid(337461,0,"e29279f25befc273f19b56b83ede249d22523085b80682e0bbe2c903b760ff2d")
