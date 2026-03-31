@@ -1,0 +1,4 @@
+--game: Secret Files: Tunguska
+
+addappid(40330)
+addappid(40331,0,"e1da41cd4c864b9fc18e4273ea56dbcc3bd67eff2a6602e536a0a22f23d86c4c")
