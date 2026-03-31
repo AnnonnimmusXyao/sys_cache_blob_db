@@ -1,0 +1,6 @@
+--game: Oozi: Earth Adventure
+
+addappid(229003)
+addappid(229012)
+addappid(257990)
+addappid(257991,0,"7581c644bd586d567763015a393d12573a6c6f9b8626534db229b318e1551532")
