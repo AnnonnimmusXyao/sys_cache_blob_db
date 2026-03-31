@@ -1,0 +1,4 @@
+--game: The Treasures of Montezuma 4
+
+addappid(301150)
+addappid(301155,0,"831731c9cc1bf608dc5d5a0f56b41a9c532dd5075c5d0274553cf38a348294a0")
