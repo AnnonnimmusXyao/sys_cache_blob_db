@@ -1,0 +1,4 @@
+--game: Luxor 2
+
+addappid(15920)
+addappid(15921,0,"3b41dcbdf03250d47fcfcbc74c0ca97eb243545ed11900c258d1199a66fa15ae")
