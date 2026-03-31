@@ -1,0 +1,6 @@
+--game: Shiny The Firefly
+
+addappid(228983)
+addappid(229030)
+addappid(277510)
+addappid(277511,0,"569af198e2d9f0b170b52e598e3283481cfe2545d89f0b3f7e5c77a7b9318eee")
