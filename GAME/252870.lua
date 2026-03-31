@@ -1,0 +1,7 @@
+--game: PULSAR: Lost Colony
+
+addappid(228985)
+addappid(229001)
+addappid(229003)
+addappid(252870)
+addappid(252871,0,"6c05ecaa0bbb97919e27b86f0207cd578f42f66a6f47f97008f8829ac35fac3a")
