@@ -1,0 +1,5 @@
+--game: Faerie Solitaire
+
+addappid(38600)
+addappid(38601,0,"f107203e6b238b8e24ac407e0e6ee40525c92996387a500ba0e2351ebbcabb0d")
+addappid(38602,0,"5912011febd37fbe11661b99f89be17dcfd62f0b434c4724d39c6facf1536acb")
