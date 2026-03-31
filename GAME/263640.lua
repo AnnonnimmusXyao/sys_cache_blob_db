@@ -1,0 +1,4 @@
+--game: CDF Ghostship
+
+addappid(263640)
+addappid(263641,0,"c7eb2c8f02c94457b357043cce816b83a185c9f105058a03ef06099cc9649eb7")
