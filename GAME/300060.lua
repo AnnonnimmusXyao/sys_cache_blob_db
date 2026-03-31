@@ -1,0 +1,4 @@
+--game: ADR1FT
+
+addappid(300060)
+addappid(300061,0,"2b7297b6586e386f958ffdd7ee684f2db9d88aa9ecec0eefb31a9e24797f6c5a")
