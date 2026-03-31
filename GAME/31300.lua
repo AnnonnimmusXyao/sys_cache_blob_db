@@ -1,0 +1,4 @@
+--game: Tunnel Rats
+
+addappid(31300)
+addappid(31301,0,"8306f2e231651a8ce4e24986fd0c3e188162a2c3a87a4f979db4f9779364ed4f")
