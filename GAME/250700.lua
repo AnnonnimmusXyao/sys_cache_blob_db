@@ -1,0 +1,5 @@
+--game: Super Time Force Ultra
+
+addappid(228983)
+addappid(250700)
+addappid(250701,0,"8846b1cf8f4b40f8d38498d503fcd18574c7a503204fab7a9cc37375835d73d1")
