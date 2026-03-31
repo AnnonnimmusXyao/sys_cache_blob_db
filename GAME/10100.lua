@@ -1,0 +1,4 @@
+--game: King's Quest™ Collection
+
+addappid(10100)
+addappid(10101,0,"6804888f6ea7098fb51684c47f64044f4f6d1ec0ad5ccf6b505d2814fe4ccc8d")
