@@ -1,0 +1,4 @@
+--game: A.N.N.E
+
+addappid(262370)
+addappid(262378,0,"46082ac700a0dde4d9c9625ec2b67b07800441f75802fd1ac9793e56cea66256")
