@@ -1,0 +1,4 @@
+--game: Monsters and Monocles
+
+addappid(328510)
+addappid(328512,0,"fbd32d8c4d35cafceabdba191e8cbec79cbf5209e471ac780b95b43111fb1589")
