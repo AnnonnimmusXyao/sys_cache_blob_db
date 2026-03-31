@@ -1,0 +1,6 @@
+--game: Revenge of the Titans
+
+addappid(93200)
+addappid(93201,0,"2ad455cea96bccf4d4451a44f31b89b1aa4e7d4fdfa9ed72c80df07993e6eed7")
+addappid(93206,0,"69f023102cb201cb119035085d406045677abdf8e900eb4b6c0bfa72c4f24ddc")
+addappid(93207,0,"2dcf21f2fd45cc07e127058f10de7a1ea8d33fc5622a1016d84b7ee00692689d")
