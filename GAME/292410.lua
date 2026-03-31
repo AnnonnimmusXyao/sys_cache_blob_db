@@ -1,0 +1,4 @@
+--game: Street Racing Syndicate
+
+addappid(292410)
+addappid(292411,0,"dd106d1f3407ca9e6dd548f69854edbe2bcc7228af0f78c1f1d94181be97abd7")
