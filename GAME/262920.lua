@@ -1,0 +1,5 @@
+--game: Super Chain Crusher Horizon
+
+addappid(229012)
+addappid(262920)
+addappid(262921,0,"6eb97584feca89694da72255dd8553d330ef583cbf37cd02bc269db4f5405a28")
