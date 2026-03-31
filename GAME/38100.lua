@@ -1,0 +1,4 @@
+--game: Build-A-Lot 3: Passport to Europe
+
+addappid(38100)
+addappid(38101,0,"3f59d57a298ec72a307ac62060060b0f8a0b5cc11e267b5adb7e25aa3900050b")
