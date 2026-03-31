@@ -1,0 +1,4 @@
+--game: The Void
+
+addappid(37000)
+addappid(37001,0,"691bcc7193861c1de081576f23a9f976d7f6c939d1d8c3cdb8bba43c7094263c")
