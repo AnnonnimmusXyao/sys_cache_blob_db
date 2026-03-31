@@ -1,0 +1,4 @@
+--game: Cossacks: European Wars
+
+addappid(4880)
+addappid(4881,0,"1425f9dfca066c5112ce9c9c5efca74e3478fd1a07a89dab79ea08078fbfe26b")
