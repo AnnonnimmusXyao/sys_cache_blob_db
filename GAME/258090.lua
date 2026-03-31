@@ -1,0 +1,4 @@
+--game: 99 Spirits
+
+addappid(258090)
+addappid(258091,0,"8c74ceb4ecb9140f2584dd07cb72fb7565b165a849afa56e7b84153151cda4a7")
