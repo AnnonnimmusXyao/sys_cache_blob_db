@@ -1,0 +1,4 @@
+--game: It's A Wipe!
+
+addappid(330620)
+addappid(330622,0,"2a969e3c79afbf91cce421e7659cc283bcec6aa7760bd147cfae78d565f4f2d1")
