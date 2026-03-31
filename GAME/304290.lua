@@ -1,0 +1,6 @@
+--game: Heroes Rise: The Hero Project
+
+addappid(304290)
+addappid(304291,0,"644ce5bd0527774c22d21838b74c47fb45fa1162dfee1bcfd07e76af4867b977")
+addappid(304300)
+addappid(304301)
