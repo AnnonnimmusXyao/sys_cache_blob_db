@@ -1,0 +1,10 @@
+--game: Vanguard Princess
+
+addappid(262150)
+addappid(228983)
+addappid(228987)
+addappid(262151,0,"7a454b7b385bc4b06cb2049a8e56b2e9d7d2a7c406df4dc18d05d14a5caae69b")
+addappid(281050,0,"aac34dcddfeaa3f1e8bab243237360c20cc01870df546964171ea70acbaa1aa0")
+addappid(406440,0,"de820f29b6d39db3bcf4d3ddce211129da1f61c191dbf305cbeda023cfc54481")
+addappid(262152,0,"afdb2c091dcaef609a01d2d991a225c20d7d781ad9f2f11f6ceaa165f2483780")
+addappid(262153,0,"9ed5f3c330dcb9e25de130cc9addb479d40a29c7de8c833afb402437a8cf598c")
