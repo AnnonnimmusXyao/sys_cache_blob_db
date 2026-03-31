@@ -1,0 +1,4 @@
+--game: Foreign Legion: Buckets of Blood
+
+addappid(36000)
+addappid(36001,0,"50264e286516583278dd031d1fe7a51d58d96c85238d83e8ba28fda9d159f1b4")
