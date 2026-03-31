@@ -1,0 +1,5 @@
+--game: Lugaru HD
+
+addappid(25010)
+addappid(229020)
+addappid(25011,0,"7d38fc1e616565f2b9491d8dd9fc2c9e240004f052eab55d402f94a13cdfc4a2")
