@@ -1,0 +1,4 @@
+--game: Terraformer Expedition to Mars
+
+addappid(298220)
+addappid(298221,0,"0828be09cb0f54a5ee29d4393f66ea43248e49965a9893b6057a7a8eefdb38f7")
