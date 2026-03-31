@@ -1,0 +1,5 @@
+--game: LocoCycle
+
+addappid(224040)
+addappid(224045,0,"54229c0c4e299deea7560660da92630ba1cd73c662e403283975cec5a420de54")
+addappid(228983)
