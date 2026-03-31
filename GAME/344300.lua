@@ -1,0 +1,4 @@
+--game: Heckabomb
+
+addappid(344300)
+addappid(344301,0,"a86c0bca54d9dc2c1bc5069c1002599c7ccf1e5a50a0cbad7fc56a21c85ff6f0")
