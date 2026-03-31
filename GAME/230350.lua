@@ -1,0 +1,6 @@
+--game: FINAL FANTASY®  XI: Ultimate Collection Seekers Edition
+
+addappid(230350)
+addappid(230351,0,"26a8cd8cdf13f8476ce6a1b50132b3322eb1d191662678e53de548ca28e4a526")
+addappid(237250)
+addappid(237270)
