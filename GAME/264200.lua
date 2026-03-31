@@ -1,0 +1,7 @@
+--game: One Finger Death Punch
+
+addappid(228983)
+addappid(229003)
+addappid(229012)
+addappid(264200)
+addappid(264201,0,"bbe95959e387f13bcbd0ee425ca2648f06dfcae360db177cf908bd52b131606c")
