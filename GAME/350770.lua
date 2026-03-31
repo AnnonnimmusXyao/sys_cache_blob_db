@@ -1,0 +1,4 @@
+--game: Giana Sisters 2D
+
+addappid(350770)
+addappid(350771,0,"0526e4d0783432a908066d057b98cb0ef7a4dc98429b6ae5e969fea399456097")
