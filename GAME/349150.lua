@@ -1,0 +1,4 @@
+--game: Dead TrailZ
+
+addappid(349150)
+addappid(349152,0,"74fce5b2c5f6ee688343380fd95e51422f004a61dc215c49ef6d9eb1fcee8f43")
