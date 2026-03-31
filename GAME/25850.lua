@@ -1,0 +1,8 @@
+--game: Elven Legacy
+
+addappid(25850)
+addappid(228981)
+addappid(25851,0,"59c6c23bcc9e3403f4192456ec0408beeab1fd3ebc19745a079873aba44338df")
+addappid(42951)
+addappid(42941)
+addappid(42931)
