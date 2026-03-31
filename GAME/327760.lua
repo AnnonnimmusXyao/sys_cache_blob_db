@@ -1,0 +1,4 @@
+--game: Bacon Man: An Adventure
+
+addappid(327760)
+addappid(327763,0,"e5027d21f529fed21e11b69c48bb774327c65926dbf61ef8b6995455a663cfdb")
