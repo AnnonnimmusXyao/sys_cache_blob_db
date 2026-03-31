@@ -1,0 +1,5 @@
+--game: Ittle Dew
+
+addappid(228983)
+addappid(241320)
+addappid(241321,0,"da642b6d5dfd89e55f668a09298f3cd8a6cc987dd083390a0a1a26fd0f95e664")
