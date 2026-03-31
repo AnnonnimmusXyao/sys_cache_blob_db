@@ -1,0 +1,4 @@
+--game: Civil War II
+
+addappid(306630)
+addappid(306631,0,"bc4d0ad34a8c65d63fa102efbc0b114717cbd46fa52ff49453a3061bc2d72aa6")
