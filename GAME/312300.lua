@@ -1,0 +1,7 @@
+--game: Heroes Rise: HeroFall
+
+addappid(312300)
+addappid(312301,0,"32b9000967a27994153b6ac9b7ba29bcd04b9c861601c10e53720aa59d680e82")
+addappid(313930)
+addappid(313931)
+addappid(313932)
