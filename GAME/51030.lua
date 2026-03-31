@@ -1,0 +1,4 @@
+--game: Atlantis Sky Patrol
+
+addappid(51030)
+addappid(51031,0,"6801080e42e25f7c2e14988396460086961df0978b5ebcc97523f327fc2862b3")
