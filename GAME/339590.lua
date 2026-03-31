@@ -1,0 +1,5 @@
+--game: Crowman & Wolfboy
+
+addappid(339590)
+addappid(339592,0,"d4f31e216b42e91a8fb834801d14e1cb3379693aa286760a65f978d1a3365db1")
+addappid(339593,0,"8b7ea43ee419b71c71c02ff5b682aba22bdb6f6a928f3d697b959d5c8d907c06")
