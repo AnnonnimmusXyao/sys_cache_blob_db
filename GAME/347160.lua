@@ -1,0 +1,5 @@
+--game: Steredenn: Binary Stars
+
+addappid(347160)
+addappid(835730,0,"279949f4fe4206e13cfff20ddd5a5f14dd2651782d5c739794b42ebaa571bd6a")
+addappid(835731,0,"65a0992e5e1f74b95e32cd992d8316a9a6a3d6f67c4fb9bbc59acecb84d3cfd3")
