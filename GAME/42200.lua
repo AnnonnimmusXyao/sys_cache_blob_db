@@ -1,0 +1,4 @@
+--game: Nancy Drew® Dossier: Resorting to Danger!
+
+addappid(42200)
+addappid(42201,0,"4efcb3848c314c77249813b10816f41c88416cc1588c63acd2bfba3eccf38334")
