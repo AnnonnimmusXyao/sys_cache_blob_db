@@ -1,0 +1,9 @@
+--game: Dungeonmans
+
+addappid(229003)
+addappid(229004)
+addappid(229012)
+addappid(288120)
+addappid(288121,0,"005167c8351e3f0fd276ff01b7e1402a674fd031152a911b75ea8a2123d2fd4b")
+addappid(306280,0,"92b508561cd6c0130758b38b4b6a627c4bff2f63b65b716f258c6f37202b4b74")
+addappid(636410)
