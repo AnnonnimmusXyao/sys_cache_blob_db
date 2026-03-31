@@ -1,0 +1,4 @@
+--game: Little Cells
+
+addappid(352210)
+addappid(352211,0,"ff431e0cdc096ddeb2a94a9fcc9d4aa1b0c0860b9684b03018fca286283c7a26")
