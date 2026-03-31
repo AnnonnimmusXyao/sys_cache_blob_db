@@ -1,0 +1,8 @@
+--game: Broken Sword 2 - the Smoking Mirror: Remastered (2010)
+
+addappid(33600)
+addappid(229020)
+addappid(565773,0,"2536a543f5a91b202bc8a4d1e292ca16c201b0fb451e2bc1de787e4a74fa464b")
+addappid(565774,0,"59b14f371c7d8dece9e9ce32e9f037c837071e8dbc8f598f3d7de6a7bcbbc1fb")
+addappid(580440,0,"a3b8c1f836609f4830ae3972387029e5d354cf5711a95fd99f72a897d7a980f9")
+addappid(33604,0,"9e83a249328c1056875ce5e01ee7a5ffa79adbb746ee22bb04739ba99687bf38")
