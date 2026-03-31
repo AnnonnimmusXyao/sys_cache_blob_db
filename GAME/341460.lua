@@ -1,0 +1,4 @@
+--game: Fallen Temple
+
+addappid(341460)
+addappid(341461,0,"496b7b337a181442173753d345a730ef55ddd87ed0642e9b91f7066ccfe57605")
