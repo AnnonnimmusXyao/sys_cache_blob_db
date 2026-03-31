@@ -1,0 +1,5 @@
+--game: Double Dragon Trilogy
+
+addappid(228983)
+addappid(314150)
+addappid(314151,0,"01c8ad14db6e536061047eaf3d17cb5750118f2260d340b82f80cb7867a3dbf3")
