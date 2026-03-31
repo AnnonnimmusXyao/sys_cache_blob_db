@@ -1,0 +1,6 @@
+--game: Alien Hallway
+
+addappid(98900)
+addappid(98902,0,"b8c33c1851f632c133793b6fc93d5912afcc2c3f94eda3550db412fb467414b7")
+addappid(229000)
+addappid(229011)
