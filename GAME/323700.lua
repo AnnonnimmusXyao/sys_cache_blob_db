@@ -1,0 +1,4 @@
+--game: Poltergeist: A Pixelated Horror
+
+addappid(323700)
+addappid(323701,0,"afabaca2da045110fe36bd867e3f97bc42043a692f15fcdc32e84169de3ffd5c")
