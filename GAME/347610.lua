@@ -1,0 +1,4 @@
+--game: Hidden Object Bundle 4 in 1
+
+addappid(347610)
+addappid(347616,0,"40bde031952585c0a7c248003be4beab62a8d3435262f870f6b611a0e50ae9b5")
