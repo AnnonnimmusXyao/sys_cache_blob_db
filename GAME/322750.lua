@@ -1,0 +1,4 @@
+--game: Drifting Lands
+
+addappid(322750)
+addappid(322751,0,"09574433a13c065021ee8152c758ec252b1002f6e39c498d36da14c83ea856e7")
