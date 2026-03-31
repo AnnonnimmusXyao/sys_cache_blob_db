@@ -1,0 +1,4 @@
+--game: StarCrawlers
+
+addappid(318970)
+addappid(318971,0,"7af69452245f97f35b286e9a5adaf2d044dfa0f1ccddcf620d5b8aa74f0b1f3b")
