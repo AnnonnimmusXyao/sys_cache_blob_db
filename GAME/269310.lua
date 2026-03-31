@@ -1,0 +1,5 @@
+--game: Infectonator: Survivors
+
+addappid(269310)
+addappid(269311,0,"2ef32e57ecadeedeb0ae789828c2718f0701cc30216b901a5b3245a60a246aa7")
+addappid(269312,0,"10d2cdd03061aa3eac3a2700aa7bd58155c67c7c5dabe7c7f701d87766607941")
