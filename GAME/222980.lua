@@ -1,0 +1,5 @@
+--game: Dead Pixels
+
+addappid(222980)
+addappid(222981,0,"172fb67b1048bcba6ea4c5ebeed5b3e5f0e0c5ebd5f25dd2fc05ff7d7ca31eff")
+addappid(222982,0,"bc4603849a1c849591781dfbc2cf1a29ad66c4999396296796431732c5c37df7")
