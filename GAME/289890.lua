@@ -1,0 +1,5 @@
+--game: 7,62 High Calibre
+
+addappid(289890)
+addappid(289891,0,"e4318b2557161dc0059c4c9349401a80a7b1b70e4627d1ef1c985aa0a80efdb9")
+addappid(289892,0,"6cbb58b79408d350ccd64e9ff27c5749fc6fc73e05a5670da81b0f61aa0fe7ef")
