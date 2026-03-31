@@ -1,0 +1,6 @@
+--game: NS2: Combat
+
+addappid(310110)
+addappid(228981)
+addappid(229032)
+addappid(313902,0,"e15c527b97933a7c4322af1765e1ab3820d4309fdf942cc57f8b52ce8e64eb20")
