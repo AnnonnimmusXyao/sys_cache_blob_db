@@ -1,0 +1,4 @@
+--game: Guns n Zombies
+
+addappid(264300)
+addappid(264301,0,"64fc486e3c325b27114b2a9579477c0004f255687dc9bbb2bc1d8e81381465b4")
