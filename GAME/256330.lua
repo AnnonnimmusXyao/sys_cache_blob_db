@@ -1,0 +1,4 @@
+--game: WRC 4 FIA World Rally Championship
+
+addappid(256330)
+addappid(256331,0,"316a6b1f639d6397f5f1a93e287d0a73d360ad1a793ac1dbc7d5135e0f4387c9")
