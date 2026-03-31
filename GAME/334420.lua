@@ -1,0 +1,4 @@
+--game: Out There: Ω Edition
+
+addappid(334420)
+addappid(334421,0,"05c72bbf1b9b9704120aed3fb0e46b9f1714b9c6acde11b33ca9254d0df59693")
