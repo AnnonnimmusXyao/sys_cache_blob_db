@@ -1,0 +1,4 @@
+--game: Ancient Planet Tower Defense
+
+addappid(345090)
+addappid(345091,0,"438c6c6b137cd525118cb067e2d4150790bd2917b14c0aac7df3a892632fe16c")
