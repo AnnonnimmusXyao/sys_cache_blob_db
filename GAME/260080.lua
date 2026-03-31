@@ -1,0 +1,4 @@
+--game: YOU DON'T KNOW JACK Vol. 6 The Lost Gold
+
+addappid(260080)
+addappid(260081,0,"eb5ddcb473aa91b5bc352afaedba9cfa553006be1145ee9988abb731e6887668")
