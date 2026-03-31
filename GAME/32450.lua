@@ -1,0 +1,4 @@
+--game: LEGO® Indiana Jones™ 2: The Adventure Continues
+
+addappid(32450)
+addappid(32451,0,"7667a7f344fae16bd27047db8178e686f87e4a6250e76148c69b56b417e8eca6")
