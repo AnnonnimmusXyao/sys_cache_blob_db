@@ -1,0 +1,9 @@
+--game: KAMUI
+
+addappid(283820)
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229000)
+addappid(283821,0,"2877ca34af758d05144114e1bbfe562f6f0eb11db777c4dbc0f5473990934a9f")
