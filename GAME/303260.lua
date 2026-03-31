@@ -1,0 +1,4 @@
+--game: TRISTOY
+
+addappid(303260)
+addappid(303261,0,"6c269a99385766d1b1394e7351836424d99c0ef954d0e023c5bc12a7d00f314b")
