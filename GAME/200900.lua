@@ -1,0 +1,7 @@
+--game: Cave Story+
+
+addappid(200900)
+addappid(200903,0,"4f3a77562ad23e2f1efec7609a14cea6aa8ca699b1c23b29b4e68baf6ff2998c")
+addappid(200905,0,"55328048c4a994b1db1536e0c976348548ece46b93948cc97685f5ffcd3d5207")
+addappid(228983)
+addappid(229020)
