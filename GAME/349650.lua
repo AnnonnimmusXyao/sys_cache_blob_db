@@ -1,0 +1,4 @@
+--game: Tokyo Hosto
+
+addappid(349650)
+addappid(349651,0,"8a7512db56ec9065484d398776e7dcb9b9335dbda4277b534cb2e5b4dacab58a")
