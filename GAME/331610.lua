@@ -1,0 +1,4 @@
+--game: Movie Studio Boss: The Sequel
+
+addappid(331610)
+addappid(331611,0,"4d761dbd2b076987a102240dbe0ceb8ad0a42dc4b1c3568326bca4f16cce8d2c")
