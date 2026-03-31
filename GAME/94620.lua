@@ -1,0 +1,5 @@
+--game: Hector: Badge of Carnage - Full Series
+
+addappid(94620)
+addappid(94621,0,"06a792b13cac40de76c5b422533668f517da8db68a847fbe92f3d588f212d841")
+addappid(94622,0,"76720fc14c358e75aa719321ddcf216e7452c181f2a1bb434386a8f770bbc4d2")
