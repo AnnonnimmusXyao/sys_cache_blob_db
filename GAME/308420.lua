@@ -1,0 +1,6 @@
+--game: Ziggurat
+
+addappid(228983)
+addappid(308420)
+addappid(308421,0,"e85401770b2ddd2331f6693d6bd64de5c4b1b9e2c3a935b3b1a2066b1d81ed9c")
+addappid(308424,0,"38336dd289b4f933f01cefbaf145032bbe17bb3f0430c976fc525addfacc199d")
