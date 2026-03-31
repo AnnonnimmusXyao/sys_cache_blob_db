@@ -1,0 +1,5 @@
+--game: Deadstone
+
+addappid(327150)
+addappid(327151,0,"0f5ea62cea3611806cab7975992756a6b83597c2b7c76595f122436b732086be")
+addappid(327153,0,"e14bfd8e1ac62ebfadda1ae357e0e6b147e73ba169f30769f8752facc1fd1ee9")
