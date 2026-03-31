@@ -1,0 +1,5 @@
+--game: Bejeweled 2 Deluxe
+
+addappid(3300)
+addappid(3301,0,"841f974a9a1b0bc51e4a3c33929940088fd06ab659489a4501f63bb320edb442")
+addappid(3306,0,"47fbfc6677bdd900c422eaf127adb93a39ca504878b8b311466afb1edeb32594")
