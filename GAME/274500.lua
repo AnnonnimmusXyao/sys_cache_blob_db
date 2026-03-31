@@ -1,0 +1,6 @@
+--game: Brigador: Up-Armored Edition
+
+addappid(229012)
+addappid(274500)
+addappid(274501,0,"7b83c828626c56eae0a221af5776403e1aaf430d813950d2f79113aef56e870a")
+addappid(468270,0,"d9e24f9713c4ba9798345c93da5be416116037bc99dedf4c20135f8d2d11d862")
