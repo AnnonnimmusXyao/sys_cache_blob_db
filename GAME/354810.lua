@@ -1,0 +1,4 @@
+--game: Coated
+
+addappid(354810)
+addappid(354812,0,"122624c4c0df3143a5fbc3ff824accd82a6ab1a9d89d907381e1fe572b2c0c02")
