@@ -1,0 +1,4 @@
+--game: Disney's Chicken Little
+
+addappid(339040)
+addappid(339041,0,"fcd8dab8b2207a9489192b734129ad13d19d8b4ef227a8cf635db37c60f83e44")
