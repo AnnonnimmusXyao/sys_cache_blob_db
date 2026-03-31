@@ -1,0 +1,4 @@
+--game: Beware Planet Earth
+
+addappid(267340)
+addappid(267341,0,"80d150616e12f8c204a12c74c55438e91175f5e0362e73e5d0888dd3129696fc")
