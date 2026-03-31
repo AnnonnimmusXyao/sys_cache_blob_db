@@ -1,0 +1,5 @@
+--game: Knightmare Tower
+
+addappid(228983)
+addappid(298400)
+addappid(298401,0,"2c5c7c5aa419c8ef51d3c12230455e7671b760086fb6ea0545961cd2bab8117c")
