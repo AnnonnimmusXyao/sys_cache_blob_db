@@ -1,0 +1,4 @@
+--game: TriJinx: A Kristine Kross Mystery™
+
+addappid(37370)
+addappid(37371,0,"07c9f9d110542aeef50279217d73dfdc50cc5441ff634842929c2f5b0df0188f")
