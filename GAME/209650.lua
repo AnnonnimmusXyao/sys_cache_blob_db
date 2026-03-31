@@ -1,0 +1,18 @@
+--game: Call of Duty®: Advanced Warfare - Gold Edition
+
+addappid(209650)
+addappid(209651,0,"1974a4c906a27ea60e31e58deb7474467f4b6ceedf60dec9392268ab0c1845c8")
+addappid(209652,0,"6f172622e76186c1825c0da85cab2db4cc11df9d133c256499273b39d656499d")
+addappid(228983)
+addappid(310342)
+addappid(310343)
+addappid(310344)
+addappid(310345)
+addappid(310346)
+addappid(310347)
+addappid(310348)
+addappid(310349)
+addappid(310351)
+addappid(310352)
+addappid(310353)
+addappid(318810)
