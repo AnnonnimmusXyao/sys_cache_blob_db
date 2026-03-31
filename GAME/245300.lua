@@ -1,0 +1,9 @@
+--game: Disney Epic Mickey 2:  The Power of Two
+
+addappid(245300)
+addappid(228982)
+addappid(229000)
+addappid(245301,0,"87ea80e4349933db5545ae53cd3e8b10f652f69adbc7c5d60b225d4e367b8ef5")
+addappid(245302,0,"9bd33d7aea605ce3a71620d46bfc427d760a23fee3457858c6f1a6ee22f982cb")
+addappid(245306,0,"e00c50485ca0b3c29b7225684902ba69aee5c27a24a00f59d1f59ad01a9a0419")
+addappid(245308,0,"e2b5fb0e6503435107c2d00fdec6a4eff2210be3e7d9c2a75a01ac16b319dc17")
