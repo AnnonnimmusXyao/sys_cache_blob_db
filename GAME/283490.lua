@@ -1,0 +1,4 @@
+--game: IHF Handball Challenge 12
+
+addappid(283490)
+addappid(283491,0,"54f276ceb8090988e796c419073e79297014afc937dd06cfdee4d8dfc290b1dd")
