@@ -1,0 +1,4 @@
+--game: The Blackwell Legacy
+
+addappid(80330)
+addappid(80331,0,"4d82aad9752fad23ee91d06374c23e26f12cd1c46c0a3cc5276b6660e315ac48")
