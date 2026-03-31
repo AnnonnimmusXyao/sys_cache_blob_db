@@ -1,0 +1,8 @@
+--game: Assassin’s Creed® Chronicles: China
+
+addappid(228983)
+addappid(229002)
+addappid(354380)
+addappid(354381,0,"9a2ae13d088e814a231658502dae71461411224685169af364e7c2cd9c816d3b")
+addappid(362690)
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
