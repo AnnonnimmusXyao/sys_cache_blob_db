@@ -1,0 +1,4 @@
+--game: Ride! Carnival Tycoon
+
+addappid(12560)
+addappid(12561,0,"7b3393d96aaaa77c67e9fdddd232cfdba71ff86b53188404c13cda21e5b1a7aa")
