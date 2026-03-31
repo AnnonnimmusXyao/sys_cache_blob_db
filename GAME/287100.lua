@@ -1,0 +1,5 @@
+--game: Chaos Domain
+
+addappid(287100)
+addappid(228983)
+addappid(287101,0,"7225559f382dbb35d8fbc5c09f1ed43464814b8f94b37a0094c84fafcfcd8153")
