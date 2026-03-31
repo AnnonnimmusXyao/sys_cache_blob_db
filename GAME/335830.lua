@@ -1,0 +1,4 @@
+--game: Distant Star: Revenant Fleet
+
+addappid(335830)
+addappid(335831,0,"b2c7f53616a62c49cc70a72bcce05a693ab7c4344462162c819e41fc4b8db3ca")
