@@ -1,0 +1,6 @@
+--game: Take On Mars
+
+addappid(244030)
+addappid(228985)
+addappid(244031,0,"74ffea748254b02c4d1769e29f57e05c590edbea1430b2d69ba07230ef326893")
+addappid(244032,0,"a084fe4f40e22aabade51336e4aaef889d52b4021d3441768f70680a4c7ae30f")
