@@ -1,0 +1,5 @@
+--game: Gyromancer
+
+addappid(23380)
+addappid(23381,0,"b665e02dfeaf968445215f9519c6144457077dc4f06b14b45e3dac024e9444ef")
+addappid(23382,0,"52d114fa07efbeed92677d9d9cefc82b8c255ee0a6a65cff7b3a586d0eb1d09b")
