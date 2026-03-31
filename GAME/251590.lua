@@ -1,0 +1,4 @@
+--game: Soul Saga
+
+addappid(251590)
+addappid(251591,0,"0161edce4da0bf7da2f940de017b80c178298791a22c6e119e422b60ab16e0d1")
