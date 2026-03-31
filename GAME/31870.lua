@@ -1,0 +1,4 @@
+--game: Nancy Drew® Dossier: Lights, Camera, Curses!
+
+addappid(31870)
+addappid(31871,0,"d9709246e19e9dff67ab8283e03b184113ebe4b2bcb83efdc52958b26a1dd871")
