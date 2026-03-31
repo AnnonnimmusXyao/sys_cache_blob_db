@@ -1,0 +1,4 @@
+--game: The Promised Land
+
+addappid(296240)
+addappid(296241,0,"9816a4d10c895e9e5e6bdb814f4dc0fad9ae06a9beba065e4f43a832e8ba0c00")
