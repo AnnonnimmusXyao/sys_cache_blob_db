@@ -1,0 +1,6 @@
+--game: Disney•Pixar Brave: The Video Game
+
+addappid(228982)
+addappid(229000)
+addappid(301830)
+addappid(301831,0,"e1dc404204560ce7d60931e22b7845848726458b5f91888527e0afb01003256c")
