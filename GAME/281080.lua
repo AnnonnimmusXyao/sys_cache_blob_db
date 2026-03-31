@@ -1,0 +1,4 @@
+--game: Reversion - The Return (Last Chapter)
+
+addappid(281080)
+addappid(281082,0,"05c03175dff66cf2ae009591a636f5667a74641be7c4d766f425ecc429f47769")
