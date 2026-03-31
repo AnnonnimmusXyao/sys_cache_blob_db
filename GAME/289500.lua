@@ -1,0 +1,5 @@
+--game: UFO: Aftershock
+
+addappid(289500)
+addappid(229020)
+addappid(289501,0,"94a520b42f9942bf7c1cadaf573fb161c4ee1369f764842d8685c865185f4185")
