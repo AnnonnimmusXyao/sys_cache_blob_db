@@ -1,0 +1,6 @@
+--game: Serious Sam's Bogus Detour
+
+addappid(228985)
+addappid(272620)
+addappid(272621,0,"128097d333fd531cc87f31800933d9763aaa02ebf8ea510af00c4c02e8ee4f92")
+addappid(272622,0,"71419954920964d4482a28044e8f4000db2aba271b76d46c0b2ddd199971cdf3")
