@@ -1,0 +1,4 @@
+--game: Build-A-Lot 4: Power Source
+
+addappid(38110)
+addappid(38111,0,"7c236a6a8e0a31a6a2bbc5cf569c35af2755c00d8421d45acf4f89f4053dec37")
