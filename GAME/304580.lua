@@ -1,0 +1,8 @@
+--game: CITYCONOMY: Service for your City
+
+addappid(304580)
+addappid(228985)
+addappid(229000)
+addappid(304581,0,"77771fcf44eeb2832bac62b319d519eec940a71561d226a553ebecefe5102e6c")
+addappid(304582,0,"4bfccbcb81268600d159c1a4916bb7cab90b36780d141b6c3417f4f7aef35d71")
+addappid(304584,0,"c6ef88b5f6037948deec4c138bb54da673c977f5e81dd09a8b27d38d87953da8")
