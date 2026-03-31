@@ -1,0 +1,8 @@
+--game: The Last Tinker™: City of Colors
+
+addappid(260160)
+addappid(228983)
+addappid(260164,0,"474d9703b40e9382db8d33ab0bd3a21988eaf4bb126964de6fbe8c706fd5fb05")
+addappid(260161,0,"c8c866ba16ef8ed9ad9de8ee8ed1ff47a594e7e24a2e4fbe6316b73d9ccbdfcb")
+addappid(260162,0,"608bfa46bc82ac4ace52424fb599aff8c5d612b1d38e9d3023961b8646a3b26f")
+addappid(260163,0,"f7df27696a41e32ae734beb8620f2163acd95b7895a6dd3ac884e8bff761398d")
