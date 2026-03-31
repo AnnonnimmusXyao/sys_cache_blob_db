@@ -1,0 +1,7 @@
+--game: Rhythm Destruction
+
+addappid(301540)
+addappid(229000)
+addappid(229001)
+addappid(229011)
+addappid(301541,0,"42d5503ec520a2b23b5effba6cbfa05d51ed4a949f88eb548b346bea1f864f57")
