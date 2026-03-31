@@ -1,0 +1,4 @@
+--game: KAMI
+
+addappid(272040)
+addappid(272041,0,"029b941583dbf6ae6d37ca657216b42b5e1a8cec8b6952f9c2684706406e3582")
