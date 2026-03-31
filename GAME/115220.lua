@@ -1,0 +1,4 @@
+--game: American Conquest: Fight Back
+
+addappid(115220)
+addappid(115222,0,"5394ebe632522e1b910fde7330c9968127902f064cbcbcdcd14d0f4da9ad75ca")
