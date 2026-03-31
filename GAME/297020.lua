@@ -1,0 +1,4 @@
+--game: The Culling Of The Cows
+
+addappid(297020)
+addappid(297021,0,"7957393ed52b4e280679ae349ab2c1ab9eb02c6c9536cba4a92077ab5dbf0cf7")
