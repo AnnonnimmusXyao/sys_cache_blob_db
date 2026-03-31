@@ -1,0 +1,4 @@
+--game: Beijing 2008™ - The Official Video Game of the Olympic Games
+
+addappid(10520)
+addappid(10521,0,"d39c39febbdf90e42b7f739d01e526038418fb7ac6e2d3976d1ebaa7419761dc")
