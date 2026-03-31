@@ -1,0 +1,4 @@
+--game: DwarfCorp
+
+addappid(252390)
+addappid(252391,0,"673d932ff06240925f15b14ccbde927043f9986e4cef42c0e8fc352cf6de21ff")
