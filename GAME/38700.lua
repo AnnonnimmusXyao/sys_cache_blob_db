@@ -1,0 +1,5 @@
+--game: Toki Tori
+
+addappid(38700)
+addappid(228983)
+addappid(387001,0,"4a5feffeb22bc8e65f70982a12bae8b17528e7210922b87c300078fdcf474647")
