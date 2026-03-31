@@ -1,0 +1,7 @@
+--game: Mount Your Friends
+
+addappid(228983)
+addappid(229002)
+addappid(229012)
+addappid(296470)
+addappid(296471,0,"6560d7666496f67862d816e136897610d70392a917e73637b594a565a216e537")
