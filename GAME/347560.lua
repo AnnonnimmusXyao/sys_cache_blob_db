@@ -1,0 +1,5 @@
+--game: Terra Incognita Chapter One: The Descendant
+
+addappid(228982)
+addappid(347560)
+addappid(347561,0,"cec2163648e5764993cc34554281852029ae1ee835329c3d70d640ea410affcb")
