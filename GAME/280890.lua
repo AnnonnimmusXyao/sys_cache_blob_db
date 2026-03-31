@@ -1,0 +1,4 @@
+--game: Ghostship Aftermath
+
+addappid(280890)
+addappid(280891,0,"78a932ee0cbba925f352ad574c6416872fba918b089d17b87abc94a6f76f2842")
