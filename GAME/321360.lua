@@ -1,0 +1,15 @@
+--game: Primal Carnage: Extinction
+
+addappid(228983)
+addappid(228985)
+addappid(229004)
+addappid(229032)
+addappid(321360)
+addappid(321361,0,"44c9aa7a8860e89276b65426256e270756e1c1b62567ee7d97de2b41008300a1")
+addappid(2327500)
+addappid(2327501)
+addappid(2640830)
+addappid(2640840)
+addappid(2640850)
+addappid(2640860)
+addappid(2640870)
