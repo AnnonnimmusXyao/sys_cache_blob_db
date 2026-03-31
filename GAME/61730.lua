@@ -1,0 +1,4 @@
+--game: Critter Crunch
+
+addappid(61730)
+addappid(61731,0,"9cb14a45119246bf5f7177fa0772ce2ea078927c80948e51709efb27a9dcac57")
