@@ -1,0 +1,6 @@
+--game: Freddi Fish 3: The Case of the Stolen Conch Shell
+
+addappid(294540)
+addappid(294541,0,"463eb98123bf336516a90febe447ec0466ddf1773e7edea47810c08e36630fa6")
+addappid(294544,0,"61eae730be928546c610de8b77cd6a6338018e4f4d9e7bda7b32107db69ad2aa")
+addappid(294545,0,"b1e8694b1ccdc621d4c8635b0fd480a3e30bd26827ba0755766e873f6042891a")
