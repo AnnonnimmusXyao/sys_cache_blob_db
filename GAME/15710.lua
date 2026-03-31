@@ -1,0 +1,6 @@
+--game: Oddworld: Abe's Exoddus®
+
+addappid(15710)
+addappid(15711,0,"ae3eb46bc7defb1a242abd9f29df257c09c77698aa0f570d665093b3b0a9bb53")
+addappid(15712,0,"174dfad45e5654f9eaae4cc4051f4711c08e4e742a5d7be6b48e982a74105c17")
+addappid(15715,0,"38f38764ef30983c0165c36f25a75efaf2feee1b80623fe1504cefc528343d95")
