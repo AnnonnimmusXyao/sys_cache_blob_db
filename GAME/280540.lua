@@ -1,0 +1,4 @@
+--game: GhostControl Inc.
+
+addappid(280540)
+addappid(280541,0,"2983c3263b835c27b9d0065f8d854e5ac17d694d6564db317da32778556ab38e")
