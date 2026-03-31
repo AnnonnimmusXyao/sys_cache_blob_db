@@ -1,0 +1,4 @@
+--game: Build-A-Lot
+
+addappid(38080)
+addappid(38081,0,"24f2aa09b6046dd5698fa1a5c04ee25f9dae57458c10e17e5304ada7e28d149c")
