@@ -1,0 +1,5 @@
+--game: Full Bore
+
+addappid(228983)
+addappid(264060)
+addappid(264061,0,"2427511e3e1ebb63a1c046ea832f55fd697502f7e257bab4ae667f4e32c60f96")
