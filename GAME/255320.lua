@@ -1,0 +1,5 @@
+--game: Edna & Harvey: The Breakout
+
+addappid(255320)
+addappid(255321,0,"51c5787bb48e45fedcf115e727a8f969f25a7ae6550a937a3e234f279e61506c")
+addappid(255323,0,"4ba899b17298ddc8755e869109ed0d9bcc5ffd441836eaed21868e56f8617638")
