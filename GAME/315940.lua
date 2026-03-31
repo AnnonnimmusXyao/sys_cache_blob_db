@@ -1,0 +1,4 @@
+--game: Top Hat
+
+addappid(315940)
+addappid(315941,0,"f2752981e6a185a24a25f00308a28bf2a139fec08e6b9d5e53f9dabb3afa66e7")
