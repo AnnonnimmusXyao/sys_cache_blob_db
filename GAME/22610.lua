@@ -1,0 +1,8 @@
+--game: Alien Breed: Impact
+
+addappid(22610)
+addappid(22611,0,"0e7762143ffc23a569089013822f0826ebaddf2947dec87897461e702417be49")
+addappid(22612,0,"6d219ea3de40f694c717c87394e67703d3d003c0e9fe26b6521bd2df7e847c5c")
+addappid(22617,0,"b8e998efb9ebb433dedec5149c43aa53e4ebcc83ba86bcef235ccabfb630bf46")
+addappid(22618)
+addappid(22640)
