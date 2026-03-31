@@ -1,0 +1,6 @@
+--game: Super Amazing Wagon Adventure
+
+addappid(229003)
+addappid(229012)
+addappid(250500)
+addappid(250501,0,"6631ca7b61d4b131c4710ddc225b36f5f5b51b759135c5ab0fdb69386861a7d7")
