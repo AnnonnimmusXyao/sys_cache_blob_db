@@ -1,0 +1,4 @@
+--game: Nancy Drew®: Danger on Deception Island
+
+addappid(31840)
+addappid(31841,0,"7aad008b201eb24adcaf51e96518fa1b6ddf487dc1ec857070ce34962d450e55")
