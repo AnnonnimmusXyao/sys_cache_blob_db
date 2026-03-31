@@ -1,0 +1,4 @@
+--game: MotorSport Revolution
+
+addappid(317080)
+addappid(317081,0,"8a1869585e0408f5324b4e25e8e3b6c71a7b6d2bea40f2b93c0f00f367f8501c")
