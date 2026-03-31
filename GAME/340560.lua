@@ -1,0 +1,4 @@
+--game: Wanted Corp.
+
+addappid(340560)
+addappid(340561,0,"866f131942b558eccadb570661eac429518453d5848f1c3bcfea37268ee48c90")
