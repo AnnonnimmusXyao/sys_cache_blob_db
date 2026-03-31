@@ -1,0 +1,4 @@
+--game: Hacker Evolution IMMERSION
+
+addappid(229560)
+addappid(229561,0,"a9826be003c82a607bbe559609568ad47a3192d1b10849d817c6ea8fa3c0bc7e")
