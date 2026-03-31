@@ -1,0 +1,4 @@
+--game: Vantage: Primitive Survival Game
+
+addappid(342910)
+addappid(342911,0,"11659c6e590bc3dd43af16576377b351e63ed3c064d95fbee9224adaef814b07")
