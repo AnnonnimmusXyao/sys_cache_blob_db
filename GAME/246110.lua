@@ -1,0 +1,7 @@
+--game: MASSIVE CHALICE
+
+addappid(246110)
+addappid(228982)
+addappid(228983)
+addappid(246111,0,"12990bab1bde8d350e049f44d750c39bfbc667059b599c60799be4386bde53ef")
+addappid(246112,0,"16024ede71aeed3f237063c19be2e264657bfa4c1020e869b3b3d455665339d7")
