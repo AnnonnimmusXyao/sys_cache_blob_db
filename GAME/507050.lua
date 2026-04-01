@@ -1,0 +1,4 @@
+--game: DOGOS
+
+addappid(507050)
+addappid(507051,0,"59d6cc7f9b7ad7d736c5865905f81c95aba615b40e6b23037f8450829d2d88a2")
