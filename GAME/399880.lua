@@ -1,0 +1,4 @@
+--game: Amos From Outer Space
+
+addappid(399880)
+addappid(399881,0,"762701f27d3f2782e3d1c467c537213fd6be55c54f850e1a5882a9c11acdf869")
