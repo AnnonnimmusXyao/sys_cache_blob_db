@@ -1,0 +1,6 @@
+--game: Steampunk Syndicate
+
+addappid(228983)
+addappid(228985)
+addappid(585360)
+addappid(585361,0,"d6da62ca1d2585519ce8f09ccb3edd6a56d83ee2aa78868921c24c86f683fd07")
