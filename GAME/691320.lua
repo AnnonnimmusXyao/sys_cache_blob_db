@@ -1,0 +1,6 @@
+--game: Gun Club VR
+
+addappid(691320)
+addappid(691321,0,"da30051538ebce39c7870be766d40851a774b6c250588e2408280636888be13a")
+addappid(1562720)
+addappid(2113980)
