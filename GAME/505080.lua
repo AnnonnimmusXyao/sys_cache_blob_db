@@ -1,0 +1,4 @@
+--game: Gakuen Club
+
+addappid(505080)
+addappid(505081,0,"1f615cac0cf39f1d061ebdc79274947df251d86aa6576ef6cb67bbead8ff5865")
