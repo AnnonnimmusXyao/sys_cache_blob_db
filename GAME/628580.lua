@@ -1,0 +1,4 @@
+--game: Miniballist
+
+addappid(628580)
+addappid(628581,0,"dc6504e3a5034a179a4bbd8f2e798311fca9cd6a0a61e9442bf1ca4f1810b367")
