@@ -1,0 +1,4 @@
+--game: Drunk Wizards
+
+addappid(479170)
+addappid(479171,0,"fb1a287c101be448318d80e3aaa0bb519cae562d591d018035db0d75043e3cf8")
