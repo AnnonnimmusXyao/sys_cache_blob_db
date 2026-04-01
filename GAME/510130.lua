@@ -1,0 +1,4 @@
+--game: Power Link VR
+
+addappid(510130)
+addappid(510131,0,"697e804a9bf84d834ece73e16f4857497a4bc1432dc48ccff4cc60f614c1ed5d")
