@@ -1,0 +1,5 @@
+--game: Lost Lands: The Golden Curse Collector's Edition
+
+addappid(433000)
+addappid(433001,0,"848d9e35c449fbb17799416ff1cd40605f0f8876acd4216b636d84a2e45c0233")
+addappid(433002,0,"ed3c5b8bb95f4d1e8b0b53d7b158624043ace70103e48e51d2e7745911037410")
