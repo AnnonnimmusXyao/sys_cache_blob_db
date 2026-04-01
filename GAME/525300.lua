@@ -1,0 +1,4 @@
+--game: Starship Annihilator
+
+addappid(525300)
+addappid(525301,0,"d7ceb321651a3130895a9c68dd66372dc47171dc1b753a3b9c2d3c985cd49845")
