@@ -1,0 +1,5 @@
+--game: Heirs And Graces
+
+addappid(482990)
+addappid(482991,0,"c548ff3de5f7752547b84f696af28b857cf4687046712715bdc3f05cd156de99")
+addappid(484810,0,"2cce8131485a9834d1e6887a1ceaeef7ac5c98dee735508bbece8eff6668dd4c")
