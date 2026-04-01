@@ -1,0 +1,4 @@
+--game: Better Off Tread
+
+addappid(656070)
+addappid(656073,0,"e72ec09fee7814f0323d761a1602883440bbddf5be808883bc9282acfa065c8d")
