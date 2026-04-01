@@ -1,0 +1,5 @@
+--game: Shoppe Keep
+
+addappid(381120)
+addappid(229005)
+addappid(381123,0,"4f5f7eb32f43a3fc6167c508bc6e3a75ae13de6bdc260587a305e994b47f218d")
