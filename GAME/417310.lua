@@ -1,0 +1,5 @@
+--game: Hiragana Pixel Party
+
+addappid(417310)
+addappid(417311,0,"58d1da1c0457a5833032cfceef9696b4e7974981811b9514c2e79e0e3ca5f370")
+addappid(449990)
