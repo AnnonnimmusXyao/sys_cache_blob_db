@@ -1,0 +1,5 @@
+--game: Beats Fever
+
+addappid(566780)
+addappid(582100)
+addappid(582102,0,"7b5fbb86e9d1d71a2335b3f06c76d809a2b5ff1793581b4ce6078343bbf4ac53")
