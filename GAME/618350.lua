@@ -1,0 +1,4 @@
+--game: Personal Disco VR
+
+addappid(618350)
+addappid(618351,0,"46262ea34b59120cd3204c5019d2cb817663010a0aedafb1f2b206d00c34081f")
