@@ -1,0 +1,10 @@
+--game: 8Bit Fiesta - The Drinking Game
+
+addappid(382260)
+addappid(382261,0,"465368b2133aac37e918b0d0234d40faeb95c2d831eefaac7b7e3e37496775d9")
+addappid(382263,0,"348522dfa5423a8fcaea6653286b14c49d5f11be6d3510694c58da1c69ce0931")
+addappid(382264,0,"c62fca16d53727605029ec8f17617dae361e0831dd0efd60a67c1a897ba93ccb")
+addappid(382265,0,"ff50a455b8883f2537179c2d7edbbffa2696f4ceec56e71d9a8c5c7d887ce6ce")
+addappid(845580)
+addappid(845581)
+addappid(845582)
