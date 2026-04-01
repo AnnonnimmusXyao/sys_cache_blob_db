@@ -1,0 +1,4 @@
+--game: Super Dungeon Tactics
+
+addappid(463160)
+addappid(463162,0,"92c8a53428b860b48d44ccd346276a148cfb47367d8a2f08e248bcd33c9c04d7")
