@@ -1,0 +1,6 @@
+--game: Trap Them - Sniper Edition
+
+addappid(229002)
+addappid(229012)
+addappid(407150)
+addappid(407151,0,"965b83bda21b0fc6396befe80f479de2ec7b92c9346b50772a4162728a0a3ee2")
