@@ -1,0 +1,4 @@
+--game: Secrets of Arcadia
+
+addappid(681190)
+addappid(681192,0,"94037d2da6f84949314c1589d3ab61cb6e1c5d4afbe2d9eca3a0fd065bde440f")
