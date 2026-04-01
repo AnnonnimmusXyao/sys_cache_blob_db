@@ -1,0 +1,4 @@
+--game: Too Angry to Space
+
+addappid(494990)
+addappid(494991,0,"f403eb7e513e811b749f47758793f01cd347a148a8bbe67677304c0c94e20869")
