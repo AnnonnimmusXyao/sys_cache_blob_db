@@ -1,0 +1,11 @@
+--game: Moto Racer  4
+
+addappid(417430)
+addappid(417431,0,"c939b14190d443b3e0324a106b59d3a9bc805c73502759f557df6a40e1cf80ab")
+addappid(417432,0,"97f4d47d7c0f3b7ffa8d07928f843b9d2b472f753a5e089d1f679bcac0c3d7b1")
+addappid(465290)
+addappid(465291)
+addappid(465292)
+addappid(510940)
+addappid(573820)
+addappid(573821)
