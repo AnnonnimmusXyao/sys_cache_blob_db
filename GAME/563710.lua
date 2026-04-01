@@ -1,0 +1,4 @@
+--game: Loops of Zen
+
+addappid(563710)
+addappid(563711,0,"c0a6afc6702ef9308d1130e73bdc6c5ae6a69acc306155c0ff036d23b677b275")
