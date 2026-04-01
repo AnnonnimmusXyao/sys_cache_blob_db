@@ -1,0 +1,4 @@
+--game: The Ember Saga: A New Fire
+
+addappid(498700)
+addappid(498702,0,"969d8169cea6f87357fc84ef4fb15f4fe0993090a947110c014c1bc0d470573a")
