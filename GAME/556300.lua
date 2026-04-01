@@ -1,0 +1,4 @@
+--game: Age of Farming
+
+addappid(556300)
+addappid(556301,0,"9acd21e6108184837767dcd4f38556572d977ac5f8bb1841d8f8f043bafc0dd7")
