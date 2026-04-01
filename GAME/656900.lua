@@ -1,0 +1,4 @@
+--game: RHEM I SE: The Mysterious Land
+
+addappid(656900)
+addappid(656901,0,"715200815d0ce3913d406519c4868ffe4bb9d0254dc0104a217b575f99b3403d")
