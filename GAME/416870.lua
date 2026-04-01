@@ -1,0 +1,4 @@
+--game: Kitty Powers' Love Life
+
+addappid(416870)
+addappid(416872,0,"54468b4c1ff39b399f75f1c9f0aa3eb423599e0ef54e216be2aa5e081dd1042e")
