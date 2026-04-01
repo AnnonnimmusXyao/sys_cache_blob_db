@@ -1,0 +1,4 @@
+--game: Mythic Wonders: The Philosopher's Stone
+
+addappid(458480)
+addappid(458483,0,"e9aaaf8365506f78cc51bd8264df15f6c9b6a5919c341395d34b94bdac29dd45")
