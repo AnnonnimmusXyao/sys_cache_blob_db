@@ -1,0 +1,4 @@
+--game: Russian VR Coasters
+
+addappid(504100)
+addappid(504101,0,"9b654d9b85e7e3991204037df8d1cf9323d49d984444a7d66b1f748ffc15f3da")
