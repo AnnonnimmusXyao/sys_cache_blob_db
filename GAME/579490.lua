@@ -1,0 +1,4 @@
+--game: RUSH: A Disney • PIXAR Adventure
+
+addappid(579490)
+addappid(579491,0,"c89817fe29e662554faff8f563ad10868c31cb1add60c6aa960179ca6a032256")
