@@ -1,0 +1,6 @@
+--game: Evolution Planet: Gold Edition
+
+addappid(495090)
+addappid(495091,0,"9743e30911f55ba828ff912e887d9b4336c785f56da023c15b13559daa3e992f")
+addappid(495092,0,"9af5dcaa166a0043a9be4c309e0470b8d6a17999baeb6087fb69407cc5d03498")
+addappid(495093,0,"faf2e05a570e732bffa260baf5b6dfd01cc5a55a9c3712b7f32190f6d57099c8")
