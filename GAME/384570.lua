@@ -1,0 +1,4 @@
+--game: Zanzarah: The Hidden Portal
+
+addappid(384570)
+addappid(384573,0,"d397a8dc452bdaf7619b7f3407554aefc81142370513b92c9962a7c08b91757a")
