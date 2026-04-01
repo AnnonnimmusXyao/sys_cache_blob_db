@@ -1,0 +1,8 @@
+--game: Shiness: The Lightning Kingdom
+
+addappid(366640)
+addappid(228983)
+addappid(229004)
+addappid(366641,0,"d03d98e1d903f874601eff4e1534096f66203fa72d4b70280e26cc898887341e")
+addappid(366642,0,"22ca73772ab6c49a2f27111ef3bb189ad4546ae50bcea35496e4499c732a677c")
+addappid(366643,0,"aceb6402dd998387125eced42fbfd6837494cb1126c5730b6b36648ba5bcdbde")
