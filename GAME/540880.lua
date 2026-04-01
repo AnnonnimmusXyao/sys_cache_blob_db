@@ -1,0 +1,5 @@
+--game: Rose of Winter
+
+addappid(540880)
+addappid(540881,0,"346587bbb7ed92ef72638d7da70aa7f39f85a7d6608441da59f85e7cbbcf4b81")
+addappid(540885,0,"688db78d016410bb8b4a249150936a4a14be0b6f64b8e343c72f17abc7a419e7")
