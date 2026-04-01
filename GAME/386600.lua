@@ -1,0 +1,5 @@
+--game: Pixel Fodder
+
+addappid(386600)
+addappid(386601,0,"d948cdb9668dd8b4c5711c8eaedd7a45d98076f497b755e9ce81d8caeaa5922d")
+addappid(386602,0,"9740e4566b0a17fcb76be8fb734f7385cd9152ecb11bb7e883d63e682c7a8699")
