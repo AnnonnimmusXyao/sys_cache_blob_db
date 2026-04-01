@@ -1,0 +1,4 @@
+--game: Jet Set Knights
+
+addappid(405550)
+addappid(405551,0,"2e25190a0f4afa410be1f64736e564a673e89bd9d36cb7d1c73c459d55bc5098")
