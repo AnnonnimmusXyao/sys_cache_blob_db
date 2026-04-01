@@ -1,0 +1,4 @@
+--game: Minigolf VR
+
+addappid(406410)
+addappid(406411,0,"f5d43c6a3061213dfc21e78826f8e717a60455b3040cc69f64aa69bc51ead683")
