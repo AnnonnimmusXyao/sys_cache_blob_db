@@ -1,0 +1,4 @@
+--game: Kagura Douchuuki
+
+addappid(378790)
+addappid(378791,0,"1ebf7cbe6bd69a5a07288e3dbf92a5e8e6ff708a833f925ce24bd0f5dc924dbc")
