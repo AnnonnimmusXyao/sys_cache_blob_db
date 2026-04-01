@@ -1,0 +1,4 @@
+--game: Selective Jump: Once Again With Feeling
+
+addappid(363920)
+addappid(363922,0,"88578d869f0994000b66dc72d7d5077ecaf813567b5b7230003c235c1364518d")
