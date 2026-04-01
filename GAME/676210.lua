@@ -1,0 +1,4 @@
+--game: Story of the Survivor : Prisoner
+
+addappid(676210)
+addappid(676211,0,"85441d67953e320b89a902cf719f9016fe5548c77496992eb3d63318f65f3e40")
