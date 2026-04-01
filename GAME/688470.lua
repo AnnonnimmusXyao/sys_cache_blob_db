@@ -1,0 +1,16 @@
+--game: 汉匈决战/Han Xiongnu Wars
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229000)
+addappid(229001)
+addappid(229002)
+addappid(229003)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(229007)
+addappid(688470)
+addappid(688471,0,"804c4d458415eb1c9b58282ef719d83020877d7232484abaea05b26319ded1c3")
