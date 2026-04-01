@@ -1,0 +1,4 @@
+--game: Paintey
+
+addappid(445050)
+addappid(445051,0,"243ec044e40918fe326a2328ae49ae70ac2290051b84951cceee93d99cb565ce")
