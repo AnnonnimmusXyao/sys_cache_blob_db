@@ -1,0 +1,4 @@
+--game: Sumer
+
+addappid(464950)
+addappid(464952,0,"d7ba6a50d7008665acfcfaa0e9649c3ad8caf3e7f97b27b9860dad148909df21")
