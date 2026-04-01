@@ -1,0 +1,5 @@
+--game: Wrath of Anna
+
+addappid(458520)
+addappid(458522,0,"1bea19bba20f859975f959876ffecf7cc388fce2b5059fb0958153d8a198d4b6")
+addappid(541630)
