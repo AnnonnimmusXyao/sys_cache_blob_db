@@ -1,0 +1,4 @@
+--game: Mech Anarchy
+
+addappid(420900)
+addappid(420901,0,"ab7bd474312382cc84ed5bd9465e2256968443692ae39ae185298ed23554b60d")
