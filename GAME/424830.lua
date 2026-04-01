@@ -1,0 +1,4 @@
+--game: Bell Ringer
+
+addappid(424830)
+addappid(424831,0,"ce8f09e32da66a13de092979b213694f0b65b701798fcf103d6adda72bf63b92")
