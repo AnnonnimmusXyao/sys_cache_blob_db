@@ -1,0 +1,4 @@
+--game: Battle Squares
+
+addappid(681990)
+addappid(681991,0,"f10d3748df7496bf31b18c666651e3a3b287b6226bd728bdeebe6b6d990de42f")
