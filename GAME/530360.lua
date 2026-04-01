@@ -1,0 +1,4 @@
+--game: Requiescence
+
+addappid(530360)
+addappid(530361,0,"af646ab34fe9fd8b1be8462cc9f9a97e9a58a9b683bb8bf73bf60a76a9d6e628")
