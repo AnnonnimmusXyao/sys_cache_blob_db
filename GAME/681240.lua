@@ -1,0 +1,4 @@
+--game: Dujanah
+
+addappid(681240)
+addappid(681241,0,"8db9d882268d5fbfd35850fe4bffa8c335da7293ded923810ee8317c4d1da839")
