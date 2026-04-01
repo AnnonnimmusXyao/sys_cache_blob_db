@@ -1,0 +1,4 @@
+--game: Flight of Light
+
+addappid(671370)
+addappid(671371,0,"49f715f9ea800246f87ab3393d2deff02340246f8e8f9676d9ee552e20c0c209")
