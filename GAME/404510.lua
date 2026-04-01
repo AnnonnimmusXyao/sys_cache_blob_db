@@ -1,0 +1,4 @@
+--game: Heaven's Hope - Special Edition
+
+addappid(404510)
+addappid(404511,0,"a69326fc6175aa9d05fbbfcf89b3aaeda1972701c0ea0ac7ea15e665027f2731")
