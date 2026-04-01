@@ -1,0 +1,4 @@
+--game: BlockAid
+
+addappid(489810)
+addappid(489811,0,"a87340d3201ec8948ea733d9fc3006638d9cc24ae47e3c18714e68072cd6aeb3")
