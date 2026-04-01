@@ -1,0 +1,4 @@
+--game: ARENA an Age of Barbarians story
+
+addappid(570970)
+addappid(570971,0,"c0f80c15d24ea0cb836fc7443de02cc438ddc0371b1e7db5b0d431a1ad081307")
