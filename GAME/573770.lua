@@ -1,0 +1,4 @@
+--game: RED
+
+addappid(573770)
+addappid(573771,0,"53ffc0d98d453650d5c9eccc3675ac1975bce5dda9b09ab72bfcd0aef219fa3d")
