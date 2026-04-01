@@ -1,0 +1,8 @@
+--game: ARK: The Survival Of The Fittest
+
+addappid(228983)
+addappid(228985)
+addappid(407530)
+addappid(407531,0,"3b2ecd725e715acbe4f0faece4804881627c6b44756f8ab21b7ea7ef265d8790")
+addappid(407532,0,"7890a0784b70376002ee9a6324fc0316a0708d0885963ea04e19eb8ff39154ec")
+addappid(407533,0,"ff34a171aebbf864adebe441b8a24188fb40b5bd0a62645427132c63ca28803f")
