@@ -1,0 +1,4 @@
+--game: AFTERBURN
+
+addappid(608120)
+addappid(608121,0,"48e91fe6500039cd9d90441770f2a8d432e66b361b4b87c73d0387f3af80f7f6")
