@@ -1,0 +1,4 @@
+--game: Zombie Vikings: Stab-a-thon
+
+addappid(566910)
+addappid(566911,0,"60a18c98626635dece626b149d0fc5859cada117b0a368547e9aa74fe481cde5")
