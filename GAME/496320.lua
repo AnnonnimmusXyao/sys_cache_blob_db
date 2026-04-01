@@ -1,0 +1,4 @@
+--game: Running Gods
+
+addappid(496320)
+addappid(496321,0,"6f72146d2f6debfe59e28f9d6057f6f3ab726012c94f4cab6e58868fc33ae27e")
