@@ -1,0 +1,4 @@
+--game: Himeko Sutori
+
+addappid(669500)
+addappid(669501,0,"ad68ea8631581b3e72afb83fda6e131b8aed4a6fda2ba00a6b80e0acdd4fba41")
