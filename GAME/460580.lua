@@ -1,0 +1,4 @@
+--game: Star Chart
+
+addappid(460580)
+addappid(460581,0,"9c1863856f3d3e16d6efff5563f520ddb59cd106417772904fd5049a696ca693")
