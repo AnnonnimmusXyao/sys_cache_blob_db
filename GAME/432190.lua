@@ -1,0 +1,4 @@
+--game: Chef Solitaire: USA
+
+addappid(432190)
+addappid(432191,0,"7ed43e3fdc75ef364149bca4656a716f65b21f873a4ebcd2d195cc77ae2ee927")
