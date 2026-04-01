@@ -1,0 +1,4 @@
+--game: HELP: THE GAME
+
+addappid(472770)
+addappid(472771,0,"ea0d699aa383904f8ea054758cc597a74345dc6005dc8e35f62bca208a62ba53")
