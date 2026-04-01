@@ -1,0 +1,4 @@
+--game: Tank Hero VR
+
+addappid(502810)
+addappid(502811,0,"3f5a64475787040e39d8b374e0914b8e4850ef7a38cc4d047dfb671dba3f3919")
