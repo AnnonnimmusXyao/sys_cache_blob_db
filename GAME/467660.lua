@@ -1,0 +1,8 @@
+--game: Paranormal Activity: The Lost Soul
+
+addappid(228985)
+addappid(229002)
+addappid(229003)
+addappid(229005)
+addappid(467660)
+addappid(467661,0,"bb60992510d4cd7e4c854ab1099be01618a38f64d867c4ed1cb094e2e3aecba8")
