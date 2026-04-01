@@ -1,0 +1,10 @@
+--game: The Lion's Song: Episode 1 - Silence
+
+addappid(437160)
+addappid(437161,0,"87b0121ee2578c7a76ee5a3cca55ce9763e43419bb9b7b1aae268f0e6e8eb057")
+addappid(437162,0,"0054f38d1f90bc0f0fb38421e41acdf12aca58e36708baaf8e65c80fd03b7769")
+addappid(437163,0,"db5b108dc7cdefc547ec589d55b43080472e022bb78edd01c8a343005bc28f48")
+addappid(459140)
+addappid(477020)
+addappid(477030)
+addappid(477040)
