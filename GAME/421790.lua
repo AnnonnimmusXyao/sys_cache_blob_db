@@ -1,0 +1,4 @@
+--game: The Bradwell Conspiracy
+
+addappid(421790)
+addappid(421791,0,"1f304de29e5aa71d5a2fd78ceab05c66c7bb3fc0566cd2628e26ec39ef6c8236")
