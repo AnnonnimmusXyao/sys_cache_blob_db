@@ -1,0 +1,9 @@
+--game: Rock of Ages 2: Bigger & Boulder™
+
+addappid(229020)
+addappid(229033)
+addappid(434460)
+addappid(434461,0,"3a02fbf8f2b8f47ee3ba37a0e4fa6e8f4b9e794dd2d95abd4cbf41c71c5721cd")
+addappid(434463,0,"f77c2bb98646e339a89a460e92088ca71a430d3bb7478951b27905181a2bae5c")
+addappid(645970)
+addappid(700900)
