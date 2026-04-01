@@ -1,0 +1,5 @@
+--game: Expert Rifleman - Reloaded
+
+addappid(383590)
+addappid(383591,0,"346ecf7cbea7ade5341022cd1109bca6db2e15a7249fe29915239ef90cc09192")
+addappid(383592,0,"0b3ed34228cf446b20dd26e10ccc2c934763ba3ebbef79fffeb390d068305d74")
