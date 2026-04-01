@@ -1,0 +1,5 @@
+--game: ARCADE GAME SERIES: PAC-MAN
+
+addappid(228985)
+addappid(394160)
+addappid(394161,0,"ea0003096fe445305ea99b789d968df2fe1bdb1702443ed7e0fd58cfb525f948")
