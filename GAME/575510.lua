@@ -1,0 +1,4 @@
+--game: Sakura Agent
+
+addappid(575510)
+addappid(575511,0,"65872d17edb5548e126991bcf968184ba03d20035d3199dca1ff33b48d52669a")
