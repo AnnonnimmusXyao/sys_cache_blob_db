@@ -1,0 +1,4 @@
+--game: Fly Away
+
+addappid(583000)
+addappid(583001,0,"3b26cab079d90b3354e8f1491b38d0d0502bd54cdc4a603409e062f25784bb84")
