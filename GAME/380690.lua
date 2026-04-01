@@ -1,0 +1,6 @@
+--game: Don'Yoku
+
+addappid(380690)
+addappid(380691,0,"66f83e69ec30b4b038b8dded05fd2e1b2b61becb50f95f941fac04b88e789f9c")
+addappid(380692,0,"e9fee2dbbf9c38c40c58b8f65ffd7e8d9fc19f750844eedbfc92f544839287ef")
+addappid(383250)
