@@ -1,0 +1,4 @@
+--game: Corpo Tale
+
+addappid(438240)
+addappid(438241,0,"eaa6f1802a0b179fa2d87bcf35c7f6e15532116cab9b55220b054b5e022662e8")
