@@ -1,0 +1,4 @@
+--game: The Thing: Tower Defense
+
+addappid(549670)
+addappid(549671,0,"f2cafd19543d92c686f95ed7ca0abfe628afa2c23f6be364a3d1c2a9b78994cf")
