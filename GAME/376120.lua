@@ -1,0 +1,4 @@
+--game: Assault Corps 2
+
+addappid(376120)
+addappid(376121,0,"3fb291cbfede556f8de19c3643523d9d4ad022ad02373d6ed090b4a62e567206")
