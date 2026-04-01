@@ -1,0 +1,16 @@
+--game: Underhero
+
+addappid(573320)
+addappid(228983)
+addappid(228985)
+addappid(228987)
+addappid(229003)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(229011)
+addappid(229012)
+addappid(229030)
+addappid(229031)
+addappid(229032)
+addappid(573321,0,"58571394c4bc6b48d948534b72d7153fa6d0f680bd4997e7545c4daaaaecdb9a")
