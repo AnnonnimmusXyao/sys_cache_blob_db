@@ -1,0 +1,4 @@
+--game: Trackmania² Lagoon
+
+addappid(600720)
+addappid(600721,0,"bd3978f2acd8a64b69bafd21693a608bdb3a0797488e3a205a4eefe190260222")
