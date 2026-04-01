@@ -1,0 +1,4 @@
+--game: Super Rocket Shootout
+
+addappid(630160)
+addappid(630161,0,"4ee4485d375be2748cfca5b49094b188a43c2dd8ea528aaf87eae4317e5a0133")
