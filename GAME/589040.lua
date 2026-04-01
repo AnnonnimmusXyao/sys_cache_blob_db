@@ -1,0 +1,4 @@
+--game: Fujii - A Magical Gardening Adventure
+
+addappid(589040)
+addappid(589041,0,"c827b322fdcf9d240bf9acbdcbc5cb8b746c3ebb872b30b5fb53983a55529393")
