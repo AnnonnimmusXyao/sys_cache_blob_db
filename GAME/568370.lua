@@ -1,0 +1,4 @@
+--game: Castle Battles
+
+addappid(568370)
+addappid(568371,0,"6c8b9f13be9574d8ba5129276fa2bccaacf50d18ed2c0070c66a525994a209d9")
