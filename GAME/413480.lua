@@ -1,0 +1,4 @@
+--game: 101 Ways to Die
+
+addappid(413480)
+addappid(413481,0,"684948fd81daa2f177d7b0e5ef5dada889f56e7b982063c0a58c7d824b41f284")
