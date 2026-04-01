@@ -1,0 +1,4 @@
+--game: Acro Storm
+
+addappid(546610)
+addappid(546611,0,"4077f2b54f2f421458a3b6eb69e335260b4d93d91f6249bbb53e1c4c450b653d")
