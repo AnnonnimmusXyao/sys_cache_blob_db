@@ -1,0 +1,4 @@
+--game: Minotaur's Maze
+
+addappid(531080)
+addappid(531081,0,"1fa7adf1eab7cb2d764e705aff368249586a360964f1538f025a2672ce99788d")
