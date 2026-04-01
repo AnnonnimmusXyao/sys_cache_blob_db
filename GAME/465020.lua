@@ -1,0 +1,4 @@
+--game: Sector Six
+
+addappid(465020)
+addappid(465021,0,"afc1cc0098c86bfb43f8e13ab86bb26f40a5191cd4b9a3d6663ef5e98a6bacfb")
