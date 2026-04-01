@@ -1,0 +1,4 @@
+--game: Computer Tycoon
+
+addappid(686680)
+addappid(686683,0,"ed8a1f580bd9710ec365ad9ff92980f51a2289ac89c9958c352d9bcdd060b1dd")
