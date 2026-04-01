@@ -1,0 +1,4 @@
+--game: House of Alice
+
+addappid(500920)
+addappid(500921,0,"b924f3a15284e71512ad44111890b7bbf3f68253b09f6571293ef3cbc99451ac")
