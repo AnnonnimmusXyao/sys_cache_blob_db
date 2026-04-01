@@ -1,0 +1,4 @@
+--game: Combat Core
+
+addappid(405670)
+addappid(405671,0,"9c24bf571688e0ad8c34727c1a11e1c34d664f321832dcb342b8d72882db8432")
