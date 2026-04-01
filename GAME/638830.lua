@@ -1,0 +1,4 @@
+--game: VR Scape
+
+addappid(638830)
+addappid(638831,0,"727c9ede38c323a64068665843f3cde91013827fae51a337a0786d1468a2f338")
