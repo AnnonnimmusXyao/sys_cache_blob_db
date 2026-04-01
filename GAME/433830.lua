@@ -1,0 +1,4 @@
+--game: Rescue From Goblin Deep
+
+addappid(433830)
+addappid(433831,0,"52fa0a4f561ebbfb2e44fec92bf3d645502ecb3806caab32232ac558c0e0ff86")
