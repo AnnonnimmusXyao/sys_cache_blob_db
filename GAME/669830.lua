@@ -1,0 +1,4 @@
+--game: Asteroids Millennium
+
+addappid(669830)
+addappid(669831,0,"238b802bd5db571abb9534c1851d45393d6fbad3aa7e5a96d7799f1bf1c0bf52")
