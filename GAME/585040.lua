@@ -1,0 +1,5 @@
+--game: Dry Erase: Infinite VR Whiteboard
+
+addappid(585040)
+addappid(585041,0,"c6296f24dfd728d45853522571b90f41af6426d48ac781b566fe257abac91637")
+addappid(585042,0,"f90d2de59aff9da8637c5449869c42006e6f859bb6989af62a76e5871dddb9b7")
