@@ -1,0 +1,4 @@
+--game: Minigame Party VR
+
+addappid(457870)
+addappid(457871,0,"1769085bc0b7c88aa6d6e0adc630a659564e6d405c8e71d5c83733bb4793b819")
