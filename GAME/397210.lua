@@ -1,0 +1,4 @@
+--game: Kanji Training Game
+
+addappid(397210)
+addappid(397211,0,"cc7ec87dba440b34d026e4aa6a40176129ca961cb376168e233107a92ba8d9f9")
