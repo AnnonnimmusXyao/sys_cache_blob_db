@@ -1,0 +1,8 @@
+--game: Empty Soul - S&S Edition
+
+addappid(464670)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(228987)
+addappid(464671,0,"c0b5b2160013cd3b990cc5fd35e54d52de44296b0ff33be8b90397cc6d518b0a")
