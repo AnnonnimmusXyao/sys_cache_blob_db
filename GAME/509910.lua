@@ -1,0 +1,4 @@
+--game: Night Vigil
+
+addappid(509910)
+addappid(509911,0,"499fbd3a460066a901024371ef757ebb163d75aa5d16bf55d9a54955126d1a20")
