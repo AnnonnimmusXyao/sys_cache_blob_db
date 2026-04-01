@@ -1,0 +1,4 @@
+--game: Zooicide
+
+addappid(622040)
+addappid(622041,0,"a3fa293e429fe1f903b90a1141d5b3883a53fc3e1adb78d791550314c4570ef7")
