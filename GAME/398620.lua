@@ -1,0 +1,4 @@
+--game: Living Legends: The Frozen Fear Collection
+
+addappid(398620)
+addappid(398621,0,"5641bb063cd824691f8d3b8ee401756a53cc8f69d78257cc2511035dc13d9708")
