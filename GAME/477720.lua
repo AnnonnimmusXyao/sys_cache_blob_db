@@ -1,0 +1,7 @@
+--game: Toricky
+
+addappid(477720)
+addappid(477721,0,"f8fc0f2d9eb0ade28f8edd2df82c3ef91c85aa81989708476bb561f767fe7c83")
+addappid(477722,0,"03acc959939cdc049987076bd2b4996f68ed64d9d1f39e41c36d86439292d78d")
+addappid(551510)
+addappid(580460)
