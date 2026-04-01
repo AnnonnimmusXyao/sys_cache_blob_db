@@ -1,0 +1,4 @@
+--game: VR Crane Master
+
+addappid(678100)
+addappid(678101,0,"818f286eada59e5ca9874202e22b4115912d102b9ddd9b2adac5a4044edc25a4")
