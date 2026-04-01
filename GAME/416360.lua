@@ -1,0 +1,4 @@
+--game: Max's Big Bust - A Captain Nekorai Tale
+
+addappid(416360)
+addappid(416361,0,"1a34c789c9446599f98591cae0b0699785423ae9db5ab844e8a164e54548b28d")
