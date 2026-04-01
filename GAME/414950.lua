@@ -1,0 +1,4 @@
+--game: Star Nomad 2
+
+addappid(414950)
+addappid(414951,0,"faa1d2f406deef98b877b9455ca48e154bee5d667a1d53f046421cb9aa2026ee")
