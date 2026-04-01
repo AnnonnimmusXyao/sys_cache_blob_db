@@ -1,0 +1,4 @@
+--game: Viral EX
+
+addappid(397600)
+addappid(397601,0,"e211891e2e969b2e2bee69c905396abf32896b321aa77a79361cbb644eed0fbe")
