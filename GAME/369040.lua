@@ -1,0 +1,6 @@
+--game: Yargis - Space Melee
+
+addappid(369040)
+addappid(229002)
+addappid(229012)
+addappid(369041,0,"9d63bb93862c59e25aad00f14aa7406894f46f417e7386092cfab368337ceef0")
