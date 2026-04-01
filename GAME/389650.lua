@@ -1,0 +1,4 @@
+--game: Stardust Galaxy Warriors: Stellar Climax
+
+addappid(389650)
+addappid(389651,0,"1a95f7089a0b54d906fda4461a28ebb635fd9a2b9c1a9b0ad2e97cdda34826a4")
