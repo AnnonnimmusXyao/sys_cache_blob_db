@@ -1,0 +1,5 @@
+--game: Slime-san: Superslime Edition
+
+addappid(473530)
+addappid(473532,0,"edb7100a7f72cac49ec2da880326d225eeaf3175dd55f565584f18a42e513a65")
+addappid(613000,0,"2f9ad7f41acb63136ea4f07c367f57ae2941b96c37bfa672bc09b001614f2816")
