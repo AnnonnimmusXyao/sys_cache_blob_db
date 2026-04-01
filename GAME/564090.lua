@@ -1,0 +1,4 @@
+--game: Fierce Tales: The Dog's Heart Collector's Edition
+
+addappid(564090)
+addappid(564091,0,"53495355c2b8ada647642f88f3078c47bd316ec5d85857b0a801ad7bd0ca0c99")
