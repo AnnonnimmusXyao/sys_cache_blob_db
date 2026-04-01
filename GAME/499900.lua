@@ -1,0 +1,4 @@
+--game: Pulse Shift
+
+addappid(499900)
+addappid(499901,0,"651672b2af5dbf16c9028dc48598db0329fecc4dc8109bd47ecf032b99b5c99d")
