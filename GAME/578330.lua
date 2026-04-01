@@ -1,0 +1,5 @@
+--game: LEGO® City Undercover
+
+addappid(228983)
+addappid(578330)
+addappid(578331,0,"44ff08a81901dccc5bc670947c0f15975cb4bb01eb44faad587a3d10424ae17a")
