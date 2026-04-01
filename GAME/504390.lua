@@ -1,0 +1,4 @@
+--game: Along the Edge
+
+addappid(504390)
+addappid(504392,0,"14671570ab864ed4e00973fe2773d2c8a8bc233b9484010b7c992fb06421d354")
