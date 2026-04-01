@@ -1,0 +1,4 @@
+--game: Armed Against the Undead
+
+addappid(488590)
+addappid(488591,0,"463ebc1e6e0d08b7ac17a925e8960474b170394cc272d2d66c356539c9e9667d")
