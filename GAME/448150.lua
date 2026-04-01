@@ -1,0 +1,4 @@
+--game: Mystica: The Ninth Society
+
+addappid(448150)
+addappid(448151,0,"f9b0a887862dd30b9d71295e14731f7fae0969dac9bdca7570c7be3076556858")
