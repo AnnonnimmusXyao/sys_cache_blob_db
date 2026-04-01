@@ -1,0 +1,4 @@
+--game: Fall of Freya (Alpha 1)
+
+addappid(503700)
+addappid(503701,0,"706634e90b4a9c68a9d19b922b7d5801d5addd538a435fc9de7e164bdb589e9a")
