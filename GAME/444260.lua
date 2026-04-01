@@ -1,0 +1,4 @@
+--game: Mindless Running
+
+addappid(444260)
+addappid(444261,0,"0a7108c8da70ba87a319828a2b72daf71bd2fcbd5b13617a0bc506a983dd8e3c")
