@@ -1,0 +1,4 @@
+--game: Cyber Team Manager
+
+addappid(415080)
+addappid(415081,0,"7db935059332c7e87c402695a213b65191398d123b17409d006b5d8a155bec71")
