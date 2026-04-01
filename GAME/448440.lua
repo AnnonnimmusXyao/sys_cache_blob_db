@@ -1,0 +1,4 @@
+--game: Bizarre Earthquake
+
+addappid(448440)
+addappid(448441,0,"13b6be09f5cdcd1cd7f3860cd32baa4f6e1f9b42e7031b045525aef4e4b78748")
