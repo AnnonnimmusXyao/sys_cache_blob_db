@@ -1,0 +1,4 @@
+--game: What The Heck, Dude?
+
+addappid(550670)
+addappid(550671,0,"37eace1e56586ea135fa330a7aa787f7fdd43229d1108087b8895638637f2bad")
