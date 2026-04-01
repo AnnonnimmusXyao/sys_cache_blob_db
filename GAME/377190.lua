@@ -1,0 +1,5 @@
+--game: Pale Echoes
+
+addappid(228982)
+addappid(377190)
+addappid(377191,0,"8e7f415c7c67f704735325f16f28e83e3aa96ddf37966c60c15072cc2215cdb9")
