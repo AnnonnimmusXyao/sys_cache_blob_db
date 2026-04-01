@@ -1,0 +1,4 @@
+--game: The Infectious Madness of Doctor Dekker
+
+addappid(545540)
+addappid(545542,0,"89ca12cff9e5d626e1e689f0fc02b9778a8b37e178fba6ca4b9166c9dc3b1f84")
