@@ -1,0 +1,8 @@
+--game: Pro Basketball Manager 2017
+
+addappid(545130)
+addappid(228985)
+addappid(229003)
+addappid(229004)
+addappid(229005)
+addappid(545131,0,"1550919fa7478e08c94ea435f587bcfe3cb867675d4aa9df0f33b4681d08a6a4")
