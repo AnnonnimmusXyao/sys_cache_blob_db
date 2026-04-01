@@ -1,0 +1,4 @@
+--game: The Inner World - The Last Wind Monk
+
+addappid(613470)
+addappid(613471,0,"39baf8bf4df2f532170aac5688848bfa68b1f70aadb9138b0d0177cd95b6be2c")
