@@ -1,0 +1,4 @@
+--game: DNO Rasa's Journey
+
+addappid(376160)
+addappid(376161,0,"6c851b83369571722e87a00a5e4e41a3937dc3c8f2edf14c766d45a426653940")
