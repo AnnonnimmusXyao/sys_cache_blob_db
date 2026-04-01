@@ -1,0 +1,4 @@
+--game: Rogue Singularity
+
+addappid(419710)
+addappid(419711,0,"9655f1c701595a2031d31f58718df871f4db049a7aec9dc2b7a8b2ba45a86252")
