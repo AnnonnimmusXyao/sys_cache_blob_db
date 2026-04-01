@@ -1,0 +1,4 @@
+--game: Solaria Moon
+
+addappid(623930)
+addappid(623931,0,"7450ce39bf6990ea58266c9cd32f15d77d11e7a70882d1ba025f610853191812")
