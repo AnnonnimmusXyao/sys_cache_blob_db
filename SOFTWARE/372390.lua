@@ -1,0 +1,4 @@
+--game: D3DGear - Game Recording and Streaming Software
+
+addappid(372390)
+addappid(372391,0,"19577866ed87f03469d6c0866b3c77a951dfce214008f76d35f55084a256d83a")
