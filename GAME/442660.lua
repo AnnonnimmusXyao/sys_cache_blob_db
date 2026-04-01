@@ -1,0 +1,4 @@
+--game: The SoulKeeper VR
+
+addappid(442660)
+addappid(442661,0,"e5ed27297a7adc7a4156d2f8949f33f75fdac0e3f536df16eb7683e4fcac5641")
