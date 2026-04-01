@@ -1,0 +1,4 @@
+--game: Bank Limit : Advanced Battle Racing
+
+addappid(493500)
+addappid(493501,0,"e0f0f25c8a8f2373b1fb77f516a030ced15ecdd458b54548ad7a2ed01f03c34b")
