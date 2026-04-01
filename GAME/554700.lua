@@ -1,0 +1,4 @@
+--game: Viking Escape
+
+addappid(554700)
+addappid(554701,0,"e2439620ef03fa79b1ebda912bd0358186f9afac177e822d0506d50dbf2ce523")
