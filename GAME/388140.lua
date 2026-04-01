@@ -1,0 +1,4 @@
+--game: Strategic Command Classic: WWI
+
+addappid(388140)
+addappid(388141,0,"0ca774bf8fb7eff647ce5a6dff7afc2dc1f3cce253051de1e4961cc3a63fa6d8")
