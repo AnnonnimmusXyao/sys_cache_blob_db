@@ -1,0 +1,4 @@
+--game: ALONE? - VR
+
+addappid(529500)
+addappid(529501,0,"d2d598249a42a108f77f7860fcee5a5255b72bb125f730eed963553668d6444b")
