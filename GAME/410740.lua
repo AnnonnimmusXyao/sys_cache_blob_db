@@ -1,0 +1,4 @@
+--game: Flying Neko Delivery
+
+addappid(410740)
+addappid(410741,0,"65cf08ac7d329f29819663b2ef6447dad183316f5150353580ab76b0b3f6c4f6")
