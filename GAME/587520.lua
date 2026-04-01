@@ -1,0 +1,4 @@
+--game: Dungeons of Sundaria
+
+addappid(587520)
+addappid(587521,0,"ee8e7a21188c93683f88190fc1dc1d581d355fe1cec23ac1ac7952be35c47ed6")
