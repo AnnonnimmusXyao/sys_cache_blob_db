@@ -1,0 +1,4 @@
+--game: We Are Chicago
+
+addappid(414330)
+addappid(414332,0,"850719c60807925831cfa5ca3067a0db75324c78869acc4d9cbd8aebf8cfc023")
