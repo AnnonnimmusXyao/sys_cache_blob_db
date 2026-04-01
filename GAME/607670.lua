@@ -1,0 +1,4 @@
+--game: Puzzle Guardians
+
+addappid(607670)
+addappid(607672,0,"0a419d72d448652d72d3aedfb053ed1d583f165c630aebf38942302b2d2e3b37")
