@@ -1,0 +1,8 @@
+--game: VR SUPER SPORTS
+
+addappid(593240)
+addappid(593241,0,"bccf5c2a3c9d2f5c8d487586d2ecb2fc2ce09aab743776d719742f8ab0553267")
+addappid(593244,0,"381182757bb24b2cd23ef46ab759a3e731723ef45ec4cb5eaa2ffc48f4613e85")
+addappid(647370)
+addappid(647371)
+addappid(789640)
