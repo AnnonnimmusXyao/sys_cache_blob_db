@@ -1,0 +1,4 @@
+--game: DeDrive
+
+addappid(672490)
+addappid(672491,0,"e978641f6b78ded71dfa3ef51822a0c4b6b1fde7acaeca2326463b6eda28f699")
