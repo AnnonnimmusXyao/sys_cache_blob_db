@@ -1,0 +1,4 @@
+--game: Baezult
+
+addappid(509860)
+addappid(509861,0,"fc96dbbfb4fcc829415e8b0a8016e0f220d982cf9007a14599ae2dd99c06375d")
