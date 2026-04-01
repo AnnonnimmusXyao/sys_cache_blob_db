@@ -1,0 +1,5 @@
+--game: Destiny Warriors RPG
+
+addappid(228982)
+addappid(399790)
+addappid(399791,0,"75b4652cea9c44d9576c03c93934f0f436a31caf2470995f97f62e606410f729")
