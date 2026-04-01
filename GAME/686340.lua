@@ -1,0 +1,4 @@
+--game: Insanity VR: Last Score
+
+addappid(686340)
+addappid(686341,0,"ff59244d25925247b60398df8ae4a66eaa70c9ea4692162005617e61416a2510")
