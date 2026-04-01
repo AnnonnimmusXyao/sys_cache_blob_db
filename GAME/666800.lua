@@ -1,0 +1,4 @@
+--game: Solitaire - Cat Pirate Portrait
+
+addappid(666800)
+addappid(666801,0,"9c51a818f4f8f493f1dd6176d06cf8340cddfaebb6359d4a186cc86d78e45aba")
