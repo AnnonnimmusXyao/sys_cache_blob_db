@@ -1,0 +1,5 @@
+--game: Nancy Drew®: Labyrinth of Lies
+
+addappid(572710)
+addappid(572711,0,"48c263978585d11e571c42d6408b1a826ec74a85bfde41773ddb95505e9d108d")
+addappid(954110)
