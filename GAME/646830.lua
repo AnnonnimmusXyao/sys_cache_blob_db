@@ -1,0 +1,4 @@
+--game: Blood of Darkness
+
+addappid(646830)
+addappid(646831,0,"de207de5fbc2003fd7d99e70c4092a28277e13bced6bd7ca62ab9e153a04a16a")
