@@ -1,0 +1,4 @@
+--game: Nancy Drew®: The Silent Spy
+
+addappid(572730)
+addappid(572731,0,"c9a69a388a75131dca4cd70c27315f95a1eba94378f185a0bbbc6d334d070317")
