@@ -1,0 +1,6 @@
+--game: NEO Impossible Bosses
+
+addappid(228987)
+addappid(229020)
+addappid(676580)
+addappid(676581,0,"e18d6590ab6f51acbfa2bd76dd04afe02053509df72efafee83b242dbd45b337")
