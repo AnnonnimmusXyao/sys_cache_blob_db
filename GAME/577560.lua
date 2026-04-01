@@ -1,0 +1,4 @@
+--game: Wizard King
+
+addappid(577560)
+addappid(577561,0,"1f5141ef73c600bcf93d80678f13b43e961a93de8b63ef989384c19d46d5cb47")
