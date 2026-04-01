@@ -1,0 +1,5 @@
+--game: Midnight's Blessing
+
+addappid(370640)
+addappid(228982)
+addappid(370641,0,"4162e22db62f4804443c1b6e17699986bf4dfcddfb0ec11d7809cc68aa70dd69")
