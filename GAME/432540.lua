@@ -1,0 +1,4 @@
+--game: Devil Sealing Stone
+
+addappid(432540)
+addappid(432541,0,"af3ced33d7b401f75ef488ce1090de0a58cb432cd2fe182acac112ef5b8fc2e0")
