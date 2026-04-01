@@ -1,0 +1,5 @@
+--game: Dragonflight
+
+addappid(386930)
+addappid(386931,0,"ccdde28506dd399d9b1c25480e0f87db1095c6652f81e1fc1a5a50c09743db9f")
+addappid(386932,0,"e5550aba1fbd28af12b784cb83e1c6ad165baa29a6f2ae29696d7095c49ff305")
