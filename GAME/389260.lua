@@ -1,0 +1,4 @@
+--game: Lucid Trips
+
+addappid(389260)
+addappid(389261,0,"3423f61757c9f1637884086fd062e2a41dad7ff3477c0bf7c7505e5f506c6ff8")
