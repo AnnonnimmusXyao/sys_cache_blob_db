@@ -1,0 +1,4 @@
+--game: Mysterious Castle
+
+addappid(417840)
+addappid(417841,0,"abd3f0a497bcf868a73e9a67a5817988b2c90d715cf9dae8f0400d5e78b491bb")
