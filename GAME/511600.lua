@@ -1,0 +1,4 @@
+--game: Space Jones VR
+
+addappid(511600)
+addappid(511601,0,"77c7fca57c12f62fc9940f22169f1ee7cb5523dbc385b0ea8b2d87eeffab428a")
