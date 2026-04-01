@@ -1,0 +1,4 @@
+--game: Neon Coliseum
+
+addappid(686300)
+addappid(686301,0,"21b0e95110ae4c9eba22a787f1d61c046339c6441c2964002d7cce97e05852b3")
