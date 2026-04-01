@@ -1,0 +1,4 @@
+--game: Astrox: Hostile Space Excavation
+
+addappid(414720)
+addappid(414722,0,"22821e0372934a1c25000408735e13ca2750fca7dc0e344af704a642f2de8827")
