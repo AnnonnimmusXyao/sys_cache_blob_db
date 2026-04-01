@@ -1,0 +1,5 @@
+--game: Riskers
+
+addappid(581310)
+addappid(581311,0,"24fab96bca6dd63de75dfe69c0ff57be26fa29dd7eea50863e367c465129034c")
+addappid(581312,0,"5c590d63e51bfec59b23d3b6c5ecadbd788a910dea5c31aa763b3a115fb382d1")
