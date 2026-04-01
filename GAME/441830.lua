@@ -1,0 +1,5 @@
+--game: I am Setsuna
+
+addappid(441830)
+addappid(228985)
+addappid(441831,0,"6988f2389a442305a32cd353593837b14ae608b590d3407289a8060b8ac0c75b")
