@@ -1,0 +1,4 @@
+--game: Alien Life Lab
+
+addappid(680240)
+addappid(680241,0,"821fe4fac9e439fb38ec10ba1d107e18435cb56978cdc85f449b679ee16143d5")
