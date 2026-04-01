@@ -1,0 +1,6 @@
+--game: Doodle God: 8-bit Mania - Collector's Item
+
+addappid(538060)
+addappid(228987)
+addappid(538061,0,"9360816a456c52b41e9a1f7ca08472d4e4fd6198ec1ffba4fe5ad951628984b8")
+addappid(538062,0,"6e850cdb74e9a32e9e9dc6497e30ae4e345d5c663dfc67d59ce33ea534640f7b")
