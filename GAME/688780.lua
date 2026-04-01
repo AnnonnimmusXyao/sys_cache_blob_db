@@ -1,0 +1,4 @@
+--game: Taras Bulba and platforms of Hoolion
+
+addappid(688780)
+addappid(688781,0,"10e3b045ff367acab62effa16de2f12c16601c51f75b42165cecd0b448a40c0d")
