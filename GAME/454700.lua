@@ -1,0 +1,4 @@
+--game: Shiny Gauntlet
+
+addappid(454700)
+addappid(454701,0,"c5fe0145a600a918ef62fc93c4b571de6f2fec979c4c75db9cb51132b42865af")
