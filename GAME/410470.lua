@@ -1,0 +1,4 @@
+--game: Expander
+
+addappid(410470)
+addappid(410471,0,"535e91edf9db5951d04ac6174c4a6a4cd6122ac36df38e7bf6c3ff41550a7720")
