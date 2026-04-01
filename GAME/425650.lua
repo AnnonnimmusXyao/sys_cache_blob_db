@@ -1,0 +1,4 @@
+--game: Halloween Forever
+
+addappid(425650)
+addappid(425651,0,"1ecbe49f0f9de2e86eaf3aab5aeebd3bf0d0658dd43bf46ee84764652c3ac9d2")
