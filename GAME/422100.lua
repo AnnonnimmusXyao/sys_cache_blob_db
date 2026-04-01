@@ -1,0 +1,5 @@
+--game: Heaven Island Life
+
+addappid(422100)
+addappid(422101,0,"adcb00be885f426857947f82e70416e534dd32efccc7f20752c107ea3947cb53")
+addappid(573880)
