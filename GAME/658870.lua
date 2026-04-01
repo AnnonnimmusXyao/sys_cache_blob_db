@@ -1,0 +1,4 @@
+--game: EXIT 2 - Directions
+
+addappid(658870)
+addappid(658871,0,"de40e879617cbee78f73897829b2a6257eb7fcb9c3dff3a58c58971e627e61a8")
