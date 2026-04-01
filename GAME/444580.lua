@@ -1,0 +1,4 @@
+--game: ALONE IN SPACE
+
+addappid(444580)
+addappid(444581,0,"d407148d74ee2e4625c40386a6510bb0046c3c15f4da94db91db3dc15bb1a1b0")
