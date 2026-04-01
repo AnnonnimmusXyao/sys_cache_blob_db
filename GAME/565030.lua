@@ -1,0 +1,4 @@
+--game: Blueshift
+
+addappid(565030)
+addappid(565031,0,"699e88b90c35c8ff99c4551ad8258395e382b95798264a512205fce7b7623b3a")
