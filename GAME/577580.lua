@@ -1,0 +1,5 @@
+--game: Gladiator: Sword of Vengeance
+
+addappid(577580)
+addappid(577581,0,"f0dbf9ddfd7cab6bc7df92b88687377035ab74f262540bdfd7395bd400075285")
+addappid(577584,0,"fa05717d14e9b0492d79906df2bcbec800ccee5118db89f1d3e9654c2a4df573")
