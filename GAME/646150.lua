@@ -1,0 +1,4 @@
+--game: Winter Wolves Classic Games Collection
+
+addappid(646150)
+addappid(646151,0,"0a073d98a55c0b351ad6b0db04b26315149e64366b41ffd9965eb1651c6f839b")
