@@ -1,0 +1,4 @@
+--game: TrumPiñata
+
+addappid(495300)
+addappid(495301,0,"105e2ae0f0622045814f5c5cbaa7b37412f9cd9eba33b0437d8c57a91488638b")
