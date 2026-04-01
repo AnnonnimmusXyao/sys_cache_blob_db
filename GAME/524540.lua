@@ -1,0 +1,4 @@
+--game: Samurai of Hyuga
+
+addappid(524540)
+addappid(524541,0,"1a7803bccb6438376724ebe27b71b82db285c989d45dcf07d5d3e507ca0e5fcf")
