@@ -1,0 +1,4 @@
+--game: Mars 2030
+
+addappid(510850)
+addappid(510851,0,"12d529b6d1ddd83f884d33ee6d812eeffa133c091b07d59f046704b3f56423df")
