@@ -1,0 +1,4 @@
+--game: MarZ: Tactical Base Defense
+
+addappid(682530)
+addappid(682531,0,"4163b3fd8968075b0bf78bc01f101d82ec96281e74734c46e31d7d2651b93995")
