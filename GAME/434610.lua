@@ -1,0 +1,4 @@
+--game: Forbidden Planet
+
+addappid(434610)
+addappid(434611,0,"e73938814bb302be29b5db5bb545e0705556d7354f6e628d2e24d28d5d62ea56")
