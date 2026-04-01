@@ -1,0 +1,4 @@
+--game: Just Hero
+
+addappid(527760)
+addappid(527761,0,"7c4a0129907d21b6a4f36f1854d6f3eaea123a1882b3b143db11e17fb44e1e9b")
