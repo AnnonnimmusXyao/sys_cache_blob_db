@@ -1,0 +1,4 @@
+--game: Quest for Glory 1-5
+
+addappid(502750)
+addappid(502751,0,"d504e1f1fb04429e56900944866701c2c3ecea028151f34cdb38707b7cbb13b6")
