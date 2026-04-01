@@ -1,0 +1,4 @@
+--game: Mystic Defense
+
+addappid(553910)
+addappid(553911,0,"6e00d22870c564425bf9ef2450a222fc0fe3784a713453e323336a46206ef97a")
