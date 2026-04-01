@@ -1,0 +1,4 @@
+--game: Labyrinth Simulator
+
+addappid(391520)
+addappid(391521,0,"a57b244ed180b9986143579ec6a68f92d06740c88615a6fd0a7f63014e50c538")
