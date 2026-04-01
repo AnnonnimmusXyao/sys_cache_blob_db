@@ -1,0 +1,4 @@
+--game: Paddle Up
+
+addappid(496250)
+addappid(496251,0,"2339cef7afbe921340ff5b395c24607e37781af5d2606cf61fd492f218861cd3")
