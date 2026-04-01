@@ -1,0 +1,4 @@
+--game: Empire - Wargame of new Century
+
+addappid(666640)
+addappid(666641,0,"8cdcf69fa3ed696718689325518317ea72fd55324e6c56e492b8eca89a54ecba")
