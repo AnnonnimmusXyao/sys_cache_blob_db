@@ -1,0 +1,5 @@
+--game: SquareCells
+
+addappid(228983)
+addappid(416770)
+addappid(416771,0,"c219d032ce8475630b4f3c47c1153f552bbbd7617686cfd713ec83a22d09cd9b")
