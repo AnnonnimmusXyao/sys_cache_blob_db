@@ -1,0 +1,4 @@
+--game: Red is Dead - The Complex Fun Random Level Fast Strategy Game
+
+addappid(503130)
+addappid(503131,0,"bf8c204673692e4271a2ef291d24eb7049bf787b3c3a308d3b3e162c135784d4")
