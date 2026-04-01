@@ -1,0 +1,4 @@
+--game: Pro Basketball Manager 2016 - US Edition
+
+addappid(412560)
+addappid(412561,0,"aaaa65de4bb460343179e8cf84dc5f91c1c161e069f91e809fcfcbd0154ca140")
