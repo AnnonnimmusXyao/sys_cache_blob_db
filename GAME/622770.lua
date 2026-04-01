@@ -1,0 +1,9 @@
+--game: Hacktag
+
+addappid(622770)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229000)
+addappid(622771,0,"8ec62138bae6eb834b227803d98fd192391100d5455f32bd360a90594215dfce")
+addappid(622775,0,"8177ec593f163cb6ca3a638dc690a35c9421e4e2eb49e355ce16a1ec7531403f")
