@@ -1,0 +1,4 @@
+--game: The Whisperer in Darkness
+
+addappid(435000)
+addappid(435002,0,"cb037a160fa1e5f6b7e0e23a6ce4bcc5d3593734a07420ed5c5cf2708cfbd10e")
