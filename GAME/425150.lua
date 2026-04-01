@@ -1,0 +1,4 @@
+--game: Assassins vs Pirates
+
+addappid(425150)
+addappid(425151,0,"9bc185190b6b7f1e152350135eebcfe56d50034722136858ba07e1aeb06aa3b1")
