@@ -1,0 +1,4 @@
+--game: Infested Nation
+
+addappid(669360)
+addappid(669361,0,"0cb128c35878d3de2e33bcaeb74df6fa0b35890f63f57f832582570445490491")
