@@ -1,0 +1,6 @@
+--game: Ion Fury
+
+addappid(562860)
+addappid(562861,0,"7d7e3dc23d2ddff8ef66b5d653dea36cda157b4c6d63c9b5438b2afec48a66c2")
+addappid(562862,0,"49805728d70a3ac62761d11ab821afdef4a10bf7c844148d0cefe9c7c16add2b")
+addappid(1588720)
