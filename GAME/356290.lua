@@ -1,0 +1,4 @@
+--game: Cuban Missile Crisis: Ice Crusade
+
+addappid(356290)
+addappid(356291,0,"1d616146e7a6ff4ab15fc8a8452df6b8a3affa4f0b57388509a025b5510d502d")
