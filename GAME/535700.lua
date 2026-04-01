@@ -1,0 +1,4 @@
+--game: 3D Chess
+
+addappid(535700)
+addappid(535701,0,"fd90cc7df8442dc43d05fdc07d6721619e2d6c3a93772c8aaeb8e072d92748ac")
