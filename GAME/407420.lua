@@ -1,0 +1,6 @@
+--game: Gabe Newell Simulator
+
+addappid(407420)
+addappid(480580,0,"09ea9c82375f639032757be87fafa698f8f48a24eb5df5e60ac108566ac353e0")
+addappid(407423,0,"ee9aa98b6961e5f05dceea3de564e88000d841227bdac0b27767ae22d162e55a")
+addappid(407424,0,"642ebd1cac55c887f946bdcd977eccb13d01d95cd05aa8850859e957ddb5d0a1")
