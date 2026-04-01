@@ -1,0 +1,4 @@
+--game: EXA: The Infinite Instrument
+
+addappid(606920)
+addappid(606921,0,"166aa70f47c56a5d561680a4050fdb6571b72574d4140b81beaa357a26f3550d")
