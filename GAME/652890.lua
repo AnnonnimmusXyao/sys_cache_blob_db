@@ -1,0 +1,4 @@
+--game: Vanguard Knights
+
+addappid(652890)
+addappid(652891,0,"e03bbe7d9118e7ac5e59a6b864ba5c8b7cb41ba3a6489c8931f231c4bcae2c8d")
