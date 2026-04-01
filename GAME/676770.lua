@@ -1,0 +1,4 @@
+--game: Island Dash
+
+addappid(676770)
+addappid(676771,0,"3d9454b55e82642f4c9724ed1c4248567d4d7ab8d27389cdde495040b7fd1659")
