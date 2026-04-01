@@ -1,0 +1,4 @@
+--game: Firebird - La Peri
+
+addappid(436490)
+addappid(436491,0,"68287b611870e088f0100ec763701289f0f3081916518d5dd2d4ef6bf716ba67")
