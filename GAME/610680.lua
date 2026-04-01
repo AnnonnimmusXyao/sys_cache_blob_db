@@ -1,0 +1,4 @@
+--game: Starway Fleet
+
+addappid(610680)
+addappid(610681,0,"737ff3ed8468b93bf143ea798f2d0cee1141605e0acef7a4373f94e5d4228167")
