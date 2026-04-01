@@ -1,0 +1,4 @@
+--game: Mass Destruction
+
+addappid(396820)
+addappid(396821,0,"91e73c92d98d8c12ce4f9174ca973d55cc2ec33686f4b7a57b86db131900d84d")
