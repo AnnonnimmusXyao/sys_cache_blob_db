@@ -1,0 +1,6 @@
+--game: Soulslayer～灭魂·误佳期～
+
+addappid(229020)
+addappid(466810)
+addappid(466812,0,"91045ace588eedadf7f0707552164896e02b2841ace88e872c0d030cdc65e741")
+addappid(684360,0,"db15ada0c36d19f40e145ed5c8da3dd7404276b08a2811585eb12de1dada5450")
