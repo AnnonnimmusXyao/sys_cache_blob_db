@@ -1,0 +1,9 @@
+--game: Assassin’s Creed® Chronicles: Russia
+
+addappid(228983)
+addappid(229002)
+addappid(359600)
+addappid(359601,0,"3830d637e9f61d5da62795c0aa9727dd293716618225c14fd8d8d0dfa516af34")
+addappid(376430)
+addappid(441740)
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
