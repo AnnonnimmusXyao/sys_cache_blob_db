@@ -1,0 +1,4 @@
+--game: Sin Castle
+
+addappid(577180)
+addappid(577181,0,"7f01b4dc4dd703607bad70f20fe83e13eab6bbfc12bb605e8beaa5036036e071")
