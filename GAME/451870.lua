@@ -1,0 +1,4 @@
+--game: Nighttime Terror VR: Dessert Defender
+
+addappid(451870)
+addappid(451871,0,"59f715fef21f72400dd65ab36b3e881be055c648528f5d465ec566d12e0a3648")
