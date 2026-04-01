@@ -1,0 +1,4 @@
+--game: Babel: Tower to the Gods
+
+addappid(441230)
+addappid(441231,0,"b0807ddfd761387f3373ed2aa06875410ffb99427eb84f374a80161d6ce0155a")
