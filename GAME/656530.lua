@@ -1,0 +1,4 @@
+--game: Pro Gamer Manager 2
+
+addappid(656530)
+addappid(656531,0,"07db09b431c75c8bbda0e8583c023b76cdc145afa0438a6d6da1e8e57276a511")
