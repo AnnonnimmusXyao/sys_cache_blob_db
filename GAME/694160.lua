@@ -1,0 +1,4 @@
+--game: Guardians of Life VR
+
+addappid(694160)
+addappid(694161,0,"2c53601c9b9ae88b65edc21c60716710dd13f525cdd9efd88024dbba754fcfe4")
