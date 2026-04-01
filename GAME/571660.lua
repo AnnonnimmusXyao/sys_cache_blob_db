@@ -1,0 +1,4 @@
+--game: Psyche Soldier VR
+
+addappid(571660)
+addappid(571661,0,"fa78e8887d3ca7b4cfcdc428034b8c55a74295322d7f4ffc07353965c028decf")
