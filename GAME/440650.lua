@@ -1,0 +1,6 @@
+--game: Niche - a genetics survival game
+
+addappid(440650)
+addappid(440651,0,"173b902c8affd1385f5e1087a2ec9c5ea9737f0d1540c21344efc2cdb62135cc")
+addappid(440652,0,"74134a27bf39dc022e5240c34ba5de0d07ec253925ee1c24953f422183a4663a")
+addappid(440653,0,"c3f5f7b4802f418d71f564b413c79cedd87cc9adce6203da8e432a8f15dac0fc")
