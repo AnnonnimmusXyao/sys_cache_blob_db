@@ -1,0 +1,4 @@
+--game: DEFECTIVE
+
+addappid(692590)
+addappid(692591,0,"78fee208867edf9c7262dca04dafaf661e353b192427f5f215287a9c28d5ab19")
