@@ -1,0 +1,5 @@
+--game: Sixtieth Kilometer
+
+addappid(448780)
+addappid(448781,0,"9e1c4e8cb1def3e7829445ca633e024131601f2aebbdd13139adf96336d8057e")
+addappid(448782,0,"a3f4f636287974e1cf79c84fe0144a5ccdb7d8c225309b78477d19bb3ad2ffed")
