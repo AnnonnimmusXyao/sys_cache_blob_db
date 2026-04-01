@@ -1,0 +1,7 @@
+--game: BATTALION: Legacy
+
+addappid(489940)
+addappid(489941,0,"74435adc1164efd21521555018ef3e81cc7892933c8c9898b4bc4957e7d0997f")
+addappid(794150)
+addappid(1133020)
+addappid(1167740)
