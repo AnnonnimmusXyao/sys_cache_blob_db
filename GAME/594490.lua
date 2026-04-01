@@ -1,0 +1,4 @@
+--game: Deadly Hunter VR
+
+addappid(594490)
+addappid(594491,0,"62e2a038d4b56605fb782498deb688398195cf7a45aa481658e908e42fd4a710")
