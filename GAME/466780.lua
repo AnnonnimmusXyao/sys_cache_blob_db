@@ -1,0 +1,4 @@
+--game: Prehistoric Tales
+
+addappid(466780)
+addappid(466781,0,"6fb387856a5bce6a91880c377a03b4104556a4a2e1663fbfbde48a2e14906070")
