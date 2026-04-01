@@ -1,0 +1,4 @@
+--game: SwingStar VR
+
+addappid(476430)
+addappid(476431,0,"f2b203d504a649f011e04f8c647c5811e30b499dc20ee75972e58a68005caa67")
