@@ -1,0 +1,4 @@
+--game: The Men of Yoshiwara: Kikuya
+
+addappid(381100)
+addappid(381101,0,"cf190a0f6079deedfe7b26d14817339408d2d668a10a2aa70a2942b078632a2f")
