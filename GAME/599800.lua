@@ -1,0 +1,4 @@
+--game: Easy Magic
+
+addappid(599800)
+addappid(599801,0,"898d0aa12d60a36d9d1e9495e152a4e60f0e2a850ae5b5426523c8e376cbbdf0")
