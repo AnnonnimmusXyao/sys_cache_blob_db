@@ -1,0 +1,6 @@
+--game: HELI-COMMANDO 2017
+
+addappid(229002)
+addappid(229012)
+addappid(679030)
+addappid(679031,0,"c45911c718b04b3635dcea4926eda3e1286785251b46580ff4728a410c2fdedc")
