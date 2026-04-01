@@ -1,0 +1,4 @@
+--game: Childhood grocery 辣条杂货店 学校小卖部 :令人感动的童年回忆，经典策略模拟经营解密
+
+addappid(687650)
+addappid(687651,0,"6476bdb6d1f5282f3fc02f0dabb6259e3c231c2d269ad70b712ed7a21d1a2220")
