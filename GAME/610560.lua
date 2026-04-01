@@ -1,0 +1,4 @@
+--game: Tales of the Lumminai
+
+addappid(610560)
+addappid(610561,0,"57172788d56c3b0faf7764526ef6aee94f735edea295c69562b91d1af54b6c83")
