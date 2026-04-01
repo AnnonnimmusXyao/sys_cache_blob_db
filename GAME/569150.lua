@@ -1,0 +1,4 @@
+--game: Dark Cases: The Blood Ruby Collector's Edition
+
+addappid(569150)
+addappid(569151,0,"c7a0597fa409c493676034ba1d20065867996240ba01873947c3faafdca97102")
