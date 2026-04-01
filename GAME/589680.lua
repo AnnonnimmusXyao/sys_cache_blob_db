@@ -1,0 +1,4 @@
+--game: Chainless
+
+addappid(589680)
+addappid(589681,0,"6140a71f519f1e8752136266203916e8ca3c5b38e15b8f2d9f3ca4e65f35a7bb")
