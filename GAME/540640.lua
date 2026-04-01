@@ -1,0 +1,4 @@
+--game: Tales of the Elements
+
+addappid(540640)
+addappid(540641,0,"79b02fc92d282e84ebc8ae86790eeefd8a8ee81d2b77bb6191f04545d28d033f")
