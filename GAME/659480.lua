@@ -1,0 +1,13 @@
+--game: The Initiate
+
+addappid(659480)
+addappid(228987)
+addappid(229004)
+addappid(229005)
+addappid(229011)
+addappid(229012)
+addappid(229020)
+addappid(229030)
+addappid(229031)
+addappid(229032)
+addappid(659481,0,"ccab7746594944e971e0d1d6b25c3af3842be3f1225830593922eeb2db8d3df0")
