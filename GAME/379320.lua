@@ -1,0 +1,4 @@
+--game: Clandestinity of Elsie
+
+addappid(379320)
+addappid(379321,0,"869e1ccd6ec3024df1b2bf8215a9905925d8e7a18c60d6c9791a26da6beaab40")
