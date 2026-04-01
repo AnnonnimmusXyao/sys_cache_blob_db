@@ -1,0 +1,6 @@
+--game: Locomancer
+
+addappid(490250)
+addappid(490251,0,"1043d7ea8dc50287d999e24d2fd2251d40a0dc2d8b8e2700310de64615c6a8a3")
+addappid(490252,0,"ec3466b064fbfcde63dfe06e173cddd4b5788e87e6e1dc53d34db7c5bea7cda4")
+addappid(598540,0,"15780a0dce3c66d32ef26f26073c5af6ded5f6c71f0496048e3cf2232ea605fc")
