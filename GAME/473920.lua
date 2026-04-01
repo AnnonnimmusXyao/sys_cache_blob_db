@@ -1,0 +1,4 @@
+--game: Corinne Cross's Dead & Breakfast
+
+addappid(473920)
+addappid(473921,0,"37bf9480d29dd3b83baeace1c9d1578cca98e760f8ccbc4e05198e3161f7cc23")
