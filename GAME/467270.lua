@@ -1,0 +1,4 @@
+--game: Weaves of Fate
+
+addappid(467270)
+addappid(467271,0,"30a36fa3b11375c857b2eb57499e2245a58330e7e501e4299ccd0ccd4b7dee9f")
