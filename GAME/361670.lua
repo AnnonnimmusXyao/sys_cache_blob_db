@@ -1,0 +1,5 @@
+--game: STAR WARS™ - X-Wing Alliance™
+
+addappid(228985)
+addappid(361670)
+addappid(361671,0,"4c55d4e0ed1c0a9d2e872cd0175cbedef581d3465d65737dd234319fe863790b")
