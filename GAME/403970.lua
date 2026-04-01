@@ -1,0 +1,4 @@
+--game: The Dwarves
+
+addappid(403970)
+addappid(403971,0,"d9cfcadcc0c06ca497e0924965af1412930b34a757c98739250b4891b11589c2")
