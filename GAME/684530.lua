@@ -1,0 +1,4 @@
+--game: Lance A Lot: Enhanced Edition
+
+addappid(684530)
+addappid(684531,0,"4b3a01f5664970c884a68075d2e3b58738c9fac16d3a5edc038b09760ea1bf20")
