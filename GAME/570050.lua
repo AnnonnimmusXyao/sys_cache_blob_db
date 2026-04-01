@@ -1,0 +1,4 @@
+--game: Raiden V: Director's Cut | 雷電 V Director's Cut | 雷電V:導演剪輯版
+
+addappid(570050)
+addappid(570051,0,"c14ca313a237ac1201ad35b3c02a04f75412ef18e86311188e0372dfd50d10fa")
