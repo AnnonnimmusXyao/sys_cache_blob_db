@@ -1,0 +1,4 @@
+--game: Shogo: Mobile Armor Division
+
+addappid(610860)
+addappid(610861,0,"ce62d5b9fb9a7e08c66c603d05f19b6cf7d71f6581edeac8cb7005ea67b18f2b")
