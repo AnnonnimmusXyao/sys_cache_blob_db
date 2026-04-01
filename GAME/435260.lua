@@ -1,0 +1,4 @@
+--game: Planet Stronghold: Colonial Defense
+
+addappid(435260)
+addappid(435261,0,"4af9f29d65c2eef909324862d96512ab206d6603bff93e9839f5f91b88952ce0")
