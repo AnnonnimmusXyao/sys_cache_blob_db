@@ -1,0 +1,4 @@
+--game: StarsOne
+
+addappid(457010)
+addappid(457012,0,"f5ca67c896efe388c5b6e15f13a1810d4e7d7ca96ef2a8b0fa03001ccc860afb")
