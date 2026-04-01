@@ -1,0 +1,4 @@
+--game: Stones of Rome
+
+addappid(685760)
+addappid(685761,0,"2e045039dc4207e5dc279ae6511f4e2cf1a31b92f45bcf0d7cf09f5d8fa0c85e")
