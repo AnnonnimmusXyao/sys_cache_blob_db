@@ -1,0 +1,4 @@
+--game: Bad School Boy
+
+addappid(678540)
+addappid(678541,0,"71e68a3403e8d236b847196090751671f77a9a877352c4275ae4fd6ab4496f21")
