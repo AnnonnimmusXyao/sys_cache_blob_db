@@ -1,0 +1,4 @@
+--game: LYDIA: SWEET DREAMS
+
+addappid(447930)
+addappid(447931,0,"ec225483521185538b3a6a7d1ad41684b457de7cfc1d9f907b616c794c2fd83b")
