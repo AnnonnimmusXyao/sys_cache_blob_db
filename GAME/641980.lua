@@ -1,0 +1,4 @@
+--game: Block Survival: Legend of the Lost Islands
+
+addappid(641980)
+addappid(641981,0,"859779ca451f559a22f7e726300bb4f28e0913783bdda45de9ff041bd4cd4035")
