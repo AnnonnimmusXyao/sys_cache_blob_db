@@ -1,0 +1,5 @@
+--game: Handball 17
+
+addappid(228983)
+addappid(526980)
+addappid(526981,0,"325e2c3b0898b4a39b1a882fb8bb7dd105218d160b9bfdedba8ec6a8fa116933")
