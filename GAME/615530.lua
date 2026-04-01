@@ -1,0 +1,6 @@
+--game: Love, Money, Rock'n'Roll
+
+addappid(615530)
+addappid(615531,0,"798a2870c2ddd7da29e898c6f9472b8b5dfcf9bb0799588e2ee149ba756da3f9")
+addappid(2318010)
+addappid(3313270)
