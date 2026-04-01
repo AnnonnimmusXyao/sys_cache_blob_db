@@ -1,0 +1,4 @@
+--game: The Housewife
+
+addappid(496750)
+addappid(496751,0,"590e0d69a78594c087321022c0ee9768aaed3b447822bb63d906c04f3a401fc7")
