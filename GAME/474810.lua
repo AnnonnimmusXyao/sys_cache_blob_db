@@ -1,0 +1,4 @@
+--game: Dorke and Ymp
+
+addappid(474810)
+addappid(474811,0,"88bbefa976d8bdff50376479b9385d3b7788263d04fb9cbb802d2168f197f0f7")
