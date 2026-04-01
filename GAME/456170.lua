@@ -1,0 +1,5 @@
+--game: Bannerman
+
+addappid(456170)
+addappid(456171,0,"b7ed9e122260e3a1d5c496be209ebe65f426b4a9f37f15e9bd576328d5d458cc")
+addappid(656420)
