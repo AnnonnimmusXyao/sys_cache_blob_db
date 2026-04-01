@@ -1,0 +1,4 @@
+--game: Ludoria
+
+addappid(432420)
+addappid(432421,0,"d405f866a0694a3b86a7279372a4630b6abf3b92210c3d5092d24502e5e8f588")
