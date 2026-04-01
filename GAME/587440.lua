@@ -1,0 +1,4 @@
+--game: Galactic Keep
+
+addappid(587440)
+addappid(587441,0,"a0682847b1aa35a05806eaf8dcbcb500d20678ba4889489eb2e611a99e402196")
