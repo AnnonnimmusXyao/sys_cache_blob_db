@@ -1,0 +1,4 @@
+--game: CDF Starfighter VR
+
+addappid(433190)
+addappid(433191,0,"da30e897e06a0bf975002d7dcadd1003473b0ac446ed14b6824faaba7c870834")
