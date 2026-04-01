@@ -1,0 +1,4 @@
+--game: Moriarty: Endgame VR
+
+addappid(611050)
+addappid(611051,0,"f329ccb9b01f3058c62f7cc18efb7c616e06d476c91ecc8ddd89bacc15a2ef94")
