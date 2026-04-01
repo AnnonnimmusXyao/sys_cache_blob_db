@@ -1,0 +1,5 @@
+--game: Zwei: The Ilvard Insurrection
+
+addappid(427700)
+addappid(228982)
+addappid(427701,0,"47f129ee81c28383621200722728f1111bd62b03ada3dc33315ec2260c257f36")
