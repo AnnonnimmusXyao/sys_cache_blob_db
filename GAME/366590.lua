@@ -1,0 +1,4 @@
+--game: Prompt
+
+addappid(366590)
+addappid(366591,0,"f924e2f0779b580ba90a121348509c242f30cbdbb6f910c8ea81c61791e879eb")
