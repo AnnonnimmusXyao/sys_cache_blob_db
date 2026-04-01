@@ -1,0 +1,4 @@
+--game: Way of Redemption
+
+addappid(498740)
+addappid(498741,0,"62c98ac42f053d99d3b2b5f0b81ef541ba9d281b937c59c6bb0372b6c8cf919d")
