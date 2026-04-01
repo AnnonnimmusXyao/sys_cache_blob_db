@@ -1,0 +1,4 @@
+--game: SPLIT BULLET
+
+addappid(449450)
+addappid(449451,0,"d27fe74daa640b04e0348239e6548dc98ed34f4143606b3633c5a045a2fc306d")
