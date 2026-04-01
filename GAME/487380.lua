@@ -1,0 +1,4 @@
+--game: Tetradecagon
+
+addappid(487380)
+addappid(487384,0,"70a738564aa00ff9874758664ff6e6ccec710237104c24c2b5c1f7e992838f1c")
