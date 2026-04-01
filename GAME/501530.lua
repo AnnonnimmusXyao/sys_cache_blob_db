@@ -1,0 +1,4 @@
+--game: SturmFront - The Mutant War: Übel Edition
+
+addappid(501530)
+addappid(501531,0,"8c4d39a1a31c1ba4c6dd3bb86e007845ff9ab436274454eac4043db79ded8f7c")
