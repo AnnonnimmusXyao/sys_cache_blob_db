@@ -1,0 +1,5 @@
+--game: Pankapu
+
+addappid(418670)
+addappid(418671,0,"5e73365d17b0820504ebb38527644a3a02ad72df421079f031d474e0228ce12a")
+addappid(522750)
