@@ -1,0 +1,4 @@
+--game: Heresy
+
+addappid(416160)
+addappid(416161,0,"5be914435419bb73df6b4b5bddc5988f38670612e4eb2757e38b614748d1ca66")
