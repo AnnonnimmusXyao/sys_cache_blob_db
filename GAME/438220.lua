@@ -1,0 +1,4 @@
+--game: Castle Heist: Chapter 1
+
+addappid(438220)
+addappid(438221,0,"4bc1c6255b2d88e329f8f2c3963523da83953d6b53ba96b41ba12413a11fa96d")
