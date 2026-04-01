@@ -1,0 +1,4 @@
+--game: Krai Mira: post-apocalyptic Crimea
+
+addappid(408920)
+addappid(408921,0,"c007e1a8b6536eb80622b5e67c09eff7a042f184f6f0321b87f8206d77b5dc42")
