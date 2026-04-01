@@ -1,0 +1,5 @@
+--game: Hard Lander
+
+addappid(380650)
+addappid(380651,0,"45a2f6f4e5b0a6f85bc75ba1fbdeb319ca5d10d015bdb251a9a539e28fa606c1")
+addappid(380652,0,"f44fb24ee069429fef3bc3d5dff1cc41989d32d2126f653453bf434cccd27879")
