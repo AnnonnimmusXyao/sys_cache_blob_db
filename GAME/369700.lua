@@ -1,0 +1,4 @@
+--game: Tanzia
+
+addappid(369700)
+addappid(369701,0,"e226e98d24746aec0b02b76e376395a29361e75eb0ef481a5b85f321634bf2a0")
