@@ -1,0 +1,5 @@
+--game: Eon Altar
+
+addappid(382050)
+addappid(228983)
+addappid(382051,0,"07d5c2b43d299e05f9a9c6040232aa1b3f942d42b73cce0abb2f8834d8085425")
