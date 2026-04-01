@@ -1,0 +1,4 @@
+--game: The Shrouded Isle
+
+addappid(501320)
+addappid(501321,0,"b9811c7974d74633b7e34ff7d5703c96f1301e20901c724488ad22fa4242fa41")
