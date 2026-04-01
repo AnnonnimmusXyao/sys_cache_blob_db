@@ -1,0 +1,6 @@
+--game: The Count Lucanor
+
+addappid(440880)
+addappid(229020)
+addappid(440881,0,"710c93b2414b26fa55b5a4fa57db1b49a1a708ff384c41e3cf23418ee776732f")
+addappid(440883,0,"8ecd527e5356b6e738cefad5a5829f685273d514c6f0c5477df4d63ba2cfa6fa")
