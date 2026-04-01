@@ -1,0 +1,4 @@
+--game: Andromedum
+
+addappid(457660)
+addappid(457661,0,"ca7c2ad53742d5aece4fff8f64002d81b5f2cb45d1ff666053571d5faf03a067")
