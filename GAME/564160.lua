@@ -1,0 +1,4 @@
+--game: Rosenkreuzstilette Freudenstachel
+
+addappid(564160)
+addappid(564163,0,"75371a2c02bcd59e840ee1c7795b8a13c0d21803c0b8e01402fe00091692b5f5")
