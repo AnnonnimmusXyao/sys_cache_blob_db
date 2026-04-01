@@ -1,0 +1,4 @@
+--game: Endless Winter
+
+addappid(617690)
+addappid(617691,0,"6d7ea01ee95f1748b1b73a997fdac20555ac5c17174bd3a93308774f777f83f8")
