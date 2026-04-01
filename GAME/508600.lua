@@ -1,0 +1,4 @@
+--game: ROD: Revolt Of Defense
+
+addappid(508600)
+addappid(508601,0,"941301e9c0b113ca2aba0ac61d5bfd01ddc7a2d310f11c8aa3d7e0a1316954ca")
