@@ -1,0 +1,5 @@
+--game: Zwei: The Arges Adventure
+
+addappid(228983)
+addappid(427680)
+addappid(427681,0,"4d8d0d55de089ed506538763b717f1af2407603165f5776e9cdbb07676f05213")
