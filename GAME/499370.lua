@@ -1,0 +1,4 @@
+--game: Tower of Archeos
+
+addappid(499370)
+addappid(499371,0,"9c6febf7b5130fd276f4342118ff0bb693a3385f65f1cab0a61ee25146dd3262")
