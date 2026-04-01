@@ -1,0 +1,4 @@
+--game: Dangerous Games: Prisoners of Destiny Collector's Edition
+
+addappid(593720)
+addappid(593721,0,"e55bd104cafc2a96019d41466de41038a5e66963734a03403365a33c4e5fd4c5")
