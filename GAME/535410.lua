@@ -1,0 +1,4 @@
+--game: Saga of the Void: Admirals
+
+addappid(535410)
+addappid(535411,0,"7bcd1831d0b339c2b2323cbb6219222732b5cb3072d93e93301a1929e4ef6039")
