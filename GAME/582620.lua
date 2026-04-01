@@ -1,0 +1,4 @@
+--game: Copoka
+
+addappid(582620)
+addappid(582621,0,"7d048cc9b62b1e9ef9b65e92a2700b527e1813c39b34a084f9618ba544ee2d71")
