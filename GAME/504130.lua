@@ -1,0 +1,6 @@
+--game: Manual Samuel - Last Tuesday Edition
+
+addappid(504130)
+addappid(504131,0,"220064b93804e73f1790909d8988c139ed1582f73c04fac674b0a33e29d2e141")
+addappid(504132,0,"fd084af23a8b89b37907b159cd4867c15cd23a2d5fd9d8e03dae9b0a4f6f5331")
+addappid(504133,0,"fc9ef2baafa4a13347d5ebf54b7e68ad4119f6bc4b547a215b840fafe9a4c204")
