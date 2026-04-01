@@ -1,0 +1,5 @@
+--game: Mecha Ritz: Steel Rondo
+
+addappid(463070)
+addappid(463071,0,"30507cfaf36d51d6b866f42e499466bfd9f7b65c89c7d251aedc8109963452a6")
+addappid(470870)
