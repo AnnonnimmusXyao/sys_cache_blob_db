@@ -1,0 +1,4 @@
+--game: Super Rock Blasters!
+
+addappid(505290)
+addappid(505291,0,"a5ca82632632f6341f4545dfef305c060e8222d4a53b4a6d07b3df446a195c4b")
