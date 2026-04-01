@@ -1,0 +1,4 @@
+--game: Lamm
+
+addappid(586340)
+addappid(586341,0,"7ead19ee2f7450d78ba08d86a539b67e938dc76ff6e9aa186271435af58e9613")
