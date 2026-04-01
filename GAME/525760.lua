@@ -1,0 +1,4 @@
+--game: Awesome Obstacle Challenge
+
+addappid(525760)
+addappid(525761,0,"2c8a095b7257bd401fadf2e563317cfb776250cdf0c04ea821fd1b2381a08b6a")
