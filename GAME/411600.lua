@@ -1,0 +1,4 @@
+--game: The Sentient
+
+addappid(411600)
+addappid(411601,0,"2e176d33b1ebd2cab740c6c2642cccb545b5146365552f8472055ea6d3d47959")
