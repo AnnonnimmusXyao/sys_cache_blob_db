@@ -1,0 +1,4 @@
+--game: Inked: A Tale of Love
+
+addappid(690120)
+addappid(690121,0,"68250848fe37c900d0465d33bd16ebe703dae83513cea27fe8d3fc4819f9f945")
