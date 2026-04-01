@@ -1,0 +1,4 @@
+--game: Hero Generations: ReGen
+
+addappid(443260)
+addappid(443261,0,"0ed292d452b681cd563aa4b148d0f1eac556c7b5ab8653ec94165a8e7ef54c8d")
