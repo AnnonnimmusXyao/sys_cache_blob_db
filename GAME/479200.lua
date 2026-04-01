@@ -1,0 +1,4 @@
+--game: Champions of Odin
+
+addappid(479200)
+addappid(479201,0,"dcb2e9ea723d31f12a9e2671c099e21e04454eaebec14de5dabf6756b75ad76d")
