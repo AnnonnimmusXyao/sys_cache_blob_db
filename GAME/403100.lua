@@ -1,0 +1,4 @@
+--game: Rescue Team 3
+
+addappid(403100)
+addappid(403102,0,"b2b3af80f774cb98b139b477e5313893b1a3afe1c9ee50f98514559e31909c1d")
