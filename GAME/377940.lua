@@ -1,0 +1,4 @@
+--game: Slam
+
+addappid(377940)
+addappid(377941,0,"0007764ffd3eeb7766e87735ce6dd72cdde82b4c5faba24e2fca1c2930283316")
