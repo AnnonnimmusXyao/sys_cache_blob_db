@@ -1,0 +1,6 @@
+--game: Industry Manager: Future Technologies
+
+addappid(384080)
+addappid(384081,0,"a54411b02d0557b53e14e4adea9c6f78c99e185a55e9bf4ca0075fffd2335ea1")
+addappid(384082,0,"09a4563c224bfa27d0f48acf00bbb894626653b31f57a5bbcb400f017f9daf94")
+addappid(444360)
