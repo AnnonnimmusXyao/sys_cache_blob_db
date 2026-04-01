@@ -1,0 +1,17 @@
+--game: Faeria
+
+addappid(228985)
+addappid(397060)
+addappid(397061,0,"7bfe84c05c83f4cf91a19efda2cbffea366559b9f66baaaacd20c458a7345d96")
+addappid(397062,0,"72d4fc8797bc7ff0a45f81f62cee1848e0ac6cc2f3c642ae3b2f313dca7f058e")
+addappid(397063,0,"75efb60b8c87f7df999fe14b8d69cb1d74f9a2257a5b32b7a08e290bb0772b7b")
+addappid(574570)
+addappid(880520)
+addappid(880521)
+addappid(939940)
+addappid(947950)
+addappid(1054730)
+addappid(1083830)
+addappid(1083831)
+addappid(1083832)
+addappid(1083833)
