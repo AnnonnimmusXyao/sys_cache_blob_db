@@ -1,0 +1,4 @@
+--game: Carpe Deal 'Em
+
+addappid(528190)
+addappid(528191,0,"af1e43514f614544738ec17c8a13381ccf6c91b48b9763260467af11ccfa2309")
