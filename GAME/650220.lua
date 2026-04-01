@@ -1,0 +1,4 @@
+--game: Interplanetary: Enhanced Edition
+
+addappid(650220)
+addappid(650228,0,"84654ff85826e949bc171075dd1b4a701724ac9b2b40762493d1c4c4783f6496")
