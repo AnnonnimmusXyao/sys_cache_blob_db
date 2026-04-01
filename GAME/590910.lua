@@ -1,0 +1,4 @@
+--game: 炎黄战纪之三国烽烟
+
+addappid(590910)
+addappid(590911,0,"a5264d8fe32444d28a4c97c8fca99d776fdb67df72f5707ea787de9d35070e4e")
