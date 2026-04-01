@@ -1,0 +1,5 @@
+--game: Catacombs 1: Demon War
+
+addappid(654250)
+addappid(654251,0,"53ee67056b9e57e1ff46d524c76d83a981fbb167a7026c4a1a627551e5663da2")
+addappid(654252,0,"1be31bcc8979c79fb416db9eae52a91e25f9dc255ca00d0550333d4e082c4d04")
