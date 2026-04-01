@@ -1,0 +1,4 @@
+--game: Persian: The Great Lamp Heist
+
+addappid(660970)
+addappid(660971,0,"c3862e136d7fef6c73025936761e4b00dfc2aef19b50eff4d5f2c6bb977d2385")
