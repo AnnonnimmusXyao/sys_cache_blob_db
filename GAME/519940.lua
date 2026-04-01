@@ -1,0 +1,4 @@
+--game: Kubz VR
+
+addappid(519940)
+addappid(519941,0,"0599a09f509508cc8ec22488158a146797c9909ace346a2bc4c4ec84c8a75319")
