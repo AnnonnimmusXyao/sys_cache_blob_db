@@ -1,0 +1,4 @@
+--game: Brass
+
+addappid(677650)
+addappid(677651,0,"58c35536d34c39e84a66f65cc172c03f02d3d8f04dafddb2fcfce9314d8168d2")
