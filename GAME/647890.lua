@@ -1,0 +1,4 @@
+--game: The Agency of Anomalies: The Last Performance Collector's Edition
+
+addappid(647890)
+addappid(647891,0,"8cdfce4a1d1f4368cebdf52b7c9adc32b9b3143c46bbaca0d8de07d55c4849ea")
