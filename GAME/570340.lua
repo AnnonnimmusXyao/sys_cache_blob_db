@@ -1,0 +1,4 @@
+--game: GoWings Safari
+
+addappid(570340)
+addappid(570341,0,"bd7452631fcb4e368c37e0c09342802139e0acd4cf4c04b888561341503cb92c")
