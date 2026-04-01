@@ -1,0 +1,4 @@
+--game: SC2VN - The eSports Visual Novel
+
+addappid(404480)
+addappid(404481,0,"17731a7685311c9444826c070658072151043477a195a971ddd9364bedb0e962")
