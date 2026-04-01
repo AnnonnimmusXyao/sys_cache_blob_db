@@ -1,0 +1,4 @@
+--game: Pixel Shooter
+
+addappid(647280)
+addappid(647281,0,"ef5d134f1cdcdfe44e669bbc4fd4ec7e9ed36ddd843c08aed70b72c002943413")
