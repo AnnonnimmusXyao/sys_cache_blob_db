@@ -1,0 +1,5 @@
+--game: Riddled Corpses
+
+addappid(369890)
+addappid(369891,0,"ffb72774eef2c811b1804290f35e844f6ca4d776a029f310a22bf6d822825494")
+addappid(369892,0,"e41ff52c050a7a7b70bf303f3652ea05f158d5107ddac461adace4fdc424f7b3")
