@@ -1,0 +1,6 @@
+--game: Great eSports Manager
+
+addappid(671170)
+addappid(671172,0,"a8abfac7d9a0b90dbb92b33c84cccd9c89b7b43e821d77e20800f729fbd68bf4")
+addappid(671173,0,"7b176b3b687d9bc6eabc0b28785c1898e5e5060aff97cf65b5e08c6068b14511")
+addappid(671174,0,"b1633bef94de2e91fcec7bdcd917734620d1613b556ae7d3ddcedc6b38bb05e9")
