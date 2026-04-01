@@ -1,0 +1,5 @@
+--game: Roots of Insanity
+
+addappid(229005)
+addappid(598440)
+addappid(598441,0,"0907e8a6980817857e1ed1674feef1a8db96e79eda64dc1c5627649c3264f538")
