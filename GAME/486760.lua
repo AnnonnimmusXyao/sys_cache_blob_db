@@ -1,0 +1,4 @@
+--game: Master Of Marbles
+
+addappid(486760)
+addappid(486761,0,"5eafa91b88f47098fb247941c9f23599ba8e4955cd6349975982805bc900c703")
