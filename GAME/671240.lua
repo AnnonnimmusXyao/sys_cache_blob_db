@@ -1,0 +1,4 @@
+--game: 七个小矮人2 / Seven boys 2
+
+addappid(671240)
+addappid(671241,0,"9148cbb279db9c6cf9ed0a3d0eb205418ee3ee548e6dbfe1767753659102d8e5")
