@@ -1,0 +1,5 @@
+--game: Slime Jumper
+
+addappid(408240)
+addappid(408241,0,"fff6e674518833bf597faf65d96258b095a99958fc811ae23b16db64fc666ce7")
+addappid(408242,0,"5745a7bd4c8e527025061b9e4686fdd44d698ab642b9e2af6be8fc69d240d1ae")
