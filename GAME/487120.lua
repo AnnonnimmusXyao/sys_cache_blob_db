@@ -1,0 +1,4 @@
+--game: Citadel: Forged with Fire
+
+addappid(487120)
+addappid(487121,0,"4c501a8893cb40344da30e292f34450808cb2863d4b616b21b1261811cede857")
