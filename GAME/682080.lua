@@ -1,0 +1,4 @@
+--game: Pato Box
+
+addappid(682080)
+addappid(682083,0,"8c853327e98358ca68c70ee385d444271db1ebcb487ecb62fb1346d8b808c41c")
