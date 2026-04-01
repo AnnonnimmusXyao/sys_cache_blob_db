@@ -1,0 +1,4 @@
+--game: Alchemist Penguin
+
+addappid(491390)
+addappid(491391,0,"6ce1333d82e69756f5094946ea442060137cd69f90987964f4b858e904da861f")
