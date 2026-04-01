@@ -1,0 +1,12 @@
+--game: PixARK
+
+addappid(593600)
+addappid(593601,0,"30052f6dbd5c875ccf3833ebf47a3fec63df141df7fd13a36af93eeb3a2e28e2")
+addappid(883840,0,"412314ab6cc4fc61df3d2687d2a9a5d9e09b0f2c08797209a2a2747977f62a55")
+addappid(1143160)
+addappid(2244940)
+addappid(2251560)
+addappid(2391890)
+addappid(2659570)
+addappid(2792640)
+addappid(3154410)
