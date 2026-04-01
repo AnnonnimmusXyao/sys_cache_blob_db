@@ -1,0 +1,5 @@
+--game: Stone Story RPG
+
+addappid(603390)
+addappid(603392,0,"ff379050d5c8b734daf2792433e292569359c1dfae97471db8403ee5735433e2")
+addappid(1122790)
