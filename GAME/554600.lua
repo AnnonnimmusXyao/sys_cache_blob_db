@@ -1,0 +1,5 @@
+--game: Learn Japanese To Survive! Katakana War
+
+addappid(554600)
+addappid(554601,0,"8fed36e95f69675b11f0b1cf5c8fd3fb4e65502f79e60a2a0ba71c468c9f0692")
+addappid(554602,0,"16190efbaffe409c838a1f97ba8e59c2d7b23d860942b4d8652b24b8456fcafd")
