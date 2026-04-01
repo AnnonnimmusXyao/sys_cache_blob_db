@@ -1,0 +1,4 @@
+--game: Albert Mort - Desert Heat
+
+addappid(670780)
+addappid(670781,0,"2c6306030153ccb467b5e764e9fbf3be73fe309b3860fa8ed55d546c44c09e8b")
