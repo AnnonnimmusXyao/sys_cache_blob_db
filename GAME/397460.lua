@@ -1,0 +1,8 @@
+--game: The Jackbox Party Pack 2
+
+addappid(397460)
+addappid(228985)
+addappid(228987)
+addappid(397461,0,"6f2d761b0fc5971b7aee53fd70770a40bf0cbf3ee7912501ced0f3cf774a3218")
+addappid(397465,0,"c76d6d7aa043e069aa676ae65bd77d9b5ed29183b30026d146affb9510c3a297")
+addappid(2828508,0,"86a8e078c58ea7fbf57bdf1b2611116fe069f5e590cfa11058ca6610e0961700")
