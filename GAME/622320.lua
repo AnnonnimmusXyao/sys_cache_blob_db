@@ -1,0 +1,4 @@
+--game: Nano Project
+
+addappid(622320)
+addappid(622321,0,"127b24e410cd99bb9fa91a1202ccf1e89e339b16b92d0c234ae87fd265fcbb43")
