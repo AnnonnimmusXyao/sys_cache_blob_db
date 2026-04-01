@@ -1,0 +1,4 @@
+--game: Radial Impact
+
+addappid(387890)
+addappid(387891,0,"5e3e3c4a89b3d2695448223cb0d958290c2f18e4105c272bf0da35e8b325625c")
