@@ -1,0 +1,4 @@
+--game: Surf World Series
+
+addappid(462640)
+addappid(462641,0,"1460e70a6c7809d348763b002b1a25e81500e7cc6a0585b0716aa9da49919a88")
