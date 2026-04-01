@@ -1,0 +1,5 @@
+--game: Secret Of The Royal Throne
+
+addappid(464630)
+addappid(464631,0,"af134ffe73caaab8a9ca32e19d059df286ef687497e0d4e00a46efd5d356e1fe")
+addappid(464632,0,"60be4269f6ffb803ec574f638a244970908de5b3cf2ff5903fad64254bcb8739")
