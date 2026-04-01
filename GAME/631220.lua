@@ -1,0 +1,4 @@
+--game: Puzzle Showdown 4K
+
+addappid(631220)
+addappid(631221,0,"2c3451b80ac75a8ad061dab29ff8695e7774d45a79d96376c91da64a6df5533f")
