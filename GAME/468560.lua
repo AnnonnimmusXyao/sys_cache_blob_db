@@ -1,0 +1,4 @@
+--game: Blind Trust
+
+addappid(468560)
+addappid(468561,0,"ee97e8d7c259752378ea1b0d1dfd6eba8718523174adcadd2bd703f46ecd756e")
