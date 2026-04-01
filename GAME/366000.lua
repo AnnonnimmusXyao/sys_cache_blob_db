@@ -1,0 +1,6 @@
+--game: Rogue System
+
+addappid(228983)
+addappid(229020)
+addappid(366000)
+addappid(366001,0,"7974b3bd612aa078702c3636489f7c218419d1d25a866cae4ac5150d27cdf3b0")
