@@ -1,0 +1,4 @@
+--game: #SkiJump
+
+addappid(392150)
+addappid(392151,0,"2a2c742ab7249ff271acd5e72889c503107530b08c4de884669e240183ae6811")
