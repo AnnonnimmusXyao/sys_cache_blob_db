@@ -1,0 +1,4 @@
+--game: Deficis
+
+addappid(377220)
+addappid(377221,0,"f411b05679e531fb7e17d89728060206e94a479eab37ae2950c2ff793013dcc2")
