@@ -1,0 +1,4 @@
+--game: Ski Sport: Jumping VR
+
+addappid(582390)
+addappid(582391,0,"11dc2ea53c701794502b2bdd59ae37c04f15df0c2b1e910b7af4425aa4668a54")
