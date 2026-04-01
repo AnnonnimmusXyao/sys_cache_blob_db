@@ -1,0 +1,4 @@
+--game: Last Days of Old Earth
+
+addappid(376450)
+addappid(376451,0,"a43a7a52bcf9f7bac58508e6a47f76d3e80498ac9f566d847a375dde6133baad")
