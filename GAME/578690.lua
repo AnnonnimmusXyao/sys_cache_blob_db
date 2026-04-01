@@ -1,0 +1,4 @@
+--game: Dog Duty
+
+addappid(578690)
+addappid(578691,0,"7f4c7cb78195b0f90facc597f2eb185e500987557e837eb984da6168ab605764")
