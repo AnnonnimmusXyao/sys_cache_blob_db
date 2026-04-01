@@ -1,0 +1,4 @@
+--game: Robot Legions Reborn
+
+addappid(490880)
+addappid(490881,0,"6c329e8faac7f97f915db102f6d32432b5306ad8268c3baa31d635794141ab26")
