@@ -1,0 +1,4 @@
+--game: Nother: an indie souls-like
+
+addappid(545720)
+addappid(545721,0,"6d5efea8926997f58b08e4c0fd2b299af2b2e7cbbd5a73e092e0b1f5b76e5a08")
