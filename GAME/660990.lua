@@ -1,0 +1,4 @@
+--game: Dead Purge: Outbreak
+
+addappid(660990)
+addappid(660991,0,"3db9953cfeae629913fe8892c0d9e92bb75359269a08b2627630de653542de9d")
