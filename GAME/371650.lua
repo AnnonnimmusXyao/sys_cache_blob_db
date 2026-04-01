@@ -1,0 +1,4 @@
+--game: COLINA: Legacy
+
+addappid(371650)
+addappid(371652,0,"b14e9224f8aac103f87e01af9e32ef904dade054a990ee208d24555f32d1b927")
