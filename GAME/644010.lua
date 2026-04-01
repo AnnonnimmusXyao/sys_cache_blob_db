@@ -1,0 +1,4 @@
+--game: Racing Glider
+
+addappid(644010)
+addappid(644012,0,"c72e3d899ec28417e3577e0a5379407deaef7d6e10d29b8f14e2804be66a0335")
