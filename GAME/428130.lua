@@ -1,0 +1,6 @@
+--game: Walk The Light
+
+addappid(428130)
+addappid(428131,0,"c04b17b38d551ebbd71a2c6ba7206bd38e6e9571b9a7958cc4ef351f221b5b66")
+addappid(428132,0,"732ee6c09f302f60358f8d4dbe4fb3c611bfcc631c1c311a4c3b7689d4cdd479")
+addappid(433390)
