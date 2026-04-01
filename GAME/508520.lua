@@ -1,0 +1,4 @@
+--game: MiniBotz
+
+addappid(508520)
+addappid(508521,0,"fc41e28b1df8176370d0cc53d3f91d64d757ee2bbf21b5466c550d31c239ea7b")
