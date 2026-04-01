@@ -1,0 +1,4 @@
+--game: The Mooseman
+
+addappid(574310)
+addappid(574311,0,"df2c2736411af383fe379ce23690fe504d888e6e7ffac3a06ee679f294f97f70")
