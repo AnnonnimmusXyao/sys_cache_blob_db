@@ -1,0 +1,5 @@
+--game: Darksiders Warmastered Edition
+
+addappid(228983)
+addappid(462780)
+addappid(462781,0,"96eb6dd1c57eb2d2444bf75225a3aacd4ce143a43a111c4e0afa3b7565575e29")
