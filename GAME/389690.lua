@@ -1,0 +1,4 @@
+--game: Nightclub Emporium
+
+addappid(389690)
+addappid(389691,0,"533ab93634d47a4553142c55e1ada3b5bd1053be31f4079cadbdd15454d33cf7")
