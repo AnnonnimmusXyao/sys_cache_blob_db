@@ -1,0 +1,4 @@
+--game: Soma Spirits: Rebalance
+
+addappid(587310)
+addappid(587311,0,"bc0c5903b10bf90abf118b19c94e9160fe29923b1bbd1bb126ab0f4564d848be")
