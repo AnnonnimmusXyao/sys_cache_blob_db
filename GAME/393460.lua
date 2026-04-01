@@ -1,0 +1,5 @@
+--game: Crazy Pixel Streaker
+
+addappid(393460)
+addappid(228985)
+addappid(393461,0,"833d652455d0c4e40a499a0de444a1d3bfc660dd10f146f988d326b6ae9d673c")
