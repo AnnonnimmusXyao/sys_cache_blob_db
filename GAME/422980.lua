@@ -1,0 +1,4 @@
+--game: Super Robot Jump Jump
+
+addappid(422980)
+addappid(422982,0,"2e107c3a6242a402bb25f57955df78d168318e40cc7053b4fdfc23af284f41d5")
