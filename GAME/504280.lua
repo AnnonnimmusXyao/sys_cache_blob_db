@@ -1,0 +1,5 @@
+--game: The Cold War Era
+
+addappid(504280)
+addappid(504281,0,"39246ff6123799d287e9d612cf4ada9ad31ac2d7c92ea5e707c92797d12a1a1e")
+addappid(508430)
