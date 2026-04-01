@@ -1,0 +1,4 @@
+--game: Captain Kaon
+
+addappid(527380)
+addappid(527381,0,"fcb238c3fef59713ba43ecf145d423babe01e69f2f74ebf2d0481833151df98b")
