@@ -1,0 +1,4 @@
+--game: Rise
+
+addappid(497060)
+addappid(497061,0,"6e273ad3e01acbf05e75950e7e13c48cf9bf2c19154dc90a5d9e0d232c8e404a")
