@@ -1,0 +1,4 @@
+--game: 5 Star Rio Resort
+
+addappid(636050)
+addappid(636051,0,"f3348d62da3a6081f369ddffe71eabadc60eaded166415301b95a83c2695dbda")
