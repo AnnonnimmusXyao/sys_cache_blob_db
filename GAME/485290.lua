@@ -1,0 +1,4 @@
+--game: Vermillion Watch: Moorgate Accord Collector's Edition
+
+addappid(485290)
+addappid(485291,0,"7126e0713f0e620e2be31c59d652cd32fd3589f18e4b57a24781ee47311985bb")
