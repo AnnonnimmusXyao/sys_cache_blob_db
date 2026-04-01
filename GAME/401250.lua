@@ -1,0 +1,4 @@
+--game: Zulu Response
+
+addappid(401250)
+addappid(401251,0,"546ff95de324a9fcb9a576e0c44c746acb0ebdcff845ed8482f46357200effa9")
