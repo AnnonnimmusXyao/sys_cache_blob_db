@@ -1,0 +1,7 @@
+--game: Nova Blitz
+
+addappid(388370)
+addappid(388371,0,"b5e00d55f0d0f2ecfb2f05e27b02824f37508b689dfab72124fecd181954c27e")
+addappid(388372,0,"fcc08313e49b68bd66c510d9523fea9ffa6521f04adcb874d8b8ae76ffec71e0")
+addappid(388373,0,"54308d618c6fb9960939662913ffd7fbf1ae796f62d0bea375b001acb69eae36")
+addappid(678600)
