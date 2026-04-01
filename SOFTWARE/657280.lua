@@ -1,0 +1,8 @@
+--game: Rytmik Studio
+
+addappid(657280)
+addappid(657281,0,"8199202f8d7015b4d8402d7eb9ff0207e1eaaa2f52439234d64f80f93232470a")
+addappid(699060)
+addappid(741540)
+addappid(928580)
+addappid(1552100)
