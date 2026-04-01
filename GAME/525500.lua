@@ -1,0 +1,4 @@
+--game: Candy Kingdom VR
+
+addappid(525500)
+addappid(525502,0,"fa88b5b541d4de3be2e18faa9f7aa9ed66a0cd1f2e6639fd153a89e1a4601697")
