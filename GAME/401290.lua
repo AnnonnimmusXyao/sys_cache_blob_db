@@ -1,0 +1,5 @@
+--game: Nusakana
+
+addappid(401290)
+addappid(401291,0,"59ea953c0da1859ea684a18ec368fecb4599cf41d3d9aac13be7ed154fdb8507")
+addappid(764600,0,"d950f19e5c823dccfb509316c621e46ff32c713cc1beb9097dc9309b92a17c06")
