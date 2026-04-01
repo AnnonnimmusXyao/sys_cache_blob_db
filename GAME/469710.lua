@@ -1,0 +1,4 @@
+--game: Shattered Throne
+
+addappid(469710)
+addappid(469711,0,"d9dbd9229e2163a83332674425c6626200b7d3802e5c9923be7d7a65eb235912")
