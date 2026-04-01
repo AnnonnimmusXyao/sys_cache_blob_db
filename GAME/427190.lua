@@ -1,0 +1,4 @@
+--game: DEAD RISING®
+
+addappid(427190)
+addappid(427191,0,"15333e205124aacce0cf02f67a82b8a1df5117d39ab30041d74d72afe545a724")
