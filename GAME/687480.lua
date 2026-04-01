@@ -1,0 +1,4 @@
+--game: Trivia Vault: Science & History Trivia
+
+addappid(687480)
+addappid(687481,0,"a28943b6df7d85ed334db37bf4851727a14f2beaa925d5068eaab49a1347a7ec")
