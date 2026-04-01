@@ -1,0 +1,4 @@
+--game: 逮到你了!
+
+addappid(676660)
+addappid(676661,0,"811b87b23840d8d0ef8420b1fb2bdc7086fdf2e744010f5716e4d9401c49aaef")
