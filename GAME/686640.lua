@@ -1,0 +1,4 @@
+--game: Space Panic Arena
+
+addappid(686640)
+addappid(686641,0,"119b3dc62642d337c34286a2d6c9f9abd88ce8f79834f81464ab95a99e3dd891")
