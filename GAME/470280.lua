@@ -1,0 +1,4 @@
+--game: Lost Route
+
+addappid(470280)
+addappid(470281,0,"8fdb1264f7c0073cdfc18be24d00ea10703fe3a9a846da5338e38b30283c99ba")
