@@ -1,0 +1,4 @@
+--game: Rocket Ski Racing
+
+addappid(471730)
+addappid(471731,0,"6d9cf1698e4116b8db1d0ae6fc1c9334d91ba45bfa5d6f762eec7979ce299153")
