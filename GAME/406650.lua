@@ -1,0 +1,4 @@
+--game: Ratings War
+
+addappid(406650)
+addappid(406651,0,"5d0aa3701978926d3ad71e41dc1fa60d0dc7f49855bfb514c7f96e44ac8488f8")
