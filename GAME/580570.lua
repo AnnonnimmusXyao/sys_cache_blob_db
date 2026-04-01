@@ -1,0 +1,4 @@
+--game: Lethis - Daring Discoverers
+
+addappid(580570)
+addappid(580572,0,"73465b26c453ec5e51ab8ad7e036428076e0a5d6727a84a53513c1de6bbc534d")
