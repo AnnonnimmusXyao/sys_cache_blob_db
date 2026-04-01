@@ -1,0 +1,4 @@
+--game: Need to Know
+
+addappid(490930)
+addappid(490931,0,"5827f9bcbe3501ef924824c20d39a75a7183743f6c4d6d1ea65e097b426b3049")
