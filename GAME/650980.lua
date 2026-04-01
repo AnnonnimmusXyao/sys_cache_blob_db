@@ -1,0 +1,4 @@
+--game: Naklua VR
+
+addappid(650980)
+addappid(650981,0,"c855184b279fc37c8fcd59fdb51573f5dbb73604c79206ab0c385496bac0291f")
