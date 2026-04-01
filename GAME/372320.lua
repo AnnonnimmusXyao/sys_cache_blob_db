@@ -1,0 +1,4 @@
+--game: LOST ORBIT: Terminal Velocity
+
+addappid(372320)
+addappid(372323,0,"53900613db7fd96a8b09f9ae84a362bcd13f9a350ecb62cd8694b271952c7bef")
