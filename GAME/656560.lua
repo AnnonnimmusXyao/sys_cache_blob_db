@@ -1,0 +1,4 @@
+--game: Castaway Home Designer
+
+addappid(656560)
+addappid(656561,0,"455fe79fddedd83b57e65cb40725a3a9e5789d8671369988b956c69360271beb")
