@@ -1,0 +1,4 @@
+--game: Chaos Edge
+
+addappid(612220)
+addappid(612222,0,"18892e92994aaff14e0eeb4fea22b2cb3ec6b1a4cba1d6ee7620fc8c1e738585")
