@@ -1,0 +1,4 @@
+--game: Kramora's Shadow
+
+addappid(372080)
+addappid(372081,0,"1c11c8f30d062d2889494c8c1b4373126dc4fa43cd2d058c16489419f6564b46")
