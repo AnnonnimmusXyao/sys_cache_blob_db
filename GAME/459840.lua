@@ -1,0 +1,4 @@
+--game: Monster Bash HD
+
+addappid(459840)
+addappid(459842,0,"232f70ebdab4acd8a48c7d7c21110482d025dcd4e1b2f0ca784db080e425f70e")
