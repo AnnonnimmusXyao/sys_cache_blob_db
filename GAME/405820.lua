@@ -1,0 +1,4 @@
+--game: Turok
+
+addappid(405820)
+addappid(405822,0,"eb7606a23f80255909a0b05a3c8f71932b097c7bfe3c05b77b2ec32bd6476498")
