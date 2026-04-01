@@ -1,0 +1,5 @@
+--game: BIOMUTANT
+
+addappid(597820)
+addappid(597821,0,"7717c3f61ba02868ba10112406e09176ec739560f33b596b23ddfb0ffd8f4077")
+addappid(1549560)
