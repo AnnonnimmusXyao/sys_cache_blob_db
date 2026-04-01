@@ -1,0 +1,5 @@
+--game: Wordabeasts
+
+addappid(668190)
+addappid(668191,0,"664128b66b9512c2666cd7b3abcc9dfabdc1f44399de8c82a0af153ef8cc8169")
+addappid(668192,0,"0f6516a8a8c17ca649c652796579ca9991ffc151936b611bd21a051a3fdec942")
