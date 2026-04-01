@@ -1,0 +1,13 @@
+--game: Elves Adventure
+
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229004)
+addappid(229005)
+addappid(229030)
+addappid(229031)
+addappid(229032)
+addappid(229033)
+addappid(504980)
+addappid(504981,0,"b1b8252edaec29ac68103ea2476f6bc0d7369807959148efb10f7e7c2beac091")
