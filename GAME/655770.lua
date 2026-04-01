@@ -1,0 +1,4 @@
+--game: Crimson Gray
+
+addappid(655770)
+addappid(655771,0,"c0237f0e81e1f225f5c750a430ccc029bd52dcabbaf4976f56abf989a1b6198b")
