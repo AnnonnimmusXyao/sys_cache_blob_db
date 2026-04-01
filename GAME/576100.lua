@@ -1,0 +1,4 @@
+--game: Unknown Pharaoh
+
+addappid(576100)
+addappid(576101,0,"c51fe2692d52518d537471f412e31a387c66a76f337d3472b60d4061262af97c")
