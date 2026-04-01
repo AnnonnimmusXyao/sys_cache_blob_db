@@ -1,0 +1,4 @@
+--game: Arena Hero
+
+addappid(576280)
+addappid(576281,0,"0a62749a611c216ed1c07353efbe3013925d32a351a6e01e1edda7a2cf7dd96b")
