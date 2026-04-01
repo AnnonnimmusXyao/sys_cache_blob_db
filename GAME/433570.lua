@@ -1,0 +1,4 @@
+--game: Side Quest
+
+addappid(433570)
+addappid(433571,0,"19b850d5d46f36bd3d40c42d52de64cc52d94a4f6601f66534322d54ea3cea28")
