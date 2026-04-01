@@ -1,0 +1,4 @@
+--game: CHEXS
+
+addappid(511810)
+addappid(511811,0,"078844231d10864afe2aa9c42871abeabe40308319994b16d226b5791ac5cb4e")
