@@ -1,0 +1,4 @@
+--game: Crazy Saloon VR
+
+addappid(554680)
+addappid(554681,0,"2f25c263bb0e67089ed09bb79f129d98d53ae3e7cbb8b6b816776e2414ba8b8d")
