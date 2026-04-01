@@ -1,0 +1,4 @@
+--game: Sakeretsu
+
+addappid(613400)
+addappid(613401,0,"e1bba3e3b9e9ec4ca52e28382f70937bac1670e0fbb1ded632e5b955ac053835")
