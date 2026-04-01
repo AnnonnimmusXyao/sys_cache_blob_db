@@ -1,0 +1,5 @@
+--game: The Hunting God
+
+addappid(229000)
+addappid(679190)
+addappid(679191,0,"211bb92c8bf0f0d22954beb092e6f6fcbf287f5999fe4bc06b2e15d345d899f0")
