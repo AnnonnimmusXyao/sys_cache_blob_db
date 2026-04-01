@@ -1,0 +1,4 @@
+--game: Murder
+
+addappid(404080)
+addappid(404081,0,"f9ea1d561e7878f3249a0c1dae423e1ab291a91545b3d53432aa671f0792e144")
