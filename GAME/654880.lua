@@ -1,0 +1,6 @@
+--game: Dream Daddy: A Dad Dating Simulator
+
+addappid(654880)
+addappid(654881,0,"8e82dbb1f4c7bb450e1448f093fc24c2efd707e2890b72d4207830ffbc270a13")
+addappid(654884,0,"120a10ce54e14f457a369ee18c1ff5e0f98170b9c4c8553125708576480984ad")
+addappid(930020)
