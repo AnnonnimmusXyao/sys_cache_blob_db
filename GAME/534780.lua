@@ -1,0 +1,4 @@
+--game: XGun-Weapon Evolution
+
+addappid(534780)
+addappid(534781,0,"1dd325743a04e2875d7f967d133bc9715860596d5dfd94c586ee8a75090b4734")
