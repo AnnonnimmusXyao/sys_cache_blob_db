@@ -1,0 +1,4 @@
+--game: Foxfolk
+
+addappid(663590)
+addappid(663591,0,"ed2fed6febb019fac4f8a751ad6250257130a633c8489eae3f2456e5dfaeeb26")
