@@ -1,0 +1,4 @@
+--game: Sixth Grade Detective
+
+addappid(428040)
+addappid(428041,0,"4d308733d0c5523dcf65d3972d840809d74a3bf0eb324b1b4536a1daf42c5b11")
