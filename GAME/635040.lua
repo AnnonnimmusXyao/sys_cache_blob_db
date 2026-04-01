@@ -1,0 +1,4 @@
+--game: Freeze Climbing
+
+addappid(635040)
+addappid(635041,0,"118b31271e9e73c40a1ee9b0dd784e16f3685edf1c8e66ad180b67deeb404c67")
