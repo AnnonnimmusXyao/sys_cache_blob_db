@@ -1,0 +1,4 @@
+--game: Ruin City Gasolina
+
+addappid(689350)
+addappid(689351,0,"888ba064cbee302081d4a8d3dd00f3d1162fcb3fe2c82ff6b261c684ac2dd645")
