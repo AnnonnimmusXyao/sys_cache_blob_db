@@ -1,0 +1,4 @@
+--game: Dog Fight
+
+addappid(362370)
+addappid(362372,0,"a5a04594618c061c4ab4451b30f643e651f9892c7ca45eb50beeb562589052ee")
