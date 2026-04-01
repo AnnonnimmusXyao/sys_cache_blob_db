@@ -1,0 +1,4 @@
+--game: All You Can Eat
+
+addappid(663240)
+addappid(663241,0,"41652ad5d56929dbcec49a565f0bd4063b331728a5384cc7706d14aadd157878")
