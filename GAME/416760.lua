@@ -1,0 +1,5 @@
+--game: Pay2Win: The Tricks Exposed
+
+addappid(416760)
+addappid(416761,0,"fe893e02cfdf299b021fa34e84d3ef577ddbe9c935ebd06908eb138eb05e54de")
+addappid(416762,0,"217fed249494e35a3ff2488844393cc5db9a4a058a5b63bfaffe540fb27d9b25")
