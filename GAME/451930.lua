@@ -1,0 +1,4 @@
+--game: qrth-phyl
+
+addappid(451930)
+addappid(451931,0,"ae5d3f75ef7de3d8d7547ec9cdc4674967df7c1d64753929c8f621ff6a0c3a23")
