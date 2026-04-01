@@ -1,0 +1,4 @@
+--game: AFTERGRINDER
+
+addappid(618310)
+addappid(618311,0,"00933789dbbeae5f1185985f3d96cf114c7932735d582ed58627cb7e37eaadb6")
