@@ -1,0 +1,4 @@
+--game: Diorama No.1 : Blocked In
+
+addappid(431390)
+addappid(431391,0,"197ebdf7810281a52647b9fa7bd6e8cf62e68f062df92b88c5a1ef625f510745")
