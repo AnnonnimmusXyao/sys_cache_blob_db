@@ -1,0 +1,4 @@
+--game: Ironclads 2: Boshin War
+
+addappid(602860)
+addappid(602861,0,"9399bbe3555b1226d17c9b9a68154700acbf3ae7f8dc490183a85f0546026b88")
