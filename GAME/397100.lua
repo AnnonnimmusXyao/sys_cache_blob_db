@@ -1,0 +1,5 @@
+--game: MachineCraft
+
+addappid(397100)
+addappid(397101,0,"4e3c6427d1ed44a709b0d6474a3f511c9c2059dcfd23a31233b17f8925956394")
+addappid(398820)
