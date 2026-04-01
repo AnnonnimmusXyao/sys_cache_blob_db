@@ -1,0 +1,5 @@
+--game: ArsonVille
+
+addappid(553610)
+addappid(553611,0,"d7818ee3d57f686d204896dba541860d2eb58334e45ff1412d63c26a06bd0e1d")
+addappid(553614,0,"4f8f37ce880942f43fca5d74e1117ecbebaa2e2052da35ee0de3817530eeb76f")
