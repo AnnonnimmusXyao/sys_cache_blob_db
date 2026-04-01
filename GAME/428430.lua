@@ -1,0 +1,4 @@
+--game: Endorlight
+
+addappid(428430)
+addappid(428431,0,"0290fbdc3bd395e6e65bfa2302444481fb8f522a4e88c5e7d98e78a86a07c4b8")
