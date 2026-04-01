@@ -1,0 +1,4 @@
+--game: Eliosi's Hunt
+
+addappid(494700)
+addappid(494701,0,"37663d992f68a134d216cd03428468b0e05f79644797f67c991ff921538a19e5")
