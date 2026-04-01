@@ -1,0 +1,4 @@
+--game: Village Of Souls
+
+addappid(671670)
+addappid(671671,0,"5b16c7599989ee480b66eaf2c4ac6734cd041402f962b089d8a458655d6270aa")
