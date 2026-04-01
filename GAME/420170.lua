@@ -1,0 +1,4 @@
+--game: Shrug Island - The Meeting
+
+addappid(420170)
+addappid(420171,0,"8459e02631e011da839ecc1249f4b4da608113866a249871ba48eda70b8f278f")
