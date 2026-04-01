@@ -1,0 +1,4 @@
+--game: Greece Defense TD
+
+addappid(650600)
+addappid(650601,0,"bc23f313c58812d6fc78771eb148c9f0e1821e0b51986f747011c667c9bc045c")
