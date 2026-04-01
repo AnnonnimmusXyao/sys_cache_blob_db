@@ -1,0 +1,4 @@
+--game: Framed Wings
+
+addappid(479140)
+addappid(479141,0,"009dd398f27f4bbaa2ffcc9b989bac1a44b0b85d6f19aa60a10e54301092b09a")
