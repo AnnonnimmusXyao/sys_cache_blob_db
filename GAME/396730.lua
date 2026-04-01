@@ -1,0 +1,4 @@
+--game: gShift
+
+addappid(396730)
+addappid(396731,0,"06a280cfa3bd6da8ae3a698212b614b0244927f5eca7f7663e314274571c18b1")
