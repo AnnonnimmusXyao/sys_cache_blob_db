@@ -1,0 +1,4 @@
+--game: Aesthetic Melody
+
+addappid(618360)
+addappid(618362,0,"42b5a11fb6dff41711d7d12ecf11627ddb144d2c21a6c2efee2a7dd309f1ada8")
