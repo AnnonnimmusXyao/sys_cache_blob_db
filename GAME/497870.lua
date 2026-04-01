@@ -1,0 +1,4 @@
+--game: Super Sketch Bob
+
+addappid(497870)
+addappid(497871,0,"95cfb973a537eda3f5400a6492d3b16834e91f7bae79446df038392a10c449b5")
