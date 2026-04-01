@@ -1,0 +1,4 @@
+--game: Plates
+
+addappid(497680)
+addappid(497681,0,"f368b17c50dcbff272f75355c42fb570dea70503898acc9cf75c05b1b5843585")
