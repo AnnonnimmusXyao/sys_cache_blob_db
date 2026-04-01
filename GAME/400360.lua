@@ -1,0 +1,4 @@
+--game: Adam's Venture: Origins
+
+addappid(400360)
+addappid(400361,0,"0c86945ae6f397a4ebccbaa47d4b3554e4830d0292319114071228e776a80790")
