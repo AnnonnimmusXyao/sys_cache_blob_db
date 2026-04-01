@@ -1,0 +1,5 @@
+--game: Marty Thinks 4D
+
+addappid(515890)
+addappid(515891,0,"05a701a26372d6ade47f146a8a57874b5cc2d179612f1eb18e0ae350f8d82f60")
+addappid(722720)
