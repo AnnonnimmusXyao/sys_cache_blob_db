@@ -1,0 +1,4 @@
+--game: Spellspire
+
+addappid(626580)
+addappid(626581,0,"e12e33069689ad111d8a6c03bf83221b0231389219a33dac63ef1738b3a2637f")
