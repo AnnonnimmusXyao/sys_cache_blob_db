@@ -1,0 +1,4 @@
+--game: Guardian of The Demon Valley
+
+addappid(543150)
+addappid(543151,0,"3d9bcc3c200cd776027437508ebd9c0638218ac2596098b89b40660e1da69cf3")
