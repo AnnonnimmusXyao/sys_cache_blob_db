@@ -1,0 +1,4 @@
+--game: SWAM
+
+addappid(565650)
+addappid(565651,0,"4ba92169c9f874acf36e834ddea605cec0e3c92c9619b5538836ae6b2c3775ad")
