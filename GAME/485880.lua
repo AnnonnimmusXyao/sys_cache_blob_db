@@ -1,0 +1,4 @@
+--game: L U N E
+
+addappid(485880)
+addappid(485881,0,"48992dadf190e636d46dc1516e855d4e6d49e3a2203deab92750b2ba8d5b73f4")
