@@ -1,0 +1,4 @@
+--game: Blockpocalypse
+
+addappid(433660)
+addappid(433661,0,"32c713b62767339c86d202e58ec3e6737ef51de8f290be02bc12a117a96a529c")
