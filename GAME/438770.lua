@@ -1,0 +1,4 @@
+--game: Street Posse Showdown
+
+addappid(438770)
+addappid(438771,0,"b683ee3486d88f40fb3ed46d512afe7dc32878320fd288a0d2775eff13be6046")
