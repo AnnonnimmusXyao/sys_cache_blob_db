@@ -1,0 +1,4 @@
+--game: ZIQ
+
+addappid(538900)
+addappid(538901,0,"a1519a7986907bd9bd842f33e358df600df789a6a2edce5e79c782969a5700f9")
