@@ -1,0 +1,4 @@
+--game: Alone With You
+
+addappid(564940)
+addappid(564941,0,"90708a217375d49a3d8b356e50d3a4cc692e36346f6fb6ad6783de11cc5e88f9")
