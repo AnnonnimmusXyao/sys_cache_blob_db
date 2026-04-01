@@ -1,0 +1,5 @@
+--game: panGEMic
+
+addappid(547540)
+addappid(547542,0,"4779ccb97fd7aedf370cc7419f7238c5d47bc62b79fdbcda949da1727f86170f")
+addappid(547543,0,"848ea07fa8b114c2c13e66360b6829c4a5f924859e0526a5c6b9b73eb238ceaa")
