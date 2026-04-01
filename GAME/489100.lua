@@ -1,0 +1,4 @@
+--game: MachRace
+
+addappid(489100)
+addappid(489101,0,"8449a8cc24f2ea02ca1ccbf9a6448fcd7846fd45f4440165d4a85d58dc250862")
