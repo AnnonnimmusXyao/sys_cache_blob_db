@@ -1,0 +1,4 @@
+--game: Hope Lake
+
+addappid(485690)
+addappid(485691,0,"9adf492831d73fc21239b7dc0644a6623f99740c439afc44a99d51c9d9398d1e")
