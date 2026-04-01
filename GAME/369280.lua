@@ -1,0 +1,4 @@
+--game: Hidden Mysteries: Titanic
+
+addappid(369280)
+addappid(369281,0,"5e4827aeb47df0c48ff6a77ad44696d1f0a9feff253072c7c93fe19562c4db91")
