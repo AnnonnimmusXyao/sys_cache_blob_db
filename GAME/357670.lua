@@ -1,0 +1,4 @@
+--game: Home Improvisation: Furniture Sandbox
+
+addappid(357670)
+addappid(357671,0,"ab6af6f5834b36a86c3a9fc9773e1d65cd66ca915c630bd308c6ead699b96e66")
