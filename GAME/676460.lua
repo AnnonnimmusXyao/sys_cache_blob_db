@@ -1,0 +1,4 @@
+--game: Sellsword VR
+
+addappid(676460)
+addappid(676461,0,"ee83573a01af89bafd13b9c4a1c50470f62f294c59bc63e6d08ab8f99a3b24ca")
