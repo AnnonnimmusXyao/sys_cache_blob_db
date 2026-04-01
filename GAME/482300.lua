@@ -1,0 +1,5 @@
+--game: Investigator
+
+addappid(482300)
+addappid(228985)
+addappid(482301,0,"9385b86bc258b6098096b5d1da4173ba8a3f822393aa0d143392799b87ec911c")
