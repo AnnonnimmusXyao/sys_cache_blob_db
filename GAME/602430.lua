@@ -1,0 +1,6 @@
+--game: Yono and the Celestial Elephants
+
+addappid(602430)
+addappid(602432,0,"9e526950ee0586d1c355580eca484d9cf9984627981b93d3afde874ffd7d214e")
+addappid(602438,0,"8952655ceafce24e0187cd1c54db2f40d82925e4d5378982df2316a7da2dbbf5")
+addappid(602431,0,"0925c3daf274a7b7f4eace50f9ea1aa634975d4d970a6f22dc53d09da1a38c68")
