@@ -1,0 +1,4 @@
+--game: Mars Colony: Frontier
+
+addappid(394840)
+addappid(394841,0,"bc6932c20b9f53ca7b47a6f8320445c759cfbdd6619e1f97161085d50aa05634")
