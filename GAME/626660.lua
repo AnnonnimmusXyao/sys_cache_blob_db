@@ -1,0 +1,4 @@
+--game: Flipping Death
+
+addappid(626660)
+addappid(626661,0,"9e746ad6f96c6484fcb91b09a7c3600e234a3ff9d03d9c91a4ad94a31159db76")
