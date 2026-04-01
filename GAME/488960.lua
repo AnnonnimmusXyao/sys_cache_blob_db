@@ -1,0 +1,5 @@
+--game: Star Vikings Forever
+
+addappid(229002)
+addappid(488960)
+addappid(488961,0,"fe982824d2e1e0d008e5c1c32305b591bec66e894e9e03a114e47622aeb691e2")
