@@ -1,0 +1,4 @@
+--game: Hidden Dimensions 3
+
+addappid(531540)
+addappid(531541,0,"af7899ee8c019c649ceac3fa2c82b1ba4de9c915b1764b394ce182128f63f76a")
