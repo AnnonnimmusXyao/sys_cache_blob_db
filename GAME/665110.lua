@@ -1,0 +1,4 @@
+--game: TheWalkerKiller VR
+
+addappid(665110)
+addappid(665111,0,"628514e84ce91e913de2d563e67e4aa2baaa69f03fc44fe557f0e1bdaa2a92ac")
