@@ -1,0 +1,4 @@
+--game: Hanger World
+
+addappid(484390)
+addappid(484391,0,"dd8025b8144fa5659bae755e7ef7fab851b713bcfc8f39cd45a232755e0fea90")
