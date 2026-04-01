@@ -1,0 +1,6 @@
+--game: The Dwarf Run
+
+addappid(395420)
+addappid(395421,0,"256a820c2f2c57fe4728b8ddef3e4813faf82972a1e17ed1438089c7e98f2aef")
+addappid(395422,0,"12ee59a8f01e722176260a7ea9ab0fb8f6ccecae2cb0a92e8fe6d722a977ed85")
+addappid(395423,0,"2d2b8d9c6f7b857389c0f2abef7eaf7a3d35079201cd81767e717a94e0d2ea2c")
