@@ -1,0 +1,4 @@
+--game: BattleSky VR
+
+addappid(625830)
+addappid(625831,0,"6500546bdf152ecd81e1b41e58e496ca75823a0f5302d138bea591e5314cabd1")
