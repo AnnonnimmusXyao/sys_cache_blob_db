@@ -1,0 +1,4 @@
+--game: New Yankee in Santa's Service
+
+addappid(462580)
+addappid(462585,0,"021e719a07ff7b4c4979ec63332cc772686f44817f1eed9d4743bf895952adc6")
