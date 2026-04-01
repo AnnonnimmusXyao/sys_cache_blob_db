@@ -1,0 +1,4 @@
+--game: The Shadowland
+
+addappid(498620)
+addappid(498621,0,"2230433ea0f63cd3a687d665f5900c8ddc58120567d1e9cbe56e0c4f4f695ba2")
