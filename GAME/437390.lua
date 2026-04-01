@@ -1,0 +1,4 @@
+--game: HoPiKo
+
+addappid(437390)
+addappid(437391,0,"2ba535e4f5c048d1985854852190a9942fd0e88820c22ae541b7647dc1fdfca1")
