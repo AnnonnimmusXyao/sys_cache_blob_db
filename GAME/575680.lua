@@ -1,0 +1,4 @@
+--game: Square n Fair
+
+addappid(575680)
+addappid(575681,0,"0a3e75968aacffc777844101637d8582e22925ede37fc86cdb93908db92b8795")
