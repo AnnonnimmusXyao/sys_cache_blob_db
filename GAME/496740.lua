@@ -1,0 +1,4 @@
+--game: Discovering Space 2
+
+addappid(496740)
+addappid(496741,0,"a0eac383c9187e264c93e777c94ebcf09b24dc429a59a7a853adb2b51b53dce9")
