@@ -1,0 +1,5 @@
+--game: 鬼畜大冒险 Gui Chu Da Mao Xian
+
+addappid(229020)
+addappid(668680)
+addappid(668682,0,"c63faa9f029bb03004de50b487613003362bba1e977bc417880d8c19afbe7e8c")
