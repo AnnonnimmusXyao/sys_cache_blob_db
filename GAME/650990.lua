@@ -1,0 +1,4 @@
+--game: Run Jump Die Repeat
+
+addappid(650990)
+addappid(650991,0,"e055fd1f3eec858658009025b0dc2f06abe3e9cb41414f64c40d527f9379d3b7")
