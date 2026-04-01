@@ -1,0 +1,4 @@
+--game: Mage Guard: The Last Grimoire
+
+addappid(577570)
+addappid(577571,0,"f38530273462141246ccec86b2f87bef29c3e047f96a717937b93292bf2edb2f")
