@@ -1,0 +1,4 @@
+--game: The Aquatic Adventure of the Last Human
+
+addappid(401360)
+addappid(401361,0,"f5a4a6a6e555c5c379edb60c3ee18336449222fd74aef1559e59521fd8347f7e")
