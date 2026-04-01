@@ -1,0 +1,4 @@
+--game: Galactic Gallery
+
+addappid(631810)
+addappid(631811,0,"92e82e198b2ffea989aab9a2424bf95096170a509a4a55acc7092d329bb34148")
