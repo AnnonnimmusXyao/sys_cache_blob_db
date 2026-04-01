@@ -1,0 +1,4 @@
+--game: Goblet of Maya
+
+addappid(557790)
+addappid(557791,0,"3795c12e3d86519c5e0f6f09978f52061d8872e92129448d2c15eb14b2b78913")
