@@ -1,0 +1,4 @@
+--game: VR GirlFriend
+
+addappid(563760)
+addappid(563761,0,"7c4daf2697e88eff96ddee5d8e408e5841998e81270633f645999a61fc3c9eec")
