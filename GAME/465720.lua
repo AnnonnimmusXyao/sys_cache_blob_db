@@ -1,0 +1,4 @@
+--game: Demon Hunter 2: New Chapter
+
+addappid(465720)
+addappid(465721,0,"4556c74330d0bb5502a16da90beb40b588ee11c0195681f1d8bf7e9fd2eff529")
