@@ -1,0 +1,7 @@
+--game: Legions of Tyrandel
+
+addappid(229002)
+addappid(229004)
+addappid(229005)
+addappid(537020)
+addappid(537021,0,"20b0f2197c48608ff188ecd89c77bff72def65d94a75c61fcdb6534dd5961ddd")
