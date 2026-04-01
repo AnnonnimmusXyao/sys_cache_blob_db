@@ -1,0 +1,4 @@
+--game: Retro Pinball
+
+addappid(581590)
+addappid(581592,0,"2cf72f499048352d85b6b860b96987cf8cb0738da5cdc2e61e1a2474ec5a5a48")
