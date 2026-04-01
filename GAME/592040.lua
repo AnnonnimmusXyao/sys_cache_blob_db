@@ -1,0 +1,4 @@
+--game: Energia
+
+addappid(592040)
+addappid(592041,0,"c13a44746958b07e102e097b8501ac2f0dfac9a8135deaf7f919d1b69fb007e7")
