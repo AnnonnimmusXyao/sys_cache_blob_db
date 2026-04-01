@@ -1,0 +1,4 @@
+--game: Dark Parables: The Final Cinderella Collector's Edition
+
+addappid(465890)
+addappid(465891,0,"b8c6d05ef4b63b97232a6ba26749ccc1af01a639c4ee8233db72c9b31923a6de")
