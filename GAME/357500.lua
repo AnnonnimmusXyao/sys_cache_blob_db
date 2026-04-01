@@ -1,0 +1,4 @@
+--game: Rumble Fighter: Unleashed
+
+addappid(357500)
+addappid(357501,0,"afdaa24f5d854bc7562ea1e6ab8ed2050bb9e564faa8119c17daf59d368e85bb")
