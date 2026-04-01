@@ -1,0 +1,4 @@
+--game: Torn Tales
+
+addappid(388960)
+addappid(388961,0,"917ab26bb2b331f57b8978f0abfe126d41176d418b064065ee9d567e78899fa8")
