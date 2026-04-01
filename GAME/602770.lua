@@ -1,0 +1,4 @@
+--game: Clatter
+
+addappid(602770)
+addappid(602772,0,"f4810f26be273b0b813d4fcfa38abc2215df70bd67093a73b6a042a9bf9fabf6")
