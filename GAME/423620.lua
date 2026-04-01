@@ -1,0 +1,4 @@
+--game: HERO DEFENSE
+
+addappid(423620)
+addappid(423621,0,"bc0ad118c86a23f43eb2d6924654f305f54ba21909ae73af02c21b7f3ff6691c")
