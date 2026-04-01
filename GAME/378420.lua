@@ -1,0 +1,4 @@
+--game: Jurassic Island: The Dinosaur Zoo
+
+addappid(378420)
+addappid(378421,0,"18c6a4bb702aea350fab29d76eceb7a84d4441107ac7f4d97f669ee33b55f1d8")
