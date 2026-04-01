@@ -1,0 +1,4 @@
+--game: You Have 10 Seconds 2
+
+addappid(521570)
+addappid(521571,0,"12798b7651f2d9b41b34c6b96d982a2f9370e4fb2657a37a4f7c77173164fb45")
