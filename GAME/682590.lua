@@ -1,0 +1,5 @@
+--game: Dungeon Marathon
+
+addappid(228983)
+addappid(682590)
+addappid(682591,0,"9b363456ca8091058f30fad08648eae0eda60f98cd9899d532517572dbaa1f34")
