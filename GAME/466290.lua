@@ -1,0 +1,4 @@
+--game: BitShift: BattleGrid
+
+addappid(466290)
+addappid(466291,0,"4e9de987ed96347e51a83026a204aa93d10481b12f74998b44664cfb4b12f10c")
