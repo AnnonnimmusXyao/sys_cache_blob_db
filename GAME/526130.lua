@@ -1,0 +1,4 @@
+--game: Sky Sanctuary
+
+addappid(526130)
+addappid(526131,0,"7219bd1c799efed843cb41b0551573432f7b37330b285e66fb85ffdd78250301")
