@@ -1,0 +1,6 @@
+--game: Labyrinth Escape
+
+addappid(229000)
+addappid(229033)
+addappid(654950)
+addappid(654951,0,"6bc35c4fe96a56645cc6abad3be8434115cc534f2467c747139103c8cee690c6")
