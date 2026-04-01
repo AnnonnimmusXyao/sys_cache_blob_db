@@ -1,0 +1,12 @@
+--game: Zombie Exodus: Safe Haven
+
+addappid(543980)
+addappid(543981,0,"70e52613202e05d3bb46b6b128c994f07691e28d98abfc5b983739b5422098ed")
+addappid(548920)
+addappid(830400)
+addappid(1052730)
+addappid(1052731)
+addappid(1888610)
+addappid(2303510)
+addappid(2866590)
+addappid(4132680)
