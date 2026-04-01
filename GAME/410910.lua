@@ -1,0 +1,4 @@
+--game: Deathless: The City's Thirst
+
+addappid(410910)
+addappid(410911,0,"13994ed56a449b9891c2ed0f8e2919bc72fbed7ed099c261b01bce6050552230")
