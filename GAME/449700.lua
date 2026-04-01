@@ -1,0 +1,6 @@
+--game: Ariel
+
+addappid(449700)
+addappid(449701,0,"96342c8f7a2ca015a7348892cc821b77bcddcbbaba6a40cbfc34d672dd9c8ac9")
+addappid(449702,0,"948d5028cd9724ff98aa6f21143c7013af477fa11f6a83cb2bc4ae4bf69ed0a5")
+addappid(653790)
