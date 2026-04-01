@@ -1,0 +1,5 @@
+--game: The Janitor
+
+addappid(229033)
+addappid(502880)
+addappid(502881,0,"fe129894e7eb149f8132f2101bad15cce3a25f10aae207df97c5f387298fc7a0")
