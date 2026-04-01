@@ -1,0 +1,4 @@
+--game: Black Hat Cooperative
+
+addappid(503100)
+addappid(503101,0,"5e2ad92467af2c983adf28ce29a83c1de2d0376c7b47f53c09af80367db9d4b7")
