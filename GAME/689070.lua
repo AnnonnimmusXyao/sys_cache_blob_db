@@ -1,0 +1,4 @@
+--game: Asyula 方舟之链
+
+addappid(689070)
+addappid(689071,0,"4f6101ccb22ccf7984a9e62f4b9e0052add2d04eec81eba8401ed6db8fa719a2")
