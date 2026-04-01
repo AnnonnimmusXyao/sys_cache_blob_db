@@ -1,0 +1,4 @@
+--game: Thirst VR
+
+addappid(510930)
+addappid(510931,0,"f4f30865e48e0b411759e9f6a28196b51811534c4c4beec306872f6998aa3463")
