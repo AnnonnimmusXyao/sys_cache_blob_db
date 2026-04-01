@@ -1,0 +1,5 @@
+--game: Imhotep, Pyramid Builder
+
+addappid(448730)
+addappid(448731,0,"18615c67fbe910383e4837b4c361c67b3c87928e1ed6c9f742efe9e34b1c15dc")
+addappid(448732,0,"bb2209844459865efd1d4140db74bcb16c101c9381f52c93d534463ebc2be6a6")
