@@ -1,0 +1,5 @@
+--game: Stream Avatars
+
+addappid(665300)
+addappid(665301,0,"3dcf4555a8f4a9b92f642d2de7e8b125fd06f8455d560852c4bedf7a808dc8c8")
+addappid(1346730)
