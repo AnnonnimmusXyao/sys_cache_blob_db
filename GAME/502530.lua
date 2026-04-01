@@ -1,0 +1,4 @@
+--game: THE GREY MAN
+
+addappid(502530)
+addappid(502531,0,"9e2b435aacab7801c69dada69d1aee0c19956e787b8062e76cccd90d1b69861b")
