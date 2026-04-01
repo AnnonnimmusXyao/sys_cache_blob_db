@@ -1,0 +1,4 @@
+--game: Day of Destruction
+
+addappid(488020)
+addappid(488021,0,"665b2a9899eaa3f31107bae600b1b66c104e21a315e95d981e17abb92be11607")
