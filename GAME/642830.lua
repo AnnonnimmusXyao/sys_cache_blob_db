@@ -1,0 +1,4 @@
+--game: Milanoir
+
+addappid(642830)
+addappid(798440,0,"0359d76da0a66aa88a577b48459232257188b088792d30f3ee02cbd5351c31a2")
