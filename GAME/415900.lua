@@ -1,0 +1,6 @@
+--game: Bugspeed Collider
+
+addappid(415900)
+addappid(415901,0,"d85e8a527c2696d19c3ccb2527f2aa099f1e23f2f4813eab923390fb0af00da2")
+addappid(415902,0,"0afd93fe1ca7bb7e84d828ca6b589aaf6d6e717b16dfbecfa3fdec8905b70795")
+addappid(548250)
