@@ -1,0 +1,5 @@
+--game: STAR WARS™ Rebellion
+
+addappid(441550)
+addappid(441551,0,"3f235a353285cd27d5e0f63a858cd6276e5ad8115aa8de304a94824ad2d1513d")
+addappid(441552,0,"ffcecf7ab5381744fdbc29767e4d52b7bcd440ada5e3cd5102ef49b04d6925a7")
