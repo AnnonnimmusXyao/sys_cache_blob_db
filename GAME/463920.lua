@@ -1,0 +1,4 @@
+--game: Initia: Elemental Arena
+
+addappid(463920)
+addappid(463921,0,"623545f1c658292893bdde766154d46ce338ccf2b93dcf9cfd5b4d88965b6af1")
