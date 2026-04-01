@@ -1,0 +1,5 @@
+--game: Star of Providence
+
+addappid(603960)
+addappid(603961,0,"d080bc7bd6d033e446b44c6d824255672423e854465847fb24f358616c2505da")
+addappid(1180120)
