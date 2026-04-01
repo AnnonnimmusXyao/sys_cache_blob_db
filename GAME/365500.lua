@@ -1,0 +1,4 @@
+--game: quadrant
+
+addappid(365500)
+addappid(365501,0,"3c00b85fedf87f9298371580c1ec08f97b3124f516f97960f15a8edf2e36b976")
