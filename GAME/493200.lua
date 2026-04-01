@@ -1,0 +1,4 @@
+--game: RiME
+
+addappid(493200)
+addappid(493201,0,"3b45bcc29900e56378948679d84042cd452c0fa9d30be16d152f6914cca74c16")
