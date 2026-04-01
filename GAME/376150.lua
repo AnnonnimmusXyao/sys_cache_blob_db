@@ -1,0 +1,4 @@
+--game: Industry Transporters
+
+addappid(376150)
+addappid(376151,0,"879836843b5dcd39bda6b9752a97e10a2274b75aaee38abdb9d6f3f3a4ab1e7f")
