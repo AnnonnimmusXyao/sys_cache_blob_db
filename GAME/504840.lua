@@ -1,0 +1,4 @@
+--game: Brick Stack VR
+
+addappid(504840)
+addappid(504841,0,"3bffc387262f80e36e9b285e9c597a15c435b51e707713b767a29727ff1cd0f6")
