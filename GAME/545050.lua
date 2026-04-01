@@ -1,0 +1,4 @@
+--game: Badiya: Desert Survival
+
+addappid(545050)
+addappid(545051,0,"8efe3e64cdd6caae36755cb650aec91eb297647377e438fc87e7e697308b331e")
