@@ -1,0 +1,4 @@
+--game: Loot Rascals
+
+addappid(443880)
+addappid(443881,0,"3e9a9c71c59bf948ee049270b97cdf8c39ac1257c658bff4b5f368b2d650f3c8")
