@@ -1,0 +1,4 @@
+--game: Surge
+
+addappid(477130)
+addappid(477131,0,"d8a189477fcdf658370f3363e6f506885619ac74a9e9a473112a1e03928dda33")
