@@ -1,0 +1,4 @@
+--game: Sumeru
+
+addappid(496930)
+addappid(496933,0,"1f77fb5f4396563c74af8c004ee43c0729d94407137f703a0bb8a699a69b1bcc")
