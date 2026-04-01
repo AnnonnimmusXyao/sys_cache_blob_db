@@ -1,0 +1,4 @@
+--game: Wingless
+
+addappid(691570)
+addappid(691571,0,"26a0d8c3cba90e261d651b7944142d53025505fed839870b91f5b2fb38b08570")
