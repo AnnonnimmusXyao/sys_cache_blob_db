@@ -1,0 +1,4 @@
+--game: Asteroids Minesweeper
+
+addappid(425070)
+addappid(425071,0,"8afe8c9f77abb8bbd060b4b1f73226b0711b6a16682fc00188a98a44b16ad1b2")
