@@ -1,0 +1,4 @@
+--game: VR RunningJoe
+
+addappid(548360)
+addappid(548361,0,"d1b9853d1aa044550114f0d8ca1588aca5d9108a96fbe0d0bdb47bd0e0443f4d")
