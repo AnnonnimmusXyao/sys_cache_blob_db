@@ -1,0 +1,4 @@
+--game: Cut Cut Buffet
+
+addappid(580060)
+addappid(580061,0,"ebeba0a7d6d6d07da2db8fab3ba48705225cea6ff63e54700ffc6592e60aba8f")
