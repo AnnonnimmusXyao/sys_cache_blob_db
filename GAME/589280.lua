@@ -1,0 +1,5 @@
+--game: Stunt Kite Masters VR
+
+addappid(229004)
+addappid(589280)
+addappid(589281,0,"b694f75ce1822e5132b0d2706ef7348a07bfe87971562426959a4c026de7cedc")
