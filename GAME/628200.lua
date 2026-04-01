@@ -1,0 +1,4 @@
+--game: The Invisible Hand
+
+addappid(628200)
+addappid(628201,0,"498ff898bc4ef4e331b9cf9ec856d26616f7eb633711a3a6e016baf6a3764873")
