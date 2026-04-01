@@ -1,0 +1,4 @@
+--game: Midnight at the Celestial Palace: Part I
+
+addappid(460140)
+addappid(460141,0,"2037c8b8636cd55f901d087c2beace59d645b6ebf094af88a536f316678e8ed8")
