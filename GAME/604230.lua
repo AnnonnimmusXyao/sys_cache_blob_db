@@ -1,0 +1,4 @@
+--game: Unlasting Horror
+
+addappid(604230)
+addappid(604231,0,"7cb5ecec45acedbade6a3d2e493587d57d80987f3edafea103dee63ce7056d1d")
