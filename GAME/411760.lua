@@ -1,0 +1,5 @@
+--game: Swordbreaker The Game
+
+addappid(411760)
+addappid(411761,0,"446a9c22f3fffcf373ffe38a80b92436e92e5d1255b54e0956b1bde151e45f9b")
+addappid(411762,0,"21c361d9cd33eb3a508af5ed3ecad0412724ba34f599143994617eb81018300d")
