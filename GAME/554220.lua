@@ -1,0 +1,4 @@
+--game: Oafmatch
+
+addappid(554220)
+addappid(554221,0,"3d1241deab75335ddacacacd3ceae32626a7004f4176d961183a8891a3232cf6")
