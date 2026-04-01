@@ -1,0 +1,4 @@
+--game: Bowl Bound College Football
+
+addappid(398640)
+addappid(398641,0,"8217ad1ec302ecc0402f3c439367d5432bb845ffb5435ce33e522307e146f399")
