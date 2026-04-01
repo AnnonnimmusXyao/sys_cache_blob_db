@@ -1,0 +1,4 @@
+--game: Through The Dark: Prologue
+
+addappid(635270)
+addappid(635271,0,"42b8feb866f11179ceb15b9b3321cb7017a4028ccdc70fe4697163fd66bcbf67")
