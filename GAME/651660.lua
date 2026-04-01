@@ -1,0 +1,4 @@
+--game: Halcyon 6: Starbase Commander (LIGHTSPEED EDITION)
+
+addappid(651660)
+addappid(651661,0,"5668704a2f2261f398c58535c12b5deea94a4334514f00ea4d01862e62b46c9a")
