@@ -1,0 +1,4 @@
+--game: Deathwave
+
+addappid(463870)
+addappid(463871,0,"fd2d0e3775c55954f592f4d51a6e8d985f3ba46be27429efb900615cde455ccd")
