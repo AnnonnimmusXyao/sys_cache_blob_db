@@ -1,0 +1,4 @@
+--game: N.E.R.O.: Nothing Ever Remains Obscure
+
+addappid(377480)
+addappid(377481,0,"f4b562df724284d7d5caa439225d8e6abba73e18c7160abd6590d1c1d57ec656")
