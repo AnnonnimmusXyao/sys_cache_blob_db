@@ -1,0 +1,4 @@
+--game: Ultra Space Battle Brawl
+
+addappid(658500)
+addappid(658501,0,"bf6a15819a6f3267f2e4bc21b3610f5f5fc213dd67bd953ca8c7b7f232adf35c")
