@@ -1,0 +1,4 @@
+--game: Talent Not Included
+
+addappid(485260)
+addappid(485261,0,"2d7ab1cb76f6100056740c860f635f88bdf29164b96d3922cf59f6264054def6")
