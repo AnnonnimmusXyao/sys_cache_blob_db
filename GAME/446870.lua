@@ -1,0 +1,4 @@
+--game: Glitchrunners
+
+addappid(446870)
+addappid(446871,0,"86b0eb7c6d6ee3e9743e65d81e3f6ce08c3e475d57a464a82082f7f8d07ccee6")
