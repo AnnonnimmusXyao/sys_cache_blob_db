@@ -1,0 +1,4 @@
+--game: Happy Maze
+
+addappid(542280)
+addappid(542281,0,"f1c1bfa74efdd4411d61ea115859ff584ca857425052eb24c8ddfd6a014cd9c1")
