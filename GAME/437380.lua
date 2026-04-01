@@ -1,0 +1,4 @@
+--game: Vanquish: The Adventures of Lady Exton
+
+addappid(437380)
+addappid(437381,0,"82d088d0cc853e6e02254132b128a6afefca57e9d5c898a3825f63e93dbf99a2")
