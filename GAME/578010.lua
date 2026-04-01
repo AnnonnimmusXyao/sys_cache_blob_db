@@ -1,0 +1,4 @@
+--game: Australian Football Coach
+
+addappid(578010)
+addappid(1077631,0,"ac12ffdd019a0c00359274f6c21d5744735e71c99af5846cbc340218dc008452")
