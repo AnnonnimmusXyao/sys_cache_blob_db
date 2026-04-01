@@ -1,0 +1,4 @@
+--game: Paradiddle
+
+addappid(685240)
+addappid(685241,0,"c3a99ace87b059d65d360ffde064901d2b11fc1bb33958799fc9e64dee494f3a")
