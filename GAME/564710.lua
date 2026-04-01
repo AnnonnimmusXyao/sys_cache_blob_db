@@ -1,0 +1,4 @@
+--game: Soda Dungeon
+
+addappid(564710)
+addappid(564711,0,"a97c39d15bec7c42e9acf538869fcc0be875350f3e7fa1a0428aecafb1b7e52a")
