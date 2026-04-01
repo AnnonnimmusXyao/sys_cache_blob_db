@@ -1,0 +1,4 @@
+--game: Tank Brawl
+
+addappid(436870)
+addappid(436871,0,"1371e6cb679c8136b0522c859c70b70ad46123d71072b6c00bc5a95f858c2119")
