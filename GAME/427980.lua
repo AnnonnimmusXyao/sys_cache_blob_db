@@ -1,0 +1,4 @@
+--game: Aozora Meikyuu
+
+addappid(427980)
+addappid(427981,0,"86153a66aed5507180b77cb451705fc4ee178aea2532a2198e4556ee59f15ca8")
