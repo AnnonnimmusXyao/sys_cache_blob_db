@@ -1,0 +1,5 @@
+--game: All-Star Fruit Racing
+
+addappid(673190)
+addappid(673191,0,"93520c9fcd93f706c13cbf60290ca6392cbb25fa14ea2ff5e6b6be312874e061")
+addappid(752540)
