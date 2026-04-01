@@ -1,0 +1,4 @@
+--game: Pinball Deluxe: Reloaded
+
+addappid(678310)
+addappid(678311,0,"ea2b5df6e7e7d7ddfd2d97b42001f7e313d2e9a57adb098692ad93f73f0abd77")
