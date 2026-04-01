@@ -1,0 +1,4 @@
+--game: Choice of the Petal Throne
+
+addappid(356800)
+addappid(356801,0,"f7091faae7f5d85064c733062ef4c239003375bdce1bee9ab8f72b1469446713")
