@@ -1,0 +1,15 @@
+--game: Three Kingdoms The Last Warlord
+
+addappid(577230)
+addappid(577231,0,"9637d76aa413d336de9550b3932653ee37f71ac30d96721a9bcc5e14a87ec788")
+addappid(577232,0,"6bf9dba002c2cb8ed0fd82bc69393ca8464cffc170225416f7aee00fa0ad82a3")
+addappid(577233,0,"9bb32a976cd5c911f2cf02d5251dc28fbce00f9a991701c09532e03cd630637e")
+addappid(692770)
+addappid(1150750)
+addappid(1520720)
+addappid(1863450)
+addappid(2022570)
+addappid(2350160)
+addappid(2718740)
+addappid(3171550)
+addappid(3575830)
