@@ -1,0 +1,4 @@
+--game: Simple Spy
+
+addappid(477950)
+addappid(477951,0,"c451ac7a9d58ce6d06ea8069359db44338ebd12615b7917788ebf438906ec5ab")
