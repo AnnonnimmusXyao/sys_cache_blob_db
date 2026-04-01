@@ -1,0 +1,4 @@
+--game: Diving Trunks
+
+addappid(660040)
+addappid(660041,0,"ff51a6e15ee4f0bded0cfc5ca1f2a1ff746e4693ca9550a743679238b6c404c3")
