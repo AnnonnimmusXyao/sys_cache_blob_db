@@ -1,0 +1,4 @@
+--game: Flying Baron 1916
+
+addappid(516680)
+addappid(516681,0,"c17a06618c2f3fef5b1a94f4a0304f5f8f6b81917905937505ebdb21bcaaa33d")
