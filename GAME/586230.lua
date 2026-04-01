@@ -1,0 +1,4 @@
+--game: Kult of Ktulu: Olympic
+
+addappid(586230)
+addappid(586231,0,"39290789f842956a160db92c6b4c55cdcac1bb7f6cfee3729520dbe40f7aaf50")
