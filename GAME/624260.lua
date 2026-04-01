@@ -1,0 +1,4 @@
+--game: The Crane Trials: Red Edition
+
+addappid(624260)
+addappid(624261,0,"d4997375e83685812faf76a6bad1f3446f419ff32f12daad7017bbd69ee615a8")
