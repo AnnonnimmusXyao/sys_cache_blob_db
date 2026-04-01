@@ -1,0 +1,8 @@
+--game: The Jackbox Party Pack 4
+
+addappid(610180)
+addappid(228985)
+addappid(228987)
+addappid(610181,0,"3a9ae992cf0ea6a3f7bb900dd188c2f26f0b53295c2e889275c742abba2ee0e5")
+addappid(610185,0,"c592a7e4de0f2d0abb3f7867a524ece065401398671abd19302d3b13cca9ed07")
+addappid(2828508,0,"86a8e078c58ea7fbf57bdf1b2611116fe069f5e590cfa11058ca6610e0961700")
