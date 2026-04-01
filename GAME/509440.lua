@@ -1,0 +1,4 @@
+--game: God Simulator
+
+addappid(509440)
+addappid(509441,0,"7490f4734da09b76d9e65728531b5acd05302a020695a9f4e6f8dde82f587da2")
