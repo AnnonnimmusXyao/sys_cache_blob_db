@@ -1,0 +1,4 @@
+--game: Ladykiller in a Bind
+
+addappid(560000)
+addappid(560001,0,"73d20f496113556209dd203eea97e4b4a44aae2e4baa91cafee9d0933ea87726")
