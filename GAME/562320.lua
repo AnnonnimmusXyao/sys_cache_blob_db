@@ -1,0 +1,4 @@
+--game: Locked In VR
+
+addappid(562320)
+addappid(562321,0,"4147260545c782afdeac0ca9007eb817208e7f6b62f8537d932288257e4cc691")
