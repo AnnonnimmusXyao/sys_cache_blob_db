@@ -1,0 +1,4 @@
+--game: Super Kaiju
+
+addappid(462520)
+addappid(462521,0,"f4fd2bbb963c7f7a70d53127e449dedd68f778e0405d551ddc76f8ea200cdb3f")
