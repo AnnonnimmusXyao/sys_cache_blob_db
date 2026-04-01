@@ -1,0 +1,4 @@
+--game: Willie's Haunted Hayride
+
+addappid(552150)
+addappid(552151,0,"e39e99307b5d25bc2cb12015396349135cde76f0c6bf89a0e88eabf3498bea2e")
