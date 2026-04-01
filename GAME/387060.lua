@@ -1,0 +1,4 @@
+--game: Earth Overclocked
+
+addappid(387060)
+addappid(387062,0,"d6ea6f81e82fcf61c3ca52e015fe39608f5063df22dd8015bc33a994ed3875d3")
