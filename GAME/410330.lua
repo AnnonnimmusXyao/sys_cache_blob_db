@@ -1,0 +1,4 @@
+--game: TurretCraft
+
+addappid(410330)
+addappid(410331,0,"cbf523f45a977d0215cfb6d527488628eb939df84dc67bf7657366dd371ff4b7")
