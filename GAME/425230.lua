@@ -1,0 +1,4 @@
+--game: Sword 'N' Board
+
+addappid(425230)
+addappid(425231,0,"e5f24f17573918efb5264748555eecad2f4f35516ce27f04fb0e919fd0dec3cf")
