@@ -1,0 +1,4 @@
+--game: Depth of Extinction
+
+addappid(636320)
+addappid(636321,0,"8da5250cf2850b3f9a911ad7ce9c5cb9973fcc8da4d217dad1fa828212b8b879")
