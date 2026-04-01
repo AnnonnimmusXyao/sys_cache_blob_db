@@ -1,0 +1,4 @@
+--game: Color Chaos
+
+addappid(423720)
+addappid(423721,0,"bc9ff8ac1a938be0562f53e79e937bd8409680edde401f4c5041551d9e848dc5")
