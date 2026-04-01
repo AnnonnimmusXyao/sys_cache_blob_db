@@ -1,0 +1,4 @@
+--game: Gazzel Quest, The Five Magic Stones
+
+addappid(500120)
+addappid(500121,0,"ddb9c8be1f9d9b2937c9f12e27302d079e33dd1fbeea02301378c4e8b899de45")
