@@ -1,0 +1,4 @@
+--game: Phantasma VR Director's Cut
+
+addappid(608870)
+addappid(608871,0,"80b9f04b1b1bbc5515c3a2d0123e46284a358fd684fd1e9d25f30f7b97055399")
