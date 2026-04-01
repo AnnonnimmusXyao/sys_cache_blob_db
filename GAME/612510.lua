@@ -1,0 +1,4 @@
+--game: The Far Frontier
+
+addappid(612510)
+addappid(612511,0,"10b12c7658be421c06324f15e17d74e103460b530399bc02c64e29964d037612")
