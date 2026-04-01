@@ -1,0 +1,4 @@
+--game: Off the Record: The Italian Affair Collector's Edition
+
+addappid(503070)
+addappid(503071,0,"676afbf3f8300b6ffef11b039c168b90c7667c96eb41712890d2b6dfea130834")
