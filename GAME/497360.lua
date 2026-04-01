@@ -1,0 +1,4 @@
+--game: Gabriel Knight® 3: Blood of the Sacred, Blood of the Damned
+
+addappid(497360)
+addappid(497361,0,"811924df5946951ab0f2d5f0be7a072fafa55b0ee6b56b84453a963f4c5db987")
