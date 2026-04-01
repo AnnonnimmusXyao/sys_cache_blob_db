@@ -1,0 +1,4 @@
+--game: Awakening: The Sunhook Spire Collector's Edition
+
+addappid(465860)
+addappid(465861,0,"256bc4ba59403f947123c8836a2a6deb71b189266f8832dac9839be23fc229b7")
