@@ -1,0 +1,4 @@
+--game: Cosmos Crash VR
+
+addappid(512110)
+addappid(512111,0,"13a66a6261ffe2da927fcf3fff1643fce9ca3aa875fca2cf3106b224e3a60f32")
