@@ -1,0 +1,4 @@
+--game: Hopalong: The Badlands
+
+addappid(555600)
+addappid(555601,0,"8860c2bcfeef08471b9ef33c409dae6770e256d38bbe67d6ced7d8ca5de130bc")
