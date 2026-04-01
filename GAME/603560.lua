@@ -1,0 +1,4 @@
+--game: One Night In The House
+
+addappid(603560)
+addappid(603561,0,"870a25e186666ba437aef4ba83f99f9c12e6d44fd870eee6922fecceddeb9425")
