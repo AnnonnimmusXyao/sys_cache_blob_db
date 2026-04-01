@@ -1,0 +1,4 @@
+--game: Skein
+
+addappid(407630)
+addappid(407631,0,"ab84a70c6047fb40023f8d2e35172109285a4537993eda9b69c22c32cb70a7d8")
