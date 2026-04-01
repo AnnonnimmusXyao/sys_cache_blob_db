@@ -1,0 +1,5 @@
+--game: Koihime Enbu
+
+addappid(229004)
+addappid(452420)
+addappid(452421,0,"8fdb68b900c18791dff0d87e81df552fc68edbd681a72690341548368a40824f")
