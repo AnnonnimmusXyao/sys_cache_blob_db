@@ -1,0 +1,4 @@
+--game: Jonah's Path
+
+addappid(493810)
+addappid(493811,0,"c9409a2aed247a49a513782566a72fd159166caaec5e60986964dcc9841a3b2b")
