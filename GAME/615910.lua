@@ -1,0 +1,4 @@
+--game: Katana X
+
+addappid(615910)
+addappid(615911,0,"8731ac80addd8e3db5dedeab056f11418beaae9de2063b0411a008db7d0d1b71")
