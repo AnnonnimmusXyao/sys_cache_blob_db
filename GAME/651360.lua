@@ -1,0 +1,4 @@
+--game: Eskimo Bob: Starring Alfonzo
+
+addappid(651360)
+addappid(651361,0,"5a5bbd2b15728355c652c8da0a7d543cbbf7de5d3b778b03df074b2e22568cab")
