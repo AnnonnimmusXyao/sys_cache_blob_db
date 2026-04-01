@@ -1,0 +1,5 @@
+--game: Earth Liberation
+
+addappid(563490)
+addappid(563492,0,"2395a9ff8fdfdaeeaae4d1800fc1b1c453fecfe8617be30571e0aead1fb60df4")
+addappid(569820)
