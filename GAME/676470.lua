@@ -1,0 +1,4 @@
+--game: Sommad
+
+addappid(676470)
+addappid(676471,0,"61832cfadd5749b47e6d2720a50b15b3a1ca72266ff307a5e168d8f232fff819")
