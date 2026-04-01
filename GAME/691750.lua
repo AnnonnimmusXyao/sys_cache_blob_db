@@ -1,0 +1,5 @@
+--game: Andromeda Wing
+
+addappid(228983)
+addappid(691750)
+addappid(691751,0,"3c5bcd637cbaf78816673fde97ffd615441343c80f525d530b0eee3866aa6262")
