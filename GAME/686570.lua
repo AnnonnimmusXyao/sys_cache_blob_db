@@ -1,0 +1,4 @@
+--game: Freedom Defender
+
+addappid(686570)
+addappid(686571,0,"ee3966e5216734502f2c1f1e11eb5b08f34dccb5e9dbe3fd5a775548658e8650")
