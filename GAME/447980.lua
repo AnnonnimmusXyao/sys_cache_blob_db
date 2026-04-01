@@ -1,0 +1,4 @@
+--game: Blast Brawl 2
+
+addappid(447980)
+addappid(447981,0,"b2d4691999981091ec21072a88ed57371c062a9c37616dc776204fb4253bbc87")
