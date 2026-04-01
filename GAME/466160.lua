@@ -1,0 +1,4 @@
+--game: Arelite Core
+
+addappid(466160)
+addappid(466161,0,"ed45d7772c3838ffd9219e6a6ec75b2556312810128fe7dbe1b5091534a39e9b")
