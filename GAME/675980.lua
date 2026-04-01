@@ -1,0 +1,4 @@
+--game: Atomic Sky
+
+addappid(675980)
+addappid(675981,0,"34b4c60fe12c078866d7778934cc6786ed11ddcee9e01c8115cdf502463005f1")
