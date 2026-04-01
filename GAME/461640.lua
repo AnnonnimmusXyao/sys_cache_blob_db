@@ -1,0 +1,4 @@
+--game: Sins Of The Demon RPG
+
+addappid(461640)
+addappid(461641,0,"a80d024518314b4ca1dacb584cbfef7d62f5ca1e21e29001e843dafd2bb6ceff")
