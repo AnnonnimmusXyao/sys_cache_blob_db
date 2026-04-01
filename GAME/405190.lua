@@ -1,0 +1,4 @@
+--game: MEG 9: Lost Echoes
+
+addappid(405190)
+addappid(405191,0,"98536b778dc567616b6a18bc22928773e612a9db0c08048d75d0798620f2bfcd")
