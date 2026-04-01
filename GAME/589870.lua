@@ -1,0 +1,4 @@
+--game: Learn to Fly 3
+
+addappid(589870)
+addappid(589871,0,"a5e094f16b78b3da4119e98e56f8f2afc564be9d2c26014a50705cbf71b25184")
