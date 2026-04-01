@@ -1,0 +1,4 @@
+--game: Dead Exit
+
+addappid(630050)
+addappid(630051,0,"e277e3df45857ff0fe3feda7b5c6fe458e349286b5fe4886e6cb4ae4d9f82128")
