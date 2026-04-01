@@ -1,0 +1,5 @@
+--game: Sprint Vector
+
+addappid(228985)
+addappid(590690)
+addappid(590691,0,"9d2aabc21b774883c5fe6725558bb734d9a18ceda67a6282da54179d55433eb6")
