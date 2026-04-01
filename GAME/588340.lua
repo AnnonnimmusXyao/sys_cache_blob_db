@@ -1,0 +1,4 @@
+--game: Stolen Steel VR
+
+addappid(588340)
+addappid(588341,0,"40c5c66dad96caae2e933b6401e960b45a1b585e306da77e160ff8ecce2f505e")
