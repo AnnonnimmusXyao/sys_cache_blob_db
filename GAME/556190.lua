@@ -1,0 +1,4 @@
+--game: Seven Seas Solitaire
+
+addappid(556190)
+addappid(556191,0,"033448cf69ec38d2caaae38ca687dc4b62d72e20b1fe8619ee8fc3540eeb92e1")
