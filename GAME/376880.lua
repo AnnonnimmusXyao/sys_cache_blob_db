@@ -1,0 +1,5 @@
+--game: ASTROKILL
+
+addappid(376880)
+addappid(376881,0,"283c36f60a2846b87c0caa3b63d7c2a3c92f41f7a9dfe0a7cf91923f83eeeea8")
+addappid(376882,0,"5656461be8cb2df9c066209aed041674d380f024ce738b9b0d77bd1a9939fa2d")
