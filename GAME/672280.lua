@@ -1,0 +1,4 @@
+--game: Gates of Horn and Ivory
+
+addappid(672280)
+addappid(672281,0,"0a9576bfc202caf30c10c23fcc0f06b2f02388e97f21f08bb72f085dc2a88858")
