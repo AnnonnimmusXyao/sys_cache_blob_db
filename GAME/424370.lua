@@ -1,0 +1,14 @@
+--game: Wolcen: Lords of Mayhem
+
+addappid(228985)
+addappid(424370)
+addappid(424371,0,"dcac2232b38de14cc6ca0224e6204cb1f0125c2408e43877fbf2daf2ed3ae556")
+addappid(1192450,0,"1c8fe137dff48b73536b2e2d03cb3a3bae1ed031223a292ed260cbdf9fb88759")
+addappid(1430890)
+addappid(1430891)
+addappid(1430892)
+addappid(1430893)
+addappid(1430894)
+addappid(1430895)
+addappid(1430896)
+addappid(1430897)
