@@ -1,0 +1,6 @@
+--game: Magic Quest
+
+addappid(228983)
+addappid(228985)
+addappid(454870)
+addappid(454871,0,"89cd4916138abfe818c92994fba46baae7f655733059a0654a75e2dcdca00722")
