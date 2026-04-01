@@ -1,0 +1,4 @@
+--game: Trivia Vault: Classic Rock Trivia
+
+addappid(690240)
+addappid(690241,0,"1bd8fd7a852ecaeb947606b07a2153298fc6ca713e811c01e44c066c056434fa")
