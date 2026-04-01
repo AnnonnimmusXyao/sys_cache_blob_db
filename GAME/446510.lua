@@ -1,0 +1,4 @@
+--game: Armed and Gelatinous: Couch Edition
+
+addappid(446510)
+addappid(446514,0,"a53b0e8b949a0024b63ea5d512ddc1276a317edefe1afab9bf778d152a1bd218")
