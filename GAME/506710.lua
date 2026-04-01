@@ -1,0 +1,4 @@
+--game: The Colony: New Haven Chronicles
+
+addappid(506710)
+addappid(506712,0,"627e4b0744d8a0e75fe97927c374b59eaa3f9576c8e7e9e5f63982bea60e238d")
