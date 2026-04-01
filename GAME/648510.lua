@@ -1,0 +1,4 @@
+--game: Choice of the Star Captain
+
+addappid(648510)
+addappid(648511,0,"8391bcfa29997803c640578b5ed17c54ece3492b940aa22dba2b643514bb7286")
