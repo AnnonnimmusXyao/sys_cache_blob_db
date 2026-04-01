@@ -1,0 +1,4 @@
+--game: Potentia
+
+addappid(606980)
+addappid(606981,0,"82251cd2b89ff8207bf2fbede00a2d58975505a80828c1954c0a7cf0c1181e91")
