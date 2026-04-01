@@ -1,0 +1,4 @@
+--game: 100ft Robot Golf
+
+addappid(368000)
+addappid(368001,0,"cf729ca7b1db71e740f48e37edcf65b178726ae4ba368add72373aac94e5eedd")
