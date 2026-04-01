@@ -1,0 +1,4 @@
+--game: Aviary Attorney
+
+addappid(384630)
+addappid(384631,0,"48740732b2803309658791f97d1dab25ef34bee5de73f474eaa8ed6f6bb9b86f")
