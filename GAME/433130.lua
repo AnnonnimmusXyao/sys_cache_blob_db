@@ -1,0 +1,5 @@
+--game: WarBirds Dogfights
+
+addappid(433130)
+addappid(433131,0,"dda52fe8a70ae9d0292e6844a1a79ea883ac1d75c49d1250f7a330db3126a352")
+addappid(433132,0,"7b255b0ed7c7ae512a987a1155ead9bd12942de3e42f8ac65a56e1bfa156bee7")
