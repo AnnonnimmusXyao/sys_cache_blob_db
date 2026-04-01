@@ -1,0 +1,5 @@
+--game: Hooligan Vasja: Halloween
+
+addappid(228983)
+addappid(655460)
+addappid(655461,0,"f1164109ce93a8dcacf73a93f6d65b4cf43466b8cf786054213d1e76aef1d345")
