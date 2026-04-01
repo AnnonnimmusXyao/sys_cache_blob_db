@@ -1,0 +1,4 @@
+--game: Strategy & Tactics: Dark Ages
+
+addappid(508300)
+addappid(508301,0,"7ca42cfc2b5bc255e8e7ec1856ea4834cf32cafcc200843620bdbfe0a6ed823d")
