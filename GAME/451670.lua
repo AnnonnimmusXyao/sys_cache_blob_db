@@ -1,0 +1,6 @@
+--game: War Birds: WW2 Air strike 1942
+
+addappid(451670)
+addappid(451671,0,"a73004b8f67b7a6a1964bc1dfce21225237c5bb4bfa138bbdc22b1285f75cc7c")
+addappid(451672,0,"d4156c550dd1d3d11eddec45707bdb4720f63f0626b03010d9c104eb56f899ff")
+addappid(451673,0,"669a9653dd62b61a023cf45dbb0d4d00863aeca17e3d2670be85958dee60ac85")
