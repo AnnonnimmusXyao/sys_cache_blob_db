@@ -1,0 +1,4 @@
+--game: Holodaze
+
+addappid(475520)
+addappid(475521,0,"07f717bede14e7b2969f865bbb72d9cba20e6614a592cbe81dcf59e6025819d8")
