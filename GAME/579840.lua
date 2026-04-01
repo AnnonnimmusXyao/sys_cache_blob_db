@@ -1,0 +1,5 @@
+--game: Bloody Trapland 2: Curiosity
+
+addappid(579840)
+addappid(579841,0,"56c111f5dbea786da1ec27c94997163bedadc91b4fd9920fb73ef761c6054f61")
+addappid(610270)
