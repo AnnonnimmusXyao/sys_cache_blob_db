@@ -1,0 +1,4 @@
+--game: Ohr: אור
+
+addappid(376480)
+addappid(376481,0,"3c644322e1486949ea151d90c7df7a40008b1142e81f3cc19176dc194ec2e193")
