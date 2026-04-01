@@ -1,0 +1,4 @@
+--game: Celestrion
+
+addappid(424100)
+addappid(424101,0,"54022b66117c4157333c68d12f7a9e46607debcd7fcb70ed2d30ee4fdb0fb61f")
