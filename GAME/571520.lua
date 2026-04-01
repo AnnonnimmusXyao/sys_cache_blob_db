@@ -1,0 +1,5 @@
+--game: Kalaban
+
+addappid(571520)
+addappid(571521,0,"bbd7e3b1a95944d47ef2056def82ecd327f919cc88a0417a617cd19e737b7547")
+addappid(629710)
