@@ -1,0 +1,4 @@
+--game: The Curse Of Mantras
+
+addappid(618000)
+addappid(618001,0,"7e6e2580caa9f4ecd535d6690eb5c93627d588f715dd1ebb453635da82249063")
