@@ -1,0 +1,4 @@
+--game: Fading
+
+addappid(639320)
+addappid(639321,0,"ad9eee0f36312586f2b594aca57a8f7804f1a05230583cd4a4a295beb8d88131")
