@@ -1,0 +1,5 @@
+--game: True or False
+
+addappid(521340)
+addappid(521341,0,"3355ade8a0f2ceecca7e34837815fe2d59fabcfeb0789c88847b697ec3ec41c0")
+addappid(521850,0,"28756c4074b9822b82ef0c7c8e9266912f2ddbb73b2711208a61838cadabe352")
