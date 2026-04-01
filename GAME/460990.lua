@@ -1,0 +1,4 @@
+--game: The Impossible Travel Agency
+
+addappid(460990)
+addappid(460992,0,"f2d5b81b6419d20c729e9564be3634149bfae15c015f0127521cf2391b7f955a")
