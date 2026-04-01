@@ -1,0 +1,6 @@
+--game: Game Type DX
+
+addappid(229003)
+addappid(229012)
+addappid(373630)
+addappid(373631,0,"ee5612d93dc85707e871536c325b3fa8b739f9e527d3e3ac3fa11ddd04e67ddf")
