@@ -1,0 +1,4 @@
+--game: RED Fuse: Rolling Explosive Device
+
+addappid(384660)
+addappid(384661,0,"bc6193ed6a156b6bb2647268592a15440fd95baa0a024456148bc8ef1ac199f9")
