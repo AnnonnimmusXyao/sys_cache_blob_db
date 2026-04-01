@@ -1,0 +1,4 @@
+--game: 家有大貓 Nekojishi
+
+addappid(570840)
+addappid(570841,0,"ef2b84a37bdc52a24d818c996942304bdf4e5eda3172d8f5d237182881d14699")
