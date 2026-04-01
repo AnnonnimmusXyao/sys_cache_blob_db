@@ -1,0 +1,4 @@
+--game: Fortune's Tavern - Remastered
+
+addappid(691980)
+addappid(691981,0,"96570d6e5c882099304cffb37e7680e68731517df4bf6650f9aeb44539fed8c9")
