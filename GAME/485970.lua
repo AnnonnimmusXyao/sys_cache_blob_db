@@ -1,0 +1,4 @@
+--game: Cyber Sentinel
+
+addappid(485970)
+addappid(485971,0,"9942ff95af926c9058596f3b636d3087d7744d5be65112aafe307aa65734fa3c")
