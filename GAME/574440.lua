@@ -1,0 +1,4 @@
+--game: Ripple Effect
+
+addappid(574440)
+addappid(574441,0,"23081145279fecd4265b44deca45a91cdcb35c44c43028bcdb2337cb65cea90e")
