@@ -1,0 +1,4 @@
+--game: Anicon - Animal Complex - Cat's Path
+
+addappid(502120)
+addappid(502121,0,"d87d0885657659e22d9d31e3ec11ffa954c2341bf5a76a33b761fb78505d1739")
