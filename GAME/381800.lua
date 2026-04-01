@@ -1,0 +1,4 @@
+--game: DRIFT 84
+
+addappid(381800)
+addappid(381801,0,"7d0208e63f418528a383507c1feeb5d3ab71298c1d899aefc48f62167cebf36d")
