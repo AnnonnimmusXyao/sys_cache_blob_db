@@ -1,0 +1,7 @@
+--game: Extinction
+
+addappid(570710)
+addappid(570711,0,"5a15e842d809e66b9d7c5eb1ebd8e6075afe72c750c610168442a91ec2810abe")
+addappid(787680)
+addappid(787681)
+addappid(787682)
