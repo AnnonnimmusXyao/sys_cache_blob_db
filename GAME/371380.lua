@@ -1,0 +1,4 @@
+--game: Dr. Spacezoo
+
+addappid(371380)
+addappid(371381,0,"d9454d7665cc8adebb121d8541a3d4866d3c04d81251b448e9b74b5c9f4a9e65")
