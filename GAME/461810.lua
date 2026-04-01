@@ -1,0 +1,4 @@
+--game: CAFE 0 ~The Sleeping Beast~
+
+addappid(461810)
+addappid(461811,0,"e626ebd59348766b458eaa4eb1fd5e383fabe2b40c8c8e27c8d46fa325d80852")
