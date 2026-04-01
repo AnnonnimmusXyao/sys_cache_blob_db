@@ -1,0 +1,4 @@
+--game: Saga of the North Wind
+
+addappid(552720)
+addappid(552721,0,"23e6197842a764524434fdc724138cfd3535e0066320110089bd027435b87715")
