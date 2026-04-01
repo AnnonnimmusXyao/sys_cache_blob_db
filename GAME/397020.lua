@@ -1,0 +1,5 @@
+--game: Ironkraft - Road to Hell
+
+addappid(397020)
+addappid(397021,0,"e9e304dadb1883c5dd36a789e932f3988915a856635795af67a6101914c47b37")
+addappid(397022,0,"c2d1b113643702b3cca199d8108838b53dfdfdf6b0615cbcb59ad9ebabc07c62")
