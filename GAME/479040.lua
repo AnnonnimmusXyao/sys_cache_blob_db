@@ -1,0 +1,4 @@
+--game: Metamorphic
+
+addappid(479040)
+addappid(479042,0,"72bcc92efaf916f943289b28ce0e2ad245fa60fe07a41f705cb9bd9d7513b212")
