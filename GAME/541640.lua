@@ -1,0 +1,4 @@
+--game: Disney Infinity 1.0: Gold Edition
+
+addappid(541640)
+addappid(541641,0,"fa2efda45de22bd87d22fe19b13381bd98095bd62f2d0fee9780e0fd56119f78")
