@@ -1,0 +1,4 @@
+--game: Eye of the Owl - Bosch VR
+
+addappid(420020)
+addappid(420021,0,"316e26fa295196a47173a96b74576555781635ade99300bdb28bf9f13b95e5da")
