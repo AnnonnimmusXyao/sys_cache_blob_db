@@ -1,0 +1,4 @@
+--game: Zap Zone
+
+addappid(572180)
+addappid(572181,0,"95307ea184e315a9e3e3d99aef6d05d201065d3ee39ff8695ec45e3d9da06f44")
