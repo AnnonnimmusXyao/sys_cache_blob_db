@@ -1,0 +1,4 @@
+--game: Fear Of Nightmares: Madness Descent
+
+addappid(692830)
+addappid(692831,0,"87ffbccfd69c60ba33247f7b8fd18e97964ae23bbce05a4af7f1875a8f177957")
