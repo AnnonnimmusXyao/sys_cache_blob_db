@@ -1,0 +1,8 @@
+--game: Yuppie Psycho: Executive Edition
+
+addappid(229020)
+addappid(597760)
+addappid(597763,0,"98012e3a67f3ccd1b00ddf05828a8b4b0f8cdf08f96fd0f644680db7dc0471cb")
+addappid(597767,0,"3495b90fa17cdad0d768467ebd5223eee0eecaca9c056fda4a6375a77f0e973f")
+addappid(597768,0,"1ba75cf0eb42c1c154e6fe399753f4b074dab3185614497193a9e826e66b792e")
+addappid(597769,0,"b8f9f19de2d90aaee5a4287d6bd25f636116b2a36e25470d8ce368e496be7e34")
