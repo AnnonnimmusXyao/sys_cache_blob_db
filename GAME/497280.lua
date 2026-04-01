@@ -1,0 +1,4 @@
+--game: Wrong Dimension - The One Dimensional Platformer
+
+addappid(497280)
+addappid(497281,0,"4292223fd58623b03e03f7352aa0052808a1389a712e1a0dde89d32657f7cc34")
