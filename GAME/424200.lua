@@ -1,0 +1,4 @@
+--game: Little Mouse's Encyclopedia
+
+addappid(424200)
+addappid(424201,0,"60c349efe945bb06560bd294e7600c149647e63594e40ebf9b3f52a8569cfb85")
