@@ -1,0 +1,6 @@
+--game: Slashy Hero
+
+addappid(228985)
+addappid(525740)
+addappid(525741,0,"391d91af0f7f6783ece900fc47021d0b8a4d1790274fb44ebe3e0f9c7115203f")
+addappid(525742,0,"403c2d9cee2abf01abc80fe004b0209e868e08248befba624567666166b2b7d6")
