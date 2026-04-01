@@ -1,0 +1,4 @@
+--game: Worlds of Chaos: Invasion
+
+addappid(436510)
+addappid(436511,0,"f693f938d1dc8ced5d8640811aae7e4a4a88302a2ef150dbf63977ee8cf26dc8")
