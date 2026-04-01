@@ -1,0 +1,4 @@
+--game: Don't Chat With Strangers
+
+addappid(533170)
+addappid(533171,0,"98fbc9981b41f8708fe08b539ff9e5bfa1d4bc57ba9cbd7a3af25b36df5e699c")
