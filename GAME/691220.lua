@@ -1,0 +1,4 @@
+--game: Parkour
+
+addappid(691220)
+addappid(691221,0,"bb96f8b47b20f94c9550a8f4aa7455aa2294647b77b072aa05e569933de2301b")
