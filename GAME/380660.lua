@@ -1,0 +1,8 @@
+--game: Killing Time at Lightspeed: Enhanced Edition
+
+addappid(380660)
+addappid(380661,0,"98c5044325b02fab0c7429d3f37f2707686df8695d853bc03ba67f62dfe2af92")
+addappid(380662,0,"2d6f43c54c1ed6e6746db88fcfbf42db7df70f1fcee523e2c3ee676eca2ffb46")
+addappid(380663,0,"27b7d194ed9fd4f837a899b45794cce514e57f036657f3a23ec23a9649022b8c")
+addappid(380664,0,"b61fb1d1506a16e1f6a30f13a979022a09f939a172796aba8ee69eed9e7202f0")
+addappid(516370)
