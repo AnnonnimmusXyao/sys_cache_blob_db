@@ -1,0 +1,11 @@
+--game: Gremlins, Inc.
+
+addappid(369990)
+addappid(369991,0,"534b5beaad35355d46d32578854588a8a12e256a227d6af56643edbab2fb4a3e")
+addappid(458160)
+addappid(459850,0,"642c77cf81e4232eb6fd6440aec5ccd0b083b711e4193960106288f80bed501e")
+addappid(459852)
+addappid(459853)
+addappid(723650)
+addappid(748260,0,"6141e4e63285cd11dd78edfdc1da90d44974b5cd03a125ffb8964d9539154b63")
+addappid(1438000)
