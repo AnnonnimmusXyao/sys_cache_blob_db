@@ -1,0 +1,4 @@
+--game: カニマン VS メカモンキー
+
+addappid(693950)
+addappid(693951,0,"1e6f69204fa88b214b5dbe4d914077c68c81a5934e03a3bb3c153519adc06cd7")
