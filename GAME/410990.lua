@@ -1,0 +1,4 @@
+--game: Master of Orion 3
+
+addappid(410990)
+addappid(410991,0,"bf342ebd1dea04582f0c723b8e866149bcfc3b4fe395df363e9101f63dc55383")
