@@ -1,0 +1,4 @@
+--game: Melancholy Republic
+
+addappid(436240)
+addappid(436241,0,"f6d54baadfecbe3397c0d56154b8afaf5fa3332b15e8a3aac31c9415a0494b4c")
