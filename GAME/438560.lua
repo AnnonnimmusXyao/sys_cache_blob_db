@@ -1,0 +1,4 @@
+--game: Mystery Case Files®: Escape from Ravenhearst™
+
+addappid(438560)
+addappid(438561,0,"2d30f74179d7aa253425b06642fd0ce89597d1f358fd9eefdf0305867664ae41")
