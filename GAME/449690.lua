@@ -1,0 +1,4 @@
+--game: Fatal Fight
+
+addappid(449690)
+addappid(449691,0,"917f91df2a5a5b7743cd6e771dac61212955f0b09e3f1f93a2de6ac119ed1f8e")
