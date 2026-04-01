@@ -1,0 +1,4 @@
+--game: Super Night Riders
+
+addappid(444000)
+addappid(444001,0,"5217afa1f4155a29abc553fba40614338f537c6c4ffa321bf90a9ecc0fa5b669")
