@@ -1,0 +1,4 @@
+--game: Life of a Wizard
+
+addappid(596910)
+addappid(596911,0,"1076d041438df4886d11ffb04b59dbe3e51705657dfffd2a176513f7279bc76f")
