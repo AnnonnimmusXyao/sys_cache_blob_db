@@ -1,0 +1,4 @@
+--game: Rabiez: Epidemic
+
+addappid(448630)
+addappid(448631,0,"ec1ab7eca5d492492124e645ca839f6afb2137703e02b51e765b62e461306c10")
