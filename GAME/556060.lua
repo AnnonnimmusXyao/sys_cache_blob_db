@@ -1,0 +1,7 @@
+--game: Detective Gallo
+
+addappid(556060)
+addappid(556061,0,"0065df6d2cdfee24db38d42d3c2c45147ecd33a8bbe3d257e698db346ce28860")
+addappid(1980290)
+addappid(1980320)
+addappid(1980340)
