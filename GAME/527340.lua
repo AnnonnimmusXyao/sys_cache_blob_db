@@ -1,0 +1,4 @@
+--game: What The Box?
+
+addappid(527340)
+addappid(527341,0,"62f44f3a3f249704509c3b7b6630d9f84bbc48da9cab13f7c1d7b77f1a9329b8")
