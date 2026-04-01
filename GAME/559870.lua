@@ -1,0 +1,4 @@
+--game: PAKO - Car Chase Simulator
+
+addappid(559870)
+addappid(559871,0,"ec9d2d15d1d4a62c7077ab6a0be9d3610020cffdfed96372fb07fb0e5bd7daf4")
