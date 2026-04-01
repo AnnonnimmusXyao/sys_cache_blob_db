@@ -1,0 +1,5 @@
+--game: Chromadrome 2
+
+addappid(228983)
+addappid(378350)
+addappid(378351,0,"de52b685ee2394a2d7db9a815829a5135e2d69e67865a294121d273b9c54aca1")
