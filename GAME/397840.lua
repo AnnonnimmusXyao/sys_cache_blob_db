@@ -1,0 +1,4 @@
+--game: Car Mechanic Manager
+
+addappid(397840)
+addappid(397841,0,"aa948e558a161c3ee5b09acb802cbe44e28e503fe975ae5c49df4c677a03e1ca")
