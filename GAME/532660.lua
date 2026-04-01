@@ -1,0 +1,4 @@
+--game: Exteria
+
+addappid(532660)
+addappid(532662,0,"bd915104a9589b605fc36ff4359f8437abf7dcde1c1bab1dca47cf1b06e0eb99")
