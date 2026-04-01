@@ -1,0 +1,4 @@
+--game: Night Call
+
+addappid(680380)
+addappid(680383,0,"0905c719a2f5adda8a8f1d6c2148335084ef48f33a05270d0d44424cf6c47256")
