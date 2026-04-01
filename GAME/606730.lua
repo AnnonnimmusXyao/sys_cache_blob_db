@@ -1,0 +1,5 @@
+--game: Sine Mora EX
+
+addappid(228985)
+addappid(606730)
+addappid(606731,0,"1e054109f19a5a101d5739a9c79b89842ecc3afb08686af505c3bf29a8af2af8")
