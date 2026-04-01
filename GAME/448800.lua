@@ -1,0 +1,4 @@
+--game: Semispheres
+
+addappid(448800)
+addappid(448801,0,"79adf8303be52c8166063a802ba5554d5c0f59653e292b78a14cea0c01909c57")
