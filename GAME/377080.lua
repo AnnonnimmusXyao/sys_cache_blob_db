@@ -1,0 +1,5 @@
+--game: Hatoful Boyfriend: Holiday Star
+
+addappid(377080)
+addappid(377081,0,"e109f4995c5934ccda7378afb801b31c70064284526b7f1d271a0bca8a7c957b")
+addappid(377084,0,"3404bf7f462e8c074624470a43f9881c12d5e99c1ad59788f8d2726eb69e3d63")
