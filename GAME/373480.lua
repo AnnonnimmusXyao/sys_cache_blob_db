@@ -1,0 +1,4 @@
+--game: 1993 Space Machine
+
+addappid(373480)
+addappid(373481,0,"8c60d67cd8e61fa3ed479ea316ddd2664192b57cd6fa08d7aebc02f4d1852e54")
