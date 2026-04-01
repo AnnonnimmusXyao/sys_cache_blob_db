@@ -1,0 +1,4 @@
+--game: Mystery Expedition: Prisoners of Ice
+
+addappid(397960)
+addappid(397961,0,"0e79ec86c62f53c2fa68ded0319dd9c58c3da2951cb911e813942c3b437e6793")
