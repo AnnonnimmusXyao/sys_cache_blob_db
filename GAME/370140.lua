@@ -1,0 +1,4 @@
+--game: Nebulous
+
+addappid(370140)
+addappid(370141,0,"29aec0f8e6070eebeba2d4731997221909be44d966c640cbf27356b61e7ce6b5")
