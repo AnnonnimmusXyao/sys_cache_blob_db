@@ -1,0 +1,4 @@
+--game: Saucer-Like
+
+addappid(602590)
+addappid(602591,0,"1466e6a651f74bb35756d0546393dd7fd152ed03d632c55621c34dc4a4456392")
