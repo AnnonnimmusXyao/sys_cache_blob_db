@@ -1,0 +1,4 @@
+--game: Medieval Kingdom Wars
+
+addappid(499660)
+addappid(499661,0,"78ec6286e1984d201c75528375fb7a50cad0659226d399b2d30ccbc776e07853")
