@@ -1,0 +1,4 @@
+--game: Ruction: The Golden Tablet
+
+addappid(496820)
+addappid(496821,0,"04689538714bf069bf877cc70e6e501350b95782f0ba32014dceba7caf195cf2")
