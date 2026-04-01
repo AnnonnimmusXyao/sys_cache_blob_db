@@ -1,0 +1,7 @@
+--game: Senalux
+
+addappid(654580)
+addappid(654582,0,"2d5c365de1e2d9f8ce15690afa3e233e8e3f4a5761769c207a1e420de66ac5ee")
+addappid(722880)
+addappid(722881)
+addappid(833730)
