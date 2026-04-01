@@ -1,0 +1,4 @@
+--game: King Machine
+
+addappid(521140)
+addappid(521141,0,"c806f3a57080524fefa559c38e6b3fabfd933c2ad96812c971ff92b17e237de1")
