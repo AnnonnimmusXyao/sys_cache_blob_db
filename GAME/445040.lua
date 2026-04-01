@@ -1,0 +1,6 @@
+--game: Sorcery! Part 3
+
+addappid(228983)
+addappid(228985)
+addappid(445040)
+addappid(445041,0,"a760548a371aa907700a7c9f8857ab01c45651aabf16a9d67a08d4efd48ed89f")
