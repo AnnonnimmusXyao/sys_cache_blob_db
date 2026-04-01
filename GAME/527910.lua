@@ -1,0 +1,4 @@
+--game: Nevertales: Shattered Image Collector's Edition
+
+addappid(527910)
+addappid(527911,0,"b6087582da53e25f2d794026cff1bf498c38c0bb221204796f240891bc67c990")
