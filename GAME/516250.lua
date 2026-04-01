@@ -1,0 +1,4 @@
+--game: Skynet Rising : Portal to the Past
+
+addappid(516250)
+addappid(516251,0,"0531814e8c309f39c82a3ea8d1838d00f2ce1fdcd81c8a97c0fd3be24633e812")
