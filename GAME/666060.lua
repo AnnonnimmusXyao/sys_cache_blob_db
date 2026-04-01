@@ -1,0 +1,4 @@
+--game: Derelict Fleet
+
+addappid(666060)
+addappid(666061,0,"8a483add7b0a4179bd57a3f4d41b422c2fa54e403336201280c78822d9f0ba09")
