@@ -1,0 +1,4 @@
+--game: Endless Burst
+
+addappid(442760)
+addappid(442761,0,"5c10a0b433bbbc6344666dd10a916723737a1e200b5b01032e3360edb447d4ad")
