@@ -1,0 +1,4 @@
+--game: The Legend of Heroes: Trails in the Sky the 3rd
+
+addappid(436670)
+addappid(436671,0,"1798815c21d9266f1df4541b3bed1589c33fca4856490d0c4b10b76331b8a45e")
