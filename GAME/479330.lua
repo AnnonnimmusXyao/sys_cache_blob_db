@@ -1,0 +1,4 @@
+--game: Crazy Stone Deep Learning -The First Edition-
+
+addappid(479330)
+addappid(479331,0,"95914e95b03c7000eae783e57e3931ed63c8a68366e8fb2584a8113e32b7683e")
