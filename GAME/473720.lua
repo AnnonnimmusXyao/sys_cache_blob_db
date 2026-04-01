@@ -1,0 +1,4 @@
+--game: Mutant Mudds Super Challenge
+
+addappid(473720)
+addappid(473721,0,"287685584986ce98aeb4a7847e2e3104ba3950cdc35934422d410a20ef264eed")
