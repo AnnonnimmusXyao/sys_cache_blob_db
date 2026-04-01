@@ -1,0 +1,4 @@
+--game: Hyper Void
+
+addappid(568060)
+addappid(568061,0,"7a5b8bfbc5c55c70af0eba94b4e2ab5f2118c5167232ecb3671b5f0324853fbd")
