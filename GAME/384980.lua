@@ -1,0 +1,7 @@
+--game: Battle for Blood - Epic battles within 30 seconds!
+
+addappid(384980)
+addappid(384981,0,"aaa8c968421075da95c83da37fc817facd302b9c5344ae860af7c4ece46ee907")
+addappid(384982,0,"4a565be023f2e57cc7055e89e26b8c448e74bd5a969538088cd7c4802fb22fd0")
+addappid(384983,0,"412c0b3479b3fd94c6be4f99dd900f27404ab6eb9b7b7afb430a16ce5c2a404b")
+addappid(384984,0,"1d8c7316e38b38f6763fef958c2030e9b0d2f9e1a966954a1e65164d8c53b048")
