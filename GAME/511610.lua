@@ -1,0 +1,4 @@
+--game: Adventure Of Thieves
+
+addappid(511610)
+addappid(511611,0,"7a61750ff158a22c1b13827a3f0d56f76caab4a2b27038aa2abbbb610f3db5ca")
