@@ -1,0 +1,4 @@
+--game: Aliens In The Yard
+
+addappid(648190)
+addappid(648191,0,"4ace8222021936926454995b5454a880fbfce946c117bd8e9c93990d794a7446")
