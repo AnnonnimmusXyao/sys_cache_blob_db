@@ -1,0 +1,5 @@
+--game: RHEM IV: The Golden Fragments SE
+
+addappid(391510)
+addappid(391511,0,"7960118381d129b68a09576011aba1568dda7e473999c865a9adea896cf6d864")
+addappid(391512,0,"c606579b461efc3869cfcd12404dc57579755197ca18f6dc3da02ba4969c632c")
