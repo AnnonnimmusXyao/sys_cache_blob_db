@@ -1,0 +1,4 @@
+--game: WinKings
+
+addappid(428920)
+addappid(428922,0,"1ec3747b1fe66c15103008d05e7797baef1b2348d514ee6a32e4b47565ea4c71")
