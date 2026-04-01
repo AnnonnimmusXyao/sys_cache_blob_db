@@ -1,0 +1,4 @@
+--game: Pendragon Rising
+
+addappid(423320)
+addappid(423321,0,"5d0df002e1e662d569847a2eee5502d263335a4a542317a3733e4c16f5576620")
