@@ -1,0 +1,4 @@
+--game: Musical Range
+
+addappid(547670)
+addappid(547671,0,"d95bbbcddae19920f94cd376b3507bc0394615e3540cc08d047807dd007a2beb")
