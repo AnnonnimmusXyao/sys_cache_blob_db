@@ -1,0 +1,5 @@
+--game: Chaos Town
+
+addappid(620130)
+addappid(229000)
+addappid(620131,0,"9bc22287b0c840416a4ec12253e1ddd0cbbe4e739e30c38304f76dd866e8d27e")
