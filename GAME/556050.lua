@@ -1,0 +1,4 @@
+--game: Hyper Jam
+
+addappid(556050)
+addappid(556051,0,"6e8a82f1bf82a2f7e60f9423bf8b19ef1a54a47ae837af3283d358183e0f32d4")
