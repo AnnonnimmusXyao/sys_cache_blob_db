@@ -1,0 +1,9 @@
+--game: Ultimate General: Civil War
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(502520)
+addappid(502521,0,"ad4835ef3ca4b2ab3c10eb9165897f84b2d1493b75a5393b7c1c1d64d7649f60")
+addappid(502522,0,"e81a439c2c75ffba417730ee765cce28248aaf092bebd116e95768d7f3094f15")
