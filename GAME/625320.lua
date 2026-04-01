@@ -1,0 +1,4 @@
+--game: No Clue VR
+
+addappid(625320)
+addappid(625328,0,"9e9f1608fa70692dc3c2cb9786d037f38eadaa8957eb495ea5767b6e9dd6725a")
