@@ -1,0 +1,4 @@
+--game: Alchemist Defender VR
+
+addappid(602160)
+addappid(602161,0,"cc953f244e2ad07b1ed172cd26b37270dfed7b935e897820e046888f2e1eb911")
