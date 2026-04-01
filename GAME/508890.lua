@@ -1,0 +1,4 @@
+--game: Meteor Crush VR
+
+addappid(508890)
+addappid(508891,0,"bb2f2d4102626c8ec81ff7bffaed8b96ea7c60acfcc893e28cfbd94296c554bf")
