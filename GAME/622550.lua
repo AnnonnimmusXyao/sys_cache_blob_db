@@ -1,0 +1,4 @@
+--game: Final Cut: Encore Collector's Edition
+
+addappid(622550)
+addappid(622551,0,"fa8e0f03dfb23ea9ca15ed7198a6142d6f6c64c058dae6a4bf34e6296c762157")
