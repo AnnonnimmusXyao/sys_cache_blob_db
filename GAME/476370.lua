@@ -1,0 +1,4 @@
+--game: MAGATAMA Earrings
+
+addappid(476370)
+addappid(476371,0,"491ecb61a989c8526c2128a729b6794a3d4ddf0c7dced1ca2565f133cae85a87")
