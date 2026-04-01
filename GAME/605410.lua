@@ -1,0 +1,4 @@
+--game: Fear the Dead
+
+addappid(605410)
+addappid(605411,0,"56be06abeb9d76c548d38cbb39e32ab5f4e5c8a17ea7a3766c0c362c3fdde065")
