@@ -1,0 +1,4 @@
+--game: Ethereal Legends
+
+addappid(428980)
+addappid(428981,0,"7c71032068ed56ee4a6569eb7da12a1d0a17bb5c1cdcf06dc05a8afd3790f7f6")
