@@ -1,0 +1,4 @@
+--game: Eternal Lore
+
+addappid(601790)
+addappid(601791,0,"b0a95cc9b4c1f9738813a288be070a8d61cd7709c7c55be49b9d625925f628cf")
