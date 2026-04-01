@@ -1,0 +1,5 @@
+--game: Calm Waters: A Point and Click Adventure
+
+addappid(541350)
+addappid(541351,0,"c4d505f20a89d2e8727aeca95ac5d5b2049490aaf3eaebdd55eb300de1fc3b22")
+addappid(541352,0,"f75aaf624085cf23351ba101d78942d2ec06d95c3311f5c0dc5c00bf66dd64dc")
