@@ -1,0 +1,4 @@
+--game: Shoppy Mart: Steam Edition
+
+addappid(388360)
+addappid(388361,0,"32171c7a58e3b5e16f1329fc39eb3fb6a0d05a4e5bd1b3f4aa4e1333e6fed44e")
