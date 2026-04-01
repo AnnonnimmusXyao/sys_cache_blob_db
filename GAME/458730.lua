@@ -1,0 +1,7 @@
+--game: Conception II: Children of the Seven Stars
+
+addappid(458730)
+addappid(228985)
+addappid(229020)
+addappid(458731,0,"4374568a21fa2aab1051cb7b8d566d03211845548ff197d958fd5c2d24fd8fd5")
+addappid(458732,0,"4eb1e647dae59f7ae109b0aa4b9526e27436da9f7fadcb629cd35cb12e424900")
