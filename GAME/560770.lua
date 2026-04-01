@@ -1,0 +1,4 @@
+--game: Andoran Skye 1.5
+
+addappid(560770)
+addappid(560771,0,"26502d216cb88634c883ad216284211166e22f3ee72bc8fd99a39d9751856b05")
