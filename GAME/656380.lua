@@ -1,0 +1,4 @@
+--game: Chicken Daddy
+
+addappid(656380)
+addappid(656381,0,"4b84517650a890d2d94b970f6277c085be7c789964ecd18f3b8bf4cd8eb61439")
