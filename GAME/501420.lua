@@ -1,0 +1,4 @@
+--game: My Own Pet
+
+addappid(501420)
+addappid(501421,0,"70a2ef5c2f0337d705c811507b4ada51122b4d546565ff888d3985b9075c1223")
