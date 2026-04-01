@@ -1,0 +1,4 @@
+--game: PyroSlam: VR Table Tennis
+
+addappid(493460)
+addappid(493461,0,"07d274c4ab3b560f81b5175a3defb92b9c7d45fe5855cb4d92f09f6dd43b2225")
