@@ -1,0 +1,4 @@
+--game: Puzzle Cross
+
+addappid(501450)
+addappid(501451,0,"96c94f1742859f535040b4808aaff1e044091b747697ec7726e82c1d82e5cb4d")
