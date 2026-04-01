@@ -1,0 +1,11 @@
+--game: Burgers
+
+addappid(385830)
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229004)
+addappid(229012)
+addappid(385831,0,"f14af985d220746dc2019a386d0d04435bbaf8159016e44a8eda5d706cf37ee1")
+addappid(385832,0,"6d99718e7bcb24cf009a43379efd1ba24e1dd7173008e156163240bf8795b41f")
