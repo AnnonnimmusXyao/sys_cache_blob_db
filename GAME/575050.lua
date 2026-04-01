@@ -1,0 +1,4 @@
+--game: Little Triangle
+
+addappid(575050)
+addappid(575051,0,"66a2eb3888c56ada0f810957eeaa46f39275fabcbad69cfff2574cbed93b9d35")
