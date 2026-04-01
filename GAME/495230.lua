@@ -1,0 +1,4 @@
+--game: Hypnorain
+
+addappid(495230)
+addappid(495231,0,"beb1aee9651d6afef5a1efa37777c72a5d624a2dc3976279eb299b85846ed3b3")
