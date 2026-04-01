@@ -1,0 +1,4 @@
+--game: Red Comrades Save the Galaxy: Reloaded
+
+addappid(415610)
+addappid(415612,0,"bdeaa1d1e38cf70c944be66d45abf1198e78d1be111dc40a1f3de32b4156760d")
