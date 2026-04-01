@@ -1,0 +1,6 @@
+--game: Raiden Legacy - Steam Edition
+
+addappid(228985)
+addappid(229020)
+addappid(407600)
+addappid(407601,0,"37c6e48f44c13665554724bf466852c3f78c5842de2083884ff9d2b669102a45")
