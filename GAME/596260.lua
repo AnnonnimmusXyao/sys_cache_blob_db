@@ -1,0 +1,4 @@
+--game: S-COPTER: Trials of Quick Fingers and Logic
+
+addappid(596260)
+addappid(596261,0,"04cb3b206bc3d800fd40aef8f56e8c23222f40e898a06ab3cfb9b9e23dd623f8")
