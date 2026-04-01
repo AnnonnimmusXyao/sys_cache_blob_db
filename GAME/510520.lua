@@ -1,0 +1,4 @@
+--game: Little Red Lie
+
+addappid(510520)
+addappid(510522,0,"83723d222721fce31fb00f9f31a461fa30598c1ace29149fc1481d914618c23b")
