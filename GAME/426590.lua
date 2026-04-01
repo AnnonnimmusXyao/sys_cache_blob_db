@@ -1,0 +1,4 @@
+--game: Blood of Magic
+
+addappid(426590)
+addappid(426592,0,"ecd85510b98fa722cd11fbcef13adb31dd0b7c0fe485d755c96fad6393972b97")
