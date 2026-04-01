@@ -1,0 +1,4 @@
+--game: Magic Potion Destroyer
+
+addappid(676910)
+addappid(676911,0,"123c79b45045fa48857babb4f212e75c894cc9388b1a150df7b0129bc15a891c")
