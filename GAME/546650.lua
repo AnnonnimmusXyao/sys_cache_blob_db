@@ -1,0 +1,4 @@
+--game: Beat Boxer
+
+addappid(546650)
+addappid(546651,0,"5cf8b910eb804666d33255ceff38380eb6533e299d9eb2f1fdf10088bddca48e")
