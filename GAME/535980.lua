@@ -1,0 +1,5 @@
+--game: Phrase Shift
+
+addappid(535980)
+addappid(535981,0,"4b82d61e52a864696c6401b74f0425fd0b7ba251e4f2a5873f7fdfa19603f7ef")
+addappid(535982,0,"34e90a02f36f4c877ccf63bd86822d142b0fcca0c0b2a795abb372e0ea733760")
