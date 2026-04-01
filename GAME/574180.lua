@@ -1,0 +1,5 @@
+--game: Rem Survival
+
+addappid(574180)
+addappid(574183,0,"cdd2f55806ecb15fd268dd047093038f31b1b3ed4d8f16b5700650b97a026adb")
+addappid(1272930)
