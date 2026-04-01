@@ -1,0 +1,4 @@
+--game: Sonder. Episode ONE
+
+addappid(397850)
+addappid(397851,0,"5b7fb834364b89b494239252fee15e4715066c43be0210274534943512b82908")
