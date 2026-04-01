@@ -1,0 +1,4 @@
+--game: Rise of Man
+
+addappid(670490)
+addappid(670491,0,"1fb326953cfa3f01425362b821e11888a3e4b09e2f8a379e2efc3392d7dcd47a")
