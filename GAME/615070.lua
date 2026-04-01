@@ -1,0 +1,4 @@
+--game: Dealey Plaza Paintball
+
+addappid(615070)
+addappid(615071,0,"756e0f8c2809cd68442c97471203bdbe681c7af81336707213e36565e98eddcc")
