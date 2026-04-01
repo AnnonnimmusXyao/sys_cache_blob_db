@@ -1,0 +1,4 @@
+--game: The Island of Eternal Struggle
+
+addappid(534240)
+addappid(534241,0,"1bc6b7fad3db0abbcd310d34e8c99edb6355ac99963621ec27c67807a57ea85d")
