@@ -1,0 +1,4 @@
+--game: Black Mist
+
+addappid(673360)
+addappid(673361,0,"185d7283c2641d557cf208b49ff082986c203673cfbe9afce4ff2cbe0ebc23d1")
