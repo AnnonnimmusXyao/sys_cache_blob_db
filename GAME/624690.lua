@@ -1,0 +1,4 @@
+--game: NEXT JUMP: Shmup Tactics
+
+addappid(624690)
+addappid(624693,0,"3b330aa946f3b7365566fa0bd86073700b54d4c6bf5f32dd520ea59446486330")
