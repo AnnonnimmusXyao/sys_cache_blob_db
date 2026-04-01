@@ -1,0 +1,5 @@
+--game: Weapons Genius
+
+addappid(385400)
+addappid(385401,0,"ac55b118a03cf7d4713ce7f10d4a3e24565fc9033bb93999c803557472c4a7d8")
+addappid(1247480)
