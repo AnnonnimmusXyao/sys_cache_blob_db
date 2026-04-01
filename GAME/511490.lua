@@ -1,0 +1,6 @@
+--game: Malavision: The Beginning
+
+addappid(511490)
+addappid(228983)
+addappid(228985)
+addappid(511491,0,"d79c86d3cb5b1333b35133be10b6cafabcc9dfea3c22718b582f0dfca2e01378")
