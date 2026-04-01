@@ -1,0 +1,4 @@
+--game: SkiFy
+
+addappid(656060)
+addappid(656061,0,"d489587899fb7960822ee7c12c82bdd45c7f3a3ad401d472871c1b753e863949")
