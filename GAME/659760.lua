@@ -1,0 +1,4 @@
+--game: Synthetic Dreams
+
+addappid(659760)
+addappid(659761,0,"9234ed5367442e60a3647cf2d1ec5419e6f050584c6843fa745b0ddfc104041a")
