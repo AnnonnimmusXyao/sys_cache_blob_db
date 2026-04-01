@@ -1,0 +1,6 @@
+--game: Mythic Victory Arena
+
+addappid(514200)
+addappid(514201,0,"b4305f37e57d91d7d8acddcb4a4c693c6c5bc7cd712086aee40921c8e68119ef")
+addappid(514202,0,"1b9c53c6e6026de11ebe39be3dec3e1aa1ebd411b25be7ff192eaf372fb8ba5d")
+addappid(514203,0,"f4237b432d9eb926fecff576aa726d9d4a7029fafa6118f0ec056f3d62f3b468")
