@@ -1,0 +1,5 @@
+--game: Opus Magnum
+
+addappid(229005)
+addappid(558990)
+addappid(558991,0,"09339350bc6714ad13bf66b687b56c9b5984f0a150a97a400e961897d9b26616")
