@@ -1,0 +1,4 @@
+--game: Run Of Mydan
+
+addappid(640300)
+addappid(640301,0,"ec21d53265af87142be43e675afddd60e5ee1121127bcbda49d76cba53b78d89")
