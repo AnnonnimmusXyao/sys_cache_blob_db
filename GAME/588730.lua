@@ -1,0 +1,4 @@
+--game: Majotori
+
+addappid(588730)
+addappid(588734,0,"efae171f8456df2cb3b6bddcce62cc44a0a685847912e410668c127f80ea7e0a")
