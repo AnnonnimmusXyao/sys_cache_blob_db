@@ -1,0 +1,4 @@
+--game: Forest Warrior
+
+addappid(378590)
+addappid(378591,0,"af9491ce5eee2d1fe256ea2421c1da3a956560a3cf81ccf622fe0252f02f2088")
