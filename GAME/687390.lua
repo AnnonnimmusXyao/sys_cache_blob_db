@@ -1,0 +1,4 @@
+--game: Huedango
+
+addappid(687390)
+addappid(687391,0,"93627bcf4ad5c5f7070eafbcaa4855de6522094aebd7e66bff4855d57bf5b76a")
