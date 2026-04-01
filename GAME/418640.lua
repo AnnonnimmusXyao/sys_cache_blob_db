@@ -1,0 +1,4 @@
+--game: Iron Commando - Koutetsu no Senshi
+
+addappid(418640)
+addappid(418641,0,"996b8b307bbd54c03db80f2577b30c1263bfec63dcb9747465442ab56701d18b")
