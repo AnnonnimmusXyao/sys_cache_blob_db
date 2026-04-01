@@ -1,0 +1,4 @@
+--game: SUPERHYPERCUBE
+
+addappid(554870)
+addappid(554871,0,"60a94d2e942d891ddc063181a20c68154e9a24e7ffdac8e5bd9da22f01f132e9")
