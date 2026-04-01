@@ -1,0 +1,5 @@
+--game: Romance of the Three Kingdoms Maker
+
+addappid(397720)
+addappid(397721,0,"32bf9114fa22da7bef6f6c69c2a9acb2ef110e92856bcf951912895a82160f36")
+addappid(420540,0,"fce1d8ea169ae387599dc408c59e842340ef8af29a84ef7cdddcc83f9673f8ee")
