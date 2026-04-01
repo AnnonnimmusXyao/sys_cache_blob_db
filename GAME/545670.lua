@@ -1,0 +1,4 @@
+--game: Parallyzed
+
+addappid(545670)
+addappid(545671,0,"4ef84afd1e5b51d97935381a4e4c27a17ba4dd5595573a43c861e964fd08a164")
