@@ -1,0 +1,4 @@
+--game: Unreal Heroes
+
+addappid(514510)
+addappid(514511,0,"1be3b1c0b4d1a06a94cfcb12082067c0a33c390f56aaa260b86657734e9ea593")
