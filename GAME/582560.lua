@@ -1,0 +1,4 @@
+--game: The Invisible Hours
+
+addappid(582560)
+addappid(582561,0,"b303d3cf230f6c036f5b1e1e614b76e18fb152607fd5494564dd82f1d10d94c7")
