@@ -1,0 +1,4 @@
+--game: Valzar
+
+addappid(405810)
+addappid(405811,0,"eac77433ad9455a3c6b5750a256c541b7d7bbb3f45d1456d724c43ebaf50689b")
