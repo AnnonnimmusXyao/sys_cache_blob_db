@@ -1,0 +1,4 @@
+--game: SPLASH BLAST PANIC
+
+addappid(503750)
+addappid(503751,0,"a27ef10ccaf9479e00fc1fb7111a21b5738f1c76f5929535d080e7b1869877bd")
