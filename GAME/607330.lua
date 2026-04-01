@@ -1,0 +1,4 @@
+--game: Rangi
+
+addappid(607330)
+addappid(607331,0,"c03f69def1407e6c39cab614ba56e5eb0e80f392000aaca9ffd5a036284ba17c")
