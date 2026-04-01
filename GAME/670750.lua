@@ -1,0 +1,4 @@
+--game: 0°N 0°W
+
+addappid(670750)
+addappid(670751,0,"4d7a9a1cc79e7923967ae00c123b3b9d94eb4f56480a2713a0ea669c8af47133")
