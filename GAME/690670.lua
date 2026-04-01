@@ -1,0 +1,4 @@
+--game: Klondike Solitaire Kings
+
+addappid(690670)
+addappid(690671,0,"c94622f15122559a19895cb4b1420f746746593095d939f78e23217ec28646e8")
