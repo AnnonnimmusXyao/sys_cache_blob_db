@@ -1,0 +1,4 @@
+--game: Rest House
+
+addappid(582290)
+addappid(582291,0,"aa14b4d68f8e289f780ca758b739c6f83ac0db820ebcbbf72c7b6c67287970b0")
