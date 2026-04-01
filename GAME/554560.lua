@@ -1,0 +1,4 @@
+--game: Amaranthine Voyage: The Tree of Life Collector's Edition
+
+addappid(554560)
+addappid(554561,0,"8cab92b4ed3cab8725fbd34926d208dada52227e3749cc64180d7a4cdddf8616")
