@@ -1,0 +1,4 @@
+--game: Dance of Death
+
+addappid(430020)
+addappid(430021,0,"b47297bae89a96dc25d475468cd6518c185f56d523eedf45e495a5ccf3957854")
