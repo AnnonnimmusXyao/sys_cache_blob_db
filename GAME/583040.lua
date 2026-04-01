@@ -1,0 +1,6 @@
+--game: Princess Maker Refine
+
+addappid(583040)
+addappid(583042,0,"06bc284d54f1b972fd5cacc2a9b860ebeed69c1cc296f9c6c4a35aec6ec3d88c")
+addappid(583044,0,"d7d6d53dc852f05623b62f859a7d6a6fa070b7fbbae6bc5d59d18ea29c953cd1")
+addappid(583045,0,"786faeea96d83e4e498916b1ac8484dec955d198761564c103768157985f4bf1")
