@@ -1,0 +1,5 @@
+--game: SMASHING THE BATTLE
+
+addappid(229005)
+addappid(467930)
+addappid(467931,0,"f8125d01a2ecd31461e72b0448b661c5da0f8c16fa97057eeba9966ca478d687")
