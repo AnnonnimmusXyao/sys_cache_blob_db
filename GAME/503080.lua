@@ -1,0 +1,4 @@
+--game: Echoes of the Past: Kingdom of Despair Collector's Edition
+
+addappid(503080)
+addappid(503081,0,"042c570e283f4ce58a795bf600d1d6362cb4dbd28b886989e7129aa09c184a78")
