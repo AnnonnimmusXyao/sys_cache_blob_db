@@ -1,0 +1,4 @@
+--game: Caveman Craig
+
+addappid(363240)
+addappid(363241,0,"ba82bab471f08dbfb84aac35e86b0832da9c5f515e7267715daeacc743b05624")
