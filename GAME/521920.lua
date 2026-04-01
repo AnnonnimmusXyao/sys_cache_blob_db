@@ -1,0 +1,5 @@
+--game: Death's Hangover
+
+addappid(228983)
+addappid(521920)
+addappid(521921,0,"17bb7cc662e43a678b76531d1c66dc9417155232619b69e9b7fd7f8d0bec3ecf")
