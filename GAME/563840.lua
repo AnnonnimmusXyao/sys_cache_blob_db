@@ -1,0 +1,7 @@
+--game: LOST EMBER
+
+addappid(229000)
+addappid(229012)
+addappid(229020)
+addappid(563840)
+addappid(563841,0,"3c7bb7f230e7645f1e381b2935c94615d4eb106d240de048230a576554918945")
