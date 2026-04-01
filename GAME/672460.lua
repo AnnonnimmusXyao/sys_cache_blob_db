@@ -1,0 +1,4 @@
+--game: Genetic Disaster
+
+addappid(672460)
+addappid(672461,0,"90c756cc38d6b95052f71d0bc432919250d3b07fce110e8a49dc61398e35315c")
