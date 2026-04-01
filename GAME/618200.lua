@@ -1,0 +1,4 @@
+--game: Skylands
+
+addappid(618200)
+addappid(618201,0,"31a91d376347307f80c7d584e0c89d8c1d0efa6fccc632ef8f8dd6d3c370dcb8")
