@@ -1,0 +1,4 @@
+--game: YamaYama
+
+addappid(455770)
+addappid(455771,0,"eaac004f70c9b51a232c552d50d7a7d6593e40a54fbd5730a376d6c8f6da6414")
