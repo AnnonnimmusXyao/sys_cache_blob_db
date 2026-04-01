@@ -1,0 +1,4 @@
+--game: Cross Death  VR
+
+addappid(497000)
+addappid(497001,0,"3535abb1cbb47675cccfd0548081b3d35f171105a0c1b4337f0192b675b29eae")
