@@ -1,0 +1,9 @@
+--game: Eagle Flight
+
+addappid(228981)
+addappid(228982)
+addappid(228985)
+addappid(408250)
+addappid(408251,0,"7d061ae0e813910ddf5352d14c4aafb4b2b13853cb63b7543eb801a40177240b")
+addappid(568080)
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
