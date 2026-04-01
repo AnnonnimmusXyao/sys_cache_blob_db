@@ -1,0 +1,4 @@
+--game: Last Mage Standing
+
+addappid(568030)
+addappid(568031,0,"daba152346b5e09aed257f77e833ca782bb7c30ce34707367a49d226d2ef5c1a")
