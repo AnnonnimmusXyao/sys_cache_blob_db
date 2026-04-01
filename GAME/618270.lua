@@ -1,0 +1,4 @@
+--game: Spiritlands
+
+addappid(618270)
+addappid(618271,0,"a0153ed3a0996049611fe7104ebb6755485e7b981b5f5e46c7c4c52e58cab4e0")
