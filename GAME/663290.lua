@@ -1,0 +1,4 @@
+--game: Dead by Death
+
+addappid(663290)
+addappid(663291,0,"aa32185e2887238ae9327102fce881fb08039601375eb66acd937c24edf64204")
