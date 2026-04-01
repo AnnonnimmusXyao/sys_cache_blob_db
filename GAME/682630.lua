@@ -1,0 +1,8 @@
+--game: Box Maze 2 : Agent Cubert
+
+addappid(682630)
+addappid(682631,0,"85f2f8caaaf70cb54b088437e710eef76739caa7d221a3c17e97e5ebcfd300ce")
+addappid(711580)
+addappid(714320)
+addappid(740630)
+addappid(775390)
