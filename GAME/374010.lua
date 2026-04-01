@@ -1,0 +1,4 @@
+--game: Sherlock Holmes Consulting Detective: The Case of the Mummy's Curse
+
+addappid(374010)
+addappid(374011,0,"bd425687d6db2cb69acbc2cb09d3772e8ce28223c7cc0ae523fcbb5183c44eb0")
