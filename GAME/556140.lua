@@ -1,0 +1,4 @@
+--game: We Are Stars
+
+addappid(556140)
+addappid(556141,0,"e580840ebfb9ba2e49e5bd5ab025c9a18b584fc7cf9589cd5985501d3ef10d50")
