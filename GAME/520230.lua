@@ -1,0 +1,4 @@
+--game: TwinForce
+
+addappid(520230)
+addappid(520231,0,"d1605a265691c4ac29f6043f63bd9263c8e529c22ecc86887ad2fe4a20e83917")
