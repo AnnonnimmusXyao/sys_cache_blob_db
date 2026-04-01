@@ -1,0 +1,4 @@
+--game: Felis
+
+addappid(572040)
+addappid(572041,0,"4eaaa6a57a6b3ce0a9654a8ffb1e29daf41a3c99641f58dd7b925f6ca4667d87")
