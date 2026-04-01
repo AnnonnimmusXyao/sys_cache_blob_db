@@ -1,0 +1,6 @@
+--game: Demented
+
+addappid(418000)
+addappid(229000)
+addappid(229001)
+addappid(418001,0,"17653f5e1dd683f0851eb06f5a1d5e650060f29ad5495a0d796aadaacd7db54e")
