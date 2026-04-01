@@ -1,0 +1,4 @@
+--game: Blackjack Bailey VR
+
+addappid(613330)
+addappid(613331,0,"bfb9a373f2876c19a3400cc3bf882863b81b447915b98192c07989f0e7cd7216")
