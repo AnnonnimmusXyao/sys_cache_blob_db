@@ -1,0 +1,4 @@
+--game: TrainClicker Idle Evolution
+
+addappid(622980)
+addappid(622982,0,"2faa5752ff718fa0b36ed94c52025721b4afe97ebb4e1e4f1b10fca07efad9af")
