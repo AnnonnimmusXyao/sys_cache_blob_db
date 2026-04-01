@@ -1,0 +1,4 @@
+--game: Mob Stadium
+
+addappid(650010)
+addappid(650011,0,"d5e0ddec10083f44f461d0faebc531718a9fa39057c1104aa226443105325705")
