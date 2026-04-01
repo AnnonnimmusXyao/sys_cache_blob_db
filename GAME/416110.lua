@@ -1,0 +1,4 @@
+--game: Blitz Breaker
+
+addappid(416110)
+addappid(416111,0,"313263d5cf619b3dddf78e1a7e3b78722d67e7e7566be0f40716fd9d0bc40a0a")
