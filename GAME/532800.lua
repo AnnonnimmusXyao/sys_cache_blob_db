@@ -1,0 +1,4 @@
+--game: ComPet - Epic Beast Battles
+
+addappid(532800)
+addappid(532801,0,"c606e0d12f5da2b18d653fbda6d447a160a39fed3ea623b252bcd090f92acf80")
