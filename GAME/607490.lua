@@ -1,0 +1,4 @@
+--game: HAUNTED: Halloween '86
+
+addappid(607490)
+addappid(607492,0,"3c7a09baea84bb3892ebf9080f8ffe40591e4b1f25582cd19b674569d6183edd")
