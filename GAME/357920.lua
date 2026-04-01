@@ -1,0 +1,4 @@
+--game: Final Strike
+
+addappid(357920)
+addappid(357921,0,"eca3db6e7d99575c1b12433f1c8e60aaa7862914e45a46365d10537b18186780")
