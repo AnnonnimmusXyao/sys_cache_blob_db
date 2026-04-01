@@ -1,0 +1,4 @@
+--game: Westard
+
+addappid(576950)
+addappid(576951,0,"a4616ade55fe50d1ed5b2516b0cfc82eff02a08bef918207cd77ea6032a27cd4")
