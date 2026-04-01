@@ -1,0 +1,4 @@
+--game: Hotel Blind
+
+addappid(457690)
+addappid(457691,0,"318305119a8f3263ca979c2f429eab11cbd9084e10f3856dc7ef6febf254862e")
