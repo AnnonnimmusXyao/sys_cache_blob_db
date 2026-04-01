@@ -1,0 +1,4 @@
+--game: The Unwelcomed
+
+addappid(504560)
+addappid(504561,0,"8b18c36861573e02d15d2286e5bd2f1b11e585c21c830a8737fef09b07ee7d87")
