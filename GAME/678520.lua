@@ -1,0 +1,6 @@
+--game: Gal*Gun VR
+
+addappid(228985)
+addappid(228987)
+addappid(678520)
+addappid(678521,0,"6b76a5a7df2814e535f8897b9408a1aa3ca4f4c27673803c3be2e222737e8b78")
