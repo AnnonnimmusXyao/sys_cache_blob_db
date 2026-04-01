@@ -1,0 +1,6 @@
+--game: D&D Lords of Waterdeep
+
+addappid(644390)
+addappid(644391,0,"8e4fadb80d1b0503ea2721e349689079be6f65af25c5ae462e9e8e4c9b7c8479")
+addappid(645670)
+addappid(645671)
