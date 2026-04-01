@@ -1,0 +1,4 @@
+--game: Rise of Keepers
+
+addappid(422210)
+addappid(422211,0,"451559f4238e8ef1796eba35b30cb6ba1f90bac865dd9b171db34ef38f1b18a3")
