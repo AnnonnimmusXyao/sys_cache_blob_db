@@ -1,0 +1,4 @@
+--game: Lethal Running
+
+addappid(645200)
+addappid(645201,0,"71b52648522355850cb6f72ab906c1417a111863cedfd945d0f389e5ad1c069d")
