@@ -1,0 +1,4 @@
+--game: Awakening: The Redleaf Forest Collector's Edition
+
+addappid(455080)
+addappid(455081,0,"1dfa622de9694fb9acbdf96c21d2755be6b2b9533c6f2b64c929aea07c1913da")
