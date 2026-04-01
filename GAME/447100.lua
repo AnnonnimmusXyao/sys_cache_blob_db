@@ -1,0 +1,4 @@
+--game: XLR
+
+addappid(447100)
+addappid(447101,0,"a4550bb04ff552b4b8e10d1e019d380c81a5b2dc284bda63fd425aefc1b20308")
