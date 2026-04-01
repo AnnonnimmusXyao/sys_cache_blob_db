@@ -1,0 +1,4 @@
+--game: Sonny
+
+addappid(586750)
+addappid(586751,0,"c3ce646cf205d498a00deaef16fb0034abb7a3dfbb0f4e72136654be7959fbb8")
