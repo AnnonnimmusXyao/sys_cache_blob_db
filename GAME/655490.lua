@@ -1,0 +1,4 @@
+--game: Geneticognito
+
+addappid(655490)
+addappid(655491,0,"30a5db11bf0a522d4dcccdb05176a2898a31f77ed3221b579f10b7f5cc702167")
