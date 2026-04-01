@@ -1,0 +1,4 @@
+--game: Battle of the Bulge
+
+addappid(365560)
+addappid(365561,0,"31d6e17bbdc871922f1c75361de8ceccd72be72b15793b29e363549b711180cf")
