@@ -1,0 +1,4 @@
+--game: PuppetsVR
+
+addappid(494040)
+addappid(494041,0,"ee8964a1d8f45a1c943812c472ec5c2088d6dbe150ff794652838fb223baa60d")
