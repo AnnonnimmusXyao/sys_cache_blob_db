@@ -1,0 +1,4 @@
+--game: Sabres of Infinity
+
+addappid(446310)
+addappid(446311,0,"417a32b2302f0f4aa1222ef7784b71c6ca992df031e44cc94ca3cd4e56aa6f67")
