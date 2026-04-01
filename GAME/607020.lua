@@ -1,0 +1,4 @@
+--game: Last Heroes 4
+
+addappid(607020)
+addappid(607021,0,"ecb366b4eb67d6f121b72d4848ab684321cd6eca3b4d61ca8e13e92580035adf")
