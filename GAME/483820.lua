@@ -1,0 +1,4 @@
+--game: Four Realms
+
+addappid(483820)
+addappid(483821,0,"a0058766b6b019a093ef84a977d9b23048a5905f798b17d57f7d5a715cbdee2d")
