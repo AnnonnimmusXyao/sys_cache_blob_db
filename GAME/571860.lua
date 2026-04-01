@@ -1,0 +1,4 @@
+--game: Galactic Core: The Lost Fleet (VR)
+
+addappid(571860)
+addappid(571861,0,"c912ffebf5ea60d72136006555ed0b68a2d4bcae10a688e0b1890f7814c480f2")
