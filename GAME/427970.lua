@@ -1,0 +1,4 @@
+--game: Heathen Engineering's Terran
+
+addappid(427970)
+addappid(427972,0,"309a13ff31259ef914c1e84ee794b47ff8edbc2c1b3bb8db1c123c658badaa34")
