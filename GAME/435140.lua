@@ -1,0 +1,4 @@
+--game: Rush for gold: Alaska
+
+addappid(435140)
+addappid(435141,0,"f41a0f6ac72aa9e035eb332d17cc4d162bfc91ef4570bf1acc9645ac986ec56c")
