@@ -1,0 +1,4 @@
+--game: Captain Curve's Intergalactic Space Adventure
+
+addappid(494790)
+addappid(494791,0,"864767648504f3a6603802e185330bc4354798fc1a2d3ad96724216c771e2bbc")
