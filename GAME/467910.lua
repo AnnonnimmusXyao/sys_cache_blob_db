@@ -1,0 +1,4 @@
+--game: EPΘCH
+
+addappid(467910)
+addappid(467911,0,"36758f09ea419172b346265f2b525905cea2614dae7b98f87c7a9555a315ca39")
