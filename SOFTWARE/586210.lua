@@ -1,0 +1,4 @@
+--game: OVRdrop
+
+addappid(586210)
+addappid(586211,0,"1f32dc1bb9c2e43ac8e02fd5e3119f52910b22412772a2d160553a885fd4f4ec")
