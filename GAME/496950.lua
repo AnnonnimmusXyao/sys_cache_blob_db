@@ -1,0 +1,4 @@
+--game: The Slingshot VR
+
+addappid(496950)
+addappid(496951,0,"43d158ceac726bc538ab1464b43cd22dd8b96120cf6bf5a26e11a662659dfd48")
