@@ -1,0 +1,4 @@
+--game: Pixelum
+
+addappid(668600)
+addappid(668601,0,"542dce889e3bbf633816609e3158753acc55db2581fb8cecd3ddc6ad5a2e0633")
