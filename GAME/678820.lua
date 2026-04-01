@@ -1,0 +1,4 @@
+--game: Gun-Running War Dogs
+
+addappid(678820)
+addappid(678821,0,"2acc03dd39d3e2e393163c81ed5fec578ff3ed05fe57883a94f8e23f4b2951ca")
