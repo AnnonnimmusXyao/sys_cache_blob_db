@@ -1,0 +1,4 @@
+--game: Mystery Maze Of Balthasar Castle
+
+addappid(368880)
+addappid(368881,0,"d2b4e2836a5485f0a4bd425bf3f91e619765a8ee7be68e72783db6c492559720")
