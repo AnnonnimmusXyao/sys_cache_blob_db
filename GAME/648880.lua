@@ -1,0 +1,4 @@
+--game: S.O.Y.F. - S#!T ON YOUR FRIENDS
+
+addappid(648880)
+addappid(648881,0,"8b6a676cdf08b908e8f667fab9f3b61f8a9558bff10155fe4ba232d39ab512e4")
