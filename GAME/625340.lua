@@ -1,0 +1,9 @@
+--game: XERA: Survival
+
+addappid(625340)
+addappid(228985)
+addappid(228986)
+addappid(228987)
+addappid(228988)
+addappid(228990)
+addappid(625341,0,"1eddf9b5cd370e3b8a89092717ade28ba32a809b8b237de3d075898ba64ae3bd")
