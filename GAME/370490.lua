@@ -1,0 +1,5 @@
+--game: ASCII Attack
+
+addappid(370490)
+addappid(370491,0,"6d964b07b195ba0d1d2e5c811b6d3433b974b850cdfcb497f34130a813ebd58d")
+addappid(454010,0,"6a2e854d00146a2157f9b8bebc8f263edf2bd012d0879343ddd68dcaa57cdd52")
