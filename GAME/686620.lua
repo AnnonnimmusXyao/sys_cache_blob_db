@@ -1,0 +1,4 @@
+--game: 3D Mahjong worlds
+
+addappid(686620)
+addappid(686621,0,"a69d775ae89d7ec4ea0ac760bcdf0c5cb58834eea4fa9ef95651ba64800c730a")
