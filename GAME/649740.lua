@@ -1,0 +1,4 @@
+--game: CRAFT BATTLE SIMULATOR
+
+addappid(649740)
+addappid(649741,0,"81faa8602d55832b095cb35cf4d67dd1a9f8ddb97be2de44eeecebf4579f8014")
