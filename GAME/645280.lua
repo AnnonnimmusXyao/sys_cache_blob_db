@@ -1,0 +1,4 @@
+--game: MYSTIC VR
+
+addappid(645280)
+addappid(645281,0,"fbec22cfa3677e8569f9534162f9f33ecbd1ac3e9a2126ca648638e4e499209c")
