@@ -1,0 +1,6 @@
+--game: Codename: Panzers, Phase Two
+
+addappid(411320)
+addappid(228985)
+addappid(411321,0,"68ac9ed75545623bfe29d7a8c06f0812a4dea6dd5deeb255eb6422e6d42e7a4d")
+addappid(411322,0,"b5682011d65fc918dec544c81cf4da1e9513a848fc8b9e63fafcb9104f756fb6")
