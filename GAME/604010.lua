@@ -1,0 +1,4 @@
+--game: Chimpology
+
+addappid(604010)
+addappid(604011,0,"ac3317c93ad19638195031573eb1e12884bd2ee9511a41295cffc19f83ef4ebe")
