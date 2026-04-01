@@ -1,0 +1,5 @@
+--game: MachiaVillain
+
+addappid(555510)
+addappid(555514,0,"921c26c94e941d36f78f9b601c570c3d9b85e5bcefd6ee73f0eebfae6caa1ad9")
+addappid(854980,0,"0d92dbbcfe2e2414c2ee37b427504628471a3776cc936368e3f8ce94fdbb1a60")
