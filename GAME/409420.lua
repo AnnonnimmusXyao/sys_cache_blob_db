@@ -1,0 +1,4 @@
+--game: Knight Adventure
+
+addappid(409420)
+addappid(409421,0,"5e85524d143b696eef69c4209c91cac3fd88ee1082251837b345f23d77762875")
