@@ -1,0 +1,4 @@
+--game: Duck Life 6: Space
+
+addappid(606490)
+addappid(606491,0,"085da11c84f059d8e67fb863556fb0224e528e03a2a2af583e473e0f98c79f76")
