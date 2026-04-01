@@ -1,0 +1,4 @@
+--game: Robots In The Wild
+
+addappid(501270)
+addappid(501271,0,"6a5005b55f396bf6aa31d2550845e2c68f95b3ca63b6a324f8b0130725620ce8")
