@@ -1,0 +1,4 @@
+--game: Building Blocks / Master Builder of Egypt
+
+addappid(625220)
+addappid(625221,0,"52f23a7ee8290b5e7544211836cc06d8d7b049517a09a984e909876842580414")
