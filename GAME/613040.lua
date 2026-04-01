@@ -1,0 +1,4 @@
+--game: A Lost Room
+
+addappid(613040)
+addappid(613041,0,"1c8944d289a8269b8f04afa3185c11b9f94743e29ea78bb38b3095dab504eec7")
