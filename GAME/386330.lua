@@ -1,0 +1,6 @@
+--game: HoD: On open seas
+
+addappid(386330)
+addappid(386331,0,"3dcca88fb841631c23adfc0cbc1d6caf29ac0d27c97ec7280e3a690e832ba49c")
+addappid(386332,0,"d0e271138efe05dffa0f26240fe3bc500e61bcaf29b2d2c71a149a2ced5ac3e9")
+addappid(386333,0,"31791b7c185027e06fc8e37fa260c5e913c0a54d95b76693366d75299486da52")
