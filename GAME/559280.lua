@@ -1,0 +1,4 @@
+--game: Snailiens
+
+addappid(559280)
+addappid(559281,0,"379a890f78a2ccc344ee44f987942ebd0d684881f512b22a710ce2a1f2a94737")
