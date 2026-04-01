@@ -1,0 +1,4 @@
+--game: UAYEB: The Dry Land
+
+addappid(589220)
+addappid(589221,0,"588bbcf224146f1b2c1e798d9bd48283a03aaca3e072a3893c71763ba5dc7abd")
