@@ -1,0 +1,4 @@
+--game: Space Cat
+
+addappid(539980)
+addappid(539981,0,"d3a499646e1ba72a06018200e0fb571b16a0fc44772e3f56b8387f21894a2dee")
