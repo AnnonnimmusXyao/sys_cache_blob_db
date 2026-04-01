@@ -1,0 +1,4 @@
+--game: Frog Hop
+
+addappid(568490)
+addappid(568491,0,"25fdb28290653277d6c63444260e5d3a562277d68a030f27ae4396cf816ab67d")
