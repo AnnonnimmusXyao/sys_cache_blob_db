@@ -1,0 +1,4 @@
+--game: A Dump in the Dark
+
+addappid(577080)
+addappid(577081,0,"86b05119c80af4a700431500394be69f1ca5b3cec90bd744a3e39ccecb7c660c")
