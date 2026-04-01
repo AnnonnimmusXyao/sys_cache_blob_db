@@ -1,0 +1,6 @@
+--game: Infinity Wings - Scout & Grunt
+
+addappid(448790)
+addappid(448791,0,"eaecbea585a752e9e706379e8ecec5cbd862bab1b2437bd7ba6e7f7824464822")
+addappid(448792,0,"fd61aaa34d67342467b3a366c92122cc0df38d9c5656aa53cfd49ab8e34ef33d")
+addappid(448793,0,"69944a8cf989435e9b39f13ec7a0bfa43ff8da5b98a3c95ba85243c7ea233c05")
