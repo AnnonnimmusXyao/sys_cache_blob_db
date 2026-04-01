@@ -1,0 +1,13 @@
+--game: S2ENGINE HD
+
+addappid(443970)
+addappid(228983)
+addappid(228985)
+addappid(229005)
+addappid(229020)
+addappid(229030)
+addappid(229031)
+addappid(229032)
+addappid(229033)
+addappid(443971,0,"f2835ca65117621a95f1ecf8b2726b2d06272fe1da8ba64925fb4e83787a1ebb")
+addappid(747520,0,"0e5129b4df2efe8e97e2c4da2ce50732efcc57045b941779b966f88c609bc0a3")
