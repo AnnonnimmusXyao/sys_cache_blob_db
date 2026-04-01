@@ -1,0 +1,7 @@
+--game: Flinthook
+
+addappid(401710)
+addappid(228983)
+addappid(229002)
+addappid(229020)
+addappid(401711,0,"db930d487cb7e59bfba46fa92912cacadca15c41201ed079d9fa85a9131fc7b4")
