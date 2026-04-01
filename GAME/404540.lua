@@ -1,0 +1,7 @@
+--game: Nex Machina
+
+addappid(404540)
+addappid(228983)
+addappid(228985)
+addappid(228987)
+addappid(404541,0,"ce6e47b279f0be3528a02cd179229ed28ead861f3df624b1cfa38d82c631518b")
