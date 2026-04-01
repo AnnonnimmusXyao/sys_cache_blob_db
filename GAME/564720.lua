@@ -1,0 +1,4 @@
+--game: Werther Quest
+
+addappid(564720)
+addappid(564722,0,"c7827e51dbb20590702bdbbe44b0e1db51e38cfee8d9be72bdf31d1f1c5e0107")
