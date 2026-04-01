@@ -1,0 +1,4 @@
+--game: Dark Parables: The Thief and the Tinderbox Collector's Edition
+
+addappid(533040)
+addappid(533041,0,"d1656b951cd16374c605299df8f88e608f32da681c53674ea400635662f856d3")
