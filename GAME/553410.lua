@@ -1,0 +1,4 @@
+--game: Pirate Defense
+
+addappid(553410)
+addappid(553411,0,"6c2a2dc09db38c3d6fac248f85bebadb2953d88567aeed904593c4d66b1b82e2")
