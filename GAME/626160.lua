@@ -1,0 +1,4 @@
+--game: Awesome Machine
+
+addappid(626160)
+addappid(626161,0,"e6ee609749ba1349477aa3f1b907bda1ce13b7fb3ad1b3e8fd0bc22dfa95c536")
