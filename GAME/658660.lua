@@ -1,0 +1,6 @@
+--game: Way of Defector
+
+addappid(658660)
+addappid(658661,0,"e12aa53a97ba946b8530ecd2308300a144178f6f5f882f1a7b848640de602ee0")
+addappid(671360)
+addappid(742820)
