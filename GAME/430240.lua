@@ -1,0 +1,4 @@
+--game: Duplexer
+
+addappid(430240)
+addappid(430241,0,"0367a1174b8cd2004763ab44e04bdbecc59e46a3752e48abbe954d153c9d07f8")
