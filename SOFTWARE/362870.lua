@@ -1,0 +1,4 @@
+--game: RPG Maker 2003
+
+addappid(362870)
+addappid(362871,0,"a1e4d8ec2af4f2aa3c010cbc833324f6bf8d2aa47fa03ab597fc28eeac041769")
