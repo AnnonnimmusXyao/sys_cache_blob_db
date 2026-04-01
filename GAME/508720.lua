@@ -1,0 +1,4 @@
+--game: Rusty Lines Remastered
+
+addappid(508720)
+addappid(508721,0,"6b665749df2da7ba72a21f30fc020561244e09f832a87db851894a6ebbfa5bb6")
