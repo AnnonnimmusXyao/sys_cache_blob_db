@@ -1,0 +1,5 @@
+--game: The Secret Monster Society
+
+addappid(495960)
+addappid(495963,0,"c22e81196895b25b402c656801b901266e7c92ba885c7ddd5ae3c7b75366d58e")
+addappid(495964,0,"23260a6f2380014c6adbc1c601382fd8a5c7d77fa1b7ed669a33523baa5c7690")
