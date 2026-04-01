@@ -1,0 +1,4 @@
+--game: Beyond Flesh and Blood
+
+addappid(391550)
+addappid(391551,0,"3b6f646baf6168179837b9a40632252c0da1b133582720661ef85b411fca080b")
