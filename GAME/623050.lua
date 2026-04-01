@@ -1,0 +1,4 @@
+--game: CyberClub-2077
+
+addappid(623050)
+addappid(623052,0,"11f3bdcf781cad220b79b131664b8575b99f4cfd5cd84023fd2005753d86a30a")
