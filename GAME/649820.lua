@@ -1,0 +1,4 @@
+--game: Slime-san: Blackbird's Kraken
+
+addappid(649820)
+addappid(649822,0,"dfe20c06e37aedbf6317e765009d99d8d2adf145b03a50157758391f8e1b3f7a")
