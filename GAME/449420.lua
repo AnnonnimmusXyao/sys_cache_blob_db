@@ -1,0 +1,5 @@
+--game: Mini's Magic World
+
+addappid(449420)
+addappid(449421,0,"1f486aa305b9b80ea27a315dafd1d82f2bad57b77154f582bccd3c4a1847b26e")
+addappid(449422,0,"b1266990549e0a0e0e17dbf27265de5b6924f332d6e4d574aa74c752e140ab4c")
