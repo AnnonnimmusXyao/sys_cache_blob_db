@@ -1,0 +1,4 @@
+--game: Zombie Apocalypse: Escape The Undead City
+
+addappid(492490)
+addappid(492491,0,"a8ddd2268d74dd7d18516591fab4ff4217c1fcbdc228460d11a1155c05566907")
