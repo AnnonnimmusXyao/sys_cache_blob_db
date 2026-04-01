@@ -1,0 +1,4 @@
+--game: Big Hit VR Baseball
+
+addappid(620800)
+addappid(620801,0,"4124a6394abe5631b55decb8caebd4f68414751a2f65a2752c013aa66f057fd9")
