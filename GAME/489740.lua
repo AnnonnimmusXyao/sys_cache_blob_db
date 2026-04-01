@@ -1,0 +1,4 @@
+--game: Playthings: VR Music Vacation
+
+addappid(489740)
+addappid(489741,0,"47259d610c0525aebb8e82ba3702069e60221d941ba6dcf5c426679deb21dc05")
