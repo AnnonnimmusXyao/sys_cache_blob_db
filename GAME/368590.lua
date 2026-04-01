@@ -1,0 +1,5 @@
+--game: Albert and Otto
+
+addappid(368590)
+addappid(368591,0,"721c554b63650351fc7461fc54aa96a8c8b1b12c686ef4d1f556f90d8ad4a3cf")
+addappid(368592,0,"7d9d14c432c997605938f63b3ef2a5bcbc73dc44fc92fdde8b5b51bcb2499ee5")
