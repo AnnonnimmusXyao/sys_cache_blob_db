@@ -1,0 +1,4 @@
+--game: Paradox Paradigm
+
+addappid(469900)
+addappid(469901,0,"139a71a55608e53568a922fdb2ae7cea2224a6ef62f03099a8d7f09b27479885")
