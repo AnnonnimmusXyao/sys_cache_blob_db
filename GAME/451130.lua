@@ -1,0 +1,4 @@
+--game: Khan: Absolute Power
+
+addappid(451130)
+addappid(451131,0,"176bfd8d7237daef5b9ebe9d9232ce27248568e95fef0bdde2fcbde98a0aafb9")
