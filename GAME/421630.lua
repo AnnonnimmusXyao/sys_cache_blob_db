@@ -1,0 +1,4 @@
+--game: A Study in Steampunk: Choice by Gaslight
+
+addappid(421630)
+addappid(421631,0,"f0aac1a19fc177f4aa597245af4ecdaff267225d882a36f301d50127ee1a20db")
