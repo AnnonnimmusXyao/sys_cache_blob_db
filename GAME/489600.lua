@@ -1,0 +1,5 @@
+--game: The Golf Club VR
+
+addappid(228983)
+addappid(489600)
+addappid(489601,0,"aa5c80736409abe09bd942f8648a969222567804ff1631f2937189daf783c020")
