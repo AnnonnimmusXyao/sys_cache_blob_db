@@ -1,0 +1,4 @@
+--game: The Mechanical Room VR
+
+addappid(652900)
+addappid(652901,0,"f1f7ec8b39cdb9dd92bc684c71e104efc3edf2179649a52c1cebfa2a08321bae")
