@@ -1,0 +1,4 @@
+--game: Space Conquest
+
+addappid(602550)
+addappid(602551,0,"bc25b22af6fa02b0d2c9a6a280dd1968fb8a2b37f48b3fb16fcf3d07e96d0cc1")
