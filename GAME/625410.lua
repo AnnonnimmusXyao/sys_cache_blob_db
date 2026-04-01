@@ -1,0 +1,5 @@
+--game: Anomie
+
+addappid(625410)
+addappid(625411,0,"7a1d56f7f933bb110f03caf55a2f93c33cc55885aa83e475caa13cecddaf76c9")
+addappid(689490)
