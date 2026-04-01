@@ -1,0 +1,4 @@
+--game: Link
+
+addappid(454030)
+addappid(454031,0,"52ff88bbd07a5efb0637f2a134dab279cd498d22119c29b26ecc040258c13967")
