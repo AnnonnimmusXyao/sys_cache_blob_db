@@ -1,0 +1,4 @@
+--game: Osy Osmosis
+
+addappid(502730)
+addappid(502731,0,"fd7c3dcc3ca85b4db72eb52256a0641f10fb1ceb751f70bbd07c1d27b53c95e6")
