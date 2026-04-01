@@ -1,0 +1,4 @@
+--game: The Agency of Anomalies: Mystic Hospital Collector's Edition
+
+addappid(503060)
+addappid(503061,0,"dad7f1b80e680f58bcc95ec11ae964288decb90cf5e320d5ff7ca247a806c085")
