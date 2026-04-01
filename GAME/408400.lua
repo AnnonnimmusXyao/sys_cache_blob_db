@@ -1,0 +1,4 @@
+--game: Swords and Sorcery - Underworld - Definitive Edition
+
+addappid(408400)
+addappid(408401,0,"2f3e8c5f79357546bc3d8502b96f524729be6942c7fcc174c005aadddddee74c")
