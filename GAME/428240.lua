@@ -1,0 +1,4 @@
+--game: Hauntsters
+
+addappid(428240)
+addappid(428241,0,"cfae2e1f75d729a258d1d2a31258430046f41d8b3b1c1038eb0b97cc2ee4104c")
