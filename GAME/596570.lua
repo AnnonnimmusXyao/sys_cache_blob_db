@@ -1,0 +1,4 @@
+--game: GRAY TANK
+
+addappid(596570)
+addappid(596571,0,"5ee8d7aa537f6ee753698d398ac3b01e8741f332e95ecd4be29f2b4525ec5015")
