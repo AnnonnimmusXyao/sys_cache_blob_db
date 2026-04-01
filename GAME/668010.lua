@@ -1,0 +1,4 @@
+--game: Goalie VR
+
+addappid(668010)
+addappid(668011,0,"1e9c7831aa9363220fc531444bbd92ff49f7594ecd22bce9ce14c5200c0a866f")
