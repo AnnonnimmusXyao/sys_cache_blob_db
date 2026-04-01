@@ -1,0 +1,5 @@
+--game: The Order of the Thorne - The King's Challenge
+
+addappid(425600)
+addappid(425601,0,"277ef4330520623527f26ce073e9cb9b588908e75feda67699f68f9c8b018a30")
+addappid(425602,0,"fefafe3cc20a8ebaa3f9fe6d5df2a6c9b5fd6bcd94ac90f5e5a98d8ab8589e1d")
