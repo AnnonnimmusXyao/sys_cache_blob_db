@@ -1,0 +1,5 @@
+--game: Dream Stone
+
+addappid(229000)
+addappid(603090)
+addappid(603091,0,"82df675615e88e536b2bcd126348a6bb96dbe5c1308edc27355f66b9c9f4afcd")
