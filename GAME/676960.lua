@@ -1,0 +1,4 @@
+--game: Hotlap Heroes
+
+addappid(676960)
+addappid(676962,0,"9f502123bd4eb820d6534cacb4a02ae5066b57f55e2e1fbbd060f87557c7dd3f")
