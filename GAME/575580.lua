@@ -1,0 +1,6 @@
+--game: Queen of Seas
+
+addappid(575580)
+addappid(575581,0,"865973aec2980449f3d768088e90ef71d7220f81fc983f983c050e196d488dd2")
+addappid(672530)
+addappid(675930)
