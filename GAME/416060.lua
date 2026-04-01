@@ -1,0 +1,4 @@
+--game: Westboro
+
+addappid(416060)
+addappid(416061,0,"7e4bf84a1636a15c6a9f4573a8f8ada64dc8787d76eb98c9f5f39e05f19ee779")
