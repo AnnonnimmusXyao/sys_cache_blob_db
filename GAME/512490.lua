@@ -1,0 +1,6 @@
+--game: Zombie Estate 2
+
+addappid(229002)
+addappid(229012)
+addappid(512490)
+addappid(512491,0,"d3f361ad5da2cbc583223240e7f5b9c5ead7c67e6565ea3c1b6aaf2bf8005f4c")
