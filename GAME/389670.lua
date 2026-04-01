@@ -1,0 +1,7 @@
+--game: Pacer
+
+addappid(389670)
+addappid(389674,0,"351e7b8c165e841ac64d6b4d87fb125dabbfd9126204e74c19ca15b154fe3793")
+addappid(677600)
+addappid(677660)
+addappid(768380)
