@@ -1,0 +1,4 @@
+--game: Miniature - The Story Puzzle
+
+addappid(536680)
+addappid(536681,0,"4251f831695e6fe01fdf3bfc01ea0a333220677fc2b137040f7f04301552383d")
