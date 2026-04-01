@@ -1,0 +1,8 @@
+--game: Harvest Moon: Light of Hope Special Edition
+
+addappid(585900)
+addappid(585901,0,"211d69c21bd3ec291967a53ced10c3f9c6c9f72874585124308575412aa7aca4")
+addappid(852000)
+addappid(867200)
+addappid(867220)
+addappid(867230)
