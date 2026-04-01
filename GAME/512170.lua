@@ -1,0 +1,4 @@
+--game: the research facility NO.507
+
+addappid(512170)
+addappid(512173,0,"7a67505cd8ad30ab2e814cc4c244fca6537ce845394df0fcfd59fadea423cb4d")
