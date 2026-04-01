@@ -1,0 +1,5 @@
+--game: Strategic Command WWII: War in Europe
+
+addappid(593030)
+addappid(229006)
+addappid(732500,0,"39d847ede89a1858c2329ee663a00d0342b9bfab2d340d8f856208e17d40c7e4")
