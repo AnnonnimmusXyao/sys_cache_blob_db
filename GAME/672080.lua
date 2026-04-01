@@ -1,0 +1,4 @@
+--game: Cube Creatures
+
+addappid(672080)
+addappid(672081,0,"d163ef56b7f2424fe241687eb3e7b0db090bb9ba90df380187842b6bbe5aa714")
