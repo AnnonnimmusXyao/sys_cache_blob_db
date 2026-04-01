@@ -1,0 +1,4 @@
+--game: Super Impossible Road
+
+addappid(444670)
+addappid(444672,0,"c41db3f416ec8bdff6654213efaf19440fc486520bbbd85abba07779ddc5e0e6")
