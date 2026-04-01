@@ -1,0 +1,10 @@
+--game: Redout: Enhanced Edition
+
+addappid(517710)
+addappid(517711,0,"3c65968fa84da5dfbace9314360f35d4a1248dac7c04e5b29cb534136bd31025")
+addappid(573350)
+addappid(580620)
+addappid(627430)
+addappid(627440)
+addappid(728910)
+addappid(762770)
