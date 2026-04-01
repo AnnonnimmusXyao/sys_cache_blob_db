@@ -1,0 +1,11 @@
+--game: Gangs of Space
+
+addappid(504300)
+addappid(504301,0,"bb7112269118089a74dd7085ef57ea57fa9ab3fe9a1a849bf81ff0948a62fe81")
+addappid(504302,0,"1e52c2070da7eaa9cd20de0bfea764339ec6e36b34ac07f82e4ec86a6e6182fe")
+addappid(504303,0,"4b96d4820101ff70499be31b06140fa813826313bf2e0fdf7a814792c992e3bd")
+addappid(670960)
+addappid(670961)
+addappid(690730)
+addappid(711064)
+addappid(738630)
