@@ -1,0 +1,4 @@
+--game: Super Mr. Kake
+
+addappid(672050)
+addappid(672051,0,"fbe2d37e43bb7f7c63e8db4b96cc7b0fb16c782ecad960a77113c345563c85d3")
