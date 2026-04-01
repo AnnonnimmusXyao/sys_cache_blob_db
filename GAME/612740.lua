@@ -1,0 +1,4 @@
+--game: Bokida - Heartfelt Reunion
+
+addappid(612740)
+addappid(612741,0,"454293e8f5ff6c62ad31c7b80b595b509f5ad51db33442e18f26a76977ddb209")
