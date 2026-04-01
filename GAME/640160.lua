@@ -1,0 +1,4 @@
+--game: Galactic Glitch: Prologue
+
+addappid(640160)
+addappid(640161,0,"bdb3af2d6b758d1c5fbcd8e465d21c5fd4b1559b6b304c03da12bbe59b67da9a")
