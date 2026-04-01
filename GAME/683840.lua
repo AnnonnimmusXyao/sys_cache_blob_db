@@ -1,0 +1,4 @@
+--game: Galaxia Conquestum
+
+addappid(683840)
+addappid(683841,0,"1e65defbd1cd2958b12137dec98ad96bad7310fccb42ed5406869db9fc4bf0e3")
