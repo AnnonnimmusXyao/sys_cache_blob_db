@@ -1,0 +1,4 @@
+--game: Dude, Stop
+
+addappid(574560)
+addappid(574561,0,"e42a4b9fd1ef57cb925f7943f83e2f9e339649558ce9263ea1a4a4224acbc928")
