@@ -1,0 +1,4 @@
+--game: QUACK ATTACK 1985: TURBO DX EDITION
+
+addappid(500340)
+addappid(500341,0,"9dee81e8e0dc8732a9bffa9c945bb8071d0252b52ec05a71a5a10b17d9eb9a85")
