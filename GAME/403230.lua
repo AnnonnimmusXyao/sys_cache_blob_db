@@ -1,0 +1,4 @@
+--game: ZombieZoid® Zenith
+
+addappid(403230)
+addappid(403231,0,"0b3dbaba93f43aec9ec7f41ddf217b58425c2f9b259fdfc58618a173043288b0")
