@@ -1,0 +1,4 @@
+--game: Escape Doodland
+
+addappid(670930)
+addappid(670931,0,"6c44e770413df3a5064b55c6c6dcadbc3a8204885cc448f4eddc237a0fe60ae1")
