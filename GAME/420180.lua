@@ -1,0 +1,4 @@
+--game: Chronicle of Innsmouth
+
+addappid(420180)
+addappid(420181,0,"1ff3a41aa92b4ef84418712aa7feb8004ca9170cb7b4be40647c5583fd3591be")
