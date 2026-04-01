@@ -1,0 +1,4 @@
+--game: Arcsaber VR
+
+addappid(648150)
+addappid(648151,0,"39573a06313340882b460e5a01b978ac37adf52452af359a44a6f9f1288c4f7b")
