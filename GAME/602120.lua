@@ -1,0 +1,4 @@
+--game: Molemen Must Die!
+
+addappid(602120)
+addappid(602122,0,"d60d82fcb408d09530b6e4d3ab6af54eceb4041f05625c4b56b88d813f94c913")
