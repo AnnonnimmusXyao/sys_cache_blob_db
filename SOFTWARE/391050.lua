@@ -1,0 +1,4 @@
+--game: AquaSnap Window Manager
+
+addappid(391050)
+addappid(391051,0,"a5c60cdb96e4d10b705392bdc947472ea5f2ccb415bb86d573fb56fd83b11c4a")
