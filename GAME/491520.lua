@@ -1,0 +1,4 @@
+--game: Zero-G VR
+
+addappid(491520)
+addappid(491521,0,"30187190b23d8e1047de99e345bec8f5ec0928708d478a39c4da36d54a7ec3d2")
