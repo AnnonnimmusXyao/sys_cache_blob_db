@@ -1,0 +1,4 @@
+--game: Spider Wars
+
+addappid(454580)
+addappid(454581,0,"bce5183a7d52ae8c89269c8cc4c09b870f20373f2fe43877bcf829f0096b9f27")
