@@ -1,0 +1,4 @@
+--game: Army of Tentacles: (Not) A Cthulhu Dating Sim
+
+addappid(427930)
+addappid(427932,0,"c27ee6dc8d0a38ccadfb8647786b424f0ed2b9616e9e6e6f38a1231401079d1c")
