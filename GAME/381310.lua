@@ -1,0 +1,4 @@
+--game: Proton Pulse
+
+addappid(381310)
+addappid(381312,0,"55b7db0e897e07c31d5ebe5e16f53708df73812f970fc441ba64b167286061fa")
