@@ -1,0 +1,8 @@
+--game: IS Defense
+
+addappid(228983)
+addappid(228985)
+addappid(229002)
+addappid(448370)
+addappid(448371,0,"dd7cf67508f84c78db62e8c44c7fac992f4216a6a52e8b6ef828e986a8cc22b1")
+addappid(448373,0,"745c939a7f6b89306b43268214558f695f4d4e065def0432fa47a41c2efc55a8")
