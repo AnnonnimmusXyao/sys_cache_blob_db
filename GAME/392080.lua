@@ -1,0 +1,5 @@
+--game: Wayward Terran Frontier: Zero Falls
+
+addappid(229004)
+addappid(392080)
+addappid(392081,0,"4a74d56912dd9fe591d0094518e60e586707d58f8aa6977bd718d265563c3939")
