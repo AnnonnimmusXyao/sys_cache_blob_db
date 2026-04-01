@@ -1,0 +1,4 @@
+--game: Rocket Fist
+
+addappid(413500)
+addappid(413501,0,"b095d91742ec808787f0648a45b4b0100ab0b09a2eeb09bb5b6ca7c572f44fb8")
