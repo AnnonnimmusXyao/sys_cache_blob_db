@@ -1,0 +1,4 @@
+--game: 6 Nights
+
+addappid(381000)
+addappid(381001,0,"cad80532e6a576fae5f409d42d51822388b8d611684b995d3c19e6aabf2d3203")
