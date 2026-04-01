@@ -1,0 +1,4 @@
+--game: All the Delicate Duplicates
+
+addappid(531140)
+addappid(531141,0,"abde45dbbb9c69f3756507d01ea8fa6a673c9ba435e7dd6717ab5085e87fabef")
