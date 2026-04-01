@@ -1,0 +1,4 @@
+--game: The Race for the White House 2016
+
+addappid(525080)
+addappid(525081,0,"268594bde95eb8c2ffa72e3b98b4641410e29a27ca22c0b43a6acedc8587bd1c")
