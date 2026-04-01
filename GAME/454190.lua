@@ -1,0 +1,5 @@
+--game: Cubicolor
+
+addappid(454190)
+addappid(228983)
+addappid(454192,0,"5eec9a9536d384cc3a42332e8465ea3181910fcaed94c255caeb3094fd80bfd7")
