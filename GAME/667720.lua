@@ -1,0 +1,6 @@
+--game: Red Faction Guerrilla Re-Mars-tered
+
+addappid(228983)
+addappid(667720)
+addappid(667721,0,"7d664ec0727ba7449d61d7c972d30e1d4eaba976dc62a458a596fa60576836ab")
+addappid(667722,0,"90f4b9ced49ecd987ebc786d93782d89be38b0d4f322dd6746d11733c3eed893")
