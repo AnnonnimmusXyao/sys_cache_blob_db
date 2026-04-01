@@ -1,0 +1,8 @@
+--game: the 9th day:第九日
+
+addappid(491420)
+addappid(491421,0,"90ec7dc750ea6bd728ad11626fe8ee4eee4ff262beee4134d1630839271e1a80")
+addappid(593990)
+addappid(989480)
+addappid(989500)
+addappid(991580)
