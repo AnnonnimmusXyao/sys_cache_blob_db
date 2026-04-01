@@ -1,0 +1,4 @@
+--game: Quarterback SNAP
+
+addappid(482210)
+addappid(482211,0,"d735dd53e44c3e6efa7e9685fb82482766de5f5331f12f9a8935b83bd81b8b8a")
