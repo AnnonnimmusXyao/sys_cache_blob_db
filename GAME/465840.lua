@@ -1,0 +1,6 @@
+--game: THE LAST BLADE
+
+addappid(228983)
+addappid(228985)
+addappid(465840)
+addappid(465841,0,"35d94d108a102c82a477128700e60841b3f889b8996a5a1fd1e3d25a50d4394e")
