@@ -1,0 +1,4 @@
+--game: Magic Potion Explorer
+
+addappid(442890)
+addappid(442892,0,"0e62e5afd84c53a4355658b71d192312024be7a3c348cb5b36e06b879fc75348")
