@@ -1,0 +1,4 @@
+--game: Timeless: The Forgotten Town Collector's Edition
+
+addappid(569900)
+addappid(569901,0,"6c9f23e653198e82c885287679193205a6b4bb3aa5c48841b586be144bd5d132")
