@@ -1,0 +1,5 @@
+--game: Tangrams Deluxe
+
+addappid(677720)
+addappid(677721,0,"42423a6e3bf00d75ec457e435f8133463c25c996137c0ad43ccfa538c8cd2be6")
+addappid(677722,0,"6e31218395167d6b55bd15e813d560ee4f48e9503ba9c48bbaebea2719dfe99b")
