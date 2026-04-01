@@ -1,0 +1,4 @@
+--game: Acid Flip
+
+addappid(494820)
+addappid(494821,0,"a4c3079fd2411b35ab6cc402f469876d027727495bfca53a0d35f598dc737dcb")
