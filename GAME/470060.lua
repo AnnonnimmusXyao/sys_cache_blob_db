@@ -1,0 +1,4 @@
+--game: 1917 - The Alien Invasion DX
+
+addappid(470060)
+addappid(470062,0,"8761dffe7051a419363eb6a867aafdbd181b05a2780dd0de0cab9ce71e6dc897")
