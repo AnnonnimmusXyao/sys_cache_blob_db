@@ -1,0 +1,5 @@
+--game: Super Red-Hot Hero
+
+addappid(485130)
+addappid(485131,0,"58123bf8d28ccb6fda8f82998181a2fec08cc056d1ad229d9a88ce881d9521be")
+addappid(485132,0,"a848f6b9ba1468513f30ba02da6c48b37bf6a20c5ae6b661e546d120fe9f70e1")
