@@ -1,0 +1,6 @@
+--game: Western Press
+
+addappid(377360)
+addappid(377361,0,"6fa72a8b7d557a5d87102c01c4f174ac7399159bf18e6934953a070b64787a18")
+addappid(487490)
+addappid(488090)
