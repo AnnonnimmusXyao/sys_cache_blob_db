@@ -1,0 +1,4 @@
+--game: Killing Zombies
+
+addappid(534440)
+addappid(534441,0,"db915bab52841f8754e8abac7bcfe0866ae67d3f31b47e67e5d7b59e356d0bf2")
