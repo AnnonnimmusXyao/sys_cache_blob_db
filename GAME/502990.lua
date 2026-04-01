@@ -1,0 +1,4 @@
+--game: Kisaragi no Hougyoku
+
+addappid(502990)
+addappid(502991,0,"da2a152887a46f31148e1a6d1e6648ff48f95976e5ea41db56ccbb094d762fbd")
