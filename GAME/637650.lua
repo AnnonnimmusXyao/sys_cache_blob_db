@@ -1,0 +1,9 @@
+--game: FINAL FANTASY XV WINDOWS EDITION
+
+addappid(637650)
+addappid(637651,0,"067cfbc8b2cdd98dec9619de67a9c50b91477b19e8220fe19adf16631383d1e6")
+addappid(771560)
+addappid(787600)
+addappid(787610)
+addappid(922570)
+addappid(977610)
