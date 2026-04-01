@@ -1,0 +1,4 @@
+--game: OM6N
+
+addappid(681000)
+addappid(681001,0,"33562ec5c069dba4c878892c7193cd1f7093fdc59a00a9f18298b04accafd5d3")
