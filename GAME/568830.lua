@@ -1,0 +1,5 @@
+--game: Witch of Ice Kingdom Ⅱ
+
+addappid(568830)
+addappid(568831,0,"a7d029a3df20d4b994c2787d161979061f5f0664d5dec9dab8b592a688c3b589")
+addappid(568832,0,"5ece36e7a4a469ac3d2459ef568998c7f19b9b3eebc800ca7e833c0a0bc6b7b8")
