@@ -1,0 +1,4 @@
+--game: Brick Inventions
+
+addappid(411750)
+addappid(411751,0,"adf03a5f87046ba0538a45fa22055b8ebb0d433215e110538a768109e1989882")
