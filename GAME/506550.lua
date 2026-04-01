@@ -1,0 +1,4 @@
+--game: RollerForce
+
+addappid(506550)
+addappid(506551,0,"241c2b84a6324901f2b0d9862a9f811210bc3aed41507c380f9b9091630870e9")
