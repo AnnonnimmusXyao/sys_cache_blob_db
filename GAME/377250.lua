@@ -1,0 +1,5 @@
+--game: Subaeria
+
+addappid(377250)
+addappid(377251,0,"abbd67399e32ecf9f25b9eafa2a5d57bbcd74789f8c470856383d1794f42cfc4")
+addappid(377252,0,"c04a09a95a4d7077d99f3c3863e1c37ecc902bd734a1cb2d201ae8698ed5fbef")
