@@ -1,0 +1,6 @@
+--game: End Of The Mine
+
+addappid(451800)
+addappid(451803,0,"72446f07d8f13387e9e3e8baba19b32ccdf1a7ce9607b1ffdd56d853b38ba167")
+addappid(451804,0,"39e5ee34a52849ff48b38bb8d6b3af32efeab16f417c2e06818a748c1cc2660e")
+addappid(551300)
