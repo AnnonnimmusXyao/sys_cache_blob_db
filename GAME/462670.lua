@@ -1,0 +1,4 @@
+--game: VR-Xterminator
+
+addappid(462670)
+addappid(462671,0,"31733d736a25484c027ae41c0da5ed26a117c0af5e7741bc29d8575bce5efcd3")
