@@ -1,0 +1,4 @@
+--game: Puzzling Rooms VR
+
+addappid(510960)
+addappid(510961,0,"d00060be3946818e906834719b5d8b5a432e464e9ce624700c080cc226f1f9b9")
