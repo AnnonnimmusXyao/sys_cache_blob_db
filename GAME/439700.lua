@@ -1,0 +1,4 @@
+--game: Z1 Battle Royale: Test Server
+
+addappid(439700)
+addappid(439701,0,"5467907d5be42494fae9aaaab51d70528d517c130c1d18df5be75274b5244378")
