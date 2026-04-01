@@ -1,0 +1,6 @@
+--game: Light Tracer (VR & NON-VR)
+
+addappid(229001)
+addappid(229030)
+addappid(680400)
+addappid(680401,0,"0fdbb0b4bfc2287aafea26c7ab578736261380e11f1cbd2c7684d77e9f993a76")
