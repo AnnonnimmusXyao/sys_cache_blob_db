@@ -1,0 +1,4 @@
+--game: Mini Battlegrounds
+
+addappid(658470)
+addappid(658472,0,"e9a8e1fb8b9e5bb7e167cba8f7c4ca66f2fe893139b2f3e968c0718b0cc43802")
