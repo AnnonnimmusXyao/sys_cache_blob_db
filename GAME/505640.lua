@@ -1,0 +1,7 @@
+--game: Antihero
+
+addappid(505640)
+addappid(505643,0,"1483b8d0ce1023d16a4bc2020180e20d8ec9a06c2e0eac32dc65235fca35f92f")
+addappid(652490)
+addappid(652491)
+addappid(731460)
