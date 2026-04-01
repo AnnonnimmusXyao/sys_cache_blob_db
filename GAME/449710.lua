@@ -1,0 +1,4 @@
+--game: REDCON
+
+addappid(449710)
+addappid(449711,0,"90c0df3a9f04c92ec0f2e0554134eb5ae610ccd3c5c37cb928bd046765ba776d")
