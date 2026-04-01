@@ -1,0 +1,4 @@
+--game: Panoptic
+
+addappid(541930)
+addappid(541931,0,"a101bd1f1d8e160d247dfef4d6aa7a41e21be068b5124b3ec942f06a71cf2cb2")
