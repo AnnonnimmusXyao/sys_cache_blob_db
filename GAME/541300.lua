@@ -1,0 +1,4 @@
+--game: Survive the Nights
+
+addappid(541300)
+addappid(541302,0,"e108e3e856b5624a39650b492d6fe4fc7d5f3818db8ea9cab1c8e4560fa39f7e")
