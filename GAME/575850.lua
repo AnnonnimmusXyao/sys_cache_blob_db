@@ -1,0 +1,6 @@
+--game: Hartacon Tactics
+
+addappid(229002)
+addappid(229012)
+addappid(575850)
+addappid(575851,0,"b952c06affdbf2320dd7add584f1ad317a645316a3480604e97029bcad3555b5")
