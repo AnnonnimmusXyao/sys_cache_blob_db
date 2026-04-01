@@ -1,0 +1,4 @@
+--game: Shmups Skill Test
+
+addappid(430290)
+addappid(430291,0,"8a7d788e0e82cae141d95051f9380b714a1566c8d545374d5551f65eeca53b07")
