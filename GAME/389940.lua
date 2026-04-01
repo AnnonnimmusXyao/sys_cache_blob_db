@@ -1,0 +1,4 @@
+--game: MoonStrike
+
+addappid(389940)
+addappid(389941,0,"8c64bbf6a797cf2a39b9805de4cf946576addae17eda293f340bf8793c30ad80")
