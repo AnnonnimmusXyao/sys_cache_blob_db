@@ -1,0 +1,4 @@
+--game: Miko Mole
+
+addappid(473480)
+addappid(473481,0,"736f56f5d0d499e8dc2ce53705f2950636ed8f06d7415761e2fb1e8459ffc162")
