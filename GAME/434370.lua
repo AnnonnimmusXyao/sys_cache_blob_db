@@ -1,0 +1,4 @@
+--game: Buried: An Interactive Story
+
+addappid(434370)
+addappid(434371,0,"0b0bd63fc1083a3f7db356d8b45b7bb04f2d675c94a61860cc09d9fafa180132")
