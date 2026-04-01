@@ -1,0 +1,4 @@
+--game: The Empty Inn
+
+addappid(385580)
+addappid(385581,0,"7f4a5c452e5d08d47046d2b4e146e74c126237f261775cffabae198faf750063")
