@@ -1,0 +1,4 @@
+--game: Artificial Defense
+
+addappid(443420)
+addappid(443421,0,"6a8deb4477bfc4b46324a1227dcdf48980f3a2a57d70a9063d93f5769be751c1")
