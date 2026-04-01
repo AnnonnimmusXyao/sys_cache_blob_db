@@ -1,0 +1,4 @@
+--game: VITATIO
+
+addappid(659560)
+addappid(659561,0,"0abf5d01841a3faae5593304ae8de5b68432e277d5ad27076118089f73964dc1")
