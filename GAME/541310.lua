@@ -1,0 +1,4 @@
+--game: Tiny Thor
+
+addappid(541310)
+addappid(541312,0,"908ab9daccfd27a8287e038ddb8128630d20b38eb14c479f9ea901d2904beb65")
