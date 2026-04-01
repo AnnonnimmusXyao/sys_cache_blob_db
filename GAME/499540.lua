@@ -1,0 +1,4 @@
+--game: Wake Up
+
+addappid(499540)
+addappid(499541,0,"b3c3182c6954fb95c4185317d84adad96f6659a2e36f89c3a81f2e6e8ef95cda")
