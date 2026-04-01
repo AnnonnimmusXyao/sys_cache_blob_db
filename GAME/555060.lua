@@ -1,0 +1,4 @@
+--game: Final Soccer VR
+
+addappid(555060)
+addappid(555062,0,"a6f93853d2db3d0aa5c271e11d3399bbc67828eaec71a1f0ad953fa57dd782c7")
