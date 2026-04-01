@@ -1,0 +1,4 @@
+--game: PlanTechtor
+
+addappid(560600)
+addappid(560601,0,"b2c433d977792d3ace122ec000867de07893d1e612e2e4621da20182037beeee")
