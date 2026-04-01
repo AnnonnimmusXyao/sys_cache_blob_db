@@ -1,0 +1,6 @@
+--game: Demon's Crystals
+
+addappid(454610)
+addappid(454611,0,"ec2bb5e6d40c4a01f5be5ac9c1c9ed4aaa968da913f8471915f4b62a487a13ba")
+addappid(454612,0,"69597f29138f79b5210ea1c25042d2a4fc7f686c95b60a4c82ffc23ffe366145")
+addappid(454613,0,"dcd08226d61c49be9ef61f58c07ac8ea5cfc9a1231a32f4b55c0d9d40a8a2a09")
