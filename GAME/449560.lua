@@ -1,0 +1,4 @@
+--game: Space Ranger ASK
+
+addappid(449560)
+addappid(449561,0,"5f98e9c3120ef12199834d384b599b007c6f00a3f44bca896716a3ca11965426")
