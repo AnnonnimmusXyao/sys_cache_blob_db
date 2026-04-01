@@ -1,0 +1,4 @@
+--game: VRMultigames
+
+addappid(500360)
+addappid(500361,0,"5b69a50b53aebf843edfd379c6e906c9ffe0c88a0ebab5cc15ca2d05451380cf")
