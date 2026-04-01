@@ -1,0 +1,4 @@
+--game: Escape: Sierra Leone
+
+addappid(440450)
+addappid(440451,0,"4b280f456648f9974891d419d92bd1b63fae3dc06e098b77fd60aeece0729774")
