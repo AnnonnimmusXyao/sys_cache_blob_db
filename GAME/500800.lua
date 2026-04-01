@@ -1,0 +1,4 @@
+--game: Rogue Fighter
+
+addappid(500800)
+addappid(500801,0,"222f6349992cb3fe744ebe1dfa279ad0b2ab4e48f127d70d039c8d699f21bcbb")
