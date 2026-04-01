@@ -1,0 +1,4 @@
+--game: Pocket Assault
+
+addappid(653130)
+addappid(653131,0,"9bd22cea8d47a5d137366f46c3e6f5836b5570bd1970ca0b3884007edf27bb17")
