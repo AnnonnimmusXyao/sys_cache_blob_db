@@ -1,0 +1,4 @@
+--game: AHTS Ship Simulator
+
+addappid(670910)
+addappid(670911,0,"e2649473c503ca109cca8016522916f90671856cffd27c6ce8e5ee24b8e79be4")
