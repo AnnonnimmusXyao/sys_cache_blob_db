@@ -1,0 +1,4 @@
+--game: Brush Up VR
+
+addappid(567840)
+addappid(567841,0,"2cc552d4d4ae059937b285c1b2f22927496a134562df7eece711f65a01def9a9")
