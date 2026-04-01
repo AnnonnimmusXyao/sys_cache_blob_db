@@ -1,0 +1,4 @@
+--game: Equin: The Lantern
+
+addappid(547980)
+addappid(547981,0,"03b33bd01743778df08b781b04752584ccc936b01df961dafdafb54962956909")
