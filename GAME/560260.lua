@@ -1,0 +1,4 @@
+--game: Super Blue Boy Planet
+
+addappid(560260)
+addappid(560261,0,"98d2704f00d17f90bbe315ede4a8276d5c2af31210f762abf98c4a49151f1004")
