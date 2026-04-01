@@ -1,0 +1,4 @@
+--game: Dragon Glory
+
+addappid(673940)
+addappid(673941,0,"aeb332c5c2951ab3e86afb7198e4cc8ad8b0ed446da80274e48170605c33e22a")
