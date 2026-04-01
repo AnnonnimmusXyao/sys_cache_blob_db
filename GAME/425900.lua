@@ -1,0 +1,5 @@
+--game: Adventure Lamp
+
+addappid(425900)
+addappid(425901,0,"f126d3bf8c22a2858a3b910361452fbcbdc354a8cdc9d05d75b48ac9a738ef01")
+addappid(425902,0,"e148ef4b2130ace574c8780da09201372841c57b0029900be388feea5d00f4b9")
