@@ -1,0 +1,4 @@
+--game: Cursed
+
+addappid(431260)
+addappid(431261,0,"94177ad948451c537fa61016b69695ab9deb1238048f5acd80519a94899bceba")
