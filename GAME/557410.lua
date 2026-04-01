@@ -1,0 +1,4 @@
+--game: Dream Quest
+
+addappid(557410)
+addappid(557412,0,"5ffd56dc80bc1d6f0b05e990d3e9e8527460b9aa756be0b79afed123271f4b82")
