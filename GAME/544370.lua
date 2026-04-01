@@ -1,0 +1,4 @@
+--game: Dead Hand Drive
+
+addappid(544370)
+addappid(544371,0,"2533a31c4172a580a3cb4338fb433affc67cd633b7f9df65b11a1a21889e4175")
