@@ -1,0 +1,4 @@
+--game: StarDrone: Sling Star (with VR mode)
+
+addappid(523890)
+addappid(523891,0,"c22f98cdb7bdff9cac5d86eb3680d18ead00991ea9c4c88a91b00a44f405bd5e")
