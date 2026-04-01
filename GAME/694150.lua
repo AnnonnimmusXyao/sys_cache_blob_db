@@ -1,0 +1,4 @@
+--game: Abyssal Fall
+
+addappid(694150)
+addappid(694151,0,"e1966efb9721248df42c689525d9110b03b51ca552ae2b7f24efc836ae2892ee")
