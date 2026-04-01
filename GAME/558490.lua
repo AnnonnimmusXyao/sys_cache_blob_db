@@ -1,0 +1,6 @@
+--game: Crossroad Mysteries: The Broken Deal
+
+addappid(558490)
+addappid(558491,0,"f0bfc99170c62d36876304d1ae3c212428724d3840b4c206b38d14e2b43fe5b3")
+addappid(558492,0,"d1414eabf61ecab21e4c9c69ad5c405bf818a1cc62ec89e7cd10ae2e29a90b9c")
+addappid(558493,0,"8a3f612403a3a5efcbf985f33b2fe70a5dd2f85368ec77e6e8069ea48cd83418")
