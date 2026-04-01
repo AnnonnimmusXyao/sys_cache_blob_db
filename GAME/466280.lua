@@ -1,0 +1,4 @@
+--game: Super Cube Smash
+
+addappid(466280)
+addappid(466281,0,"824eb9f216b7ed7af1490aed37bce667ed417078c86a883dc14ded6bfb03db4c")
