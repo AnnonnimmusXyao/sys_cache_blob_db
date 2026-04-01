@@ -1,0 +1,4 @@
+--game: Echoes of the Past: The Revenge of the Witch Collector's Edition
+
+addappid(465920)
+addappid(465921,0,"007619356d5b33481278b82b2196bf8adc824fda28bfc77709605206270ffbfa")
