@@ -1,0 +1,4 @@
+--game: Fake Happy End
+
+addappid(572640)
+addappid(572641,0,"25a4c34f7e782dab3e230c1322cc1d7f2bc27698f983a032c3a2eaee1923c2e0")
