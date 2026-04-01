@@ -1,0 +1,4 @@
+--game: Ancient Worlds: Jaguar's Fate
+
+addappid(681480)
+addappid(681481,0,"fb924f1fe1fb7ef469d8bdd66781734ce0bebbc2d81fda834fc1c3c794f02901")
