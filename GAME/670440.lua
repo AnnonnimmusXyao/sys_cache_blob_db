@@ -1,0 +1,4 @@
+--game: Obscure - Challenge Your Mind™
+
+addappid(670440)
+addappid(670441,0,"c2f986b970298e0b93ecb9a8c431392d9f9d04ff9c42a6e5bc0e6cc46220e326")
