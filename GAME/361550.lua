@@ -1,0 +1,7 @@
+--game: Cradle
+
+addappid(361550)
+addappid(228983)
+addappid(229020)
+addappid(361551,0,"d54ec6072f7a80a78b20f58af4941ec1b804ede33abc940164b6f36ce91b0765")
+addappid(361552,0,"bb74dc42f24f5c17444eb106282f688c7262a3186edeb12944a4cb54d4926bd3")
