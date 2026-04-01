@@ -1,0 +1,4 @@
+--game: Armor Clash VR
+
+addappid(510700)
+addappid(510701,0,"ca65aa1206695bfc6b955fdadb66d58fa4bad07d7b3eaacc48e7d69528728e15")
