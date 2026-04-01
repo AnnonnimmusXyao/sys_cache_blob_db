@@ -1,0 +1,4 @@
+--game: Planet Defender
+
+addappid(593260)
+addappid(593261,0,"5b5582c5a26a65b7d2e230a33a094c9c064d8c4d2905d604222b88b947d1e666")
