@@ -1,0 +1,7 @@
+--game: Heavy Fire: Shattered Spear
+
+addappid(228981)
+addappid(228983)
+addappid(229020)
+addappid(385600)
+addappid(385601,0,"80d91e0a03eddf26884685da7d29e1824eb1e48cd35ccc499a42e55dc24ec8a6")
