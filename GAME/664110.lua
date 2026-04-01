@@ -1,0 +1,4 @@
+--game: Void Wisp
+
+addappid(664110)
+addappid(664111,0,"e58cabb7f4a4692af2f29a4907e567553d636e61296ee425abb8b6ffb9db3b64")
