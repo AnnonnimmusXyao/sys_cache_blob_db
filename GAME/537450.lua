@@ -1,0 +1,5 @@
+--game: ReCore: Definitive Edition
+
+addappid(228983)
+addappid(537450)
+addappid(537451,0,"2ea7d90edcb0c55d7706e342460e7d67fd76700db21fb9d3e602f6f82ed834b4")
