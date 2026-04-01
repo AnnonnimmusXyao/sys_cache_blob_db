@@ -1,0 +1,4 @@
+--game: Behold the Kickmen
+
+addappid(529440)
+addappid(529441,0,"3b36879f58aa9891b1ee65b1b3e31fcd0a7d463bb4b2463f7c5bcdfe07ffeaa4")
