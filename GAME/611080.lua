@@ -1,0 +1,4 @@
+--game: Gappo's Legacy VR
+
+addappid(611080)
+addappid(611081,0,"ada5f260b222046a2403b945164a93464baec0a75a171c32e6f46ac74707c44b")
