@@ -1,0 +1,4 @@
+--game: Sentinels
+
+addappid(388910)
+addappid(388911,0,"d8cdf241ff333f0b1690dc12474e2e659a6a790653af0db37008351157cb85e0")
