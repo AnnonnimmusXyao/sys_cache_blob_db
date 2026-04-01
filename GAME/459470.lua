@@ -1,0 +1,4 @@
+--game: Wars of Napoleon
+
+addappid(459470)
+addappid(459471,0,"ea846719e0ae1d96ca564ca422133b22f3023e0dd522db962ef13db63f1a30d6")
