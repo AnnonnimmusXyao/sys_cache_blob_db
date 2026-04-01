@@ -1,0 +1,5 @@
+--game: Runic Rampage - Action RPG
+
+addappid(615010)
+addappid(615011,0,"43ff2b2614ead0094bcad2e3fd0c2be9349f8a5894b8ac203e69af58179d116e")
+addappid(629370,0,"e496f466150a827c41b3b47a66604826c54326b0a02f18ce8a31547d8e49b869")
