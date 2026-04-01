@@ -1,0 +1,4 @@
+--game: Hiking Simulator 2017
+
+addappid(668890)
+addappid(668891,0,"a0be2ec04b063ecc7849007b3fd99ad28d06652594a5ec58dbd04e77758618e4")
