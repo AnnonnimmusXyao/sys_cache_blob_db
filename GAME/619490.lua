@@ -1,0 +1,4 @@
+--game: Fear of Clowns
+
+addappid(619490)
+addappid(619493,0,"ebf573f76b66fc52bbc53eff403bf33d7cc8a2dc550a8c504422eed517eadf89")
