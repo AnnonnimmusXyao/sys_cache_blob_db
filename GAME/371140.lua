@@ -1,0 +1,5 @@
+--game: Aegis Defenders
+
+addappid(371140)
+addappid(371142,0,"0db796db40d88d82e8cd6947d741808433e175e38bbb2963c7dd3ce6412d3a46")
+addappid(371143,0,"3bcf5b19fd1456be386d4c88e25a06ba8a0b89337f624cc7cd4ab3bcf4ab0e8c")
