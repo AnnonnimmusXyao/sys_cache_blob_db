@@ -1,0 +1,4 @@
+--game: Nightmare on Azathoth
+
+addappid(414470)
+addappid(414471,0,"a4e64bc4240842ff2d3ab424aa687d41597ccf1871ad9a9c1085b87fab7dbc6a")
