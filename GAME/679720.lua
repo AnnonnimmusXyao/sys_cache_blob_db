@@ -1,0 +1,4 @@
+--game: Mad Farm VR
+
+addappid(679720)
+addappid(679721,0,"4024d87673c525befebc526453f0daf787fab692d2e9d56918e67955d5fa6af1")
