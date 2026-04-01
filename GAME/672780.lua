@@ -1,0 +1,4 @@
+--game: Sweet Magic Madness
+
+addappid(672780)
+addappid(672781,0,"ab1f2227fa4dc9d3d9023e5165f4264bc8a1259a897da61f10706ba9dad306e4")
