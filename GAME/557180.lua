@@ -1,0 +1,5 @@
+--game: League of Maidens®
+
+addappid(557180)
+addappid(228988)
+addappid(557181,0,"6673a8517cf661636a10977cc242bec610ee32e553a38c57603bc4cc7280e1ed")
