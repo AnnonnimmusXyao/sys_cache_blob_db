@@ -1,0 +1,4 @@
+--game: Tanks VR
+
+addappid(636620)
+addappid(636621,0,"8ad132095b7dff5b7b2e012a3a05cb85e48a5abd8be64e405175d4da2f74f79f")
