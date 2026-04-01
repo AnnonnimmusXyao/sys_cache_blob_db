@@ -1,0 +1,4 @@
+--game: Beast Mode: Night of the Werewolf Silver Bullet Edition
+
+addappid(655760)
+addappid(655761,0,"e52f3504e9c29aed94bdaea293bb5405c319fddf6dd1b6e4d43b8bdfc3c09d9f")
