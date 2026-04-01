@@ -1,0 +1,4 @@
+--game: RetroGunX VR
+
+addappid(691720)
+addappid(691721,0,"0e0bd9419e7f9a949a56b6e6c6a91f54be835ecc9c996c54825ffe7b2f314a5e")
