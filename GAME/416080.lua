@@ -1,0 +1,4 @@
+--game: The Odyssey: Winds of Athena
+
+addappid(416080)
+addappid(416081,0,"84bc0a68b19eb469eedc2cc7775491d1371e6c52b1097972ee460eb815c75cee")
