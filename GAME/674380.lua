@@ -1,0 +1,4 @@
+--game: Delude - Succubus Prison
+
+addappid(674380)
+addappid(674381,0,"e3042045dd13b44a3af5e3fec1e12197fb658f27ac0be66923619ec39d833379")
