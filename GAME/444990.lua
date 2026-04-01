@@ -1,0 +1,4 @@
+--game: Ad Exitum
+
+addappid(444990)
+addappid(444991,0,"20f24fbbf60bca73c5e56084dc8072853da923d75a5ee8f796343a3f10b8b569")
