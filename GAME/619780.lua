@@ -1,0 +1,7 @@
+--game: The Swords of Ditto: Mormo's Curse
+
+addappid(619780)
+addappid(228982)
+addappid(619781,0,"65f53cee46e2bfb7449f06a650af2732f029dc6a508491d0456bca74ec8797b1")
+addappid(619782,0,"454007ce559dc915434fed97ad8e71b097d7676b8e520895d16b1948cc8354d6")
+addappid(619783,0,"72734cc4caf64e8324190b999ef4c3b27b7d4a5f43233adacabbdde9d6ecff48")
