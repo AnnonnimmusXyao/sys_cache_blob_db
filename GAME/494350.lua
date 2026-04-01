@@ -1,0 +1,4 @@
+--game: Bowl VR
+
+addappid(494350)
+addappid(494351,0,"33c552660c4697af3570b0a39df95eaf82c7ea1ec94dd74f8fa2333b7798ab10")
