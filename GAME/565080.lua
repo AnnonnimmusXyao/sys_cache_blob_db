@@ -1,0 +1,4 @@
+--game: Negligee: Spring Clean Prelude
+
+addappid(565080)
+addappid(565081,0,"c22acaefe0d8075730a9b47b0ae08b487fa8949ca356cdefdb4fc081f3517428")
