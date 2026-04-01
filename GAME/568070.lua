@@ -1,0 +1,4 @@
+--game: Mable & The Wood
+
+addappid(568070)
+addappid(568071,0,"484ef4f1fceeccb04686b089413c2ab28343d9013ea0ed3bf9fd03e25e3c0191")
