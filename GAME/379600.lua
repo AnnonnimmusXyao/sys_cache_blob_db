@@ -1,0 +1,4 @@
+--game: Diner Mania
+
+addappid(379600)
+addappid(379601,0,"a757da44c91803d063c7540f0ea4316a955c59b6a47fa8b4c5b5ae5796b1e1bc")
