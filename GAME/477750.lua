@@ -1,0 +1,4 @@
+--game: Thirty Years' War
+
+addappid(477750)
+addappid(477751,0,"ff39d06f4e91420a41d83d533590f927e18722816d0e88a1b805f6488a0b63fe")
