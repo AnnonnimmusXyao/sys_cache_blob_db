@@ -1,0 +1,4 @@
+--game: Evening Surprise
+
+addappid(690930)
+addappid(690931,0,"c00acd7e6b76646a997fc8005291d1602b3769f7a7bac850ede85ae37286db10")
