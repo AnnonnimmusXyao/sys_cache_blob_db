@@ -1,0 +1,4 @@
+--game: My Night Job
+
+addappid(437100)
+addappid(437101,0,"3f6ec807031c38fae0c3eb1976a4985fb6f368d3795cea4f9ffdcf584a54b8f1")
