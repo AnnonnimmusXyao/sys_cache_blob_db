@@ -1,0 +1,4 @@
+--game: The Moonstone Equation
+
+addappid(589100)
+addappid(589101,0,"30694ca048e0ae35b8482d06ac7071faf9ec6d2b0330a4f2a879975607c9d9ab")
