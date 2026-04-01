@@ -1,0 +1,4 @@
+--game: Mahjong Challenge
+
+addappid(693240)
+addappid(693241,0,"577ff0f429930b4f4dbbe078d51a60fb061e1a5b08d32ec65b60af80cd84e775")
