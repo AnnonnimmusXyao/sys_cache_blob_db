@@ -1,0 +1,6 @@
+--game: Fossil Echo
+
+addappid(466350)
+addappid(229003)
+addappid(229012)
+addappid(466351,0,"32548ca2f3b7a40e57674132fd6ebccc9c56c1f2215e6092ad824549094d2770")
