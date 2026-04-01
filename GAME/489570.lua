@@ -1,0 +1,4 @@
+--game: Antisphere
+
+addappid(489570)
+addappid(489571,0,"5f2942875aa4a27048b7755b077ac90b13bc177a9c27260a69ebbe4e53980f76")
