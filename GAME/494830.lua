@@ -1,0 +1,4 @@
+--game: ViveSpray
+
+addappid(494830)
+addappid(494831,0,"11ac97c1c20faa2f43110daf2209f631212d7f9ba3c268269f5569456f4fa529")
