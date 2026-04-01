@@ -1,0 +1,4 @@
+--game: The Tale of a Common Man
+
+addappid(370670)
+addappid(370671,0,"7bacde6105a22df8814f5aa3ae4402909a659dbe1bf12dc71cdcc382fc4069b5")
