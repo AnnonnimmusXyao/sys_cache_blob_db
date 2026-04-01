@@ -1,0 +1,4 @@
+--game: Anti Zombie AI - Tower Defense (Azai - TD)
+
+addappid(681610)
+addappid(681611,0,"8c421d2b3e596a1c2f3c6d45a2810356573725f39a0a8a58e86aec80ace2b0c9")
