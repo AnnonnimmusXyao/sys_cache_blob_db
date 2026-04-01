@@ -1,0 +1,4 @@
+--game: Champion of the Gods
+
+addappid(386520)
+addappid(386521,0,"70814f531dc1faa40eff7147776a640faa2163984689d5e360f5bd1a0c55d90f")
