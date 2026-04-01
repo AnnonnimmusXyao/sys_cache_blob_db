@@ -1,0 +1,4 @@
+--game: I was rebuilt
+
+addappid(560080)
+addappid(560081,0,"c56d7c2ed69840c020be831b3063cd3c5118adab8daee26a0663885470fed714")
