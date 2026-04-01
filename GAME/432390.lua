@@ -1,0 +1,4 @@
+--game: Weekend Drive
+
+addappid(432390)
+addappid(432391,0,"b52d55309cec3e2ec195f4ee1206abd3212970f8a8515c9d0b37a0e12649b325")
