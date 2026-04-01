@@ -1,0 +1,4 @@
+--game: Slice&Dice
+
+addappid(682340)
+addappid(682341,0,"553c8b36ceb0819e9d7bddfa70d6304f216ed5bcfd7e720b9e73895a822c39c2")
