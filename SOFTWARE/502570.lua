@@ -1,0 +1,4 @@
+--game: Houdini Indie
+
+addappid(502570)
+addappid(502571,0,"45059bb8eb99ebc52bc35445ee7afb5beb7ae9ecdb14cd772bcb16c934250517")
