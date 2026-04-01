@@ -1,0 +1,4 @@
+--game: Quar: Battle for Gate 18
+
+addappid(436940)
+addappid(436941,0,"cb9c7e8d6dafcf16e97388c72ee51ee581c552573fe2ea8a90c34ee6f54c3d6b")
