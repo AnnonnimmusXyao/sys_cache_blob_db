@@ -1,0 +1,6 @@
+--game: Fugl
+
+addappid(228985)
+addappid(229020)
+addappid(643810)
+addappid(643811,0,"102c7851856ef11fdaa9bf9eafcfe4f180eead7d16a82f5a9f82aa6e3738649b")
