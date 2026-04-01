@@ -1,0 +1,4 @@
+--game: Insane Insects: The Inception
+
+addappid(443070)
+addappid(443071,0,"719081fe30d688492483e5badbed2f61d68c32499b038e35229608284922f6cd")
