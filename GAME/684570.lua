@@ -1,0 +1,4 @@
+--game: Dr. Dungeon's MADMAN!
+
+addappid(684570)
+addappid(684571,0,"34320ac52af09c031c9bc4fb4d3af8e894ce969491c1f1838e54a579c41d0766")
