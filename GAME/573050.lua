@@ -1,0 +1,4 @@
+--game: Wojdan - وجدان
+
+addappid(573050)
+addappid(573051,0,"5b05acd24e0cff8ce56af7db428c8574c1b7467007e738894e751e7c766d1d84")
