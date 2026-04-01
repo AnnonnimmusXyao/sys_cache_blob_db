@@ -1,0 +1,4 @@
+--game: Artisan: Going Home Again
+
+addappid(525050)
+addappid(525051,0,"020b35052d4ca1098c370d524c6f313a6a46f7a3a2d4ab117ed3144079e11398")
