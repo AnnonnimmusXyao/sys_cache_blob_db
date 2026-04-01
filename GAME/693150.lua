@@ -1,0 +1,4 @@
+--game: Martha Madison: Electricity
+
+addappid(693150)
+addappid(693151,0,"4fdd19c2827286eb71127ea6bc3f0b76eb03fedb5fcbb47a3b34a79c52e5cfff")
