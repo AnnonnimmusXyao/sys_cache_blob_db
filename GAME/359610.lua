@@ -1,0 +1,9 @@
+--game: Assassin’s Creed® Chronicles: India
+
+addappid(228983)
+addappid(229002)
+addappid(359610)
+addappid(359611,0,"f88360f363227aeb88a346fdda243cf1d979fb91896616172483ae05d7296d8b")
+addappid(376420)
+addappid(435180)
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
