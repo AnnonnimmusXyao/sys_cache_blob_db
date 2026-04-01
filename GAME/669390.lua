@@ -1,0 +1,4 @@
+--game: Lethal Laser
+
+addappid(669390)
+addappid(669391,0,"fbf92f8b7bb44cfdc360fb7cb215b7693ab0b80b9d0ff7f4b903907cf0b97c29")
