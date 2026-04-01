@@ -1,0 +1,4 @@
+--game: So Much Blood
+
+addappid(476450)
+addappid(476451,0,"77916e7079b6667aa7d2b6e7bb1a070f62c36fe5c156c8567bb35e477c684dac")
