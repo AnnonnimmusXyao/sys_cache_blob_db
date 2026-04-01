@@ -1,0 +1,4 @@
+--game: Fort Awesome
+
+addappid(594120)
+addappid(594121,0,"6b5c95623efd22a45756fded62d6706ee0f056c1504b769365184890959ac949")
