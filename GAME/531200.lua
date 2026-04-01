@@ -1,0 +1,4 @@
+--game: Beneath The Cherry Trees
+
+addappid(531200)
+addappid(531201,0,"a04cc73cf396c8203caf06bd4a4e68e6831b882406333c7057c1c0382740f083")
