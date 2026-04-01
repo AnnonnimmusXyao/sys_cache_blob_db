@@ -1,0 +1,4 @@
+--game: 18 Wheels of Steel: Haulin’
+
+addappid(514180)
+addappid(514181,0,"cfaa62abcf1a62eed2406e9b3c2e8831c50a1721e679919a093defafc0e877b7")
