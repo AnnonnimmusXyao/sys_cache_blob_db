@@ -1,0 +1,4 @@
+--game: Dark Days
+
+addappid(422020)
+addappid(422021,0,"4f97e4363cf8160cdd84f04ff7c157728f85a6599986c49f42d87c1136e4fc60")
