@@ -1,0 +1,4 @@
+--game: Hade
+
+addappid(552160)
+addappid(552161,0,"ebcdd85854b988ca9aaf5315e403883271073a6468bebb83c73366cd8c6ae61e")
