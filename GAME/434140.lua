@@ -1,0 +1,4 @@
+--game: New Outbreak
+
+addappid(434140)
+addappid(434141,0,"641cba1ccd27e7b0c4277cf0777843c92258b8656253957b486cfa399d0de4e9")
