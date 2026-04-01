@@ -1,0 +1,4 @@
+--game: Spellbound
+
+addappid(463400)
+addappid(463401,0,"e46af95853906126fa690227bf95bd5a72be07880a2b3da9676636d46e88f181")
