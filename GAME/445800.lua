@@ -1,0 +1,4 @@
+--game: Love Language Japanese
+
+addappid(445800)
+addappid(445801,0,"1314d583b1e64475f83bceed1da0f5dfe0bdbb7aad8cfbf05338075af4a87752")
