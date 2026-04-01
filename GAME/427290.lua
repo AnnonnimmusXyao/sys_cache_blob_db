@@ -1,0 +1,5 @@
+--game: Vampyr
+
+addappid(427290)
+addappid(427291,0,"cdc71f514e81cdcdf2205f20a95908bd1e90d12bad79d5089096ba9966113524")
+addappid(728850)
