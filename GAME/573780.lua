@@ -1,0 +1,5 @@
+--game: Xenon Valkyrie
+
+addappid(573780)
+addappid(573781,0,"96e78dd8d2566c99135c6e4afa82d3238b538a03448b94b1be4a414e9469fcad")
+addappid(573782,0,"010abcbd57c61dd85841055b8ee2cb3b086c01e1a9e10f48ae3485b78b7ae0b4")
