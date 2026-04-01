@@ -1,0 +1,5 @@
+--game: Grand Tactician: The Civil War (1861-1865)
+
+addappid(654890)
+addappid(654893,0,"848dce0cbafabfbd7ef795c80cff23390299b743bc65aab3036c33befeb42bca")
+addappid(2138830,0,"729f90c547ed6a133e52eb7e1f475ca13b82c9daa0cc5dce2738208d7973bfd0")
