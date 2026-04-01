@@ -1,0 +1,5 @@
+--game: Xenoraid: The First Space War
+
+addappid(228985)
+addappid(460220)
+addappid(460221,0,"728a149205810867f1e60a117d8a30387d89831959d2d49582fc33515ce7413b")
