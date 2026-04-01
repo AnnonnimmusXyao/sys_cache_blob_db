@@ -1,0 +1,4 @@
+--game: Make America Great Again
+
+addappid(512430)
+addappid(512431,0,"27b052e445c155ded404fdc60ede544e0abb2b69d2c10b1d8e670321e89ec3a1")
