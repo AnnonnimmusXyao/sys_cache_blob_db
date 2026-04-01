@@ -1,0 +1,18 @@
+--game: Portal Knights
+
+addappid(228985)
+addappid(374040)
+addappid(374041,0,"a50a492cd588398e0b8d7827635a4331eaa6c7a626722137840b655e532dd725")
+addappid(617090)
+addappid(617100)
+addappid(617110)
+addappid(617120)
+addappid(617140)
+addappid(618730)
+addappid(837990)
+addappid(851860)
+addappid(851870)
+addappid(918540)
+addappid(1046050)
+addappid(1085410)
+addappid(1176870)
