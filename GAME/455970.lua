@@ -1,0 +1,4 @@
+--game: Nokori
+
+addappid(455970)
+addappid(455971,0,"9267f1dfb791d6aa105faf09cd51313754fdd2779803bc6dd2440d6d585a4221")
