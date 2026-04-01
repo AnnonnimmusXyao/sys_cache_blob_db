@@ -1,0 +1,6 @@
+--game: One Wish
+
+addappid(228985)
+addappid(228987)
+addappid(602910)
+addappid(602911,0,"17d18c7f50820f0dd18e405ec91704fa82e90334e0f4e0ad6bac9f719181a4fd")
