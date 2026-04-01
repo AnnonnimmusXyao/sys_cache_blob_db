@@ -1,0 +1,4 @@
+--game: Adventure Apes and the Mayan Mystery
+
+addappid(461830)
+addappid(461831,0,"99f7a8cf9692ec83dd50957597d911f2d67e766999228be0b0b3b0d7e93a200a")
