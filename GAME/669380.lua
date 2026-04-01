@@ -1,0 +1,4 @@
+--game: Astoria: The Holders of Power Saga
+
+addappid(669380)
+addappid(669381,0,"cdfa62527bbe202a380026cc153b4e2f952d83b4684a4d0347c252536c8df9dc")
