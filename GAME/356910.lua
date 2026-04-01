@@ -1,0 +1,5 @@
+--game: Battle Fantasia -Revised Edition-
+
+addappid(356910)
+addappid(228985)
+addappid(356911,0,"7f4375ab07fbba8a07e79a1bec4a7f887b853cb3187cd95af4eb546283985bb1")
