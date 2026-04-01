@@ -1,0 +1,5 @@
+--game: Ctrl CV
+
+addappid(502130)
+addappid(502131,0,"41f31b58d71e3f102af59565cc4b9d1a20f608cd2ba29dac7b19aa94dca96cd1")
+addappid(866290)
