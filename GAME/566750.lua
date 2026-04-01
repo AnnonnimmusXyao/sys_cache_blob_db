@@ -1,0 +1,4 @@
+--game: Crimson Trigger
+
+addappid(566750)
+addappid(566751,0,"cacd7253d89c75ef25dc54c880f907f468637141bc96df59b7012d2e2891be1c")
