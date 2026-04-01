@@ -1,0 +1,7 @@
+--game: articy:draft 3
+
+addappid(228982)
+addappid(228983)
+addappid(229005)
+addappid(570090)
+addappid(570091,0,"829b154056f761d8f4ff66ded72266e71a5b873214f36f412f7192d938a7feac")
