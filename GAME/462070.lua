@@ -1,0 +1,5 @@
+--game: IWO: Bloodbath in the Bonins
+
+addappid(462070)
+addappid(462071,0,"c1aa5f511f2a2b4df4e498126cd1ca355acf265b30690346c60930445d6d5363")
+addappid(462072,0,"7b5910c692baee7358cbb6f77acfdcc5fa731250d92653a12fcd9c69f44e46ea")
