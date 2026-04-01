@@ -1,0 +1,5 @@
+--game: The Shattering
+
+addappid(596000)
+addappid(596001,0,"95345fc05938ad65e77d6216a8fa0ab01f854711e32e6c5f0596dab134ee203a")
+addappid(1542030)
