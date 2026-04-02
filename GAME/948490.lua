@@ -1,0 +1,4 @@
+--game: Standard Legend
+
+addappid(948490)
+addappid(948491,0,"cf91a9c9446851fd4340222f61ab2c22998db83f2516cada160bb019e7d34a5e")
