@@ -1,0 +1,4 @@
+--game: Fatal Evidence: Cursed Island Collector's Edition
+
+addappid(1084920)
+addappid(1084921,0,"1e82ed550ae710ec9ea1f81f92fe850687c48044badc0e591574503433f4bba2")
