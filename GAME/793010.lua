@@ -1,0 +1,4 @@
+--game: Super Pillow Fight
+
+addappid(793010)
+addappid(793011,0,"532ca62c6356519ef50d759ecd91e886d6c2b511148438ace9993ac92a372bc1")
