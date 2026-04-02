@@ -1,0 +1,4 @@
+--game: Minaurs
+
+addappid(763750)
+addappid(763751,0,"50f582493e436effff24cac6de94ace029c9dc4c31d663b05579b58458bf6bb5")
