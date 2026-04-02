@@ -1,0 +1,4 @@
+--game: A Boy and His Beard
+
+addappid(708100)
+addappid(708101,0,"cb543e7e93908266f79b4b4e190752170272c09b4f19ee649091618ec787206f")
