@@ -1,0 +1,4 @@
+--game: Самозванец
+
+addappid(1123510)
+addappid(1123511,0,"15978ccafc9ec40e7c594e3dbc16893570a650ae40b131cee3bc7dcbc65070be")
