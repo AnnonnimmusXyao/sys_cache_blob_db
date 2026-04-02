@@ -1,0 +1,4 @@
+--game: ADIOS Amigos: Galactic Explorers
+
+addappid(725120)
+addappid(725121,0,"1f624de33aaa414176c42ef71d1aa2f0645133ad13e3bf3e557856211e8313ae")
