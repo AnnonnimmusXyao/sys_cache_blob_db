@@ -1,0 +1,4 @@
+--game: Sacrifice Your Friends
+
+addappid(1050160)
+addappid(1050161,0,"d15bc11e6b31c14446d63d7dd555ec40bce272d774af7dd0a21beccc1951a6a2")
