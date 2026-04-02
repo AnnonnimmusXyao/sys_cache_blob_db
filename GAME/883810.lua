@@ -1,0 +1,4 @@
+--game: Nocturne of Steel
+
+addappid(883810)
+addappid(883811,0,"6c2b986e05622ba36b429ee537ad60e43dc34e510692e9d87f3ca69cd4da209e")
