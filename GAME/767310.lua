@@ -1,0 +1,4 @@
+--game: Brutal Inventions
+
+addappid(767310)
+addappid(767311,0,"50ec49ac9248f6a59423381bfa818cdf52d27c8a6495cedcb117ecfd5745475c")
