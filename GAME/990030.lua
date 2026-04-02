@@ -1,0 +1,4 @@
+--game: Deep Diving Simulator
+
+addappid(990030)
+addappid(990031,0,"ce230fc27d73d88670cfed51b26c7df47e69f8d1a6cf67dfc20519ada7b3ceda")
