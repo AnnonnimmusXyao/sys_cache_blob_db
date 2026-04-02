@@ -1,0 +1,4 @@
+--game: Generals & Rulers
+
+addappid(1076920)
+addappid(1076921,0,"c8904ddf90be67a9da8943a47514fcdcf97940a4a2c0dd02a9e0c6b3d707fd3e")
