@@ -1,0 +1,5 @@
+--game: Swords and Soldiers 2 Shawarmageddon
+
+addappid(703880)
+addappid(703881,0,"f52ae4286eb9391105a2fa721e502e44a14f6ac221d506f9da516177549a9b32")
+addappid(969090,0,"f576f7491e5d6db7a82a6d6d1c833d408b9732c83d4b931d37fda5999f2351de")
