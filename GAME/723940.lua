@@ -1,0 +1,4 @@
+--game: Hidden Expedition: The Fountain of Youth Collector's Edition
+
+addappid(723940)
+addappid(723941,0,"9d4b1213b451c57f249ca85f21b979b92fa93ea3d3ccf2b266da0b0e6de8350f")
