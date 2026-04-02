@@ -1,0 +1,4 @@
+--game: Tempest of the Heavens and Earth
+
+addappid(994020)
+addappid(994021,0,"ee42503db538e2dd57c4fef1794eebf23870601b764b637e14c266e91aacb916")
