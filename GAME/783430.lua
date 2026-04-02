@@ -1,0 +1,4 @@
+--game: Gatlin'
+
+addappid(783430)
+addappid(783431,0,"6966825ba569e12bf528041690884a797a56215efb90d2c9bf06b40c277c6ac9")
