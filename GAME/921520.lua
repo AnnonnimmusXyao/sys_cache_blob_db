@@ -1,0 +1,4 @@
+--game: Puppy Chef Academy
+
+addappid(921520)
+addappid(921521,0,"45f2ba43a0fe589375350234870d38691b783e7a92b76b68e92591659988a81d")
