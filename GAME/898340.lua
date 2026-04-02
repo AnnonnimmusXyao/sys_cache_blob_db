@@ -1,0 +1,4 @@
+--game: Puzzles and Board Games Mega Collection
+
+addappid(898340)
+addappid(898341,0,"c03ca15613cb199d4701eeb4aa779b26e7754d8efc6ed432044f7cba90cc4173")
