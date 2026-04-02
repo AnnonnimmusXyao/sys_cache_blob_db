@@ -1,0 +1,4 @@
+--game: 瞳：祈愿 VR / Pupil: Wandering VR
+
+addappid(773460)
+addappid(773462,0,"767ede30e0e56178091b7409a9a691b450ba8958cf18da543f52eec9a6c76946")
