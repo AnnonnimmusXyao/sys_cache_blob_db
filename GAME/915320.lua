@@ -1,0 +1,5 @@
+--game: Pixel Strike 3D
+
+addappid(915320)
+addappid(915321,0,"4d5f4b8c59ba64d5a381dd75fecae19cad55de7195de951683ce41737d7e1f56")
+addappid(915322,0,"128fe1ac4bfb40ae50a31adf7f4f75001412b1e3a37293e9c190351808df2913")
