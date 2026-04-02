@@ -1,0 +1,4 @@
+--game: Sphera Turris
+
+addappid(805350)
+addappid(805351,0,"9ae35e2f136c4c97f4057c1ddadf76a7793f36efa422547372783b3580d4ab64")
