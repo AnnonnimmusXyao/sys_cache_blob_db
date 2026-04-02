@@ -1,0 +1,4 @@
+--game: Bright low
+
+addappid(763220)
+addappid(763221,0,"592c4b50d24fad67e2ab04f30e0821569fe704566e5e90bf1cf649b58ebcdc69")
