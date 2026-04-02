@@ -1,0 +1,4 @@
+--game: Neon Tower Blast
+
+addappid(1112710)
+addappid(1112711,0,"dbc2bfa5fc003f59a9d971331c01cda0a549c601666df154ed121c7cf47246e1")
