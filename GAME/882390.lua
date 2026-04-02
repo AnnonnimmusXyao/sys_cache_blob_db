@@ -1,0 +1,5 @@
+--game: EnHanced
+
+addappid(882390)
+addappid(882391,0,"e37cac9a02a939a5b2e5db05aefd4d474e091f3b4a903a8a4b02968ca3136840")
+addappid(950580)
