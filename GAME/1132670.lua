@@ -1,0 +1,4 @@
+--game: Metal Heads
+
+addappid(1132670)
+addappid(1132671,0,"a0aa9e37a7784bae2d3a3876a7cb1436bc3abac26d566c9101f29d7daf6900f9")
