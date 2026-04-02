@@ -1,0 +1,4 @@
+--game: Winner Winner Chicken Dinner!
+
+addappid(781100)
+addappid(781101,0,"a7ddc81632942f1c63bfeeca21d3c874d3d3773d4ca96d5d087b4b111f8dd02e")
