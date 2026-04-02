@@ -1,0 +1,4 @@
+--game: Cube Runner 2
+
+addappid(1076790)
+addappid(1076792,0,"5b1ebc53249175f54399f59e9a0032a65798ebc0948a9b838276f0d90177fc45")
