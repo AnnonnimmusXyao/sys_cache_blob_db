@@ -1,0 +1,4 @@
+--game: Abstract Hell
+
+addappid(961190)
+addappid(961192,0,"d71128c5680a813a05eba7ee90f4535e22bb03af32b77466e9ce24fa3a15a1ea")
