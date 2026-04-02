@@ -1,0 +1,4 @@
+--game: Cosmi-Cave 64
+
+addappid(899530)
+addappid(899531,0,"24d3da9c3af1a87fb08a619d4cd2e5b064cb80a4f8dfa6c55624bdf1b5382112")
