@@ -1,0 +1,4 @@
+--game: 東方紺珠伝 ～ Legacy of Lunatic Kingdom.
+
+addappid(937580)
+addappid(937581,0,"5f85c99877d388a24913d32bcf8bd7bcaaa3004757419a8cfa1c97bea85391a3")
