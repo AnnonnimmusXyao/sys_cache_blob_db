@@ -1,0 +1,4 @@
+--game: Majin Woman
+
+addappid(895180)
+addappid(895181,0,"14ac44cd48e3a15ce7b7a2402d3cbf56f02adf79e09fe801d6a33c4906adb794")
