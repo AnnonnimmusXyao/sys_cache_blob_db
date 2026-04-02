@@ -1,0 +1,5 @@
+--game: The Emulator
+
+addappid(989490)
+addappid(989491,0,"4c35cc6d4239d0062d35e7b6e1f58c31685e37d0c77c87b991f23b391f7c58ea")
+addappid(989492,0,"d16a6066006ca7416c1b64dc9916d4eeb84e6c406c6c9d6fa7cdc87f3bca1e6f")
