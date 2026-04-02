@@ -1,0 +1,9 @@
+--game: Power & Revolution 2019 Edition
+
+addappid(1029630)
+addappid(1029631,0,"7658f26810ba87b7702374ae870feff225701f68f0faac528abee92c92d6e542")
+addappid(1029639,0,"053ce4bb60872553475860b5baa8335184b70d23f22cb2c95c383f022352db52")
+addappid(1050040)
+addappid(1050050)
+addappid(1050060)
+addappid(1050070)
