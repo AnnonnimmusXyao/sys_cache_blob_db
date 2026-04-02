@@ -1,0 +1,4 @@
+--game: Echoes of the Past: The Citadels of Time Collector's Edition
+
+addappid(995890)
+addappid(995891,0,"3dd5dc62b2aa1f47a29afc5d4713123f13ab17a17a6e22fe11506ce3bc566dac")
