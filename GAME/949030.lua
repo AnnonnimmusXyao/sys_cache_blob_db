@@ -1,0 +1,4 @@
+--game: aMAZE Halloween
+
+addappid(949030)
+addappid(949031,0,"a2115122760a10b4ccebffcd94c3c08c88853ab7eda55c80108d96a852c90219")
