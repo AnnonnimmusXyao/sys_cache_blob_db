@@ -1,0 +1,4 @@
+--game: Infinity Trip
+
+addappid(752710)
+addappid(752711,0,"e52e476b119d010aeea7bebebb521353681b827bc45b5b27b111ef3ad1a502a8")
