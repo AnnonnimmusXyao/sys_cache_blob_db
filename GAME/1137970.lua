@@ -1,0 +1,4 @@
+--game: Zombies Ate My Neighbors and Ghoul Patrol
+
+addappid(1137970)
+addappid(1137971,0,"b9dc5770d2ee95ed1dd7b2460bcca4c3a8354268bca841968eeedf2b1776771a")
