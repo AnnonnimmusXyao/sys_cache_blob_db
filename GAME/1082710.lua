@@ -1,0 +1,5 @@
+--game: Bug Fables: The Everlasting Sapling
+
+addappid(1082710)
+addappid(1082711,0,"590f22813370768897e18746d4e0c8f7bbe2e99c6cc5f984af4e725eb0d648de")
+addappid(1641310)
