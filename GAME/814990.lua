@@ -1,0 +1,4 @@
+--game: Super X Chess
+
+addappid(814990)
+addappid(814991,0,"d344b2051a42e495bb548454b8614b28d31436078d42740becaacb9b6b858476")
