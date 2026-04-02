@@ -1,0 +1,4 @@
+--game: Towards a perilous journey
+
+addappid(852860)
+addappid(852861,0,"7c0ceaf0d962288ff0d77ef8ee9202a4a3d385b29dc051ceaa3fa5980f077769")
