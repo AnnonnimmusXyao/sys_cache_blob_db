@@ -1,0 +1,4 @@
+--game: Star Rangers VR - Free Demo
+
+addappid(703430)
+addappid(703431,0,"3c630a343ae57e62254325389379be04b65fc9ef911838c08defa2f83a39d3fe")
