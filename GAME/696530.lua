@@ -1,0 +1,5 @@
+--game: Lake Ridden
+
+addappid(696530)
+addappid(696531,0,"7f75398248cb0e7df0a5d4acf3ff7b66521fc1cd224cd09e059a3c69f6ba6567")
+addappid(858130,0,"e35c20a04e726d6202fa6479e936c53abc4de6e40a5411a0423face1a576202f")
