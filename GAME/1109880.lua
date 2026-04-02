@@ -1,0 +1,4 @@
+--game: Just Random Squares
+
+addappid(1109880)
+addappid(1109881,0,"5c2a4af8bf7957a8e24b1f90f55fc1452ee674323fbf70fbe36d9c68763cf801")
