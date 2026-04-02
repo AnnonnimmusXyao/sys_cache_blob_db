@@ -1,0 +1,4 @@
+--game: Mind Sweeper VR
+
+addappid(723210)
+addappid(723211,0,"1358610b988a031c11a4c9b15e77551e5a832dd6774624aa98269c48118d175f")
