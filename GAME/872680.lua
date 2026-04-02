@@ -1,0 +1,4 @@
+--game: Z Dawn
+
+addappid(872680)
+addappid(872681,0,"d46f1ab816b8c51125bf4aa2383b5bdcbb08e7c182796c50709e0fa596aed3cf")
