@@ -1,0 +1,4 @@
+--game: Jewel Match Solitaire 2 Collector's Edition
+
+addappid(1035770)
+addappid(1035771,0,"d594a51931cdd613ab6c7b58df5716d0cea52f9b4383fafb8a8e80f99f3c31e8")
