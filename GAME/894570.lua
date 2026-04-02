@@ -1,0 +1,4 @@
+--game: Supaplex HARD
+
+addappid(894570)
+addappid(894573,0,"37442c0e0a1f938d87dd0ec865e45739096878b1d0427d25bf630a193e6bb8b4")
