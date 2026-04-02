@@ -1,0 +1,4 @@
+--game: Sounds of Music
+
+addappid(752880)
+addappid(752881,0,"841299f8c5f6467139acc850cd92244147170a2595cea3c5b7a159f2758413c7")
