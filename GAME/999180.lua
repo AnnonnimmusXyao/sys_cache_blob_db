@@ -1,0 +1,4 @@
+--game: Hunter Survive Zero
+
+addappid(999180)
+addappid(999181,0,"31a1ed4f378469931bf9321f6c57cbf58ab1cea417b9e8cce8c6db24a22044bf")
