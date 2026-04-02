@@ -1,0 +1,4 @@
+--game: Sefirot Shards
+
+addappid(1020910)
+addappid(1020911,0,"ce65fb12f7b8496781f1750626b435c4e7fed7043d5b5f953ea2e3dafba67201")
