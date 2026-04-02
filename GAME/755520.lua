@@ -1,0 +1,4 @@
+--game: Battle Shapes
+
+addappid(755520)
+addappid(755521,0,"0876f5974726c1aab0358a6d4b0359146fc746dca2005c50d401b122f039b440")
