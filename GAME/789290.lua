@@ -1,0 +1,4 @@
+--game: RPG Merchant
+
+addappid(789290)
+addappid(789291,0,"e8ee04883d7e16bdf1ff47eb8c7a3abd786b0a53c3858727bb13b4a025f0b9b2")
