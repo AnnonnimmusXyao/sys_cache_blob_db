@@ -1,0 +1,4 @@
+--game: Meow Wars: Card Battle
+
+addappid(762110)
+addappid(762111,0,"a38803d95a12dcf2e5fb596f12175f5cb458b1005f76a8ae11b664cd909403a5")
