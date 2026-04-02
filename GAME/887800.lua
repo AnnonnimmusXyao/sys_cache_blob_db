@@ -1,0 +1,6 @@
+--game: Snooker 19
+
+addappid(228987)
+addappid(887800)
+addappid(887801,0,"9f7e15447dc3ad2152d75efd4bd0067946633b1904e06366d453f6dcad772034")
+addappid(1196670)
