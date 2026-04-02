@@ -1,0 +1,4 @@
+--game: Blindsight
+
+addappid(722380)
+addappid(722381,0,"873e0b19d39d9a5c38db2d86ec053fdaaac015196221aac1f4695a3501d23aea")
