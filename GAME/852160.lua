@@ -1,0 +1,4 @@
+--game: Jack the Barbarian
+
+addappid(852160)
+addappid(852161,0,"c71f9b79aff78488bc1cfb88eaf41f8848a8e7400fb5618afe933b283e692f59")
