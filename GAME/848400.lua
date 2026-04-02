@@ -1,0 +1,4 @@
+--game: Simian Rising
+
+addappid(848400)
+addappid(848401,0,"798232fc04df1bc2cbd0fae4aca72aa906575241b4886b929ca6610e346157fd")
