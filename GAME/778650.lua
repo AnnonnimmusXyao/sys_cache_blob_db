@@ -1,0 +1,4 @@
+--game: Volcano Tower
+
+addappid(778650)
+addappid(778651,0,"257f533d457175792808b4f6996771283aa00825ddd983929b0da96df59e760a")
