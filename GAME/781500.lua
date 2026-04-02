@@ -1,0 +1,4 @@
+--game: Candy Snake Master
+
+addappid(781500)
+addappid(781501,0,"976ed5aa7e6d81d0acf299b534c372b0052af44c5f13464fc5e72008af5c535e")
