@@ -1,0 +1,4 @@
+--game: Tronix Defender
+
+addappid(745420)
+addappid(745421,0,"e663cb8c0cbae7fffb2451907c31deb94f9fd65bd4d9f5b4b450c9312dc40eae")
