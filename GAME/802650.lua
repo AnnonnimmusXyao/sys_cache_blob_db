@@ -1,0 +1,4 @@
+--game: Russian Race
+
+addappid(802650)
+addappid(802651,0,"0f3d141fda2046b66aa0c4045289391b4935d656e882adccc9a785d698aea572")
