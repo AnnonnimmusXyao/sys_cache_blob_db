@@ -1,0 +1,4 @@
+--game: Kine
+
+addappid(824570)
+addappid(824571,0,"1eb10f37deb99099041f901367b4bd0acc01968fcde80311dcdfd71469f65be8")
