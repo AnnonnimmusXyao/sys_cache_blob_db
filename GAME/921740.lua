@@ -1,0 +1,4 @@
+--game: Shahrzad - The Storyteller
+
+addappid(921740)
+addappid(921741,0,"4392d9b555cbfc5332f3c098be32b0f3ac7c966e387c5ac08d6fc7bce9ba881d")
