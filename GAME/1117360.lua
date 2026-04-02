@@ -1,0 +1,4 @@
+--game: Word Forward
+
+addappid(1117360)
+addappid(1117361,0,"1b1319cb976434924ecef287be41efd2c198fdf178ed06d1943c57de8f2791cc")
