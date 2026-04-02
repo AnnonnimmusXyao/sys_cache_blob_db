@@ -1,0 +1,4 @@
+--game: Animal Friends Adventure
+
+addappid(1051470)
+addappid(1051471,0,"140cb84d28b5becf65cfb8067d9eea9b6fe3e29655f439ff7309801ea16c260c")
