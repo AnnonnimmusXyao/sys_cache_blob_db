@@ -1,0 +1,4 @@
+--game: Secrets of the Past: Dion
+
+addappid(860550)
+addappid(860551,0,"2ce629a18227c86a538b43b3734c208cb8c7df0c09d4dee9fe6d9bf3cadf1546")
