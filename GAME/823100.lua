@@ -1,0 +1,4 @@
+--game: Peace Duke
+
+addappid(823100)
+addappid(823101,0,"73f71c8f69fe1476dad4a36244870cc77c02748daf0167143fc0602bf20bbad2")
