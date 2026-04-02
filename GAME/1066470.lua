@@ -1,0 +1,4 @@
+--game: Dextram
+
+addappid(1066470)
+addappid(1066471,0,"bf4446d17f3e5316e55a4d3ed6ce5e74a8c7e6ecbc9161ec6dc15f16de82834f")
