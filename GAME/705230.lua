@@ -1,0 +1,4 @@
+--game: InGame.exe
+
+addappid(705230)
+addappid(705231,0,"c35a8c9338275ef9f7eba668633d7c15119363574db60c622cda7125d0a93411")
