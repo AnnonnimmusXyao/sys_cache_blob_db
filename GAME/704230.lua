@@ -1,0 +1,6 @@
+--game: Pro Cycling Manager 2018
+
+addappid(704230)
+addappid(229000)
+addappid(704231,0,"509eccd46563ff624cbf0a5221910043b0c6cd9a29364528b2559e6a71578588")
+addappid(704232,0,"8c66dacdfee8caaf11237b03df5ef4f8ba7965b3684a75f8144c873ebdaad2d9")
