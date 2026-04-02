@@ -1,0 +1,5 @@
+--game: FIA European Truck Racing Championship
+
+addappid(940580)
+addappid(940581,0,"5c7cc0b84571bed28199c9ebdeffb43d0f7907f522da74793b3b7e2986bc4a6e")
+addappid(1075460)
