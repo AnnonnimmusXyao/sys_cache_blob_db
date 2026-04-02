@@ -1,0 +1,4 @@
+--game: More Than Just Chess
+
+addappid(729650)
+addappid(729651,0,"5892073528c59a1b9d72eed3915d8b2a4e6fd4dff91be3981eff6a162fdc847c")
