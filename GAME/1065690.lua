@@ -1,0 +1,4 @@
+--game: Peku - Space Dragon
+
+addappid(1065690)
+addappid(1065691,0,"649f2e222403cdb4b173ec353df7743e5fff1599a2785f0bcc3ea0c4e6bd9f1a")
