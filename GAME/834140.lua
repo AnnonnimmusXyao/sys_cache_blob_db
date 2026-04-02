@@ -1,0 +1,4 @@
+--game: Blacksmith: Dark Times
+
+addappid(834140)
+addappid(834141,0,"7d50cc9f64dde1a268432c089d0d4866da2b8d9e50cf64447cfb43cfedd5e1d1")
