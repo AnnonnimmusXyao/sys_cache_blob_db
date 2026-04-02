@@ -1,0 +1,4 @@
+--game: Pixel Puzzle Makeout League
+
+addappid(1131800)
+addappid(1131801,0,"fdf19a10f47787288512e50aabe24e4c0923667f31c933365548d42544de30a1")
