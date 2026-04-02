@@ -1,0 +1,4 @@
+--game: Chimeras: Wailing Waters Collector's Edition
+
+addappid(1097280)
+addappid(1097281,0,"f01df0cd65501b18728d3a03552a1852d48b240abb99dae373e7890021005f74")
