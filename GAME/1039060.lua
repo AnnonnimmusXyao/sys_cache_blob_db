@@ -1,0 +1,4 @@
+--game: pepeizq's Cities
+
+addappid(1039060)
+addappid(1039061,0,"8aa4c7662eb8208625c648daa86b9999f1337af0defa29d44d64c9159cc0c006")
