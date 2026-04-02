@@ -1,0 +1,4 @@
+--game: Get To Amkonius
+
+addappid(720160)
+addappid(720161,0,"352b8f8191e2ecc5ddcaab27f98ffc07265ce0ca83ed90a941718f9804557e28")
