@@ -1,0 +1,4 @@
+--game: DesertShootout
+
+addappid(802180)
+addappid(802181,0,"13bc819eadcd4f8df3249a12fd47350f0ba99bc5b437df12dd2fafc4d481e4ec")
