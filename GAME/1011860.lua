@@ -1,0 +1,4 @@
+--game: 答题英雄——细胞生物学
+
+addappid(1011860)
+addappid(1011861,0,"ec02ab01d4313cc5f47bda82d247e4704c0bc3039ee331eb38c9fa33bc4b868c")
