@@ -1,0 +1,4 @@
+--game: Duncan and the Wisp
+
+addappid(1087060)
+addappid(1087061,0,"179199b6125e79db9fe63b5e7e6cd91960ddb2ff3aac0fb87461626bd43e5415")
