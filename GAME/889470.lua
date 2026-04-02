@@ -1,0 +1,4 @@
+--game: Another world: Truck driver
+
+addappid(889470)
+addappid(889471,0,"8b44be6c186871a31425ce1d45abaf93280e2675308341c098e4560b582dba09")
