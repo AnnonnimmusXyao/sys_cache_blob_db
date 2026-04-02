@@ -1,0 +1,4 @@
+--game: Bloody Rally Show
+
+addappid(926860)
+addappid(926862,0,"ab2391e42878c5401b3f9878ac8c4ed7b188270bcce8290a8020c327d3944efd")
