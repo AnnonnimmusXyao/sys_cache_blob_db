@@ -1,0 +1,4 @@
+--game: Major League Gladiators
+
+addappid(727310)
+addappid(727311,0,"a5067c9c5f4b60b1e779c42643ad185602cafc335aeb3c0697f4adfa4c6ece41")
