@@ -1,0 +1,4 @@
+--game: Scorch
+
+addappid(875740)
+addappid(875742,0,"044f597d42e059e1912b1e9e938ff16118a663707e39d1c4685f8f2d604deed2")
