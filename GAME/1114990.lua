@@ -1,0 +1,4 @@
+--game: It Pays To Be A Winner
+
+addappid(1114990)
+addappid(1114991,0,"1d8747ffa830e0dcb76c895059b6d7179e7d15d6d0d4c53034ae976edd62b8b4")
