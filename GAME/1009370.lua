@@ -1,0 +1,4 @@
+--game: Elephants Can't Jump
+
+addappid(1009370)
+addappid(1009371,0,"1c6f48ad4ead6fd867e8f87db2752d14f90807d822c664c930c0576ca7e1cc5b")
