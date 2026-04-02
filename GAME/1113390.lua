@@ -1,0 +1,4 @@
+--game: Handy
+
+addappid(1113390)
+addappid(1113391,0,"5165602b75319cd9f437a7a50eef5367bc6f1a3b8c017ece1690d763810ee37f")
