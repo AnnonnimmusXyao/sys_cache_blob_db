@@ -1,0 +1,4 @@
+--game: The Dwarves of Glistenveld
+
+addappid(805520)
+addappid(805521,0,"44f27984b35b3cca566da51f1da3614042a9ca4de37ad4510d489e1b8461f7e8")
