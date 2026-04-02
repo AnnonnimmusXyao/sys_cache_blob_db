@@ -1,0 +1,4 @@
+--game: Dungeons of the dead
+
+addappid(828230)
+addappid(828231,0,"08077e31beae2a698110d5c3915f7d683235844e35e6d5425a7f5fe865e72425")
