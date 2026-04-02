@@ -1,0 +1,5 @@
+--game: FPS - Fun Puzzle Shooter
+
+addappid(229000)
+addappid(697850)
+addappid(697851,0,"b68195fc69df6ac2006ecf8bb8160a2f28ab3fb463343e97fc8f292dc6b8f6fa")
