@@ -1,0 +1,4 @@
+--game: Tales of Ancient Nights
+
+addappid(1010380)
+addappid(1010381,0,"cb83d7fb1469f0b5d58f24736254cee99f803e67dbae9365a8e1f539b2d93755")
