@@ -1,0 +1,4 @@
+--game: WARBORN
+
+addappid(918950)
+addappid(918951,0,"613eb728a75697211eede93ef62083c8d4fbe4901e23df5701b30e319a9295f8")
