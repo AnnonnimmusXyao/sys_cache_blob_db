@@ -1,0 +1,4 @@
+--game: Sword of Rapier
+
+addappid(933430)
+addappid(933431,0,"fd01344c4d8e6acc07379d256914ad0f7156004769e6f66bbe34787a39c4a053")
