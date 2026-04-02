@@ -1,0 +1,4 @@
+--game: aMAZE Frozen
+
+addappid(828910)
+addappid(828911,0,"19e460848a3e9d67145c73f6309979af79eb4ef1e87220bf33a468cc48d0d0d8")
