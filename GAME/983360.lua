@@ -1,0 +1,6 @@
+--game: Ancestors Legacy Dedicated Server
+
+addappid(228987)
+addappid(229004)
+addappid(983360)
+addappid(983361,0,"551b51af8fb4a88bb5de331f359e2578f43e305e877ceb98bd75613c8a979f38")
