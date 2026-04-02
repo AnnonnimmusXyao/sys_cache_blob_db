@@ -1,0 +1,4 @@
+--game: Hentai City
+
+addappid(898500)
+addappid(898501,0,"caef883ec0957759b930e82417801de901b756ae557437b929b05f9207351f30")
