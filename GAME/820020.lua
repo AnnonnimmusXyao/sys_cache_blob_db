@@ -1,0 +1,4 @@
+--game: Alder's Blood: Definitive Edition
+
+addappid(820020)
+addappid(820021,0,"ff45e6061004776e5a18866471c71d11792cf87ca35c72bdde84b9d98a406607")
