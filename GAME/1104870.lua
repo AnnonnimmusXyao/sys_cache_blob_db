@@ -1,0 +1,4 @@
+--game: TKKG - Die Feuerprobe
+
+addappid(1104870)
+addappid(1104871,0,"2ccd9657b1c5eee53799dbb2f607ed1a1a01ef7b4ac2996497ad6368f6dea2f0")
