@@ -1,0 +1,4 @@
+--game: RollTheEarth
+
+addappid(878300)
+addappid(878301,0,"3fc6ed98b795978ceebdb36a0de773bed08450b93078a6fcc64d48ded6965f6d")
