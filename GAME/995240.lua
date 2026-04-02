@@ -1,0 +1,4 @@
+--game: RemiLore: Lost Girl in the Lands of Lore
+
+addappid(995240)
+addappid(995241,0,"1f487c6799e5c7500b0d41f32c717fe457911e453afda77019a3b6d604655ea9")
