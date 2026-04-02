@@ -1,0 +1,4 @@
+--game: 败家仔 Last Wish
+
+addappid(952850)
+addappid(952851,0,"1724af9c2d13481c1d8764293ca9aed17d5e7b945e2f91c8aedca599e2a40999")
