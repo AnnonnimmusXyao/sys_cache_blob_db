@@ -1,0 +1,4 @@
+--game: TrES-2b
+
+addappid(737730)
+addappid(737731,0,"b85f7c93d40aa428edae6914f3c3ca864b97ed3a87260e86e23298b664743ba5")
