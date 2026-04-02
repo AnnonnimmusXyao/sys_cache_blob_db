@@ -1,0 +1,4 @@
+--game: DaemonClaw: Origins of Nnar
+
+addappid(1117920)
+addappid(1117921,0,"e9c37971af16c9588ac46cbdf2f2070c5c26f8dc8c016d3a3165bcd3acc26366")
