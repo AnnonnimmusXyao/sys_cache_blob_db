@@ -1,0 +1,4 @@
+--game: Hyperplex 3D
+
+addappid(1124950)
+addappid(1124951,0,"119a3bb3002b1b826159b5a6012ebbd3606ee1cefb36289d5a474dd3c778c922")
