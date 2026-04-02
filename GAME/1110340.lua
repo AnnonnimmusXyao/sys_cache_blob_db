@@ -1,0 +1,4 @@
+--game: Detective Bot
+
+addappid(1110340)
+addappid(1110341,0,"031d4bfeb473a3bf28e4399c91229d289913463a7d28216333f8a1e8c17e96da")
