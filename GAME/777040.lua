@@ -1,0 +1,4 @@
+--game: Criminal Bundle
+
+addappid(777040)
+addappid(777041,0,"ebbf5f0be3381cad906c6e5d11febed2c8b1f080b6b171f4d9304703872591c9")
