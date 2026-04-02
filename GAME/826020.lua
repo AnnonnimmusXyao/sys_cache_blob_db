@@ -1,0 +1,4 @@
+--game: Zombie Teacher
+
+addappid(826020)
+addappid(826021,0,"142af8b4c98136ad808c9d512bd1a33c7130856039a4e13f7c64bd95fab0c83d")
