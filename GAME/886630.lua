@@ -1,0 +1,4 @@
+--game: GlitchPets
+
+addappid(886630)
+addappid(886634,0,"1609f035de75cefcf3ba772e184176aa05a8e7f25431363acaeba7d177a7e2fd")
