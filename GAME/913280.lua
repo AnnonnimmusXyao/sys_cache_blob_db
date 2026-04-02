@@ -1,0 +1,4 @@
+--game: Pranky Cat
+
+addappid(913280)
+addappid(913281,0,"9686039c3ea761907007b6f0995f5f065470256806e4d9a11cc8bc5dd1611d8a")
