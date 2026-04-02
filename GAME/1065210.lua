@@ -1,0 +1,4 @@
+--game: ZIC: Survival
+
+addappid(1065210)
+addappid(1065211,0,"b76342dbbc49f39e27e91d18972763630172d5671cd45c124e6f726d8a2b6893")
