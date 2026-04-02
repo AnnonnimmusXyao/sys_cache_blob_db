@@ -1,0 +1,4 @@
+--game: Monster Crush - C4 Demolition Edition
+
+addappid(1044070)
+addappid(1044071,0,"ce84635f33588adca8525da63828aa7401999741783e67f0e0fb62f3b523a658")
