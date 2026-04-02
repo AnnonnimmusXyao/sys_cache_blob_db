@@ -1,0 +1,4 @@
+--game: Ultra Off-Road 2019: Alaska
+
+addappid(957050)
+addappid(957051,0,"98fd3b4e45637855b9a45f3958ac464f4e4eb1269f5a2acad8e7ad752edae141")
