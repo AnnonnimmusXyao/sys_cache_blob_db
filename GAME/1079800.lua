@@ -1,0 +1,10 @@
+--game: Pistol Whip
+
+addappid(228985)
+addappid(228987)
+addappid(229002)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(1079800)
+addappid(1079801,0,"42658144daff10982bfa06dcdc13b2fea75268b2c08496130a993f270e3d9bad")
