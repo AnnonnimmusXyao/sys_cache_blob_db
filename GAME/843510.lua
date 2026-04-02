@@ -1,0 +1,4 @@
+--game: Colony Prospector
+
+addappid(843510)
+addappid(843511,0,"c133f9c3cb9fb0783e1e50711388bf56483b1b2095c1f4cb4a98824ad9a1e49a")
