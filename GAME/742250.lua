@@ -1,0 +1,7 @@
+--game: OPUS: Rocket of Whispers
+
+addappid(742250)
+addappid(742252,0,"61dc2e52de971d363f30e27cfd0effcd225ba782ffa44961b05f51cc605e3c45")
+addappid(743880,0,"87144b9498804b3ea48dc1884b0f7ee07d21b69d889577082908abfa884e8b30")
+addappid(1792990)
+addappid(1804250)
