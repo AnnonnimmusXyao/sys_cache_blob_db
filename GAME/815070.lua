@@ -1,0 +1,4 @@
+--game: The Adventurous Four
+
+addappid(815070)
+addappid(815075,0,"6c2b4887b01e60f29290d835a83cec69a5a26993a30c61adb0184235c4dd2c3e")
