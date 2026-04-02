@@ -1,0 +1,4 @@
+--game: Righty Tighty XL
+
+addappid(843430)
+addappid(843431,0,"0ceb7c3eb49f2b060fe9ffea1099012dad3763020eb953def792658bd27432a5")
