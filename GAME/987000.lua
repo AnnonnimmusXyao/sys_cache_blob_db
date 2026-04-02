@@ -1,0 +1,4 @@
+--game: Shadow Uprising
+
+addappid(987000)
+addappid(987001,0,"a74bb1b711b556b4d24909ef4d188e8da7cb16f8c589269b6009f245d0617e5d")
