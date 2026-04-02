@@ -1,0 +1,6 @@
+--game: Norilsk
+
+addappid(831540)
+addappid(831541,0,"348bdd7a3c24965890acc0f038dc38e86728322867d8e1fcafab92a9acd8579c")
+addappid(1215450)
+addappid(1318720)
