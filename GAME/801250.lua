@@ -1,0 +1,4 @@
+--game: GOHOROBO
+
+addappid(801250)
+addappid(801251,0,"d3bc1ef2982dbb9a1f36ef706d4db540c4e838af4c9d282fa102e430d9c21f6e")
