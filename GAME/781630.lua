@@ -1,0 +1,4 @@
+--game: Iffy Institute
+
+addappid(781630)
+addappid(781631,0,"18d86da8082441020586dc8ecaf22f355425ae803765634cba104035e2fa2e8b")
