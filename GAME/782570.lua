@@ -1,0 +1,4 @@
+--game: Endless Road: Reborn
+
+addappid(782570)
+addappid(782571,0,"5043a4823fcb38159d609ff68a3354b56252bb6f53dd069c86a05849b03aba56")
