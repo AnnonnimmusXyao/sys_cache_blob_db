@@ -1,0 +1,4 @@
+--game: Blade of Arena - 劍鬥界域
+
+addappid(897890)
+addappid(897891,0,"977861719f4f324d7299986155864b43093b54dfdb100923bb62f0b68d486447")
