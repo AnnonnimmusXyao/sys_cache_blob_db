@@ -1,0 +1,4 @@
+--game: Dark Parables: Return of the Salt Princess Collector's Edition
+
+addappid(815580)
+addappid(815581,0,"fa80fd3dab6183aef11dea078957e75d34f4d4010b9c2c9f056bb408680b2ffe")
