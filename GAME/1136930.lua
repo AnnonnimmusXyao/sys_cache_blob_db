@@ -1,0 +1,4 @@
+--game: Gekisou! Benza Race -Toilet Shooting Star-
+
+addappid(1136930)
+addappid(1136931,0,"6ef84a4bfd437975704c799597875fb332f3b3298dc4ffbb6109d7b4f26559fa")
