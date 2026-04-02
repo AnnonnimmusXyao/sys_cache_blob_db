@@ -1,0 +1,4 @@
+--game: Secret Savings
+
+addappid(985340)
+addappid(985341,0,"d663afe8a956b696053f96608a99e1e0b1913ff59528986fbd2dc1595502a8be")
