@@ -1,0 +1,4 @@
+--game: Trail Breaking
+
+addappid(838160)
+addappid(838161,0,"5d8138ee028b9baa7e6e4e09b15d137b85d0477faf1800b01a780f51d6348486")
