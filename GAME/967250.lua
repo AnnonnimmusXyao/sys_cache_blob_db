@@ -1,0 +1,4 @@
+--game: DOKA 2 KISHKI EDITION
+
+addappid(967250)
+addappid(967251,0,"6102b60b40f3935d5524b25df10e352999e5c8b00053af77bfedd22e98e0db00")
