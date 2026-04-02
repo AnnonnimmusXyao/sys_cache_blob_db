@@ -1,0 +1,5 @@
+--game: Age of Empires: Definitive Edition
+
+addappid(228987)
+addappid(1017900)
+addappid(1017901,0,"d28682965acebec2e120b391343fe1f369835501696e82b33a6312037eb0b0d5")
