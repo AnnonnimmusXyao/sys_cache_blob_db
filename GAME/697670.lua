@@ -1,0 +1,4 @@
+--game: Journey of Haha
+
+addappid(697670)
+addappid(697672,0,"4157986796b901d0954234133de0a8f98236ef064c1786c5e57882541f30a19b")
