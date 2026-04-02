@@ -1,0 +1,4 @@
+--game: KIDS
+
+addappid(793370)
+addappid(793372,0,"6b41e21b548184e6fe4f1e0226efa40b031f506fd1757c6693c3588c1f796828")
