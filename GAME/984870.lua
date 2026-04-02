@@ -1,0 +1,4 @@
+--game: Tecroroid Assault
+
+addappid(984870)
+addappid(984871,0,"733208669fca999da8c70a2e08aae40ded77d38ae293aef59037de98ac7540b3")
