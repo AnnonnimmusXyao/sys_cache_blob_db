@@ -1,0 +1,4 @@
+--game: 瓶中精灵 - Fairy in a Jar
+
+addappid(997700)
+addappid(997701,0,"ae978036d1f294533807c303eff41c7aef3d4ee3ccd122ce04facbd31f7e6244")
