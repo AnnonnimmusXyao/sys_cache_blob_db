@@ -1,0 +1,4 @@
+--game: Bloodworks
+
+addappid(717990)
+addappid(717991,0,"b68a58ab639aeffaa4da09617b8611523091e24571678a57c754729e126f629d")
