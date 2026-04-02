@@ -1,0 +1,4 @@
+--game: Bepuzzled Jigsaw Puzzle: Nature
+
+addappid(1103080)
+addappid(1103081,0,"cbd863a3552e0b2b38cbba0362007ba4758d8d522ba5161022f52278fb1c7427")
