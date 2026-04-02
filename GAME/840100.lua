@@ -1,0 +1,4 @@
+--game: Magic Scroll Tactics / マジックスクロールタクティクス / 魔法卷轴 / 魔法捲軸
+
+addappid(840100)
+addappid(840101,0,"8faf8a2943d0ba267c0003012585df7985350ce37e64b2867a885c12285a0af6")
