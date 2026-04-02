@@ -1,0 +1,4 @@
+--game: Virgo Versus The Zodiac
+
+addappid(920320)
+addappid(920321,0,"1f53e751ae741968240dc1f92948ab20d7c61c634fe4f8704c586f6c5d4a3894")
