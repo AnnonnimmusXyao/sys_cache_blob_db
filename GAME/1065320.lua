@@ -1,0 +1,5 @@
+--game: REKT! High Octane Stunts
+
+addappid(1065320)
+addappid(1065321,0,"d84893ba345653f5b5415bc9a8437dd130d0f28a087031a92f09db062ed308e8")
+addappid(1344090)
