@@ -1,0 +1,4 @@
+--game: Iridium
+
+addappid(1014850)
+addappid(1014851,0,"25571850f0a47f530a2bc8c590ed0007afc4a6bb69d9ecb42da385fef022d2ce")
