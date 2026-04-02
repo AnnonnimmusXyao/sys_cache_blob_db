@@ -1,0 +1,5 @@
+--game: Creatura
+
+addappid(229000)
+addappid(781130)
+addappid(781131,0,"1169ffcdf763b6ae746a864b733831db3d32003cff5fb0cc573439fa9ee9cce7")
