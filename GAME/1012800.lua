@@ -1,0 +1,4 @@
+--game: WhiTaers: Gongren Edition
+
+addappid(1012800)
+addappid(1012801,0,"d0d7be5cd55e5aac73e784f4b884d03680e811b45c4fab05753c488496c6ae58")
