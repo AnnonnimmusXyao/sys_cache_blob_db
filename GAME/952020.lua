@@ -1,0 +1,4 @@
+--game: Love at Elevation
+
+addappid(952020)
+addappid(952021,0,"ddba3d14eff3036d1d7518f14eaa8ef959d321391188205454e3c200452d4325")
