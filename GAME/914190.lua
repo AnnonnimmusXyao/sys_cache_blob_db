@@ -1,0 +1,4 @@
+--game: BattleBlade
+
+addappid(914190)
+addappid(914191,0,"75c024b53df58a7219d72d0a372f5540de50976b7b41ca0d43e53aaf1dc9e8ec")
