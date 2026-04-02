@@ -1,0 +1,4 @@
+--game: A Monster's Expedition
+
+addappid(1052990)
+addappid(1052991,0,"65d060621a768ab3aaecd365ab466beeaa59e2a1a67028af575c58948786c183")
