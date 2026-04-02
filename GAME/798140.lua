@@ -1,0 +1,4 @@
+--game: Blood Drift
+
+addappid(798140)
+addappid(798141,0,"139ac8098a5b3fc048e18584617c0affc5724a9d024b637d336cd3ee6f5d9b02")
