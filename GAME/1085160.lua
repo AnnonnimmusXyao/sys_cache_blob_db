@@ -1,0 +1,4 @@
+--game: Palmyra Orphanage
+
+addappid(1085160)
+addappid(1085161,0,"6c215c709f79c21bcc76cf25e227eecd7aa5571d1545873dce607419126587f2")
