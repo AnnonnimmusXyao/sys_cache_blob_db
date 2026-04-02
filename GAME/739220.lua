@@ -1,0 +1,4 @@
+--game: Ark Noir
+
+addappid(739220)
+addappid(739221,0,"2a195aa8e835c0d4dc80802d3bf3cd2a17bd116caf3ee31629f795b602f52827")
