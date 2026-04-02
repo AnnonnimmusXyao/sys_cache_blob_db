@@ -1,0 +1,9 @@
+--game: Chromosome Evil
+
+addappid(228985)
+addappid(1035660)
+addappid(1035661,0,"bfae942a6f99092a678841f88a74ca007670dbff2f3202e065dd109d24de366a")
+addappid(1985450)
+addappid(2022480)
+addappid(2240370)
+addappid(2810130)
