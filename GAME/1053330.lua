@@ -1,0 +1,4 @@
+--game: SCRAP RUSH!!
+
+addappid(1053330)
+addappid(1053331,0,"b9b87f3b831d3afb0508d4e83a2a1ec33812921a75bb86ff1d5da4f05516984f")
