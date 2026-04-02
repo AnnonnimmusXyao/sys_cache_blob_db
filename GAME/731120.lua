@@ -1,0 +1,4 @@
+--game: Three Kingdoms VR - Jade Knight (光之三國VR - 青龍騎)
+
+addappid(731120)
+addappid(731121,0,"4ba950e51b3b9bcefa3aae55dabf307d1e5dd4438822fc1c58390795b59b41e4")
