@@ -1,0 +1,4 @@
+--game: Gone Fireflies
+
+addappid(784100)
+addappid(784104,0,"55711949a1239ba901320de1b084161810187516b27c91a278d4fb8e92c99a23")
