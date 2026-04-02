@@ -1,0 +1,4 @@
+--game: Smelter
+
+addappid(1094540)
+addappid(1094541,0,"1d5dc60d1f0679f4d9c04abf200a6e52df9d384349d27a2dd8329ca80d3a69a8")
