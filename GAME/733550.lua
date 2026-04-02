@@ -1,0 +1,4 @@
+--game: Clash of Magic VR
+
+addappid(733550)
+addappid(733551,0,"8a3780a74397a7bb8ce03d27b968d9c3e81e0aae4c2ddb230536314845486f20")
