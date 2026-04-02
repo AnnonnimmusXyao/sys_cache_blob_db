@@ -1,0 +1,5 @@
+--game: The Suicide of Rachel Foster
+
+addappid(228987)
+addappid(1057750)
+addappid(1057751,0,"3690ccd9e47ca6bde171f4454e869ef791941117e56ed88eed23e4945b297cfa")
