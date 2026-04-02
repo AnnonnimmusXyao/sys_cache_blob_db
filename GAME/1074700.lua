@@ -1,0 +1,4 @@
+--game: Witches' Legacy: The Charleston Curse Collector's Edition
+
+addappid(1074700)
+addappid(1074701,0,"92593f8815dbc30c880e601b26074559ebd8cad4c93d9241365befa4af96736c")
