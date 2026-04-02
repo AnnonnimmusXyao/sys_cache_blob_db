@@ -1,0 +1,4 @@
+--game: Aqua Lungers
+
+addappid(820640)
+addappid(820641,0,"371eb862e46930e1267c38a62753416d5056a9b61c1bb3e00a782774f0b10c5b")
