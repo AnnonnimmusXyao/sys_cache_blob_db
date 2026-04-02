@@ -1,0 +1,4 @@
+--game: Westworld Awakening
+
+addappid(1133320)
+addappid(1133321,0,"21ab639dc4893f5946f43fc15785f6b570f9fd797822caa60a90b5ae67644049")
