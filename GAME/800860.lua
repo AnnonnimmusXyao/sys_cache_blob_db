@@ -1,0 +1,4 @@
+--game: Omnicube
+
+addappid(800860)
+addappid(800862,0,"ed62da80bf7e0730bd4a1880d774844339435fed858acc565b0f70ef9fe7196d")
