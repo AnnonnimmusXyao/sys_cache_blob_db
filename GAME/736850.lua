@@ -1,0 +1,5 @@
+--game: We. The Revolution
+
+addappid(736850)
+addappid(736852,0,"cdfb78e09e0ca4151152528220feb11da1aed75640c5ccb1247992371d7cfae3")
+addappid(736856,0,"57b19abc6459976b89dfd2da16569521914121fa8b62d1196b0e5ca6026ca327")
