@@ -1,0 +1,4 @@
+--game: Die pig die
+
+addappid(783240)
+addappid(783241,0,"8b52508f005db96b1bf3b4c061aedd385ef4903b022c6fa8df021dd970a3fe31")
