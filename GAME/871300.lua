@@ -1,0 +1,4 @@
+--game: Curse in our heads
+
+addappid(871300)
+addappid(871301,0,"b6fbec3522e479c588c258eade4aa4099cd09c628c7c3f3ed4851d4a03832b4c")
