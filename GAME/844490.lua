@@ -1,0 +1,4 @@
+--game: Rhombus Legends
+
+addappid(844490)
+addappid(844491,0,"3d0572daa418ccd054837617d894460943c311b54f1441df0285e38e57317b74")
