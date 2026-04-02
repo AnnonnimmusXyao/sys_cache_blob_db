@@ -1,0 +1,4 @@
+--game: Bitcoin Tycoon - Mining Simulation Game
+
+addappid(734570)
+addappid(734571,0,"142db27e9dfffe4abf698646a93dd33cc9a012ea85dcbf40e0150052566a5c6a")
