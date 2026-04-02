@@ -1,0 +1,4 @@
+--game: Kickshot
+
+addappid(842500)
+addappid(842501,0,"daffcab3df7579535ae3ce4f8681bcbf095337db5f3c426cdbef3446c71cb7b3")
