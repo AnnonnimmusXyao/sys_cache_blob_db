@@ -1,0 +1,4 @@
+--game: Candy Adventure
+
+addappid(1049080)
+addappid(1049081,0,"cc6d62bea2c028a6e8220ea1a5b467717370aee57ee7c064c38245999cda1223")
