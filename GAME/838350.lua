@@ -1,0 +1,10 @@
+--game: 太吾绘卷 The Scroll Of Taiwu
+
+addappid(838350)
+addappid(838351,0,"7de3577779d63fd52db715a1898f8353eb0f5f4096ab3391f77b582621e1adb8")
+addappid(946970,0,"6eb479723fd905892e55add18fe531a67b7e3c42595302faa5685e47fd7603c3")
+addappid(2172690)
+addappid(2241120)
+addappid(2764950)
+addappid(2764960)
+addappid(3464590)
