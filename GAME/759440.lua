@@ -1,0 +1,6 @@
+--game: Learn Japanese To Survive! Kanji Combat
+
+addappid(759440)
+addappid(759441,0,"44873d9e73114dfce841ebf71afd8f14ad38bd9cf05968bdb3941ff4062ab899")
+addappid(759442,0,"2d6957a03737b8b16fd87c2545b000187c1abe4df0eb0a19475e470151cddfca")
+addappid(893980,0,"49cfcb6b8cb0dcc8d36940ade7b2ae54dde37c580567bb3c7f8fd2ef1560a172")
