@@ -1,0 +1,5 @@
+--game: Love Room
+
+addappid(975760)
+addappid(975761,0,"367bf0a83bbc6c06f18cb6e4133399bdaaabea061e254763fc0100deaac04c8c")
+addappid(988970)
