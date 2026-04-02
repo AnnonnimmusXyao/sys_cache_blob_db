@@ -1,0 +1,4 @@
+--game: Waves of Death
+
+addappid(858740)
+addappid(858741,0,"8840e8c1602f367a7506760713d3401ba0fc1a35b76b48ab7e6792d8be829ef4")
