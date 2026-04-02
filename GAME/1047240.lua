@@ -1,0 +1,4 @@
+--game: Game club "Waka-Waka"
+
+addappid(1047240)
+addappid(1047241,0,"76b64d56bd28032f6f2bb18bc998245124471842251944fd9a5f81a0572d30dd")
