@@ -1,0 +1,4 @@
+--game: Santa's Story of Christmas
+
+addappid(920770)
+addappid(920771,0,"589d9b8d870995ce7b8ea362d56cc20c4a364e70606ded0cbce8a8523d5293f0")
