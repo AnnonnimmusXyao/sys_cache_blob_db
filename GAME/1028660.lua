@@ -1,0 +1,4 @@
+--game: Pirouette
+
+addappid(1028660)
+addappid(1028662,0,"0fe5e07926749213aed7b9b3aded412ad66e7c6604b8aff6f7297213f2b983e7")
