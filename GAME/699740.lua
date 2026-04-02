@@ -1,0 +1,4 @@
+--game: BANNERMEN
+
+addappid(699740)
+addappid(699741,0,"10050fe572b2072745890a09a7226e2dea2c689ebcf044d5934813e7de081a3c")
