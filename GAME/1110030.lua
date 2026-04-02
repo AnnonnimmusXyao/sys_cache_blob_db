@@ -1,0 +1,4 @@
+--game: Heroes of Myth
+
+addappid(1110030)
+addappid(1110031,0,"d6c6883eaa74ff77998336a9afaacbb67b34e2d4491cb5f3f2abed88b441fbf7")
