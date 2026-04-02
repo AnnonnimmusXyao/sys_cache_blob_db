@@ -1,0 +1,5 @@
+--game: Supaplex GO!
+
+addappid(913650)
+addappid(913651,0,"73d6bfbf8da364cf1bbbeb2b800f9acee3c6f25d3d7387fab788c9d09ef74d43")
+addappid(913653,0,"72096963a66cc402869731c9eff903ec6c153e543bdb68ccf9220881ed1c92e0")
