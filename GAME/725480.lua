@@ -1,0 +1,4 @@
+--game: Slap City
+
+addappid(725480)
+addappid(725481,0,"fc23754d322a25297af4f3dbc64388cc69b1a097c27e40fee631265f82479fd0")
