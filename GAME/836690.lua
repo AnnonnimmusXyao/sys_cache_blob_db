@@ -1,0 +1,4 @@
+--game: HomestarVR
+
+addappid(836690)
+addappid(836691,0,"0189e6b9bfff66341ba8dc7fbad19bde1957030402822eca7f7c4524d28943c2")
