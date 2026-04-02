@@ -1,0 +1,4 @@
+--game: Waking Violet
+
+addappid(845600)
+addappid(845601,0,"68899436bcca9b69b23a27471148efedf5856d1199efcd8e1661d7ccd5fd0854")
