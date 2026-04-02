@@ -1,0 +1,5 @@
+--game: Skater XL - The Ultimate Skateboarding Game
+
+addappid(962730)
+addappid(962731,0,"d40a19216eb72a40d8ccee687beb14fa0b2f7678d0c65a9e48606889e089c047")
+addappid(1952000)
