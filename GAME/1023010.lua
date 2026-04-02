@@ -1,0 +1,4 @@
+--game: Escargot
+
+addappid(1023010)
+addappid(1023011,0,"911ef81a5c08f71b1a5c57545fa032edb274d0107d7e521ebaf4ce77b50fc99f")
