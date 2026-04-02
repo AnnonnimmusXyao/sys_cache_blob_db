@@ -1,0 +1,4 @@
+--game: Super Jigsaw Puzzle: Monuments
+
+addappid(878250)
+addappid(878251,0,"43a99007b8708ded5b6037639b8b0df77d6dc4b93fab93d2338d963d071287b1")
