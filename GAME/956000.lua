@@ -1,0 +1,5 @@
+--game: Su Hack
+
+addappid(956000)
+addappid(956001,0,"e024be7adc9187817c4fd4f3b589c3e5b4c5d578378f37fe716140b7f499f632")
+addappid(962530)
