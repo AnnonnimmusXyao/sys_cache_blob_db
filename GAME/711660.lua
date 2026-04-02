@@ -1,0 +1,4 @@
+--game: CHUCHEL
+
+addappid(711660)
+addappid(711661,0,"f145d70830b86e665e99db50e6d14c892b301885b2920cd4c5dec1436595bd45")
