@@ -1,0 +1,4 @@
+--game: Sky Link
+
+addappid(882150)
+addappid(882152,0,"fbb742ed0ec8dcd95681981fb730c28061d0c49fc723c4b6a0ed5a097341f25f")
