@@ -1,0 +1,4 @@
+--game: Consolation: Board Meeting - Anthology Edition
+
+addappid(1008030)
+addappid(1008032,0,"eda938fdf01dee2c9aa993e617b7c3fa320fa1b3b865759a1fc5dcdf71535751")
