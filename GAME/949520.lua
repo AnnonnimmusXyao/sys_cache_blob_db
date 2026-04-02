@@ -1,0 +1,4 @@
+--game: Lost On The Island
+
+addappid(949520)
+addappid(949521,0,"3614c1bcec1e34c1b197d08143f07603d18b542267a9ea64efc12cf2038f0c8e")
