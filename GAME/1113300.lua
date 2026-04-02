@@ -1,0 +1,4 @@
+--game: To Battle!: Hell's Crusade
+
+addappid(1113300)
+addappid(1113301,0,"d324f4d1b81afdd974fea500317ab7e0cf0734ebbd1883449e702401dda6e34e")
