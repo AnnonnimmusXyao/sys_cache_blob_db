@@ -1,0 +1,4 @@
+--game: Tale Of Starship
+
+addappid(1081430)
+addappid(1081431,0,"bb5c53d9038f9ddf5492516871f2cadf02a8b55b55954444567dc2f00d63b6c2")
