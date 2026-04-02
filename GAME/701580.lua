@@ -1,0 +1,4 @@
+--game: Ninja Goemon and Immortal Jewels
+
+addappid(701580)
+addappid(701581,0,"34e1573dff10b0842487b99c71552978fe450ba2f084acb90816757b19325d10")
