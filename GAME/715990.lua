@@ -1,0 +1,5 @@
+--game: Maybot Run
+
+addappid(715990)
+addappid(715991,0,"4122ba6a80e6b87c38a07467c21d68f150242080bedf027fd529abe806f0479e")
+addappid(715994,0,"eae4ebfdadab5761a42349dc2f9ed2a1e27ba7baf7fc5a8ff6c0b5c9cdb4f9ee")
