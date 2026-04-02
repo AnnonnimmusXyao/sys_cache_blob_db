@@ -1,0 +1,15 @@
+--game: Gamedec - Definitive Edition
+
+addappid(228987)
+addappid(917720)
+addappid(917721,0,"5cc9c2341bbd1e63ea4e220af63ab917804a76be1bb20834b8fb9c058472d1d3")
+addappid(917722,0,"81dea3efaf405bc683c686eb9e04c9b203fa3e8063c6c80b86190470ae583503")
+addappid(917723,0,"aaf358fc0eb617f648087f7461fea193771c56115cb95b8b3128ed6acb7550e5")
+addappid(1729970)
+addappid(1730040)
+addappid(1748810)
+addappid(1912680)
+addappid(1912690)
+addappid(2157020)
+addappid(2157021)
+addappid(2157024)
