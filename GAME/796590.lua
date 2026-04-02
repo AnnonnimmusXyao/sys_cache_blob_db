@@ -1,0 +1,4 @@
+--game: The Arab Republic of Taghia
+
+addappid(796590)
+addappid(796591,0,"7af64e7570220fc53a3357e8d2cd26e3b06b2470428d2680670571cac67762fa")
