@@ -1,0 +1,4 @@
+--game: Destiny of a Wizard 2:  Beyond the Vale
+
+addappid(864310)
+addappid(864311,0,"46fa6193197a246e4b71bd08760c7bcab4770438640b574cb6e5a5a7e2c009df")
