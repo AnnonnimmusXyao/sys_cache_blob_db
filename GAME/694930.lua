@@ -1,0 +1,4 @@
+--game: Lost God
+
+addappid(694930)
+addappid(694931,0,"d7af51d3679237a34cf09ce709514a5dc12660549068784731fc7b0a25cef827")
