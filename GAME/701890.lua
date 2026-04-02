@@ -1,0 +1,4 @@
+--game: Starzine
+
+addappid(701890)
+addappid(701891,0,"6428fcba60dd2d6ee22c7442e1ddaaa9704cef11a6dc7206e0a11cc5ccb474c5")
