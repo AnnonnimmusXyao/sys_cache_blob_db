@@ -1,0 +1,4 @@
+--game: My Light In The Dark
+
+addappid(1131540)
+addappid(1131541,0,"5ac0a9666e6ad57ee9881dfc960167c05cc408bdd9405175a7162eec97e4132b")
