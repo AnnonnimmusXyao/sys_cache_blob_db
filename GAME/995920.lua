@@ -1,0 +1,4 @@
+--game: Myths of the World: Black Rose Collector's Edition
+
+addappid(995920)
+addappid(995921,0,"a5de28186d2c6b713afe7f6eaae7a1cb4a8adf8b9fc461f17da0071159a68870")
