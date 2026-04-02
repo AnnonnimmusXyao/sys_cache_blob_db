@@ -1,0 +1,4 @@
+--game: Space Force
+
+addappid(864010)
+addappid(864011,0,"111a981f738150fab67f1c21ee3caa80d69d0c67cf302eaebbfac48f03e0a61a")
