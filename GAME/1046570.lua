@@ -1,0 +1,4 @@
+--game: Cardlings
+
+addappid(1046570)
+addappid(1046571,0,"5e15c2554f329b11ac5380200f011e9edc02cd5e3940499be264cae51f995ea4")
