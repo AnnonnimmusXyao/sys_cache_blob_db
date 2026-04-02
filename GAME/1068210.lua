@@ -1,0 +1,4 @@
+--game: The Maze VR
+
+addappid(1068210)
+addappid(1068211,0,"60283b72bc0d7a7ae2f296cb7245ada1080a43c73e5d2935d48b988e400d01fd")
