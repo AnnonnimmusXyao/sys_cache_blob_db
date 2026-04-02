@@ -1,0 +1,4 @@
+--game: Fantom Feast
+
+addappid(962280)
+addappid(962281,0,"5596892c049f4016e973d591887b4f2fc120fa632106cd2e5743813b521db97e")
