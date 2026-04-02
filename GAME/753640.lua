@@ -1,0 +1,5 @@
+--game: Outer Wilds
+
+addappid(753640)
+addappid(753641,0,"57452658900ae11ac7c0e91c17d64353fa62936759ca202f4ecbbc9f29cf4b60")
+addappid(1622100)
