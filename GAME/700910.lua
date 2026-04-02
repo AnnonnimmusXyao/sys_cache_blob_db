@@ -1,0 +1,4 @@
+--game: Royal Agents: Sweet Zombie
+
+addappid(700910)
+addappid(700911,0,"4bcf8cc837b630cac43700a40a94781adc84604f8f58302f6cae6a0e7180b7c5")
