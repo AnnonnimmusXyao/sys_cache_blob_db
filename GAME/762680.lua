@@ -1,0 +1,4 @@
+--game: Double Turn
+
+addappid(762680)
+addappid(762681,0,"322bebf675e1ec98998c02c91a890e108e1346cf0bc24b3ec505085f1447c035")
