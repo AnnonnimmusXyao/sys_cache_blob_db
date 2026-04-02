@@ -1,0 +1,4 @@
+--game: Feud
+
+addappid(863400)
+addappid(863402,0,"e323d76d2a4f90da6a574fa410ade700a27b29ce44786603c4959c974091946a")
