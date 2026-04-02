@@ -1,0 +1,4 @@
+--game: 彼得猪冒险 | Piggy Prter Adventure | ABENTEUER von Peter, dem Schweinchen
+
+addappid(1085090)
+addappid(1085092,0,"2601b5723b9889b5de045ffbc3b8c901b85c57cde5e328bf5afbac63636449fe")
