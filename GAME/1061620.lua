@@ -1,0 +1,4 @@
+--game: Galaxy in Peril
+
+addappid(1061620)
+addappid(1061621,0,"3f3ec393dfcb8f145bb94acd069ddb48cc5aaba6ff7c7d8db192cf626faf2569")
