@@ -1,0 +1,5 @@
+--game: Real Scary
+
+addappid(229012)
+addappid(1072860)
+addappid(1072861,0,"c76c8d8484ba33912ff045f4b46aaed2359911acead6ef5666bb71cffaa87646")
