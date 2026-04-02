@@ -1,0 +1,4 @@
+--game: Super Mega Space Blaster Special Turbo
+
+addappid(748330)
+addappid(748332,0,"182f9a82c81af70af2e83bb0e37ae6fec79f89156663d691bea0aaa092e11a9b")
