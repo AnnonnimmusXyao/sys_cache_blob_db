@@ -1,0 +1,4 @@
+--game: Hexa
+
+addappid(981620)
+addappid(981621,0,"e915f9de51b15d1290b1c2dcebbe270f3044e7e650cb41d3dff18e0147f1cb84")
