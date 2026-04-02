@@ -1,0 +1,4 @@
+--game: Retro Wing Prime
+
+addappid(974600)
+addappid(974602,0,"f526057b875002a8edc8b4b337f43ba6c0b9355e06fdd139afabd0561899dbdb")
