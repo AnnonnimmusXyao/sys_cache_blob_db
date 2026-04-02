@@ -1,0 +1,4 @@
+--game: SPECKLE: Chill Puzzle Game
+
+addappid(873160)
+addappid(873161,0,"8922a26081b69aed972a7a656bed37674b8ca40898bc4afde1587d3b45bf5b50")
