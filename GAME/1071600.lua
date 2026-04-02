@@ -1,0 +1,4 @@
+--game: Jetlad
+
+addappid(1071600)
+addappid(1071601,0,"ffb35d4bdbee0d17bfb67cf0a2cd82ea70f9fef672d04d7330d33f00810a63c7")
