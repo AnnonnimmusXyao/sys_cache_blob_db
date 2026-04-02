@@ -1,0 +1,5 @@
+--game: Terrorarium
+
+addappid(1003450)
+addappid(1003455,0,"379e164413e538c3ab70ed8de594eb2aff46742057f7f88ae1de5a0ccf12051c")
+addappid(2244720)
