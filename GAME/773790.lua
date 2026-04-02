@@ -1,0 +1,5 @@
+--game: Ostriv
+
+addappid(773790)
+addappid(773791,0,"2242383a779d80c162f0433017a5bd4cf1126742e28c7ad87fa2f34b9388db57")
+addappid(2365430)
