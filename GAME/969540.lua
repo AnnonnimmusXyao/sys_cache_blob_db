@@ -1,0 +1,4 @@
+--game: Pattern
+
+addappid(969540)
+addappid(969541,0,"7387258346d44ffc1777e79c065ef48faa21def3d9a3f897acedced5e08da292")
