@@ -1,0 +1,5 @@
+--game: VoxelSuite
+
+addappid(1125980)
+addappid(1125981,0,"fb0b26bc198151bf0d3e48e55bce9bd9287e7e56dda2327ede2e34b7fc3f662c")
+addappid(1530940)
