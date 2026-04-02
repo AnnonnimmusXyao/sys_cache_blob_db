@@ -1,0 +1,5 @@
+--game: Cubiques
+
+addappid(788760)
+addappid(788761,0,"7c8d8db5edd80d248377d27480df65b27d27384b591e6d809df938a1dbddeb6c")
+addappid(788763,0,"fb9aa31a1d800b142bb141ccb1607afd6dd6b09baa013ec9e94965cc88a3512d")
