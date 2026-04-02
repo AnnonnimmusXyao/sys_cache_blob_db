@@ -1,0 +1,4 @@
+--game: Gull Kebap VR
+
+addappid(867750)
+addappid(867752,0,"8c1a3ea318619f7c2c1698c802772334f0d2e182f8871e1f6195fd9fd57869bc")
