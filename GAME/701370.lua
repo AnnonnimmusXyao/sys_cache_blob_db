@@ -1,0 +1,4 @@
+--game: Pop Pop Boom Boom VR
+
+addappid(701370)
+addappid(701371,0,"214d467b44d29a641037f1cf1bab95549676c8d160a42657e86870a4ebb0b40b")
