@@ -1,0 +1,4 @@
+--game: Castle of the Underdogs : Episode 1
+
+addappid(847780)
+addappid(847782,0,"9ce2cf68126fe0c10c5a3b39b64aa7eb1ba8b0ed8c6923147026af15db996178")
