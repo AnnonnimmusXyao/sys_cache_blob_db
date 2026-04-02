@@ -1,0 +1,4 @@
+--game: Symphonic Mayhem
+
+addappid(954210)
+addappid(954211,0,"7d4069f542155b377d06630187e387a3db14a2ffda22d7e44f94ed319ec8475d")
