@@ -1,0 +1,4 @@
+--game: Glory & Honor
+
+addappid(736480)
+addappid(736481,0,"18eef69824b25d59ffca60c113a1da495004ca68fb6f832798b9b7868c5f4445")
