@@ -1,0 +1,4 @@
+--game: One Hand Clapping
+
+addappid(893720)
+addappid(893721,0,"f447239b909809ebe6119d4de31f2a7be07a8faa6f714f2738c67ea5733d516b")
