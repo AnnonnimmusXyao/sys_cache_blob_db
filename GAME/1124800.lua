@@ -1,0 +1,4 @@
+--game: Aura Shift
+
+addappid(1124800)
+addappid(1124801,0,"ad6d27d6c7b4de8167fce1058dde9b54360b71c8543364e400f0f3eb0f29c8a8")
