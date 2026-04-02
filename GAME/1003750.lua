@@ -1,0 +1,4 @@
+--game: 她2 : 我还想再见到你   Her2 : I Want To See You Again
+
+addappid(1003750)
+addappid(1003751,0,"0421db61b77345ada6944b15da5a6fb9e1325abc4fe0fec5724b22f0a9d43aea")
