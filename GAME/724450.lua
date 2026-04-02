@@ -1,0 +1,4 @@
+--game: Call of Nightmare
+
+addappid(724450)
+addappid(724451,0,"352b6b935fb9a18c12be7ab91fe9c1883bae44b47afc63cff46b05371ad115db")
