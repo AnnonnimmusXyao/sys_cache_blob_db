@@ -1,0 +1,4 @@
+--game: Maestro: Dark Talent Collector's Edition
+
+addappid(995930)
+addappid(995931,0,"1216ba334243c85ea0a8c3412b01d0463fced9c5e5476dbeedd3077fb6144daf")
