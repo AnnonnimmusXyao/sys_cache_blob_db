@@ -1,0 +1,4 @@
+--game: The Beast of Gevaudan
+
+addappid(1106740)
+addappid(1106741,0,"ea7ff3f154310641e3c0546ee53657dbd94e64c2a4719691179356d796405e51")
