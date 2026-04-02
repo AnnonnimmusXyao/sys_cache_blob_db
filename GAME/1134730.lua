@@ -1,0 +1,4 @@
+--game: Wetpants
+
+addappid(1134730)
+addappid(1134731,0,"fd9a47715eb9f5c9acaece8c519766ab673c4b92ad00d3bb0df8342670258476")
