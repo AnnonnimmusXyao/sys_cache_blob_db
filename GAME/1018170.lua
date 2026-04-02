@@ -1,0 +1,5 @@
+--game: 光之迷城 / Dawn of the Lost Castle
+
+addappid(1018170)
+addappid(1018171,0,"183bf11ba5e375dac9c1bae335954a11b95cdc006ec78a2ffcb825494c30abd4")
+addappid(1018172,0,"5e76268239585f333180fd5d6d47bf315b2f44dac772bff60ac2642954096499")
