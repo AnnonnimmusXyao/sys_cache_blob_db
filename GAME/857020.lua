@@ -1,0 +1,4 @@
+--game: Putinoids VS Navalnyats - Путиноиды Против Навальнят
+
+addappid(857020)
+addappid(857021,0,"2372fcb5efd80b8f885681dadf250bfc1e8f6c21d780a4388cda504c55db1a08")
