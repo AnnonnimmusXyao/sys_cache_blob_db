@@ -1,0 +1,4 @@
+--game: Nice Shot! The Gun Golfing Game
+
+addappid(951740)
+addappid(951741,0,"ba9708235a95af2ea3db01c6b9d5e061e683ff2f661efb89ecf29c13a7026f32")
