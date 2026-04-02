@@ -1,0 +1,4 @@
+--game: VRAdventure
+
+addappid(1057730)
+addappid(1057731,0,"28ba8cbde268ff6cdbb479658688cc5147e49436455ed076d012a25ca6e30162")
