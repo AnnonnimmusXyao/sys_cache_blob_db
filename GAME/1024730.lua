@@ -1,0 +1,4 @@
+--game: Murder Machine Mini
+
+addappid(1024730)
+addappid(1024731,0,"5fe5cddd15b96cb447f7049af687a86f8bce22551bc891ce8b52d272887632c1")
