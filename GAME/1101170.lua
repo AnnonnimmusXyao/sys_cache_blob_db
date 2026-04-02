@@ -1,0 +1,4 @@
+--game: Mage Mania
+
+addappid(1101170)
+addappid(1101171,0,"df8fbc9039e87733adbaad3770ca0f86033f32d8837703f0f217299df34da6ed")
