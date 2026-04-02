@@ -1,0 +1,4 @@
+--game: Jar Sam
+
+addappid(921850)
+addappid(921851,0,"6141fd853455f082708452e711e482c9bd43d2f1c03795f8da69f81832408bbc")
