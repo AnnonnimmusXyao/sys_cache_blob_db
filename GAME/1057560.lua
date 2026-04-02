@@ -1,0 +1,4 @@
+--game: Rebound Dodgeball Evolved
+
+addappid(1057560)
+addappid(1057561,0,"f1e8e130d001188bfc1b837a0eae70afceb2977949db9ef43c7ddef6099cf3b5")
