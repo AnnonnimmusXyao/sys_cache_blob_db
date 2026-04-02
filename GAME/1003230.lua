@@ -1,0 +1,4 @@
+--game: AIRA VR
+
+addappid(1003230)
+addappid(1003231,0,"eb4ce29311d710dae71b163d5e497a3ca6a459001795e7bc694ed8b549f91a50")
