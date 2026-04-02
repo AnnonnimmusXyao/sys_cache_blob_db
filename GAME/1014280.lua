@@ -1,0 +1,4 @@
+--game: The Devil's Calculator
+
+addappid(1014280)
+addappid(1014282,0,"7d482b5a94599ab9dc8b934712a80d1f7b72c8000399fa5f28eaf8dcc2eba787")
