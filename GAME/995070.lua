@@ -1,0 +1,4 @@
+--game: Rise Eterna
+
+addappid(995070)
+addappid(995071,0,"a615bf6918b96ed2006cc29d122ffbe8450448e5754dc1fbd44345579b51c871")
