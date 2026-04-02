@@ -1,0 +1,4 @@
+--game: John, The Zombie
+
+addappid(741500)
+addappid(741501,0,"498bc9aef49022edf28109062043d6190a2d0530caba6702ce35d2ef914825d1")
