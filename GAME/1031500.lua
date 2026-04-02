@@ -1,0 +1,7 @@
+--game: SUPER ROBOT WARS V
+
+addappid(228987)
+addappid(1031500)
+addappid(1031501,0,"ac603b728975f79527735299520f16b04461535deb82e933056e930bc793d413")
+addappid(1126720)
+addappid(1128560)
