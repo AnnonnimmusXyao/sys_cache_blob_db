@@ -1,0 +1,5 @@
+--game: KOPICS
+
+addappid(904300)
+addappid(904301,0,"c49e2939d80f9a51d8e083b5318ae63573977c4a692f5b82221ac223d91d368d")
+addappid(964250)
