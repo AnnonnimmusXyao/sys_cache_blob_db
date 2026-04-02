@@ -1,0 +1,4 @@
+--game: Ancient Battle: Alexander
+
+addappid(1025520)
+addappid(1025521,0,"a737aa9974ee42bf17adb56d3945d4b35c8c5e7dd792a43fc10cd4852424bd11")
