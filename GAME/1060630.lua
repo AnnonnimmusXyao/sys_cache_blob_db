@@ -1,0 +1,4 @@
+--game: ぶんまわしヒーロー / Full Swing Hero
+
+addappid(1060630)
+addappid(1060631,0,"e24978c77b4fd365cc817389a7c769147ad4c897ea4354e76f52555cc648c563")
