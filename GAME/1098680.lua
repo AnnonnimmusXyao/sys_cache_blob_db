@@ -1,0 +1,4 @@
+--game: 世界尽头的蔷薇花园
+
+addappid(1098680)
+addappid(1098681,0,"e2838ee1b4d649807672ffdd5e40ebe24a5f263b4a3eb90414f5dd904d9c6e9d")
