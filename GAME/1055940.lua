@@ -1,0 +1,4 @@
+--game: Sentenced
+
+addappid(1055940)
+addappid(1055941,0,"6f011c2fa1fb6416644f733bfc9c703249e7065a30a274f074dc3435d5508a4c")
