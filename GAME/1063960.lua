@@ -1,0 +1,4 @@
+--game: Ritual: Spellcasting RPG
+
+addappid(1063960)
+addappid(1063961,0,"a831bbcee91f3287ca8fda74b9d0f020dd24a5be4d5593a572d1aca8587034c9")
