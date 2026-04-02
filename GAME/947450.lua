@@ -1,0 +1,4 @@
+--game: Super BOO Quest
+
+addappid(947450)
+addappid(947451,0,"ecc8bebfa178d5315a701f3860cb219e2fc658252a8b2b8e57f6ca907c3a41c9")
