@@ -1,0 +1,4 @@
+--game: Alchemist's Castle
+
+addappid(726340)
+addappid(726341,0,"9c1722f14b785699720cf8528653e047ee0677b7202c1318eb2adcecb8f3bb12")
