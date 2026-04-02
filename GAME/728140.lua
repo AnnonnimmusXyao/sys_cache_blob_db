@@ -1,0 +1,4 @@
+--game: Loco Bonobo
+
+addappid(728140)
+addappid(728141,0,"cfa0d282d9e0dafd2cb562f10c723d5565ab82ee2aba87a972066047d6ddab90")
