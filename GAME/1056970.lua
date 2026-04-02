@@ -1,0 +1,7 @@
+--game: Wolfenstein: Cyberpilot
+
+addappid(1056970)
+addappid(228987)
+addappid(1056971,0,"23ebad0269476acefdfbb69996ef999375ba1e81199dc69e2e9f11f8ec35bd69")
+addappid(1056972,0,"34c601ab67d6fc0363ee3feb57f4fc2d69ddbd9299ea773d2175e7620c11e96f")
+addappid(1056973,0,"c89043dbd84c02fa1ee59cc0bf97d2a6f8947dec194b08b2b2ce0154d408d8a5")
