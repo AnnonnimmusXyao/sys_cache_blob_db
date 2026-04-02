@@ -1,0 +1,6 @@
+--game: Red Bow
+
+addappid(228981)
+addappid(228987)
+addappid(710600)
+addappid(710601,0,"081517b2c399e08d18ff2cf9392b8b37a45293c94d654872afabeebd7ea44134")
