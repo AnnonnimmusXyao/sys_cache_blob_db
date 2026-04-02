@@ -1,0 +1,4 @@
+--game: Franky Lettuce
+
+addappid(869650)
+addappid(869651,0,"12ee63c988ec7b2139844ac240fb481ea5d713a7c9a942b00f1dc4ccbd7c6c9c")
