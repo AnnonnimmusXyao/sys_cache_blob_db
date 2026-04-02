@@ -1,0 +1,4 @@
+--game: De Mambo
+
+addappid(717540)
+addappid(717541,0,"453c49dd7a6e3feb47d33f36144d0124a2adc3213dc15af0925b7b484d8236a8")
