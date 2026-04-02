@@ -1,0 +1,4 @@
+--game: Zombie Desperation
+
+addappid(818570)
+addappid(818571,0,"77aea76316a3480a185b45d8796ccee5af9464c85923dbcee6d2226adfc1c09d")
