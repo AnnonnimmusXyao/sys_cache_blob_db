@@ -1,0 +1,4 @@
+--game: Beat Blocks VR
+
+addappid(966590)
+addappid(966591,0,"0a1907663faba78b48d3f0cc57db6b9c9fb4119826790a6f05deda0e007b4cb1")
