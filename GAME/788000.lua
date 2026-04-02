@@ -1,0 +1,4 @@
+--game: RogueVerse
+
+addappid(788000)
+addappid(788001,0,"5f6dca6b2da54a238e615146208b4109022dff52efb00aa1c77dfcd3cfd73e9f")
