@@ -1,0 +1,5 @@
+--game: Panzer War : Definitive Edition
+
+addappid(798840)
+addappid(798841,0,"b76b149da694cf2ce80690e30879f3eeb86839127d379a035a7bfeac8fc3bc87")
+addappid(1019010)
