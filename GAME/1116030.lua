@@ -1,0 +1,4 @@
+--game: Oceanum Mortis
+
+addappid(1116030)
+addappid(1116031,0,"f601ca18680e0ef609b2013f4f345b16ca1f6aad27037561b4e3571542b2e43c")
