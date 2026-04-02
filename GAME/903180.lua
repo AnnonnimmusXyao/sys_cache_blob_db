@@ -1,0 +1,4 @@
+--game: Privateers
+
+addappid(903180)
+addappid(903181,0,"37bc9ec936173c54a8073f9d2db147b845cbaad1dbf1a417a497c3f637ba0c5d")
