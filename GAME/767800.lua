@@ -1,0 +1,4 @@
+--game: Struggle For Talyria
+
+addappid(767800)
+addappid(767801,0,"98cf2427a3d18b7d6c2a042e08bb4bb357adf1c44402657a73270425b442985c")
