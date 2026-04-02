@@ -1,0 +1,4 @@
+--game: FAUCET VR
+
+addappid(810220)
+addappid(810221,0,"4284aa45ea2cf4906afb77e12daeee90544d4101b3169bb9dde05b09ae4fc6ec")
