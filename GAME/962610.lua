@@ -1,0 +1,4 @@
+--game: IScream
+
+addappid(962610)
+addappid(962611,0,"e631e85729b4e5c8b3fd66987c2d0aeb1863c23dd6076a71241f5a126f41365c")
