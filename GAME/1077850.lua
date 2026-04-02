@@ -1,0 +1,4 @@
+--game: Grave of the Petrified
+
+addappid(1077850)
+addappid(1077851,0,"0b1950e5acdab5d1675e6fcf66910000bb231a76ae069f133878ad3385ad0df5")
