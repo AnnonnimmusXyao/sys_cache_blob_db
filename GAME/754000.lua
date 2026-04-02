@@ -1,0 +1,4 @@
+--game: Re-bot VR
+
+addappid(754000)
+addappid(754001,0,"72068bf4af5ea6a6bddf4b07a3af0ce7185d1b3e232b0a2df9b20010b96b54fd")
