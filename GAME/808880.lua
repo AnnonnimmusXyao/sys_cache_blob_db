@@ -1,0 +1,4 @@
+--game: MiniTracks
+
+addappid(808880)
+addappid(808881,0,"712b9e035ec0ec617366da708aa853838b799fe43cda33cdc797f1c501bea0ee")
