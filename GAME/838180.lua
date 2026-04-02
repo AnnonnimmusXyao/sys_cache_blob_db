@@ -1,0 +1,4 @@
+--game: MechCorp
+
+addappid(838180)
+addappid(838181,0,"6c0c59ccea4ab3a89a22b9bc8d10e1f592a24aca5562468bd363451dd032ae32")
