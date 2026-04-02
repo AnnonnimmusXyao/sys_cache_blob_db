@@ -1,0 +1,4 @@
+--game: 神谋
+
+addappid(1093900)
+addappid(1093901,0,"f46cb786d898dd74941e944d9ef0cd25e4f430536ca2e0354e1b8cad3a793936")
