@@ -1,0 +1,4 @@
+--game: Pixelmash
+
+addappid(958210)
+addappid(958211,0,"8f0711f9419e2c44d92f768ac91ce4dcffca34ce30f39fb070ebbdcf27fdd002")
