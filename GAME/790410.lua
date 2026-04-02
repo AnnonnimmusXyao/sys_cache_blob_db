@@ -1,0 +1,4 @@
+--game: Futanari Quest
+
+addappid(790410)
+addappid(790412,0,"a44beef7da2241a385cc9b63964b0a672750f2c6b304e7979dfcf8e31d9d73c6")
