@@ -1,0 +1,9 @@
+--game: 東方苦粗芸物語 Touhou KSG Story
+
+addappid(228985)
+addappid(228987)
+addappid(229006)
+addappid(992720)
+addappid(992721,0,"bc893dddd3ed97f76ab6e7e262bb4ce001c33821000159e95084a168159b92f6")
+addappid(994840)
+addappid(1012760)
