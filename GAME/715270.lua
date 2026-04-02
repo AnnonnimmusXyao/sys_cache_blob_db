@@ -1,0 +1,5 @@
+--game: Fire and Fury: English Civil War
+
+addappid(715270)
+addappid(715271,0,"195cd873528b9857e4e17f2c17b448beddba6323f94aad7e5a7f321363aa17f2")
+addappid(715272,0,"3df97ae92a2c562f69947fbeceb02e8293b2ef3c2b4fcb7365ad4281c33005dd")
