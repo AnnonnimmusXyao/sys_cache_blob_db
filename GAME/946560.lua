@@ -1,0 +1,4 @@
+--game: Don't Forget Our Esports Dream
+
+addappid(946560)
+addappid(946561,0,"67d6b721e75ece2337682b4a3b31baf3a94f276454dd542e558806ab12ca9957")
