@@ -1,0 +1,4 @@
+--game: Dogma
+
+addappid(729970)
+addappid(729971,0,"b25aa9eed16e90201bcd0c2bb0646390982e0f94da7a2f24a7ad7cd67577753e")
