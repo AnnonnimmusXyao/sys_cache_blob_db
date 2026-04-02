@@ -1,0 +1,4 @@
+--game: Dinosaur Hunter VR
+
+addappid(911280)
+addappid(911281,0,"75d9bb691d291ee1b584b628813713e55831f3b548921ad2d5776024112df05f")
