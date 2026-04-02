@@ -1,0 +1,4 @@
+--game: The Ploshers
+
+addappid(1036000)
+addappid(1036001,0,"8a75d1b13a926e96f7a01c03b22c09e9193e3b118433b786d9ff69e195904e7e")
