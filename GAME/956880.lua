@@ -1,0 +1,4 @@
+--game: Géants disparus VR
+
+addappid(956880)
+addappid(956881,0,"c92848e0eb1a1a3aa77a6a877f0ae05901b96cbfe63e03c6a9fcf0ddfdac4215")
