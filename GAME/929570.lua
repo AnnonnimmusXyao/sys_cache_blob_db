@@ -1,0 +1,4 @@
+--game: A Familiar Fairytale Dyslexic Text Based Adventure
+
+addappid(929570)
+addappid(929571,0,"a9a057ec8fbfe73e2d81fbf157c45930a41909dd598897aef7423280e8ffc8d6")
