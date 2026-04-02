@@ -1,0 +1,4 @@
+--game: Sockman
+
+addappid(745660)
+addappid(745661,0,"eb1845393b6e56b1c75835362ba6454edfd391d93e2f5ee7c97b81bacc24a46e")
