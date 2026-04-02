@@ -1,0 +1,5 @@
+--game: Infernales
+
+addappid(705060)
+addappid(228987)
+addappid(705061,0,"1c5434389a069580e0ead37d5d63074f6d4fc3fd4bf1b69b3f8d2f39096ea4e6")
