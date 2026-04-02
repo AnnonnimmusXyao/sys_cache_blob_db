@@ -1,0 +1,4 @@
+--game: Amaranthine Voyage: The Obsidian Book Collector's Edition
+
+addappid(887940)
+addappid(887941,0,"0c3923700e075b33c295395f5db7107cf43b7f4a02cda057426b5b4457f61b20")
