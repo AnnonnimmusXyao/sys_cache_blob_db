@@ -1,0 +1,7 @@
+--game: Midnight Ghost Hunt
+
+addappid(915810)
+addappid(915811,0,"d7b9540b9686b8d615fa43442db4e31e903d7770c28306479c875f17e92ed930")
+addappid(1938860)
+addappid(1938880)
+addappid(1945960)
