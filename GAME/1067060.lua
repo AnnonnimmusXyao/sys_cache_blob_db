@@ -1,0 +1,4 @@
+--game: Jacob's Fantastic SeXXXual Voyage
+
+addappid(1067060)
+addappid(1067061,0,"b8a96e2938f6d5f9fd81d08b2057efbe4dd97f7de966b7decf61e5300ac2761f")
