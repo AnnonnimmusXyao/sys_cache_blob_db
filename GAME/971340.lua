@@ -1,0 +1,4 @@
+--game: Orc Towers VR
+
+addappid(971340)
+addappid(971341,0,"ecdb89a363f572ea8716c1267708e9a2414cc3dc1027312b73e2058e49bf689e")
