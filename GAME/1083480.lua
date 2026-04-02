@@ -1,0 +1,4 @@
+--game: Armadusa
+
+addappid(1083480)
+addappid(1083481,0,"2ac13f252a63f3b866278ce179afcf833ae40281c849a0fe3f100a837ba204ac")
