@@ -1,0 +1,4 @@
+--game: 恐龙大冒险
+
+addappid(1019180)
+addappid(1019182,0,"982521baba69d64b8c1699e32380f9775e6ae3a804adda8ae66af149e149ac91")
