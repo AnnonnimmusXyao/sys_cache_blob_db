@@ -1,0 +1,4 @@
+--game: Subscribe & Punch!
+
+addappid(773150)
+addappid(773151,0,"2cdea1631247248e4215b492e2b8b385d02b9ce3b4c2ec94840d34c9babd625c")
