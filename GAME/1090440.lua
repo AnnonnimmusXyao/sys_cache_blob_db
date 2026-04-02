@@ -1,0 +1,4 @@
+--game: Kelipot / 形骸骑士
+
+addappid(1090440)
+addappid(1090441,0,"22948559f6761c0cd917bae549bd5ad6e65d72e5ebe4fed35547242c1840446e")
