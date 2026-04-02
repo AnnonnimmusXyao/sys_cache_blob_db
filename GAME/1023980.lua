@@ -1,0 +1,5 @@
+--game: V.L.A.D.i.K
+
+addappid(228987)
+addappid(1023980)
+addappid(1023981,0,"aa6b71fc5824f192ecd792ca941622453d7ea4efb36c819c571b415d0d7cdec9")
