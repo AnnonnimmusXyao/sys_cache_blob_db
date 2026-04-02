@@ -1,0 +1,4 @@
+--game: The Lattice Grimoire
+
+addappid(1099660)
+addappid(1099661,0,"0bab7cd3cb770c1affbf287760b48e5ac302acd9c5d73f605643e29e0d116fce")
