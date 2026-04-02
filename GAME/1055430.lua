@@ -1,0 +1,4 @@
+--game: Swords and Sandals Classic Collection
+
+addappid(1055430)
+addappid(1055432,0,"a76e19417ad344b132f127e1e30afbe5acb7058130665602d4cc586bfc7c122c")
