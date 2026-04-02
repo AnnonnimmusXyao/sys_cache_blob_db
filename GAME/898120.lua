@@ -1,0 +1,4 @@
+--game: Temple of the Lost
+
+addappid(898120)
+addappid(898121,0,"2f9def2d955a8f4341aab1c126419816d0788a3e036baa22d7af32c06c971121")
