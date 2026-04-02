@@ -1,0 +1,4 @@
+--game: Seed of Life
+
+addappid(1030060)
+addappid(1030061,0,"7ccb5b5d98742b47bfd2f93a3eb4240e86214e29aebf653f2d0ef3e84c12e6df")
