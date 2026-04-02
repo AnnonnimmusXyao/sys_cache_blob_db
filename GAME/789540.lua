@@ -1,0 +1,4 @@
+--game: The Adventures of Nick & Willikins
+
+addappid(789540)
+addappid(789541,0,"3cf2f2f4f259e47a1696183375e8ec5f279b8545dc00ddb37cfe679a98d35b0c")
