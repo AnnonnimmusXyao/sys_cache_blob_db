@@ -1,0 +1,4 @@
+--game: Fant Kids 3D Matching Game
+
+addappid(964340)
+addappid(964341,0,"bc35320be4159ccb038ac79f04c53692582f56ac3c91d0be7342ad65003f5f7d")
