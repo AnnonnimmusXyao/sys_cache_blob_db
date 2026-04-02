@@ -1,0 +1,4 @@
+--game: Land of Puzzles: Battles
+
+addappid(931360)
+addappid(931361,0,"d04efb92ee8b9fd321e3369c50b973056e54b87e9339ecbd2419de461b379e37")
