@@ -1,0 +1,4 @@
+--game: House of Evil 2
+
+addappid(1051830)
+addappid(1051831,0,"f71a7d55e3989ae10181df134d26607a1f3e2cc28186c3a3fe5e0a807a4a7c67")
