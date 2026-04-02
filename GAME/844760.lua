@@ -1,0 +1,4 @@
+--game: The Armclaw Experiment
+
+addappid(844760)
+addappid(844761,0,"85d448a6a39510a1565531ee5112baa45ef3ddb54f552c0fe504e381f79602aa")
