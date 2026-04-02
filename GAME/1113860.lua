@@ -1,0 +1,4 @@
+--game: Cyborgs Attack
+
+addappid(1113860)
+addappid(1113861,0,"4a6852be7b5abfca55b065ac9f30d9f64e4de9ef9f5016232204637d46be0e4a")
