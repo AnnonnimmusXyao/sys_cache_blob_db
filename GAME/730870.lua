@@ -1,0 +1,4 @@
+--game: Burger Shop 2
+
+addappid(730870)
+addappid(730871,0,"362331dcccafd165785f4945eb023572606a769880f846b1f20094cf99e8d01d")
