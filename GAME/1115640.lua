@@ -1,0 +1,4 @@
+--game: 英雄群侠传II
+
+addappid(1115640)
+addappid(1115641,0,"29aaedc793fa0d1ba802963623253ab9e50cce7575280f361a7ceab000885a57")
