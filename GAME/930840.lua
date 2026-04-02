@@ -1,0 +1,4 @@
+--game: 东方百问~TouHouAsked
+
+addappid(930840)
+addappid(930841,0,"1cffda154f38939a6c40c778c1a2b67104aa72407b65ffa6e176fe5762bc6e21")
