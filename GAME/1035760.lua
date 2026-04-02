@@ -1,0 +1,4 @@
+--game: Glimmer in Mirror
+
+addappid(1035760)
+addappid(1035761,0,"49f13494191a8c25893207584c85bd1cd79ef369d017c7c02591eb4e06cd9081")
