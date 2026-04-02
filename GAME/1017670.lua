@@ -1,0 +1,4 @@
+--game: New World Horizon
+
+addappid(1017670)
+addappid(1017671,0,"2c3ee0aa77fe52114608ea28a099228843846340cdafb7539bc5374dc7ddeb62")
