@@ -1,0 +1,4 @@
+--game: Stick to the end
+
+addappid(952970)
+addappid(952971,0,"ca7284ce1d4ebf80c785f32532f1ecd05bdbea48e6634110a34c5c1c99d7f887")
