@@ -1,0 +1,4 @@
+--game: Forgotten Fables: Wolves on the Westwind
+
+addappid(1047170)
+addappid(1047171,0,"a89a5818c57035abdbf89361d9f379db34040e798b31dc626936c77dceb864e0")
