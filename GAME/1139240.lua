@@ -1,0 +1,4 @@
+--game: HalloweenStory
+
+addappid(1139240)
+addappid(1139241,0,"32fd0ebc371ea392cde286db643d09129142f91e9bf6eb63daada3edb4cb7f0b")
