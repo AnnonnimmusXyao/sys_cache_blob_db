@@ -1,0 +1,6 @@
+--game: Outcast Tales: The First Journey
+
+addappid(882590)
+addappid(882591,0,"30c1a236232eb6ad1d9d7ca4b517b06fafeb0273d804107b5d8ac2b6879ed534")
+addappid(882592,0,"91d8f539ae25f64db1bc9a0f68ab4ca390995df901acafe5f94b9dc219bc6ce5")
+addappid(882593,0,"f0935d713a45c6f63f28b25ed9f4ecac0219d1d183dc83bb5e701b609c64bd3e")
