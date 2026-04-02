@@ -1,0 +1,4 @@
+--game: Demon's Rise - Lords of Chaos
+
+addappid(844420)
+addappid(844421,0,"83b3d5f507097a5bbd5deae765a466ceae0161034b89e7be855688884998c769")
