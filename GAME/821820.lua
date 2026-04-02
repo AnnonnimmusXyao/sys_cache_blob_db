@@ -1,0 +1,4 @@
+--game: Farmer's Fairy Tale
+
+addappid(821820)
+addappid(821821,0,"47e37b1ec93fd4898c224d2e12133732ebb00aacd00a99030bb409adf107a318")
