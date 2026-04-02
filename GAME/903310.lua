@@ -1,0 +1,4 @@
+--game: Soter
+
+addappid(903310)
+addappid(903311,0,"f2b1208cc8fbc05d46fffc0db1bdeacb7d262e7cdab80a32343f2335afcd3ea5")
