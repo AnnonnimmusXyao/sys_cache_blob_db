@@ -1,0 +1,4 @@
+--game: The Life of One Dog
+
+addappid(939390)
+addappid(939391,0,"2174da188646b87d2250ce2f806604d3a09fcca18aa73230bcdc78584af63ba0")
