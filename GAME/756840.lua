@@ -1,0 +1,4 @@
+--game: 摩尼遊戯TOKOYO
+
+addappid(756840)
+addappid(756844,0,"493e3aaead8f02c6ce4aa0fc7b1e1f92081355a9a2eefe52214a8334c1afd64e")
