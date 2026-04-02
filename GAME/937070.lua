@@ -1,0 +1,5 @@
+--game: A Killer's Sorrow
+
+addappid(937070)
+addappid(937071,0,"bd4e6d1348f2f14e404504dde125a0030ac15f149e0e8224401b497ba8ad13ef")
+addappid(937072,0,"ff91eab3472095df5129f8bdb324c60fe2d2232a1cdcf2f09b1c676132252b15")
