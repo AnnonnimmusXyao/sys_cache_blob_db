@@ -1,0 +1,4 @@
+--game: GoFetch
+
+addappid(911480)
+addappid(911481,0,"000b520b72d6ecc1b9047d8ce58e8e8bcdfa5a0a4ee44376a919f1cf14260043")
