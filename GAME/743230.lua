@@ -1,0 +1,4 @@
+--game: Baseball Mogul 2018
+
+addappid(743230)
+addappid(743231,0,"d7a3c6df1f09be272e4830e464a28373b16b0d46df74be9a69cd1849253c336a")
