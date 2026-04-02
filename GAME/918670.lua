@@ -1,0 +1,4 @@
+--game: Jewel Match Twilight Solitaire
+
+addappid(918670)
+addappid(918671,0,"7c53d7cac6803501904ab005f46dc5449cf7037c415b6c37f39e38b3c0662d5e")
