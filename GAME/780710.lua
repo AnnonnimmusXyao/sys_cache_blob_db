@@ -1,0 +1,4 @@
+--game: TURRET SYNDROME VR
+
+addappid(780710)
+addappid(780711,0,"acb91fe385f643219d4049fb497f568e7b0df0061f636d952bf6cb69ed4dc9bf")
