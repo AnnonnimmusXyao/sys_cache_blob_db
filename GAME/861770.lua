@@ -1,0 +1,4 @@
+--game: FrogStatue
+
+addappid(861770)
+addappid(861771,0,"c5b827b4de6a7f1764a2d7f79bc06e6441ca8ed28ddd5dc8fa1c94c4acb4590a")
