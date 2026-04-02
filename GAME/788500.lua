@@ -1,0 +1,4 @@
+--game: 7 Soccer: a sci-fi soccer tale
+
+addappid(788500)
+addappid(788501,0,"170762014e37fc627769e42d618b4195a1db46bc517102607d71a75e0698c240")
