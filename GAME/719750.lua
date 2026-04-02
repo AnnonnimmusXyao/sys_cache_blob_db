@@ -1,0 +1,5 @@
+--game: PUSS!
+
+addappid(719750)
+addappid(719751,0,"b6b196600f6ab32beea140248fe3b5ea19bab6802fd115b894352e2696b4347c")
+addappid(3374800)
