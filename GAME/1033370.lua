@@ -1,0 +1,4 @@
+--game: Fruit Crawler
+
+addappid(1033370)
+addappid(1033371,0,"5d66c5ba996cef615eaf2e4bc0aa16075d9e4a11d6d8d19c296aa94b64baf3ca")
