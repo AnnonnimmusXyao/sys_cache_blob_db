@@ -1,0 +1,4 @@
+--game: 明日探险家
+
+addappid(1131460)
+addappid(1131461,0,"425db5b95c02e19e0ca240d4e074f7c76bd67f97f45aedd73292780bb067d34e")
