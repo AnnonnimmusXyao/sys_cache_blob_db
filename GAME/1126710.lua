@@ -1,0 +1,4 @@
+--game: 魔法使いハナビィ Hanaby the Witch
+
+addappid(1126710)
+addappid(1126711,0,"42e2c79af26531a8ae144c630fa77e3f2ae9433f58e532b4b75eecbe6ebd4dda")
