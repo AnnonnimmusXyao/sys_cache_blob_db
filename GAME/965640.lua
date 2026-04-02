@@ -1,0 +1,7 @@
+--game: Horror Legends
+
+addappid(965640)
+addappid(965641,0,"4867521c694fb74ad502ead44435721160fbf73e2ebae8f8293277ce7c3dff09")
+addappid(1173210)
+addappid(1762980)
+addappid(2058160)
