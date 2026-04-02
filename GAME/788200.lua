@@ -1,0 +1,4 @@
+--game: The Little Slime
+
+addappid(788200)
+addappid(788201,0,"cfd088b6fca38387c0bdd069535daeaea73e406a2fce3080d3e9598ead4d61c5")
