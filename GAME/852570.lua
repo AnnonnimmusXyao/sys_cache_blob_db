@@ -1,0 +1,4 @@
+--game: A Tale of Pirates: a Dummy Mutiny
+
+addappid(852570)
+addappid(852571,0,"e58e8e41d91b98e709df28608fa3ea2b83a7a99baa7d709a66adc9b64564a78c")
