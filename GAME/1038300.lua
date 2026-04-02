@@ -1,0 +1,4 @@
+--game: New Super Lucky's Tale
+
+addappid(1038300)
+addappid(1038301,0,"f5d4eeb236ac66a76dd64496eea4454bab770ead1012b61340ebda93b53c0ee5")
