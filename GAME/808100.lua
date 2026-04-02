@@ -1,0 +1,5 @@
+--game: Galimulator
+
+addappid(808100)
+addappid(228983)
+addappid(808101,0,"8c1b2da383dc2b0b271ca7d8aa45736df37b6f874c8d72af3b4a1aacf558a087")
