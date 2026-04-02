@@ -1,0 +1,4 @@
+--game: SUSHIDO VS ZOMBIES
+
+addappid(750670)
+addappid(750671,0,"415be7e50dcbec8d826c23b2b3d207c589104b209389b2beccc95c4ab5826603")
