@@ -1,0 +1,4 @@
+--game: SpedV
+
+addappid(839200)
+addappid(839201,0,"81861d5643b0cb8b271e1a146efbf44e529b06d88ada0d4623084202e635a471")
