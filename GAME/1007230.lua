@@ -1,0 +1,4 @@
+--game: VRLab Academy Anatomy VR
+
+addappid(1007230)
+addappid(1007231,0,"657b73df99cb2b309b631d0c3781f85d12022113d1848ea56806adadfbd83acf")
