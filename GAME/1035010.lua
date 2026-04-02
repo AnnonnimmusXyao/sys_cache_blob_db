@@ -1,0 +1,4 @@
+--game: Mini Gal4Xy
+
+addappid(1035010)
+addappid(1035011,0,"3962e8021b65c0e4c13fde449512d4cc1f820f6bb6caccf809ed320292d099c6")
