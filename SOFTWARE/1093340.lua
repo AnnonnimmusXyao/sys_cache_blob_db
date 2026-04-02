@@ -1,0 +1,4 @@
+--game: Thailand VR Gallery
+
+addappid(1093340)
+addappid(1093341,0,"f9cc73412c93e8e0c5ff8360381d41a753c3fffff0711b414c3d9bba1d26adad")
