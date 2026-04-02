@@ -1,0 +1,4 @@
+--game: Fobia
+
+addappid(870450)
+addappid(870451,0,"d4a0cfccc32d7c0a5eeaed325c518ccac5200a720ea6431367e28ca2c86f6682")
