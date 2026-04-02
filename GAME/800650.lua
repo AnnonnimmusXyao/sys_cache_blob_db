@@ -1,0 +1,4 @@
+--game: The Last Operator
+
+addappid(800650)
+addappid(800651,0,"e7a3c18d59b68daaac743f796d5e87484a0755dff4790f129fb3034b628cf522")
