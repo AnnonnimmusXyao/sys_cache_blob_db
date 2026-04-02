@@ -1,0 +1,4 @@
+--game: Eroico
+
+addappid(947600)
+addappid(947601,0,"bd2f853418c6ed40e1d94fbdacf58e8e0a09c053156a90b02b0135286b767fcf")
