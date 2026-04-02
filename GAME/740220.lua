@@ -1,0 +1,4 @@
+--game: PeoplePackages
+
+addappid(740220)
+addappid(740221,0,"78698137dd9611f2e292f73c8abf8b4ac5e076bf9451dcf3529712b608068559")
