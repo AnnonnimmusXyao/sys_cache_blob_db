@@ -1,0 +1,4 @@
+--game: The Eerie Inn
+
+addappid(830710)
+addappid(830711,0,"67be32d5bdb73900655ac12e9d7783ddd4fee27e4dd3bf05b88ef3ba8e61dfa2")
