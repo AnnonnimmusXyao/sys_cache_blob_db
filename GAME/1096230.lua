@@ -1,0 +1,4 @@
+--game: Decker
+
+addappid(1096230)
+addappid(1096231,0,"3e6174d1708ddce83d151cafd2366ab7b96c7bc8425e21333639e12ecb97f509")
