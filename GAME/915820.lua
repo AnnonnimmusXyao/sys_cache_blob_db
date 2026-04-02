@@ -1,0 +1,4 @@
+--game: Amethlion
+
+addappid(915820)
+addappid(915822,0,"314698c4342802bb1edf286a2ae5d25e6956c12ee61b859b3f0d0a1b09d2da60")
