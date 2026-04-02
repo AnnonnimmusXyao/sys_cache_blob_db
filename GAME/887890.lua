@@ -1,0 +1,4 @@
+--game: Puzzles By Axis Hyper
+
+addappid(887890)
+addappid(887891,0,"3fda55d7a3ad3a16d1bdf815a0d68b0276180bbb02613514e69fdb422453306b")
