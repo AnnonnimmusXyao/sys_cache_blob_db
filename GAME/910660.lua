@@ -1,0 +1,4 @@
+--game: Shudder
+
+addappid(910660)
+addappid(910661,0,"f46a840422414c3df61aac44967c950873bb148d6acc0e97b7886da21c3915bf")
