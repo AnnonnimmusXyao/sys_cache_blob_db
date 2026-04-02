@@ -1,0 +1,4 @@
+--game: Touch the devil VR(おさわり魔王VR)
+
+addappid(812430)
+addappid(812431,0,"929892ef5f0f8bd4b44401de4a76870f0ca402983e368939e85cb08d508d55c3")
