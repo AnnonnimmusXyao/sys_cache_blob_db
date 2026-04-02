@@ -1,0 +1,4 @@
+--game: Lost in Spice
+
+addappid(854330)
+addappid(854331,0,"21e6a57b4657d1d5cdd0054a4074167e9417a7eedd70ff681bb5c05f867f0403")
