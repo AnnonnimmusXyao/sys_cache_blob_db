@@ -1,0 +1,4 @@
+--game: Stream Games
+
+addappid(872990)
+addappid(872991,0,"1726f82ccf119168e7f850d6ba7be64b5e7199f6963552ae183923d263b9b080")
