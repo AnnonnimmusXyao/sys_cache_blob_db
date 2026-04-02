@@ -1,0 +1,4 @@
+--game: Diamonds
+
+addappid(1100510)
+addappid(1100511,0,"0157bb2c690a84fc3a31c92ed92ee7871ecd92363f1b0a0896843268383fba8b")
