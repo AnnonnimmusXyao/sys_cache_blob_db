@@ -1,0 +1,4 @@
+--game: A Small Robot Story
+
+addappid(753440)
+addappid(753441,0,"d26c0d741a79b2f4a0f2ec850e758e3641d3683bbaef7f56f07c831f486f512e")
