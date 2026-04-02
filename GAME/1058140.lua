@@ -1,0 +1,5 @@
+--game: Yumeutsutsu Re:Master
+
+addappid(1058140)
+addappid(1058141,0,"30302f9cbc6ec2a45f51f126109581590c08f8ac5f42b2bafcc6eafbab6fc77f")
+addappid(1058144,0,"3d5ba1a5fbe2b56687f5ff62cd7e499cfe132d707a572e4ca934c136a88a4398")
