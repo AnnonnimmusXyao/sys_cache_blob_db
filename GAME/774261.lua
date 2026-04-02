@@ -1,0 +1,4 @@
+--game: My Little Bomb
+
+addappid(774261)
+addappid(774262,0,"3d2c7c99711e3b78096dea524f7a69a3c184890590ef0383f0e6cc4c3685487c")
