@@ -1,0 +1,4 @@
+--game: Whack A Hoe
+
+addappid(1128270)
+addappid(1128271,0,"119ee6b442fdc0715d2e6947ba6f748d25c6dbd42c4eff0c0a082f4feaf90962")
