@@ -1,0 +1,4 @@
+--game: JQ: Beautiful Japan
+
+addappid(918070)
+addappid(918071,0,"4ecf58d2ed08dfe5a9a0586dfaf8c66f08bf6f077e162af40990e4e4ada75404")
