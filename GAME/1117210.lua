@@ -1,0 +1,4 @@
+--game: 顶酱
+
+addappid(1117210)
+addappid(1117213,0,"835028fa6609e3e550d615342fd96fd807b1bd06eef1b3e78f6af314161c104e")
