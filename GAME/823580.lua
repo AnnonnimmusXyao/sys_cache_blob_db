@@ -1,0 +1,5 @@
+--game: Isoland 2 - Ashes of Time
+
+addappid(823580)
+addappid(823581,0,"123bbba019f3c77afb4d952e85370d34d8281aecf8cf155a6b05e48f041334e2")
+addappid(909390)
