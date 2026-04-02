@@ -1,0 +1,4 @@
+--game: Hellbreaker
+
+addappid(793620)
+addappid(793621,0,"7c42806885348e8c8e9429cd54e4cdcbb89639ef56e13961ce6c3f67e7168d05")
