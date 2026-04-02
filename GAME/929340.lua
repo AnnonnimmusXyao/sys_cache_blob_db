@@ -1,0 +1,4 @@
+--game: Spire of Sorcery: Prologue
+
+addappid(929340)
+addappid(929341,0,"4b3d87116f7b4b37cbcdb7c3263228f6e6869116b43cfd1402319e863bd40911")
