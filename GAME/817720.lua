@@ -1,0 +1,4 @@
+--game: Cricket Captain 2018
+
+addappid(817720)
+addappid(817721,0,"cd650f7f8613bf8570f3437e5af7b756c80190b18d2b594b62bd7dc621619505")
