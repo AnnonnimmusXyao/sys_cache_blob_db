@@ -1,0 +1,4 @@
+--game: Chocolate makes you happy 2
+
+addappid(764560)
+addappid(764561,0,"17436998f1cafa3eb906674a025fb46020c5a5f4d36bde963f69f08dff60cbee")
