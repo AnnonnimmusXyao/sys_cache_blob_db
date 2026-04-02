@@ -1,0 +1,4 @@
+--game: King of the Eggs
+
+addappid(733870)
+addappid(733871,0,"50cf536419788ec1b1291b2669412096b7d31b04826a140e216efb8ac5613b1f")
