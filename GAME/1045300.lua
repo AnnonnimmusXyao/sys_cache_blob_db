@@ -1,0 +1,4 @@
+--game: Prismatic Maze
+
+addappid(1045300)
+addappid(1045301,0,"dbe2bdc0844514ce457f43bd78b426c167f07b68558848109659f387d435df33")
