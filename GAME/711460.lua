@@ -1,0 +1,4 @@
+--game: Duel Survival
+
+addappid(711460)
+addappid(711461,0,"1afeaf75a9a655f9bb21b2d690631332416b02c1f6b1c4a61a4896d205422fd1")
