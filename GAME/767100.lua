@@ -1,0 +1,4 @@
+--game: Super Poop
+
+addappid(767100)
+addappid(767101,0,"38c56afac43ce09a44f11ec7d7d7b801f22fd63228d318f30146faf594ecba82")
