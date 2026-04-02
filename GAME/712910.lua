@@ -1,0 +1,4 @@
+--game: Cubians: Rescue Princess
+
+addappid(712910)
+addappid(712911,0,"1ad34e62a0c3a8e7a3b8afcca69527b1eee51ef4a7154198d634a9486185e8b1")
