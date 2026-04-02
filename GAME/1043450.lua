@@ -1,0 +1,4 @@
+--game: Yinyang
+
+addappid(1043450)
+addappid(1043451,0,"7959e1cebb7bc86544bbb95adee9b1a8e4f427655be9818970874c5c8af3060a")
