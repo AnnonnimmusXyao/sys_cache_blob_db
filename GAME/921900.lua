@@ -1,0 +1,4 @@
+--game: My Burning Heart
+
+addappid(921900)
+addappid(921901,0,"a4da1aaa73e1d268e914a2b8a4c9ef077b1491a7ae640806541bc792655de1ad")
