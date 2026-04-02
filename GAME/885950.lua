@@ -1,0 +1,4 @@
+--game: Airranger
+
+addappid(885950)
+addappid(885951,0,"30aeaa3522b0e83016df884e873d4b1e9c541e30abdf26ef5d9129c6cfcecba2")
