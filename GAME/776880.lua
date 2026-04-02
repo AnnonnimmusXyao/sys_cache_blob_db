@@ -1,0 +1,4 @@
+--game: ExtremeRetroArena
+
+addappid(776880)
+addappid(776881,0,"943e51a23a2c006f597bfd9a91b6851d9d785eb4c4211a88c527bbc9b188b5d9")
