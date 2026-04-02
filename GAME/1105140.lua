@@ -1,0 +1,4 @@
+--game: Triangulum
+
+addappid(1105140)
+addappid(1105141,0,"bc15bfb7ebac9ce6e0f78ee0937ba3957063296a186b55b1eb659dcc79dcfdfc")
