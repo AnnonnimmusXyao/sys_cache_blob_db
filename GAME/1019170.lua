@@ -1,0 +1,4 @@
+--game: Umbrella
+
+addappid(1019170)
+addappid(1019171,0,"865138f14424fdfccbe3dbcb09992127957df4f2d99279e671b4157b37e9b6c4")
