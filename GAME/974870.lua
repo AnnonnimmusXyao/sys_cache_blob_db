@@ -1,0 +1,4 @@
+--game: FIREWORK
+
+addappid(974870)
+addappid(974871,0,"428aff8bba3e7aae194bdfc92c9a264fc2b83917d6ea0f460c30530b28ca06ed")
