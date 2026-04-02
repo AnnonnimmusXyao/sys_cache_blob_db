@@ -1,0 +1,4 @@
+--game: Frank and 10 roots
+
+addappid(1049930)
+addappid(1049931,0,"16b8f79e2053f408573402c924bd779b2a789388a5735147ff1b5cfce73df16c")
