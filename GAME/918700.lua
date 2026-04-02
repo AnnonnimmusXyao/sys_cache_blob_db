@@ -1,0 +1,4 @@
+--game: Star99
+
+addappid(918700)
+addappid(918701,0,"1f4c1c0d19d8e4372ad69b1108ab4520208f437e795260bec1992fd743d5bde1")
