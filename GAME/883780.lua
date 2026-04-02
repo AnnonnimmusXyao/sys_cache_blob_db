@@ -1,0 +1,4 @@
+--game: Wayblock
+
+addappid(883780)
+addappid(883781,0,"ec2c6a760f3f7b2c89b600b814bd560e28b986a6ef5522a17a73608d3377486a")
