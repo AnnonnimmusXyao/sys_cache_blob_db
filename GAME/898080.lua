@@ -1,0 +1,4 @@
+--game: everybody's sad
+
+addappid(898080)
+addappid(898081,0,"e451b3bc52386c808e40683accee09c8472c0f566cf61c0b9310f04c7304ecd5")
