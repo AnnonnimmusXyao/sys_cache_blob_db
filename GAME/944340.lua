@@ -1,0 +1,4 @@
+--game: Vignettes
+
+addappid(944340)
+addappid(944341,0,"6881ae6d56f14002106eaa3395aca839cf2eba7963feb2092b676a119580c2bf")
