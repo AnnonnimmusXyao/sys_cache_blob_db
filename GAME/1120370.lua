@@ -1,0 +1,6 @@
+--game: 場外人生
+
+addappid(228987)
+addappid(229006)
+addappid(1120370)
+addappid(1120371,0,"bf290bc7bce4a2c9e343b5100f9381235d6ac1b75c1630ed9b70e45117d6ce86")
