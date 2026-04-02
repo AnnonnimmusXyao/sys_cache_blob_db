@@ -1,0 +1,4 @@
+--game: PearsAndGrayWitch
+
+addappid(766700)
+addappid(766701,0,"14312413c7f0952b18c2634aa2f1b2af93bb80ebdd02a87fb361d0ea49c5dd39")
