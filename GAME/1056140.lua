@@ -1,0 +1,4 @@
+--game: LOTUS Minigames: Berlin Traffic
+
+addappid(1056140)
+addappid(1056141,0,"a9dba98c30086c78e5fa982ae2d58048c93b182d889fa71c8e88de7623092c75")
