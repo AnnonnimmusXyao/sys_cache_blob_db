@@ -1,0 +1,4 @@
+--game: BAAM SQUAD
+
+addappid(736720)
+addappid(736721,0,"d7a9fa11a3cd81c52e667579eaa50fcb455dc5ab6a2ee8202ec5bb29584cb922")
