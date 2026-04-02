@@ -1,0 +1,4 @@
+--game: The Antidote
+
+addappid(1026080)
+addappid(1026081,0,"8507c8ae85990e70dcbf96d2633e51ea12e57505bed9faff3ecb05d8e1a67856")
