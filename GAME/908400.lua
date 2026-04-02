@@ -1,0 +1,4 @@
+--game: Age Of Forays
+
+addappid(908400)
+addappid(908401,0,"e20fabb44c0506a7902234c3bfad5be89f1f03ca03efa986acd1605baee44567")
