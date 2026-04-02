@@ -1,0 +1,4 @@
+--game: Ogre Tale
+
+addappid(1124050)
+addappid(1124051,0,"1e66df5ba20cd09d78a2926dfb3655605f45a0371aa9e4fa2318ba860b8942b3")
