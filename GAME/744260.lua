@@ -1,0 +1,4 @@
+--game: Legend of Homebody
+
+addappid(744260)
+addappid(744261,0,"1cc2b92ba857836197621d2d74c8c6f54328c8620db050dfc40dbffb666b95ba")
