@@ -1,0 +1,4 @@
+--game: Retro Pixel Racers
+
+addappid(1073040)
+addappid(1073041,0,"22bd05f41668e477f114452cef71ddbf6659ee52e311295a4eb02087b64f39fc")
