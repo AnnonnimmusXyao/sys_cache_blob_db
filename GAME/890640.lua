@@ -1,0 +1,4 @@
+--game: Rampage of the Dead
+
+addappid(890640)
+addappid(890641,0,"9853145449f51893ce6a362a6fc4dc5cf850b6ad57a5dfe1ebe026fd672380a7")
