@@ -1,0 +1,4 @@
+--game: Chronicles of cyberpunk
+
+addappid(742470)
+addappid(742471,0,"417ddae12dbeab43d9183dd1c4b67cb48d615f9430bba8d25982ba425b1e9d39")
