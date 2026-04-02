@@ -1,0 +1,4 @@
+--game: Cross Pixels
+
+addappid(745650)
+addappid(745651,0,"ee51266a79121c36bf81127d14690549fc808bd3853c19301edf5a0de8e2c91b")
