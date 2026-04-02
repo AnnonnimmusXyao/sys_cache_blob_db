@@ -1,0 +1,4 @@
+--game: Color by Numbers - Dinosaurs
+
+addappid(849980)
+addappid(849981,0,"18f0a9e83e4d4ed58ac0f1da510846de9d684aebc0003f05260beb5465306bd8")
