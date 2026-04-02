@@ -1,0 +1,4 @@
+--game: Awake: Episode One
+
+addappid(845900)
+addappid(845901,0,"afb204d830170c89dc3088eb2ec7fb0a685bbe196c9fbfc311c8a7f1291e6d2e")
