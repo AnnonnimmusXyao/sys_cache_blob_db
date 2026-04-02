@@ -1,0 +1,5 @@
+--game: Demonheart: Hunters
+
+addappid(897930)
+addappid(897931,0,"42f5055bb59c33a4d699e19f4f95367c949bc7e969d957a7ceae778cdcd666a6")
+addappid(1144480)
