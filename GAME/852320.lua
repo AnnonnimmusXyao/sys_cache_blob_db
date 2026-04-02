@@ -1,0 +1,4 @@
+--game: HOLONGLIDE
+
+addappid(852320)
+addappid(852321,0,"95d3d53350bca0539fed4f3ab4edae04821f794294ff08cab4c3d17ab61d693f")
