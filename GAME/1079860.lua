@@ -1,0 +1,4 @@
+--game: Where Shadows Slumber
+
+addappid(1079860)
+addappid(1079861,0,"bb4a8bc30d9f44cb8ecbe10a865813aaf40f5202ff90255deb872a0f49a32fee")
