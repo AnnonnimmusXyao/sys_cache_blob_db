@@ -1,0 +1,4 @@
+--game: Mech Chip
+
+addappid(1010830)
+addappid(1010831,0,"fb61d43f96c755d1016b5e6d5d78f45b7fcbf371df9d3544b84b2cc9f74d479c")
