@@ -1,0 +1,4 @@
+--game: Achievement Lurker: Dad Jokes
+
+addappid(747190)
+addappid(747191,0,"5a893a4f91f694e833e791b8c3b10a4cbe02fb9f1581d3b7cd78b1d922d8ecc5")
