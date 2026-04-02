@@ -1,0 +1,4 @@
+--game: Powerless
+
+addappid(984150)
+addappid(984151,0,"9163e528e4f2ae563a2b24331420b1a6b89184db72e2ef966352b496a15f69e4")
