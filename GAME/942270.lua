@@ -1,0 +1,5 @@
+--game: Kunoichi Tsubaki
+
+addappid(942270)
+addappid(942271,0,"81930638cac415e5688b6225409606317d58eddc8f71b6a7076b42a876b5d0f7")
+addappid(942273,0,"171fe6bb8bbbeb9e85a10ebd7d00fcf9f21f877259e439c9ae3801d8054dc3d6")
