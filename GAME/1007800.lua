@@ -1,0 +1,4 @@
+--game: Single Diary: Fresh Graduate
+
+addappid(1007800)
+addappid(1007802,0,"f129b9a192a82fdeb754211a6c04ca221b0612e4a21acb092f9d3c5771f9c48e")
