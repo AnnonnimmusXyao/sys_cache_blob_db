@@ -1,0 +1,4 @@
+--game: The Colony
+
+addappid(998890)
+addappid(998891,0,"762b50180ee915d6029ec0a4099df4b0ce276861462c65a31c9218ae7337dfdc")
