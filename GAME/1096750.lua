@@ -1,0 +1,4 @@
+--game: Girls & Dungeons 2
+
+addappid(1096750)
+addappid(1096751,0,"901533165e3969aa6b47d304f6d997a58608adc378436ef88f8e878cc37c2faf")
