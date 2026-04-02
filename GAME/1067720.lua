@@ -1,0 +1,5 @@
+--game: Hellsinker.
+
+addappid(1067720)
+addappid(228983)
+addappid(1067721,0,"05a57f2322bf3b336a349a955fef23b74d525cf5ac5d1c107bbe0f0ac611abc1")
