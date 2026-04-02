@@ -1,0 +1,4 @@
+--game: Subwar 2050
+
+addappid(752060)
+addappid(752062,0,"53b11aa5bb14a6e025bd527048810e7ec9eb606cb08140473a08908bbb33a5bf")
