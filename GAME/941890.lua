@@ -1,0 +1,6 @@
+--game: Mini Matches
+
+addappid(941890)
+addappid(941891,0,"e068a9f73ffbf1ad6703caedbee37a733ce5b9f36650c14b5f5bfe8d7bf070df")
+addappid(941892,0,"694bff5ba591d9fbeef66d29f3465717ad3f05ed09c03120b76f14c5ef12fb9a")
+addappid(941893,0,"6a56c50f88c510eab6506dd0e229ea3e7f9fa1f43add2df9ea359ee5568da366")
