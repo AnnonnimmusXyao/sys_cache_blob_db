@@ -1,0 +1,4 @@
+--game: Wars and Battles: Normandy
+
+addappid(738580)
+addappid(738581,0,"938f40d97928592c1f8cfdeacd9ddad53e1703ac36437fca3b196973a635711b")
