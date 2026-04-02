@@ -1,0 +1,4 @@
+--game: Team A.R.G. Anthology
+
+addappid(893490)
+addappid(893491,0,"2613950d5caa6fda61c17a3cf35f353c56cd975ca57ca333e4dad5eaa5a5da44")
