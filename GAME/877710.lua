@@ -1,0 +1,4 @@
+--game: Micromanagement
+
+addappid(877710)
+addappid(877712,0,"d04955a19bae921a69e95634321b0d7d881d842881d361777341e185a108ac19")
