@@ -1,0 +1,4 @@
+--game: Pixels Guide to Staying Dead
+
+addappid(938680)
+addappid(938681,0,"2869ad46cc0edabe11c62114c1d04c39c517146f4d5138565d04b70a01c9c9a1")
