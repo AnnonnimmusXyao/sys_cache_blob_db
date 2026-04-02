@@ -1,0 +1,4 @@
+--game: Armored Squad
+
+addappid(786280)
+addappid(786281,0,"df21f7ba250fcfe7960e40992492a47d179496744b6c105416281fac3221484d")
