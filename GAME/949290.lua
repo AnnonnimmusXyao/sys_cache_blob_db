@@ -1,0 +1,5 @@
+--game: Winkeltje: The Little Shop
+
+addappid(949290)
+addappid(949292,0,"be0408e63eb589301712518ee69999fcfac35fb69f9ec88e31795221c12bc47c")
+addappid(2187680)
