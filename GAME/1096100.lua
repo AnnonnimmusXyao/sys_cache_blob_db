@@ -1,0 +1,4 @@
+--game: Skellboy Refractured
+
+addappid(1096100)
+addappid(1096101,0,"58290d8a2da0430b603384c78668d3947e907b874f1a6c6509a82163ed1647bc")
