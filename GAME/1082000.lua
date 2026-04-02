@@ -1,0 +1,4 @@
+--game: A Night at the Races
+
+addappid(1082000)
+addappid(1082001,0,"9246bb8d3bed4cc802d0edd07a6fdc990286b1d0bfe707965d5a485763eacb62")
