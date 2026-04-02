@@ -1,0 +1,4 @@
+--game: Astral Gunners
+
+addappid(893900)
+addappid(893901,0,"97437c300582820cbff31430fde807e014ddef954911b225dd760e6ab41efa29")
