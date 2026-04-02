@@ -1,0 +1,4 @@
+--game: Wars Across The World: Russian Battles
+
+addappid(853150)
+addappid(551911,0,"42ad294869387b715961c1296c6507eff3f9b5138fdf9d4bd0c08e250704eb7b")
