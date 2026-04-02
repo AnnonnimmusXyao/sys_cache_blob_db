@@ -1,0 +1,4 @@
+--game: Epic Dumpster Bear: Dumpster Fire Redux
+
+addappid(701810)
+addappid(701811,0,"13f2501b1cbfe272a448f90364baf43a8596d7da2c1d4f1acd70b74582082bc1")
