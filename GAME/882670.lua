@@ -1,0 +1,5 @@
+--game: Nono's magic general shop
+
+addappid(882670)
+addappid(882671,0,"8796720ea22ead0bf7830e49b2b0213206d7e49594937d0f5bf75c1d0b3969df")
+addappid(882672,0,"e80261ef5fb1f3ed93cd2c813d8febe07cf3d91265ad7c183d55c8661986dd48")
