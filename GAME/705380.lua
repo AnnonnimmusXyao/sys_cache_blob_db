@@ -1,0 +1,4 @@
+--game: Galactic Shipwright
+
+addappid(705380)
+addappid(705381,0,"f1464982a3708c603327fa5233eb3553641116888da8fd9bb40559ef2608b371")
