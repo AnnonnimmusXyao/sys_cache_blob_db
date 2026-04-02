@@ -1,0 +1,4 @@
+--game: Neckbeards: Silly Squadron
+
+addappid(766420)
+addappid(766422,0,"0ee6466afbbaf9230f7f72009914c2a25ba8b3b9eec7e0bac167b283e775087d")
