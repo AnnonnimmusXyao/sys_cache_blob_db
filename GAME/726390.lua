@@ -1,0 +1,4 @@
+--game: Scream Collector
+
+addappid(726390)
+addappid(726391,0,"30a4a3ca5cfac449b146de95a4f6351de1915865beea577d2148d30fe482679d")
