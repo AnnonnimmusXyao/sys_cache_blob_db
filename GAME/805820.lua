@@ -1,0 +1,4 @@
+--game: Putin VS ISIS
+
+addappid(805820)
+addappid(805821,0,"4e1fbd09d7b763ecea9d0e12c57a2fbed8ef2725c1a80c7e3752e40ef02df59f")
