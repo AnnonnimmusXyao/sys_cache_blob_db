@@ -1,0 +1,4 @@
+--game: Shape Palette
+
+addappid(730160)
+addappid(730161,0,"26fbb126074920bc1805f550e5ea7079fb8d62fc24c8d7cddcbd2f42e112ef1e")
