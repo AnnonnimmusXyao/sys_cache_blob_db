@@ -1,0 +1,4 @@
+--game: Corporate America
+
+addappid(1111250)
+addappid(1111251,0,"934efe0150c276fc3ce0414324bd53e2bac04f0edb82472cfa38f985a2bb8f79")
