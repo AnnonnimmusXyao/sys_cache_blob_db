@@ -1,0 +1,4 @@
+--game: The Lost Wizard
+
+addappid(727110)
+addappid(727111,0,"0051d4ab128d44c97df2edd9a079c225948e3b2d6482850d39beff3aac628fb1")
