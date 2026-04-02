@@ -1,0 +1,4 @@
+--game: Пацанский цитатник / Russian Test
+
+addappid(1088880)
+addappid(1088881,0,"f6706dad739eb88d4bec460cb0f05ca7142b42e5501725ba67368ce62bf36ff4")
