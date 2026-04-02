@@ -1,0 +1,4 @@
+--game: The Curator - Prologue
+
+addappid(952340)
+addappid(952341,0,"74d4def90d84e49c80151c98d15aa7c6a3ab4e3f8a15c6cd39d4815f7635b870")
