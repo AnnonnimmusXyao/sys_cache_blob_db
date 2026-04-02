@@ -1,0 +1,4 @@
+--game: 军团 LEGIONCRAFT
+
+addappid(1100930)
+addappid(1100931,0,"e6acb8672851f39ef479299e848a5c2c7b20218f00bfc11a622feb9fe2aab4af")
