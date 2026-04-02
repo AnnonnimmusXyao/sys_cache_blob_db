@@ -1,0 +1,4 @@
+--game: Slum Ball VR Tournament
+
+addappid(850500)
+addappid(850501,0,"e91bc3a35ef6d1a6c0ac3c73b36182b4f8874cfbbd59ce0c5d55ec01785c7a08")
