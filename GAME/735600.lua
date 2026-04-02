@@ -1,0 +1,4 @@
+--game: BANZAI ROYALE
+
+addappid(735600)
+addappid(735601,0,"ac70d18dcbb41a049caa04b17634f48d9923ecd590869613b63be979c453318a")
