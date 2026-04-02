@@ -1,0 +1,4 @@
+--game: Mon Amour
+
+addappid(982350)
+addappid(982353,0,"e643613b5d41ad461e33d68995b824b7085c8f731df8a849bd01495b77931b01")
