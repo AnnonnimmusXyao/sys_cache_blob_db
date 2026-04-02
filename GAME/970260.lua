@@ -1,0 +1,4 @@
+--game: Hulì The Mage
+
+addappid(970260)
+addappid(970261,0,"ff8ba3c841598cd8698ebafa8d5e66becb048da6b63d01b7f8cb3c64a99b6429")
