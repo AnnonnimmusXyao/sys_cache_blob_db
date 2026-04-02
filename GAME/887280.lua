@@ -1,0 +1,4 @@
+--game: Epic Helicopter
+
+addappid(887280)
+addappid(887281,0,"0549c55a4700af29e809b7fdf3c1cde2d204df93a6248d5be488c64ad31cae69")
