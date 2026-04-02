@@ -1,0 +1,4 @@
+--game: Trivia Vault: Music Trivia
+
+addappid(878270)
+addappid(878271,0,"d714bfef2021dd6c9a84f80b3713745153cbb855a05cf4a83eddb4bed6de5c08")
