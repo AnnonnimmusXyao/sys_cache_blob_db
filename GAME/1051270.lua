@@ -1,0 +1,4 @@
+--game: Logistic Expert
+
+addappid(1051270)
+addappid(1051271,0,"4e380bf8778eed8084a2bb55cdb4e9ec04668858578dc257300748d76cf0e689")
