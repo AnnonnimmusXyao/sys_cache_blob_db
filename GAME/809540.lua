@@ -1,0 +1,4 @@
+--game: Mechs V Kaijus - Tower Defense
+
+addappid(809540)
+addappid(809542,0,"5ea64d80439303bcd9af64aa7fe4f2530c7e7ef581d5ba9d459a1af163d3a867")
