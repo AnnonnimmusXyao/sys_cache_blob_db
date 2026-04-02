@@ -1,0 +1,4 @@
+--game: Boomer Rampage
+
+addappid(770520)
+addappid(770521,0,"05227bc948fe69f91a7bff8a9f035325cf634c942e97df899861b8c5a6142ec5")
