@@ -1,0 +1,4 @@
+--game: Catsapults
+
+addappid(846220)
+addappid(846221,0,"434f4f4f2a33da114d05122c4c54bb880c768734f223b366217ae403773a1e3f")
