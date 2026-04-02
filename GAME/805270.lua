@@ -1,0 +1,5 @@
+--game: Playcraft
+
+addappid(805270)
+addappid(805271,0,"82c17132124a039d4e9c66f7382657c819256a016c1c1a4db0873ac332efe864")
+addappid(1135520)
