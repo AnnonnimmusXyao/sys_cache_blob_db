@@ -1,0 +1,4 @@
+--game: 神社的百合香 ~ Floral Aroma in the Shrine
+
+addappid(925440)
+addappid(925441,0,"42f1335ee2d94c465a50c547b7c52bffd1f49872c140ffd3ab4af6f83cdbd982")
