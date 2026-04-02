@@ -1,0 +1,4 @@
+--game: Secret Saga: Xamadeon Stone
+
+addappid(972760)
+addappid(972761,0,"69aab832c3fba35c980dbf6156fed1d9960aa1c479802d4d96852c5643bf6f7b")
