@@ -1,0 +1,4 @@
+--game: Dynamite Bunny: Catch The Carrot
+
+addappid(836280)
+addappid(836281,0,"497eb4c7977a7da9f9f5aeba6f9e3dea015c873859aaa52539f8b78682c3d5e0")
