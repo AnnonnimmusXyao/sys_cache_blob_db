@@ -1,0 +1,4 @@
+--game: REVENGER: Age of Morons
+
+addappid(799890)
+addappid(799891,0,"0489e2b78b870bc4d9da971ca3297f1025cf5c9d68043ccd51c4e8b4104a4079")
