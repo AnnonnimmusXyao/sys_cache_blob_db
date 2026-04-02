@@ -1,0 +1,4 @@
+--game: Ghostman: The Council Calamity
+
+addappid(894120)
+addappid(894121,0,"e5c146ee5dae6c981a8177c59ec18f1190ee1cb8e670fe2028d2e13e28ab8e26")
