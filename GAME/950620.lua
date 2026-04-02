@@ -1,0 +1,5 @@
+--game: Priest Simulator: Vampire Show
+
+addappid(950620)
+addappid(950621,0,"f0a967c2d200e58f94b1dc142e07f6c93ca43ca1ff93802cbd015b9005df0717")
+addappid(2947900)
