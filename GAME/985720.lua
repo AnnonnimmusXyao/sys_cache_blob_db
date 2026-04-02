@@ -1,0 +1,4 @@
+--game: RUINS Survival
+
+addappid(985720)
+addappid(985721,0,"a9a62cf8347f72b0c8b8681b5fa313995f617817388eeac4257278b1d2412d8b")
