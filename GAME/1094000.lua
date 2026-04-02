@@ -1,0 +1,4 @@
+--game: Survive on Raft
+
+addappid(1094000)
+addappid(1094001,0,"8f739b999d94d7d85e896be1b399137e00cda3d5b11ed9ad482e07291bdc2aee")
