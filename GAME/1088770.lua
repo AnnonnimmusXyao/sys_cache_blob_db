@@ -1,0 +1,4 @@
+--game: Car Mechanic Simulator VR
+
+addappid(1088770)
+addappid(1088776,0,"daeb9c90a4aa9e931526349369f34a2b9abf460d72991b9fb02c79db9574dd45")
