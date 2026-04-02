@@ -1,0 +1,4 @@
+--game: House of Velez part 1
+
+addappid(724010)
+addappid(724011,0,"f7b71d67ba09fe3e390099c5ece05ddf2014455b3ac4a654cd273f08ed04769f")
