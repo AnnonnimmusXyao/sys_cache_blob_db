@@ -1,0 +1,8 @@
+--game: Orphan of the Petal
+
+addappid(975050)
+addappid(975051,0,"f183156c7a7227351dd62c39f9d6ca8931ee6415afee862505c60bc64d9a1f2e")
+addappid(1006820)
+addappid(1006821)
+addappid(1006822)
+addappid(1006840)
