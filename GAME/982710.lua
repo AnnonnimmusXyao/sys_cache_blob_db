@@ -1,0 +1,4 @@
+--game: Cop Academy
+
+addappid(982710)
+addappid(982711,0,"4e176c01d447c48ce3135638c8f85044fabc239312b5633fc07b4bfbd57d45dc")
