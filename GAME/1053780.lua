@@ -1,0 +1,4 @@
+--game: Pixel Art Monster - Color by Number
+
+addappid(1053780)
+addappid(1053781,0,"72a2be0ddeb31bf13c5661f0187adf4b2bdf87e162f91d16fbf56a1f509a4448")
