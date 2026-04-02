@@ -1,0 +1,4 @@
+--game: Fairy Picturebook of Hero and Sorceress / 勇者と魔法使いとおとぎの絵本
+
+addappid(1008280)
+addappid(1008281,0,"d38aa1ebb6c2990e586ed51a0084687c50940caacba51726cc0c9db0a578046b")
