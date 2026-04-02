@@ -1,0 +1,4 @@
+--game: Night Drive VR
+
+addappid(797420)
+addappid(797421,0,"5615e59dd3104fdd9ec1a251d99f105c540b77d14ee4b488d8603c3eac05c239")
