@@ -1,0 +1,4 @@
+--game: Naturallandscape - GuilinLandscape (自然景观系列-桂林山水)
+
+addappid(788720)
+addappid(788721,0,"47edec0e05035df91b0665a2d82f2531c1f4e406833853ddb8d6a1462e67a129")
