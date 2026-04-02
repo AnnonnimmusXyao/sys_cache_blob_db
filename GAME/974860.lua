@@ -1,0 +1,4 @@
+--game: Condition Red
+
+addappid(974860)
+addappid(974861,0,"be08432105d552d03e60b6c4daa805b0057698f99c7114c3a95866de47c31793")
