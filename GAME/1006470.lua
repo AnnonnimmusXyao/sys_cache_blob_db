@@ -1,0 +1,4 @@
+--game: The Legacy of Music
+
+addappid(1006470)
+addappid(1006471,0,"7d2503dacb18c782809d318e3aaae26d7896b8d5216eb32124e4068954e2b059")
