@@ -1,0 +1,4 @@
+--game: Roads of time
+
+addappid(1113760)
+addappid(1113761,0,"40e365244f5b203bf6d221fbb688f66e03c1711be42b499ee64bad7d6f72831b")
