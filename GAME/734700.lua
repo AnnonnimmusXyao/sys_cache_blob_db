@@ -1,0 +1,4 @@
+--game: The Lost Gardens
+
+addappid(734700)
+addappid(734701,0,"8c3546ba0d573f63afa957f141b87f2a5ebb2ea8d3a37ad0380794c46b35a984")
