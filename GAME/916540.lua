@@ -1,0 +1,4 @@
+--game: Fatal Hour: Petroleum
+
+addappid(916540)
+addappid(916541,0,"2e6153cbe490f2e84a2911e86183471d75686e35bd17537781cb3c27cfbaf9ff")
