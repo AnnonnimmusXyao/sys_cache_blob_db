@@ -1,0 +1,4 @@
+--game: ChronoBreach
+
+addappid(971210)
+addappid(971211,0,"ce95d4557c1c7bbc9598ff6e640f24ebca8c440b62887075eb07e2d99dcb0879")
