@@ -1,0 +1,4 @@
+--game: Showdown at Willow Creek
+
+addappid(772340)
+addappid(772341,0,"90676e58cf82dde612a526bc520f30b07a48e58d0d326f57201721424bdce053")
