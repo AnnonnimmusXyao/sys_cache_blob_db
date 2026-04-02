@@ -1,0 +1,4 @@
+--game: Lazergoat: Invasion
+
+addappid(848740)
+addappid(848741,0,"96e8630c8c73a740b2b7d1c48d226ab561010232827146061d4c543d5d6a1998")
