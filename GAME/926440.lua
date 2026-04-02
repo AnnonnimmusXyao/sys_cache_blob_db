@@ -1,0 +1,4 @@
+--game: The Bloobles and the Quest for Chocolate
+
+addappid(926440)
+addappid(926441,0,"185c1b98d4dfcf25e48d20a52277d524369e870d38553f1e0485d8163de9934b")
