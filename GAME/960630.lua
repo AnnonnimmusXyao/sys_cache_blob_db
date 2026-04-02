@@ -1,0 +1,4 @@
+--game: Beyond Critical
+
+addappid(960630)
+addappid(960631,0,"1ec34f23a9d43e70250b66c24f81b5bce93905a897d0ac377e6a238d979a5ab5")
