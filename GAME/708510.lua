@@ -1,0 +1,4 @@
+--game: The Promethium Effect - The Idle Clicker MMO
+
+addappid(708510)
+addappid(708514,0,"75872ff8b360253b79a405a8903cf5ca3ebc4866ea49c4f98c4f78207be7f62b")
