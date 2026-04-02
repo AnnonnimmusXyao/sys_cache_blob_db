@@ -1,0 +1,4 @@
+--game: Highscore Processing Unit
+
+addappid(842760)
+addappid(842761,0,"18b89207d39a9767c445304eb2701ae506fd4d5695136d8018f5e61e4fc4a6ee")
