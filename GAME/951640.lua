@@ -1,0 +1,6 @@
+--game: Gangsta Sniper
+
+addappid(228987)
+addappid(229000)
+addappid(951640)
+addappid(951641,0,"5f91eb960b73b4f9c3f43880419b4306921ddeb7e939715197f061818994cdf0")
