@@ -1,0 +1,8 @@
+--game: ROGAN: The Thief in the Castle
+
+addappid(966560)
+addappid(966561,0,"f35c5d8c6dc56bcc6dc855f35662de83854d95581d5335bb6fe5e7246f7f3fc8")
+addappid(1100020)
+addappid(1102920)
+addappid(1102921)
+addappid(1102922)
