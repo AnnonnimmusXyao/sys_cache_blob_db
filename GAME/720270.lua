@@ -1,0 +1,5 @@
+--game: Defense Task Force - Sci Fi Tower Defense
+
+addappid(720270)
+addappid(720271,0,"cea6bc639ec5529149037cd38dfe7e362942a0f2743c65b8c3cb6518c0c6adde")
+addappid(720272,0,"000dc13a0537040db56266174911f8801440b72fea2825fb495a88723bae57f4")
