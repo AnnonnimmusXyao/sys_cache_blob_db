@@ -1,0 +1,4 @@
+--game: The Final Days: Eternal Night
+
+addappid(696050)
+addappid(696051,0,"564f1ccf52fcdf1ba25f2d5555f683d50f8716d2ce72b556a5b321e1b00e6045")
