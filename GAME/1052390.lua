@@ -1,0 +1,4 @@
+--game: Steel Seraph
+
+addappid(1052390)
+addappid(1052391,0,"810d60b9ae9f60a16068b56f79ce6792e3ae2caadf47de75fb0733dd87f646e0")
