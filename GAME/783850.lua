@@ -1,0 +1,4 @@
+--game: Derpy pirates!
+
+addappid(783850)
+addappid(783851,0,"571df6143e328dc4a30b4813417215e456814dc92d1506fadff3df35c7d637d7")
