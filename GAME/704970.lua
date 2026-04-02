@@ -1,0 +1,4 @@
+--game: Project Ara - Crucible
+
+addappid(704970)
+addappid(704971,0,"01b26e779a5ab27eff6cc7fc65366e4cef87d5c85619c386443fc720aa4249be")
