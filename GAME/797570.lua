@@ -1,0 +1,4 @@
+--game: Go Morse Go! Arcade Edition
+
+addappid(797570)
+addappid(797571,0,"65456426a397a7077b0d84da9ef76318aa55a34a9de031d69e35b4dabe2c1fec")
