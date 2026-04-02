@@ -1,0 +1,4 @@
+--game: Headsnatchers
+
+addappid(797410)
+addappid(797411,0,"2d20789a0a0cb607234844f035429532572ffa7d6589b8180252447c4c3cf953")
