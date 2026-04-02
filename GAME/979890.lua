@@ -1,0 +1,4 @@
+--game: Allison's Diary: Rebirth
+
+addappid(979890)
+addappid(979891,0,"4e2a73cbc41ab3ff2e6c8482c44f520ad5bb56619a4f17e9a74bc75ab928da3c")
