@@ -1,0 +1,4 @@
+--game: FlyInside Flight Simulator
+
+addappid(862390)
+addappid(862391,0,"dcfb3eb0e45b68ea49c3c69d941455d1bbec7efaefa9ef55773ba8e91dff3e16")
