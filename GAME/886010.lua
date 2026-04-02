@@ -1,0 +1,5 @@
+--game: Smash Halloween Pumpkins: The Challenge
+
+addappid(886010)
+addappid(886011,0,"9b512febc7e37db73213ba46e432c5a56590ef4cffa76e3145f0026ce5a376e3")
+addappid(886012,0,"07ba5012cf94555f8942c1fce8cef355714d6ee00116ac4dc423fe1cef5c6293")
