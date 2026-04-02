@@ -1,0 +1,4 @@
+--game: Escape from Classroom
+
+addappid(1103300)
+addappid(1103301,0,"2ac4f2dac9026514daa47148f4984813d766740bc6194276de9d2504596cdc84")
