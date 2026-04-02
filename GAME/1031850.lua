@@ -1,0 +1,4 @@
+--game: The Witchcraft of Skysword - 天翔と剣のウィッチクラフト
+
+addappid(1031850)
+addappid(1031851,0,"8f34dc60d0534e57e0831c1036c95c1254c38fac7a0aece3f5f127dba1a40aa7")
