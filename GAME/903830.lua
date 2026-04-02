@@ -1,0 +1,4 @@
+--game: Cash Rush
+
+addappid(903830)
+addappid(903831,0,"9083f23db75a7577bbe7f9975f679b1f9782d7c2b6fe00636a4107a3b6d720c9")
