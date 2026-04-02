@@ -1,0 +1,4 @@
+--game: Block Granny Horror Survival
+
+addappid(1111880)
+addappid(1111881,0,"daf9996dee634a52fdeebeecc27ef739eb2c5f7736bff87653df0183312a2ee1")
