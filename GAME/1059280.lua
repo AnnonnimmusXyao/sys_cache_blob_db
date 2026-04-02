@@ -1,0 +1,5 @@
+--game: The Renovator
+
+addappid(1059280)
+addappid(1059283,0,"38dd80cb6ff2cd70c215156c5174f61f20dbee2befe3a9f79b6abd79e1bf986e")
+addappid(1059284,0,"e643f0ea4e47a5db727e45cbcdb35a2683ace76efc22fc9f94bbc874e757afc8")
