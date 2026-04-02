@@ -1,0 +1,6 @@
+--game: Psychedelica of the Black Butterfly
+
+addappid(865820)
+addappid(228985)
+addappid(865821,0,"50a055811f53ec83fce79c1955756d9738ece74cb38d1d3bfe16520edd4a6899")
+addappid(967150,0,"bd21a3772529cae7bfe18979bd0f4e69cf4e5df9766578c42089a3b01630cbac")
