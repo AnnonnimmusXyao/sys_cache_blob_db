@@ -1,0 +1,4 @@
+--game: Punch Line
+
+addappid(766680)
+addappid(766681,0,"23409f078a4286204d5a1829d4cc37fdc8a6b3487198cce445dd9448728cb289")
