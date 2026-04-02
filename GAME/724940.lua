@@ -1,0 +1,4 @@
+--game: Beach Cry of VR
+
+addappid(724940)
+addappid(724941,0,"1cc9a5b34ca56f1839cd256dedf5695b14a39a11ac6b7c0e842b0165e7639c1e")
