@@ -1,0 +1,4 @@
+--game: 美少女夏日欢乐!
+
+addappid(835040)
+addappid(835044,0,"d2aa86241ec83a00669e1df8e82069ba7caca874e36cbb3f7e2009f621256cad")
