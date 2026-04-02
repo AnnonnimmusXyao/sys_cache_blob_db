@@ -1,0 +1,5 @@
+--game: Last Oasis
+
+addappid(229006)
+addappid(903950)
+addappid(903951,0,"ff12e0c2a6e6ffd00cd305eb3f8a404cb932e582b33a6fe524de975d447072d1")
