@@ -1,0 +1,4 @@
+--game: Slime Dad
+
+addappid(908270)
+addappid(908273,0,"41bf9030d16171d3f4cd0ed946ccd1f0722003231f5d572183c744e864577c39")
