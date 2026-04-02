@@ -1,0 +1,5 @@
+--game: Initial 2 : New Stage
+
+addappid(904310)
+addappid(904311,0,"5c56c8f7b0b1e6d1f48c16b733c10a0bd45b54ea734c3fd6e73cb7ae5a73b865")
+addappid(965850)
