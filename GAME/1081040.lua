@@ -1,0 +1,4 @@
+--game: Twin Peaks VR
+
+addappid(1081040)
+addappid(1081042,0,"a66b050b562f568b8752681604d26b43610a149fe516d2adad27d6b91703582c")
