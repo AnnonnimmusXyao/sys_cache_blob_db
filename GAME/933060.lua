@@ -1,0 +1,4 @@
+--game: Hentai Weed PuZZles
+
+addappid(933060)
+addappid(933100,0,"8d25e0afae158605f4613b21d6471e9b2bb5810e80053eb7e6d900076655395f")
