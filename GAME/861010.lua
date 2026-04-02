@@ -1,0 +1,4 @@
+--game: Minako
+
+addappid(861010)
+addappid(861011,0,"a97ccf6744163b84105dbe77ef6fbc7f0823c7814ea920e674b58f9f4f117cb6")
