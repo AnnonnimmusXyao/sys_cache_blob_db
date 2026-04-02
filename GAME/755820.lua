@@ -1,0 +1,4 @@
+--game: One Against The Galaxy
+
+addappid(755820)
+addappid(755821,0,"54e220b6dba76eb49e70404dd3cdf97ebb0775cc331ce681a6138493bd3751b5")
