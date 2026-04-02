@@ -1,0 +1,4 @@
+--game: BoneCraft
+
+addappid(1001220)
+addappid(1001221,0,"7f04ce8d716f6219008629333203e7481648c37e2df054e40f4c7decc5a3b05a")
