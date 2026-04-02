@@ -1,0 +1,4 @@
+--game: Project Nightmares Case 36: Henrietta Kedward
+
+addappid(812070)
+addappid(812071,0,"88b079f7e9d2b85bcfb637404b76d18ab9fd19fc3a3974ef20df2dee2beac927")
