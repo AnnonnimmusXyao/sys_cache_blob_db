@@ -1,0 +1,4 @@
+--game: NiGHT SIGNAL
+
+addappid(1093840)
+addappid(1093841,0,"acd43194dd421dfcf3d37090d1a0b32e32e0bc8f8db2e878bd1ba634ae24bcde")
