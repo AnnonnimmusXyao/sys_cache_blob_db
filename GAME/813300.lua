@@ -1,0 +1,4 @@
+--game: CODE CRACKER 代码破译者
+
+addappid(813300)
+addappid(813301,0,"76d4bc45fa1b93f0054952742207e6b566380c9bf4bb7e274936508bbc78cb63")
