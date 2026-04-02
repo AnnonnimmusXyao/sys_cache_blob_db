@@ -1,0 +1,4 @@
+--game: Mind's Eye: Secrets of the Forgotten
+
+addappid(1038670)
+addappid(1038671,0,"e9c44d115e78580875537810b4791fc4a4c761dcabfb87d6aed72c043d43d9e5")
