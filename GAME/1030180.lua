@@ -1,0 +1,4 @@
+--game: Dark Tales: Edgar Allan Poe's The Premature Burial Collector's Edition
+
+addappid(1030180)
+addappid(1030181,0,"e982ccec39029da7bdd311ee37c1533feb0b1bb89d02a25286027cb6ee8a788d")
