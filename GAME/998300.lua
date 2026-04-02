@@ -1,0 +1,4 @@
+--game: 欢乐块队
+
+addappid(998300)
+addappid(998301,0,"83705fb993f846bddcec0a36dfdea2f14d74a89e3679a33625d1ab1905b47408")
