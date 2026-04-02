@@ -1,0 +1,4 @@
+--game: Torimodosu
+
+addappid(812390)
+addappid(812391,0,"5aa1b868fbdc8152427b13fc1c3baa1cb41c89f3c64c93721f97f335c442d7a2")
