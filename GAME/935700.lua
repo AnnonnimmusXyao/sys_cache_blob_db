@@ -1,0 +1,4 @@
+--game: Love Hentai: Sexy Body
+
+addappid(935700)
+addappid(935701,0,"f568eac204097394f6921ba94d41a2d6f0e51d691434826775efed3c78b4ab60")
