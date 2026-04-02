@@ -1,0 +1,4 @@
+--game: Sleep Paralysis : mystery of the mountain village
+
+addappid(1134470)
+addappid(1134471,0,"f99a78e43837b0ad197437e36125ed80f285d04ba3b2001448eab4e5a0a77bca")
