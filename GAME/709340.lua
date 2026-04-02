@@ -1,0 +1,4 @@
+--game: Spirits of Mystery: The Dark Minotaur Collector's Edition
+
+addappid(709340)
+addappid(709341,0,"17007c378162565be62ddf268b1f8cc408bdc8871aea446781a68e375e863aae")
