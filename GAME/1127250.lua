@@ -1,0 +1,9 @@
+--game: Deadly Maze: Phase 1
+
+addappid(1127250)
+addappid(228987)
+addappid(229006)
+addappid(229012)
+addappid(229020)
+addappid(229033)
+addappid(1130220,0,"5c715ee27c33f20acc9c55b45763df0e8d2ac57165b199dd3b931328bdcd38f0")
