@@ -1,0 +1,4 @@
+--game: Tricky Cat
+
+addappid(1042330)
+addappid(1042331,0,"a7974af0414abc73353a22e1dbd7d5d200056aac1a5c9b042a44ec108f1f22a5")
