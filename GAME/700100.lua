@@ -1,0 +1,5 @@
+--game: Spooky Station
+
+addappid(229004)
+addappid(700100)
+addappid(700101,0,"c40e63a91d6db571a42b82d51b4e8e8156e380c40150f30b5d51870049e2117e")
