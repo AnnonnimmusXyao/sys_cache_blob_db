@@ -1,0 +1,4 @@
+--game: Unlight:SchizoChronicle
+
+addappid(816810)
+addappid(816811,0,"5c91bd159cdc6aa840e2d88f218b986decc13a59238ecd86dd74f2d47472000c")
