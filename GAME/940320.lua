@@ -1,0 +1,4 @@
+--game: Combo Jumper
+
+addappid(940320)
+addappid(940321,0,"d9e17edf114d358a247cbb5dc4e93ddffa82bba1c4bdb48d9a37887f8093e5e2")
