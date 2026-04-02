@@ -1,0 +1,4 @@
+--game: Necro Wars
+
+addappid(787150)
+addappid(787151,0,"f43a8de70923126cae80e71b27b1ecb69eaecbffbf1e9ba0937698b83593be4b")
