@@ -1,0 +1,4 @@
+--game: Arkady Survive
+
+addappid(814320)
+addappid(814321,0,"10fc0385e0a5b1ec174ded11afa6cef7c4d5f1a5a074278ad8a7f0323010f386")
