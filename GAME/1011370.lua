@@ -1,0 +1,4 @@
+--game: Outliver: Redemption
+
+addappid(1011370)
+addappid(1011371,0,"8026414fd0e7cf5af049ef012803e9a10074aa62cd8409b24c9477378f816383")
