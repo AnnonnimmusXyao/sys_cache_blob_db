@@ -1,0 +1,4 @@
+--game: Botanica: Earthbound Collector's Edition
+
+addappid(758610)
+addappid(758611,0,"e7dfe7d6ef493c7b37cb637dc71ae2a3c0f2ad5039cb4b85e41270fbe91c487a")
