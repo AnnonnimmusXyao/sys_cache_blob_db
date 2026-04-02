@@ -1,0 +1,4 @@
+--game: Dungeon Adventure
+
+addappid(834100)
+addappid(834101,0,"7c39852c75927cc0e0927c4f991b44fa8609626b5a8ee38d586a422ba908eb02")
