@@ -1,0 +1,4 @@
+--game: Cube Man
+
+addappid(1019910)
+addappid(1019911,0,"7485766831da1c04dd6a3604ad8aef35fb00f112fed0b28234242d495d181e5d")
