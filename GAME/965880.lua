@@ -1,0 +1,4 @@
+--game: Whimsical Quest
+
+addappid(965880)
+addappid(965881,0,"b1e9f22d50aa5fee6ffc25fd79687052262c584f2b719c8b9ce800dfa815f6bc")
