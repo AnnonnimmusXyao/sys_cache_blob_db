@@ -1,0 +1,4 @@
+--game: Pivot XL
+
+addappid(843440)
+addappid(843441,0,"2fc3bbb6473d31bf10151146ec4331f48a1f416f226e9539e20c88120123350c")
