@@ -1,0 +1,4 @@
+--game: Symphony of Stars
+
+addappid(973310)
+addappid(973311,0,"d7701687c6a262085dcb7aebeedcdc9d213f93410d352d9f4563b23c942de7ea")
