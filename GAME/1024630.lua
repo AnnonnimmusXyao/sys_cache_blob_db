@@ -1,0 +1,4 @@
+--game: Fighters Legacy
+
+addappid(1024630)
+addappid(1024631,0,"27ea6e58fa4c6eabe691308ea3676bf8dd0b2dd0da76af54ef96bb905e90a015")
