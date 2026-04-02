@@ -1,0 +1,4 @@
+--game: Cranked Up
+
+addappid(1074500)
+addappid(1074501,0,"67a36ab638faf260ee1116ca96fc761d6f429dbaf6960d9329c57d7818e73437")
