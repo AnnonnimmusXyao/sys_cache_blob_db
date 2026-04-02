@@ -1,0 +1,4 @@
+--game: Whipseey and the Lost Atlas
+
+addappid(1034920)
+addappid(1034921,0,"57e8a89bedc54b013b4d4d0603a8496163b8d0962b315e559070dd007c3c9d0b")
