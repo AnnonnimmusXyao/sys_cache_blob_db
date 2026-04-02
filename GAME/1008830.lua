@@ -1,0 +1,4 @@
+--game: 孙悟空大战机器金刚 / Sun Wukong VS Robot
+
+addappid(1008830)
+addappid(1008831,0,"db7f89199eee529e1d5fdf41230ff258d45950a1198598b63c0fac73c23fe107")
