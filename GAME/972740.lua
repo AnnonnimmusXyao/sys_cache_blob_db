@@ -1,0 +1,5 @@
+--game: KOBOLD: Chapter I
+
+addappid(229002)
+addappid(972740)
+addappid(972741,0,"bb224bafa3ddfe8b1e98d4016391b13a5e31e235b80518ac6b2604c5c54982f4")
