@@ -1,0 +1,4 @@
+--game: Touhou Luna Nights
+
+addappid(851100)
+addappid(851102,0,"f135911c676abf3d681ef747c752c9e04cac69572ab804e8a13d7845b65d960a")
