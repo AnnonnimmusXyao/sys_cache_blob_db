@@ -1,0 +1,4 @@
+--game: 小黄条/YYNote
+
+addappid(847890)
+addappid(847891,0,"4c9000d233141cc1963a92a087fd5b3872837264e863dfe53eaccda8cd89e7b4")
