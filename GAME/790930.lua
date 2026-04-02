@@ -1,0 +1,4 @@
+--game: Primitive Shooter
+
+addappid(790930)
+addappid(790931,0,"751884fdf38a739db7770184f48b9356bfc5d661b631056061dc3e5eb048a655")
