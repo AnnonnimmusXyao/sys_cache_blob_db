@@ -1,0 +1,4 @@
+--game: Immortal Quest
+
+addappid(885890)
+addappid(885893,0,"e1d88162ece521b800bc118d84779e570c645de50bd32e35bde2eed5715aaaf2")
