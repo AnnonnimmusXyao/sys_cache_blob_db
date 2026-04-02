@@ -1,0 +1,4 @@
+--game: Desert Craft
+
+addappid(719830)
+addappid(719831,0,"8c4a061110456b176c778475ad5833a10a6570039aad09071e1280035f783abb")
