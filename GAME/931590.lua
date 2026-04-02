@@ -1,0 +1,4 @@
+--game: Crystal War
+
+addappid(931590)
+addappid(931591,0,"b54e7a28df0bc7becc08af724300296c0adbad73eee5e83297c1c436463f7da4")
