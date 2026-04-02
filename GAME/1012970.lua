@@ -1,0 +1,4 @@
+--game: Extricate
+
+addappid(1012970)
+addappid(1012971,0,"3bd8a2344655e210f7880d3fb71c6617be7ac23600f79fab9d5d197fed1230e9")
