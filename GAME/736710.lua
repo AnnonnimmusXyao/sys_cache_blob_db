@@ -1,0 +1,4 @@
+--game: Yōdanji
+
+addappid(736710)
+addappid(736711,0,"2c4db329ebb271afb71a42dba004963e855ccf103b178f7df1a238cc9cfba36f")
