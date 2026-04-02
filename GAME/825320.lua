@@ -1,0 +1,4 @@
+--game: CyberRebeat -The Fifth Domain of Warfare-
+
+addappid(825320)
+addappid(825321,0,"e861533625538d5d21963e90008e16b06ffe59ca77d2c9df42479e1e218babdc")
