@@ -1,0 +1,4 @@
+--game: Moonstone Crossroads
+
+addappid(1044840)
+addappid(1044841,0,"bed40ed36f2ba5d14be82b005a02ac6c10db872af116b7289150ea7bc804a694")
