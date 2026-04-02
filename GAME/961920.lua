@@ -1,0 +1,5 @@
+--game: Romantic Journey
+
+addappid(961920)
+addappid(961921,0,"eebbe4a88e7d1d5ee91fdd36f0f2fe91647b3a93a85d0a8f58fba01299ec0dde")
+addappid(961922,0,"bdc359afb20725fc15c20119ccc21417237e37778820dceb58f96a654cd3ade7")
