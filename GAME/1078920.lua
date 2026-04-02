@@ -1,0 +1,4 @@
+--game: Main Assembly
+
+addappid(1078920)
+addappid(1078921,0,"43b01b2f264f192ab28d897c399d92616a20aaf06bf13b8dab30e0931ef9836d")
