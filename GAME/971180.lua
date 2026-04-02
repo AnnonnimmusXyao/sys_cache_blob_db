@@ -1,0 +1,4 @@
+--game: 8bit Arena
+
+addappid(971180)
+addappid(971181,0,"529c23f7d4fe15962feb5b3e959c749f0138f70c85234a01a2a7ef5dda599a09")
