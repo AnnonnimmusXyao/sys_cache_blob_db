@@ -1,0 +1,4 @@
+--game: Starboost EX
+
+addappid(917990)
+addappid(917991,0,"c32fd43105f8ad1e285b1f7cce1243220c06823ebe7f5a5e68cdd49527796b23")
