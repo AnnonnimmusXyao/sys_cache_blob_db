@@ -1,0 +1,4 @@
+--game: Knight Fighter
+
+addappid(842590)
+addappid(842591,0,"90a7360c5357493420d05f3e086f92f527a32ab440996e4d0a955e530a913d7f")
