@@ -1,0 +1,4 @@
+--game: Statue Defender
+
+addappid(994170)
+addappid(994171,0,"7d37f2df9329af38530061be62164bb1b2e66187d69b334caadadac6ba9d690a")
