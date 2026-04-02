@@ -1,0 +1,4 @@
+--game: The Risers
+
+addappid(857770)
+addappid(857771,0,"84021c2f431626558aece669fd31de88a57938c65d5cbd868c4fc568ed24f283")
