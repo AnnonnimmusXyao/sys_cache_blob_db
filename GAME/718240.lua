@@ -1,0 +1,4 @@
+--game: Solar Collector
+
+addappid(718240)
+addappid(718241,0,"9ecd975e030bc1bd40d20ef0c484bb62dfe2793aa2a6e729140ae93ebf2b81c3")
