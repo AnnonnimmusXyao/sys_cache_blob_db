@@ -1,0 +1,4 @@
+--game: Super Heroes: Men in VR beta
+
+addappid(841800)
+addappid(841801,0,"80fe3c4b4abcd2a42282badb11cddb38e4be8538f6e2e884e80a432e4639d550")
