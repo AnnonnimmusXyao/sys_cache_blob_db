@@ -1,0 +1,4 @@
+--game: Trap for Winners
+
+addappid(1038100)
+addappid(1038101,0,"14802d672e151e8838f0c93ba6b858e38d6077200d723228479b523efd41e91a")
