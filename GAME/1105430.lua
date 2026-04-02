@@ -1,0 +1,4 @@
+--game: Bandit Point
+
+addappid(1105430)
+addappid(1105431,0,"11989005063a2357c418082c4c531c8d7353abcb6dd09e8f91d273f26b78354d")
