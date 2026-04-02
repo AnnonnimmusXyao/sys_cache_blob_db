@@ -1,0 +1,4 @@
+--game: Berserker's Descent
+
+addappid(828680)
+addappid(828681,0,"9f7d2d04bbb4509bef46cf81fa9b798f7732894124b106f6e414a6723ff094e0")
