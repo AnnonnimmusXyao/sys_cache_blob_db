@@ -1,0 +1,4 @@
+--game: ❂ Hexaluga ❂ Weapon and Shield ☯
+
+addappid(845200)
+addappid(845201,0,"56b726e62b2d497599deeb7abaee0d86df0646430350cdce3f80db35f8e01296")
