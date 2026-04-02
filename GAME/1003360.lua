@@ -1,0 +1,4 @@
+--game: ШХД: ЗИМА / IT'S WINTER
+
+addappid(1003360)
+addappid(1003362,0,"957aa98835462af3863234d86e2e841c4e647aa6a8720be9175a932dd309e97d")
