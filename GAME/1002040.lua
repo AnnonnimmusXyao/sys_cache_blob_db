@@ -1,0 +1,4 @@
+--game: Rebellion Again
+
+addappid(1002040)
+addappid(1002041,0,"6bb79990559469649379b859b2b15cbdc493f2d65830619d709dcf14bc5f6f62")
