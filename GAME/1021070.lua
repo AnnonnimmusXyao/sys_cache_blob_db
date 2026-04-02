@@ -1,0 +1,4 @@
+--game: Spaceland: Sci-Fi Indie Tactics
+
+addappid(1021070)
+addappid(1021071,0,"ac9b2868eb9877d1002ed4adb08625255e8907be5b87721bf0ec0b7300f32428")
