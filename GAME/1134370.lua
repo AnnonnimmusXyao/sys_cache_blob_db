@@ -1,0 +1,4 @@
+--game: Baron: Fur Is Gonna Fly
+
+addappid(1134370)
+addappid(1134371,0,"7f16bf42e37420a1dafe7d5c808348a7729a622adeb0feb1e78edabe21983e75")
