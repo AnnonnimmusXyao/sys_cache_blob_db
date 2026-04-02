@@ -1,0 +1,4 @@
+--game: Factory Hiro
+
+addappid(770820)
+addappid(770821,0,"984c610a242daba995a69c6ac68aaf572ac759d43f8e6f02fe3b5da60147af2f")
