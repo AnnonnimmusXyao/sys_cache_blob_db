@@ -1,0 +1,4 @@
+--game: Balance Roll
+
+addappid(1032510)
+addappid(1032511,0,"3cbcc5ab00ea2bfef4830e3db6e13369484f7d6b5caa7d13cf82a24b10254571")
