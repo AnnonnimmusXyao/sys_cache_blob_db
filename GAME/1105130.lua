@@ -1,0 +1,4 @@
+--game: Arcadius
+
+addappid(1105130)
+addappid(1105132,0,"3ba4bee793f2e3f25065eef42685b72d24bcda3a55f5b7591fbd9ac25f07106a")
