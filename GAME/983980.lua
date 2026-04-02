@@ -1,0 +1,4 @@
+--game: Euclidean Skies
+
+addappid(983980)
+addappid(983981,0,"c73b33073dc1f2a00848843cbaf42781d67539f19793f14ac330622128e0c42f")
