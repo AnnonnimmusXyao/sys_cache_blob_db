@@ -1,0 +1,4 @@
+--game: TOKYO GHOUL:re [CALL to EXIST]
+
+addappid(756530)
+addappid(756531,0,"802ade737f719929dc331cdd738dbae2fde8d894e218605cc06d07e1a5fa703f")
