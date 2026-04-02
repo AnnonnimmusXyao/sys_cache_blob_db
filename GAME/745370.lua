@@ -1,0 +1,4 @@
+--game: Purple Heart
+
+addappid(745370)
+addappid(745371,0,"2151c396227c35dd61ffad8e88bd7bedd9767fbdfdb1dae78a5668b2e75f2b1f")
