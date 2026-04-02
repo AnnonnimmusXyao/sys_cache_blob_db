@@ -1,0 +1,7 @@
+--game: American Railroads - Summit River & Pine Valley
+
+addappid(228985)
+addappid(228987)
+addappid(229033)
+addappid(787930)
+addappid(787931,0,"33278f4873829a3501ab57a701367d13a870826b487e3a43ca779b0bb524b3b6")
