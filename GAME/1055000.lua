@@ -1,0 +1,4 @@
+--game: EndlessHell
+
+addappid(1055000)
+addappid(1055001,0,"2f4a39a057ea3c24252083930a8fc2ec1b911e2d811c31cd1155fe9434fc9aa8")
