@@ -1,0 +1,4 @@
+--game: Millidor
+
+addappid(699040)
+addappid(699041,0,"20952d3c134d5cb242a723cba741771f86aec365e7c06a07e269a1fab23e9af7")
