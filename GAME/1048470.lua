@@ -1,0 +1,4 @@
+--game: 迷雾 The Mist
+
+addappid(1048470)
+addappid(1048471,0,"3c74857cbd70bd8f4629d16d794039817c7d5df7e9572cca36a00bd48279e335")
