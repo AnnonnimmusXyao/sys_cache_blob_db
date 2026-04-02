@@ -1,0 +1,4 @@
+--game: Total Esports Action Manager
+
+addappid(811080)
+addappid(811081,0,"63955770f7a4301ee86c16092aaae7d2f15755d4a2eb9bec9aae3412731569e3")
