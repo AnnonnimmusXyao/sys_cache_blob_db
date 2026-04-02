@@ -1,0 +1,4 @@
+--game: Monster Crown
+
+addappid(830370)
+addappid(830371,0,"1e0aebf0b8761fe184a13688031f180573c4e4c753c7f562841931d0be598859")
