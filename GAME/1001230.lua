@@ -1,0 +1,4 @@
+--game: Partial Control
+
+addappid(1001230)
+addappid(1001231,0,"2d3a20df29706c8a16285d193ed65ab54664edda11abdae0d7fbf5fcff160c36")
