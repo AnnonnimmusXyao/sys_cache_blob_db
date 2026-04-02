@@ -1,0 +1,4 @@
+--game: Aurora
+
+addappid(789720)
+addappid(789721,0,"a4626aafe416992666d4bfcbc9732db58bd48070d721543d42ae5f82fee41e33")
