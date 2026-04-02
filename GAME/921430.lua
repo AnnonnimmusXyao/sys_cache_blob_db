@@ -1,0 +1,4 @@
+--game: Genius! NAZI-GIRL GoePPels-Chan ep1
+
+addappid(921430)
+addappid(921431,0,"19c1ac0f752a6d6f3a04b2788b13c524dd6b917a6ca4d6387d110bf7784dc914")
