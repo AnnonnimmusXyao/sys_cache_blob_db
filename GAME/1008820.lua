@@ -1,0 +1,4 @@
+--game: LOTUS Minigames: United Nations
+
+addappid(1008820)
+addappid(1008821,0,"8ab83cfceade1b01fa2a8d54dbc9da6ad74b09357049c2a918530b3c9a894a07")
