@@ -1,0 +1,5 @@
+--game: Pure Rock Crawling
+
+addappid(229000)
+addappid(824720)
+addappid(824721,0,"b929a31f1b7a0e70ec088bc7360d67c7db44033a0a2748df2b03d66001b04521")
