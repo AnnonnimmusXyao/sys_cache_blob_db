@@ -1,0 +1,4 @@
+--game: Warships 3D
+
+addappid(918620)
+addappid(918621,0,"949abbcc01a1675d5b264d8dc2721947b87221c4b0318a7645411d6bc874ef4c")
