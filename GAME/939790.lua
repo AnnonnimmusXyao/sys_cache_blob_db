@@ -1,0 +1,6 @@
+--game: Royal Alchemist
+
+addappid(939790)
+addappid(939792,0,"5548af0daf1ad459bad9f156468df64f5d0bf607699bba53005057b4327e9cd3")
+addappid(1303910)
+addappid(1304240)
