@@ -1,0 +1,4 @@
+--game: GhostGame
+
+addappid(843590)
+addappid(843591,0,"82015e68b126808c4eec27c368982131cf242a5068bbd99b18962d3077f133ae")
