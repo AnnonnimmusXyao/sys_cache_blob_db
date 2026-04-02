@@ -1,0 +1,4 @@
+--game: Super Hero Fight Club: Reloaded
+
+addappid(977540)
+addappid(977541,0,"9b6041593cdbaeb2a8ea95010bcc75e6b98b7ce2f93aed2f83075151d7ad97bb")
