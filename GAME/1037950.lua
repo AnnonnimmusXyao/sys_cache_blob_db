@@ -1,0 +1,4 @@
+--game: 迷宫战争(Maze Wars)
+
+addappid(1037950)
+addappid(1037951,0,"e69307137ec30a074d853174ae8c92074768e9bc5468aee05402ac0ade9afb02")
