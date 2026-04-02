@@ -1,0 +1,4 @@
+--game: Alien Mayhem
+
+addappid(714060)
+addappid(714061,0,"7358429ed3eca17eb1d48f29cccd6073a5419e49db13739a7ff1d38927cfb315")
