@@ -1,0 +1,4 @@
+--game: Cheeky Beetle And The Unlikely Heroes
+
+addappid(1054180)
+addappid(1054181,0,"18e8469d75559c37768ed542abc9dcdd24038f6363c39ed5016f1d9269d3a48a")
