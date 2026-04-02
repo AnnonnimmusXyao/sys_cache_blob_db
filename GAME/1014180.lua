@@ -1,0 +1,4 @@
+--game: 化者天狱 Revenant in the Paradise
+
+addappid(1014180)
+addappid(1014181,0,"5b0bf52f786bd61a8437a692c3e45bc569576ff8b4ba590322901e81e9d78026")
