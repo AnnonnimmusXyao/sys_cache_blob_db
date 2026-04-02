@@ -1,0 +1,4 @@
+--game: Hyperbolic Ignition
+
+addappid(778120)
+addappid(778121,0,"500873d7f15c513f9f8dd09a2e81c2b7bf84a1581a357f23ada00d2ea35de3af")
