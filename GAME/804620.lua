@@ -1,0 +1,4 @@
+--game: Boxing Fighter : Super punch
+
+addappid(804620)
+addappid(804621,0,"71d5d1afa9ac4a73b173ba9e73dafb798826488c3ed881253ebb0c63aa873fc8")
