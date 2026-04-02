@@ -1,0 +1,5 @@
+--game: Super Dangerous Dungeons
+
+addappid(856540)
+addappid(856542,0,"ae01acba46a1073e2775b23b9f3249ba98f9890a73ab4bd8ec81b3b1e6e9e105")
+addappid(856543,0,"09790afbf443215d26e4535b6d670819e3ac0dcc0fb822cf3e716ede1ac6a251")
