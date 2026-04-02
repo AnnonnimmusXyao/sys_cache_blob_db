@@ -1,0 +1,4 @@
+--game: Wizard Battle
+
+addappid(1126020)
+addappid(1126022,0,"ad67c3e5baa262e8bcc04a3163d591edb05df65df43026ec18bb4b0c95c964ce")
