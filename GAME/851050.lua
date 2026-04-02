@@ -1,0 +1,4 @@
+--game: Paper Dolls VR
+
+addappid(851050)
+addappid(851051,0,"5823ac3b7a212a6239150eb9d1159fb6752c73e0581df0c6211aae54052f0279")
