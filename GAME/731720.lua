@@ -1,0 +1,6 @@
+--game: DOOMED
+
+addappid(228983)
+addappid(731720)
+addappid(731721,0,"0f4aa8a276e9be56bd686d065d0a126d5d8053ea9927d7cf82c41dee1e37c822")
+addappid(870760)
