@@ -1,0 +1,4 @@
+--game: Whirlpool
+
+addappid(756220)
+addappid(756221,0,"b23b54617f01b2abc459e654c482d154e376e367a8be79ed3c00b936d8918041")
