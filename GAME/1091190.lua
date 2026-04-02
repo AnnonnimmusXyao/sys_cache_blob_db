@@ -1,0 +1,4 @@
+--game: Web Spice Purple World
+
+addappid(1091190)
+addappid(1091191,0,"50740f487b070fc3804058f0f115c3eb91e07689c1036b1c62a67aa97ee9abba")
