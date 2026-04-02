@@ -1,0 +1,4 @@
+--game: Faith of Fate
+
+addappid(1095750)
+addappid(1095751,0,"fdc0e78a39dcb8c669cd424e4bf87c5041248f8bd914bf5f17f59a258121b7fa")
