@@ -1,0 +1,4 @@
+--game: Zup! 9
+
+addappid(1098340)
+addappid(1098341,0,"af4c638b46460c8b9d93ba4f6b0ea9df6267f032a1e1f8a6fa72b804884b27a1")
