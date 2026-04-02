@@ -1,0 +1,4 @@
+--game: Hentai Puzzle Party
+
+addappid(1035220)
+addappid(1035221,0,"f05ec2832d0a2ccd78285217cb4702c081ba34f67c7a4759a8a87cf468402c38")
