@@ -1,0 +1,4 @@
+--game: Find-Life EP1
+
+addappid(1004600)
+addappid(1004601,0,"87066a91ebb3badf645eab3f64765b78b8dc521460bb15ac24f052ee37eca172")
