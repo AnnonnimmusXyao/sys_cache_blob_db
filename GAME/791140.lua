@@ -1,0 +1,4 @@
+--game: Shatter EVERYTHING (VR)
+
+addappid(791140)
+addappid(791141,0,"da6dbaa879aa38a13867d38e469dd9d8e8fbbcd0ae05fd2b4a9b11d77155a738")
