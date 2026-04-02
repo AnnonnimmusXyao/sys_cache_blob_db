@@ -1,0 +1,4 @@
+--game: Elden: Path of the Forgotten
+
+addappid(715020)
+addappid(715021,0,"09aa64b3a978270dffabc52b51e6abad93fa255d973e7605cb60449098283613")
