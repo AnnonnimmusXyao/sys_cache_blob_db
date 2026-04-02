@@ -1,0 +1,4 @@
+--game: Hamsterdam
+
+addappid(922040)
+addappid(922041,0,"bc4bb04174614aa733707309e62ec031a6a8ecf9610a6661d1e5f34e2cbb9441")
