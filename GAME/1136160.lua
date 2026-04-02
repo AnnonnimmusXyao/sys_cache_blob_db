@@ -1,0 +1,4 @@
+--game: Internet Cafe Simulator
+
+addappid(1136160)
+addappid(1136161,0,"273ccc5c5cc5e53b7f8654824aaac661c2669afcaa0c3eed72f7c52897504e8a")
