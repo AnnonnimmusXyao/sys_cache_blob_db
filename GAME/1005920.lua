@@ -1,0 +1,4 @@
+--game: Muscles And Bullets
+
+addappid(1005920)
+addappid(1005921,0,"0d5c0019f84c2b9dc402fcfeee70949a5edd80df5311a0e3979abbc246501af7")
