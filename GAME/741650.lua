@@ -1,0 +1,4 @@
+--game: Holy Towers
+
+addappid(741650)
+addappid(741651,0,"8b8096e64bf242b174e1f290722bf355bf2a90872f3e9507242e5a31a326b8ff")
