@@ -1,0 +1,7 @@
+--game: Apocalypse: Legacy Edition
+
+addappid(705050)
+addappid(228987)
+addappid(229006)
+addappid(229033)
+addappid(705051,0,"4a267676eed68ac292478581b0b3c31cb0d55e21fd0cc5c60f0320a0d47f304a")
