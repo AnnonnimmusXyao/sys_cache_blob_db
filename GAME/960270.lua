@@ -1,0 +1,4 @@
+--game: Dafen Oil Painting Village: An Immersive Reality
+
+addappid(960270)
+addappid(960271,0,"c54135becaf9384d1ef3fbb183e923cb1e42584918e80072e38102f550527a16")
