@@ -1,0 +1,4 @@
+--game: Mostly Intense Monster Defense
+
+addappid(1116430)
+addappid(1116431,0,"972199920973f74314a0d838cd406234e97a17191448687d2436412faf4a493c")
