@@ -1,0 +1,4 @@
+--game: GYATM Dragon Edition
+
+addappid(1132600)
+addappid(1132603,0,"ef675926d7e4aaf8bf3a1226c8a41563b566d2c5edbacb103aedbc3a5a60bf78")
