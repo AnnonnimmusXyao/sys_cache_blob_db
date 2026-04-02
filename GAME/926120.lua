@@ -1,0 +1,4 @@
+--game: Mystery Trackers: Black Isle Collector's Edition
+
+addappid(926120)
+addappid(926121,0,"2746f86db1531a39825fbf5d6d636ffcf3eeeb52d69cece48f194e157a04f7c8")
