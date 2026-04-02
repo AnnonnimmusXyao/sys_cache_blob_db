@@ -1,0 +1,4 @@
+--game: Battle Of Keys
+
+addappid(777310)
+addappid(777311,0,"254722d28d4dda1d7de0f99896565b1c17ba890b868b9601992fc08f4bcb4493")
