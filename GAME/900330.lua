@@ -1,0 +1,4 @@
+--game: King-Dom
+
+addappid(900330)
+addappid(900331,0,"b1885ef317c5124416c032caafba7d750c0c4c52e8287aa041d6d21496d001ed")
