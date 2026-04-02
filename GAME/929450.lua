@@ -1,0 +1,4 @@
+--game: Sky Brawl
+
+addappid(929450)
+addappid(929451,0,"fa8b9f91045b3d65892d288232da447e3363c1bbd3c59441bfe42076d59bfadf")
