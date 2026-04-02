@@ -1,0 +1,4 @@
+--game: 玄龙棋MysteryChess
+
+addappid(700490)
+addappid(700491,0,"16a59b45179cbb0884403c3afe40c688c949c4c871f5809d107f1ada87e04a2a")
