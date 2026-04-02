@@ -1,0 +1,4 @@
+--game: King Randall's Party
+
+addappid(921450)
+addappid(921451,0,"222a0af3e06440d2e8335db8c9f5a0bb37f6be7db58cbaf04b33c9e5d28da1fa")
