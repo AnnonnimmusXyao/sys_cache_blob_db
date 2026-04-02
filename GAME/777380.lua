@@ -1,0 +1,4 @@
+--game: Fleets of Ascendancy
+
+addappid(777380)
+addappid(777381,0,"a2ac1cbf0baab73e94afc02c03449b29ebd1b40ea7e57cd257617c5b14398613")
