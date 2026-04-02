@@ -1,0 +1,5 @@
+--game: Chinese Paladin：Sword and Fairy 6
+
+addappid(228983)
+addappid(696360)
+addappid(696361,0,"a42cd1b7a78090437eac86d15679a54552b1e94ce1d63c37ea8b7cd26abbbb4e")
