@@ -1,0 +1,4 @@
+--game: HEROES TRIALS
+
+addappid(854670)
+addappid(854671,0,"b79d6cea70e4849cf88e4e27edb3e80db51f4ebd7ace1329c50a8fd206990476")
