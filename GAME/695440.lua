@@ -1,0 +1,4 @@
+--game: Dark Dimensions: Wax Beauty Collector's Edition
+
+addappid(695440)
+addappid(695441,0,"fe05675c6c9cce8467949fcf6bd66318a3aebfc31a352d22c2c46b869a843338")
