@@ -1,0 +1,4 @@
+--game: The Explorer of Night
+
+addappid(1017580)
+addappid(1017581,0,"0a2ab17b37aeb37494069164c2f1d40ce060e9ac24154d714603a6908b4a6cf1")
