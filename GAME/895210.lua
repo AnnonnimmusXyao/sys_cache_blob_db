@@ -1,0 +1,4 @@
+--game: On Board Remastered
+
+addappid(895210)
+addappid(895211,0,"67ff673cb88f3c7642839e3fa7270fb7a0711bba0caa70240bfc87c172c52b87")
