@@ -1,0 +1,4 @@
+--game: Grid Clash VR
+
+addappid(828320)
+addappid(828321,0,"b18275f9040afb982a5887db0f7513b9dc4245f6ae784a6bb64706606c0c19f9")
