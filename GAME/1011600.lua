@@ -1,0 +1,4 @@
+--game: Dungeon Cleaning Express
+
+addappid(1011600)
+addappid(1011601,0,"8192709ab2ab7d23bb70c740aaa150b20451ac55ac5d51642766f3d425ac28b4")
