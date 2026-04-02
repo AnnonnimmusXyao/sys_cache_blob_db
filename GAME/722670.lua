@@ -1,0 +1,8 @@
+--game: Chinese Chess/ Elephant Game: 象棋/ 中国象棋/ 中國象棋
+
+addappid(228985)
+addappid(229000)
+addappid(229003)
+addappid(229020)
+addappid(722670)
+addappid(722671,0,"abe2a90907af2d70d578d4159039c8bfacf35e28ac123dc20b2de4de1f64c425")
