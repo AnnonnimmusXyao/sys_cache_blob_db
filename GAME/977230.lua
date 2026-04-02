@@ -1,0 +1,4 @@
+--game: Mars Power Industries Deluxe
+
+addappid(977230)
+addappid(977231,0,"45a661fd26fe0fcea7f8264f1c9993522a337a305158128f3efb44af6d2906b7")
