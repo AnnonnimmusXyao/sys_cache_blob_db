@@ -1,0 +1,4 @@
+--game: Cosmic Trail
+
+addappid(727970)
+addappid(727971,0,"6eb4a44518fa6e3218a160f2af40b1f76557160ece12b73a9a8878d7bc4688f7")
