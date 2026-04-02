@@ -1,0 +1,4 @@
+--game: Dangerous Skies 80's edition
+
+addappid(896220)
+addappid(896221,0,"2336e2df7527006faa49d65185c3867b26e0e45b472384a5e8600b01c50ceee4")
