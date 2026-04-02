@@ -1,0 +1,4 @@
+--game: Apocalypse Rider
+
+addappid(832990)
+addappid(832991,0,"d44c4070bb8944e665a99d64768eed4fdd4e3d6b21869367f26b4f2377c3f300")
