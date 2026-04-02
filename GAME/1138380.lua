@@ -1,0 +1,4 @@
+--game: Rhythm Mage VR
+
+addappid(1138380)
+addappid(1138381,0,"ff37896631e40a36dc2879c4da44c225d488eb4af60dccb7cab4751668263bf4")
