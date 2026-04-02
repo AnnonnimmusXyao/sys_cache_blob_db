@@ -1,0 +1,4 @@
+--game: Throw Anything
+
+addappid(746660)
+addappid(746661,0,"46f35b7ea98d48eb8248890a1b0cfe74ad968f0a9c5ec79a34cf249839fd59d7")
