@@ -1,0 +1,4 @@
+--game: Alpha Dog
+
+addappid(1102700)
+addappid(1102701,0,"28ef7640e0867364a7b23a81b869462c3faf887b479831d0f1b54ab92adf4ad2")
