@@ -1,0 +1,4 @@
+--game: COLLAPSED
+
+addappid(1074610)
+addappid(1074611,0,"cd4fd6686128119834ec29241c50a43a056ed7dea6f2e4ec20cdb457e009fea1")
