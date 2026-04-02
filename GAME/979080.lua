@@ -1,0 +1,5 @@
+--game: Rebel Forces
+
+addappid(979080)
+addappid(979081,0,"ed636ba4df4b594819361335d9530f0c7665c09c20bace7879a650eae648e057")
+addappid(1031300)
