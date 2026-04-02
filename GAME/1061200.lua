@@ -1,0 +1,5 @@
+--game: DomiDo
+
+addappid(1061200)
+addappid(1061201,0,"1033cd70ad4c9487b9de4ce210247edb7cf1294aeebdde20499db4d5d5b5c48e")
+addappid(1061202,0,"d2f94b81a66d34c155f088839156a82f1ad8aa739da79b7ac28c4c2d5fc974e9")
