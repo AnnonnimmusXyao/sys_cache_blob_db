@@ -1,0 +1,4 @@
+--game: Sniper Elite VR
+
+addappid(752480)
+addappid(752482,0,"fd6d41b828471e30b0a9d5393149283f6de2656c1360ec20c67218d3e679b066")
