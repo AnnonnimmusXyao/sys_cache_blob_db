@@ -1,0 +1,4 @@
+--game: Edge Of Existence
+
+addappid(704140)
+addappid(704141,0,"f52667f2678ec8e72c205070b847834675bb05b8c80f4d2e84eac94ece23ffc9")
