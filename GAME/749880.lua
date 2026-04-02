@@ -1,0 +1,4 @@
+--game: Just Jump
+
+addappid(749880)
+addappid(749881,0,"0877e0f69d7db1f092b51700aedb629a749f2d6308fc8b1decc139fa9c3abeca")
