@@ -1,0 +1,4 @@
+--game: Asterix & Obelix XXL 2
+
+addappid(887060)
+addappid(887061,0,"619d82d4d552e56df7ec931498c5935025845cb20227c8697d88e448afbb2034")
