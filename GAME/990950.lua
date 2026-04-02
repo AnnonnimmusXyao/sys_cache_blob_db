@@ -1,0 +1,4 @@
+--game: Indiana Boy Steam Edition
+
+addappid(990950)
+addappid(990951,0,"fe8b27b6a8dbfa8bcf8b6699cad871e3f4a9d310552adbbdffbc031914b33818")
