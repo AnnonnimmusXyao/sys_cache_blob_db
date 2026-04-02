@@ -1,0 +1,5 @@
+--game: Little Witch Academia: Chamber of Time
+
+addappid(228985)
+addappid(710470)
+addappid(710471,0,"672f8405751b9038891269cca357b4cd1087d5824c0f45283751afdaae0c2162")
