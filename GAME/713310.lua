@@ -1,0 +1,4 @@
+--game: Gambol
+
+addappid(713310)
+addappid(713311,0,"ece3794409cc034c8cf0b956db5e7525010c2157e985f66a720e03180c85ecf3")
