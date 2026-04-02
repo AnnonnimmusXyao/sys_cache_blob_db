@@ -1,0 +1,9 @@
+--game: Supremacy: 1914
+
+addappid(979920)
+addappid(979921,0,"e046dc9435ed3187b58bbce1bd767f016d9f89cd48e7796af42145a436b68ce4")
+addappid(979922,0,"dd9f6e341716f4ced22b255e9a10a2f818f3836b428afb6607451dcf017ae585")
+addappid(1004280)
+addappid(1004290)
+addappid(1004300)
+addappid(1004301)
