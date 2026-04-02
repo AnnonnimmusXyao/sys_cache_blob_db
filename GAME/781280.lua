@@ -1,0 +1,4 @@
+--game: Time Gate: Knight's Chase
+
+addappid(781280)
+addappid(781281,0,"30bac691277583bcac5e5bfab640a47379936905d63b1d907ebe0681a0ca59f4")
