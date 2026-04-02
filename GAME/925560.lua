@@ -1,0 +1,4 @@
+--game: Bot Gaiden
+
+addappid(925560)
+addappid(925561,0,"3f8bfe137a5b22f53536c9e09352ca2dbbb4594bc05c111e765a4260ba7d453e")
