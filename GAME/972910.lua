@@ -1,0 +1,4 @@
+--game: Timore 6
+
+addappid(972910)
+addappid(972911,0,"17ca885aa766f5b077a69a3935e1192be507f54efae65dc93d75cce960b9d435")
