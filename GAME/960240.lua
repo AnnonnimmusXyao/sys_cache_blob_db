@@ -1,0 +1,4 @@
+--game: Stunt Kite Party
+
+addappid(960240)
+addappid(960241,0,"41ead54f063a49233b5dfb0c3e8a6b2791cf9c1428646fd6da8c0db3700c0fdf")
