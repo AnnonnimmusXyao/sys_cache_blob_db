@@ -1,0 +1,4 @@
+--game: Home Architect - Design your floor plans in 3D - Ultimate Edition
+
+addappid(790900)
+addappid(790901,0,"8f3ba73ae4c33a4a8736b5d37c8430407f7a88dfcc77e421d0416fe560bd62d9")
