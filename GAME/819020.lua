@@ -1,0 +1,5 @@
+--game: Zanki Zero: Last Beginning
+
+addappid(819020)
+addappid(229004)
+addappid(819021,0,"ec9e19564d0aec8730421340231c83ae821404a166da55fb92991871d4421db4")
