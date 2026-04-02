@@ -1,0 +1,4 @@
+--game: Militia 2
+
+addappid(1070510)
+addappid(1070511,0,"f2a129387f6124d12e3bbe4394f7bf6f414f87f5715ece75cd6a82f6f0ace8c2")
