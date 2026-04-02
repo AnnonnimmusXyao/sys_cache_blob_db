@@ -1,0 +1,4 @@
+--game: The Battles of Spwak
+
+addappid(1076300)
+addappid(1076301,0,"66d574c14de529d021724c5b9d9e966cbf4c3ae398b741b01233e22d8db059f6")
