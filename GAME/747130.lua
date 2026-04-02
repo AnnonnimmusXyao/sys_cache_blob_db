@@ -1,0 +1,4 @@
+--game: Haunted Dream House
+
+addappid(747130)
+addappid(747131,0,"662e30bf950cf1e9bb9fc704ed929f6b7ad637d5ad2e1b9c03417fda26751e79")
