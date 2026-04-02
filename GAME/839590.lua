@@ -1,0 +1,4 @@
+--game: Hamster Daily
+
+addappid(839590)
+addappid(839591,0,"7093b1ccce201d5f415cbe206a55f95061f3ba952f068bf14fc3179ee37d7c8e")
