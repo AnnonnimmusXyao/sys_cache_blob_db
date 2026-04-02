@@ -1,0 +1,4 @@
+--game: Crazy Washing Machine
+
+addappid(949820)
+addappid(949821,0,"c2e5413111cd3c9167fd7296c67503ce50de1690e5a9e53687cd32ae0c401706")
