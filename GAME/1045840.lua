@@ -1,0 +1,5 @@
+--game: Intruders: Hide and Seek
+
+addappid(228987)
+addappid(1045840)
+addappid(1045841,0,"d831f043f921f6380253d192d7b50a09815e999819f0689938e2107c7ad92756")
