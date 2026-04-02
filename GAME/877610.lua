@@ -1,0 +1,4 @@
+--game: Cyber Lemur
+
+addappid(877610)
+addappid(877611,0,"ebf40c42bad92e2498462f6e8d108e4f55d445be95a8cbdd3bf859bb20e410f4")
