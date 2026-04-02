@@ -1,0 +1,4 @@
+--game: Salt Thrust
+
+addappid(736230)
+addappid(736231,0,"edd501a209a313041b457d4e475fdccf8c0301c985749716ea93ee75a843c695")
