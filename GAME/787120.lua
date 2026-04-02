@@ -1,0 +1,4 @@
+--game: There Is No Tomorrow: Revived Edition
+
+addappid(787120)
+addappid(787121,0,"25168e43d352f8bae27e12b32d45a7101d8d0a65bdf9b1f84df9e121e01ce86f")
