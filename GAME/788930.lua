@@ -1,0 +1,4 @@
+--game: Razerwire:Nanowars
+
+addappid(788930)
+addappid(788931,0,"75043f9ec868fcf2f96939b3dc5fdace3493e80ed94ffd715569fee26152b157")
