@@ -1,0 +1,4 @@
+--game: Power Block
+
+addappid(1089100)
+addappid(1089101,0,"becf22b0beed97f048c3fc0700f6e716747439bde235847a6bea14e1077afa82")
