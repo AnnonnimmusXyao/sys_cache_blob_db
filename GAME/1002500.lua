@@ -1,0 +1,4 @@
+--game: M.C.I. Escapes
+
+addappid(1002500)
+addappid(1002501,0,"92b745fb844374c26ead0e424fe4e564a9c2becea6a57bcbd49694fabee7394e")
