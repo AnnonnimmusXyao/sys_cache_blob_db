@@ -1,0 +1,4 @@
+--game: TRANSCEND
+
+addappid(760860)
+addappid(760861,0,"36b75c8974ff41a44115990bad2a235bc5a8e4691343c807d0ec7512b887aa86")
