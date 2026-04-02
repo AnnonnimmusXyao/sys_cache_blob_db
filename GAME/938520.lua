@@ -1,0 +1,6 @@
+--game: Twenty One
+
+addappid(229004)
+addappid(938520)
+addappid(938521,0,"f619b9fc95467169df0e1ae9deb4422cf5e69be796b67bc5743192817969c286")
+addappid(938540)
