@@ -1,0 +1,4 @@
+--game: Horror Ville Maze Escape
+
+addappid(1088800)
+addappid(1088801,0,"43f53e857752a2956dfa02168fc853e8b4e5f848579d813a1f3f50d312accfe4")
