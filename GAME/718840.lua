@@ -1,0 +1,4 @@
+--game: DiamondFalls
+
+addappid(718840)
+addappid(718841,0,"0d9b0165513c26d9457ddbb55f8fecd9ef669fc9a079302d19d4b8cb1e2b8395")
