@@ -1,0 +1,5 @@
+--game: Serpent Fusion
+
+addappid(1126260)
+addappid(1126261,0,"0981e8f7b99434dfc82ab68b398e1c1cf0afae043bb2031dba7d2b21bf1bb0a2")
+addappid(1126262,0,"dd0ec24c37daef0d9b3073f7853b21fa54e819f08dd522bf5a51f9aa946f2d05")
