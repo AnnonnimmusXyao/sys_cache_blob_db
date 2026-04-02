@@ -1,0 +1,5 @@
+--game: Bombergrounds: Reborn
+
+addappid(1104450)
+addappid(1104451,0,"89a412ec77b1c7920408bb05f1389899cb7c8b50b78af352e39bb1b4ab527646")
+addappid(1104453,0,"4bd88019cb18b9c3b75d8f20ae6c9eebcec8ca30cc3653304a6d755ca86db372")
