@@ -1,0 +1,4 @@
+--game: Tower VR
+
+addappid(1124070)
+addappid(1124071,0,"f67405d4fd46512d5cede6a18106eee4f4305b9fdea5d436c6c6ecfad40398f7")
