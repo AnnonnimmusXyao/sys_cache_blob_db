@@ -1,0 +1,4 @@
+--game: WarZone Flashpoint
+
+addappid(987910)
+addappid(987911,0,"239025f34e81cab78c27426a53b362321888e1ba24ef581ee7617124d72ed83d")
