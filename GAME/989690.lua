@@ -1,0 +1,5 @@
+--game: Conan Unconquered
+
+addappid(989690)
+addappid(228983)
+addappid(989691,0,"956c4557113dd14a719501a116a706462f4f803eb0a8582e64778d9064afd958")
