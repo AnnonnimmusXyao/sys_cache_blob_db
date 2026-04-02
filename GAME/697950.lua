@@ -1,0 +1,4 @@
+--game: Tank Wars: Anniversary Edition
+
+addappid(697950)
+addappid(697951,0,"535d1d20c094d4e2de512bed53425b5f785d097c8a0dffb257cfc501b0cb50b9")
