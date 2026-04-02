@@ -1,0 +1,4 @@
+--game: Nullysun
+
+addappid(732840)
+addappid(732841,0,"633300d53a2b40ec112d4c5975160f3a206ada2fadf541cf446fa1a10e196802")
