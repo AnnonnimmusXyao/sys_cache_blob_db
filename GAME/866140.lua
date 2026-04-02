@@ -1,0 +1,8 @@
+--game: Arise: A Simple Story
+
+addappid(228987)
+addappid(866140)
+addappid(866141,0,"bc1d9fc90b9f1fe4f26c77680eef7130cb4c7d5a5a8b238d5273e20ba3186ad7")
+addappid(1946100)
+addappid(1946101)
+addappid(2018010)
