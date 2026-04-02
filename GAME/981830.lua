@@ -1,0 +1,4 @@
+--game: GIGABUSTER
+
+addappid(981830)
+addappid(981831,0,"20b9ae6ba7d243d77d7579038530d6cf9864d480e1d2081fa0cea8632e7a927e")
