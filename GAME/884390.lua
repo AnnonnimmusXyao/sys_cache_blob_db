@@ -1,0 +1,4 @@
+--game: Professor Watts Word Search: Pirates Life
+
+addappid(884390)
+addappid(884391,0,"70db22a41dd9490cc87bc09fbe09c4794f75ea8f7baf22231cfec2b06f2ab612")
