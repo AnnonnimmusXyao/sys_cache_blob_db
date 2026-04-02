@@ -1,0 +1,6 @@
+--game: Ni no Kuni Wrath of the White Witch™ Remastered
+
+addappid(798460)
+addappid(798461,0,"939a224755dc4c5c3580d0d9f2a8849d836222a4ab25e078137d82cb619b4c70")
+addappid(798462,0,"d858c296b49663598e7424076ee6b7079a789856f1f3e944e9997a52c965b307")
+addappid(1154000)
