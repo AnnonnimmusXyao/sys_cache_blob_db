@@ -1,0 +1,4 @@
+--game: Exosphere
+
+addappid(1048040)
+addappid(1048041,0,"147152a88a606f01d7bb5823dafc26144a3cb30992e4a89ee7a855541a2dc59e")
