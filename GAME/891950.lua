@@ -1,0 +1,4 @@
+--game: Wagers of War
+
+addappid(891950)
+addappid(891951,0,"b4b524d62da58f05ef427a709ec24949caa5c542413e49937930fd1527126385")
