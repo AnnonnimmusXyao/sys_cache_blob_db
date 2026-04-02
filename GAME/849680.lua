@@ -1,0 +1,4 @@
+--game: TimeTekker
+
+addappid(849680)
+addappid(849683,0,"8643952e7f5153b18dbf52033f4f804c805ca7bad393b68ce59f5700ea98c935")
