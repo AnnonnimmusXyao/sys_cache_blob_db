@@ -1,0 +1,4 @@
+--game: Gabbuchi
+
+addappid(1069970)
+addappid(1069971,0,"ed90a98d2ce524d660f3640c8afea7cdab2ffb1969af6c87d9d9a8793e0292a4")
