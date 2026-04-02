@@ -1,0 +1,4 @@
+--game: Stick Adventures: Wizard Madness: Chapter 1
+
+addappid(781860)
+addappid(781861,0,"9bb42355b638df60bb83761d32327717225b833ac5a17bf3122b9afe529b80ca")
