@@ -1,0 +1,4 @@
+--game: Saint Slaughter X Days
+
+addappid(846670)
+addappid(846671,0,"ea41296ff95c02f177c769c60a3af5f404f5498e8227aa464e39897655c10750")
