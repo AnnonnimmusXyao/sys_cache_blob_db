@@ -1,0 +1,4 @@
+--game: Iron Ruler
+
+addappid(1074440)
+addappid(1074441,0,"3d1f6cf5e916429ed901edd9d85c860eee08183122d2a3e859306e04434b0066")
