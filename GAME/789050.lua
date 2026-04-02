@@ -1,0 +1,4 @@
+--game: Paradise
+
+addappid(789050)
+addappid(789051,0,"8d54040fc124c8c44ac1754c00dce25e195bd809f8077c84d58714341b909d57")
