@@ -1,0 +1,5 @@
+--game: Hero's Descent
+
+addappid(726450)
+addappid(726451,0,"599cd9e7d50fba4d619cd1b471f3aaee84feae6532ca22ad5e5eebd6472dfb75")
+addappid(726452,0,"ef200ba61412f9ef7d6d4ae65c54720b7db42057065e9fe0f318602ad8912bfa")
