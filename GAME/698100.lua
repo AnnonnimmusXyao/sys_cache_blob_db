@@ -1,0 +1,4 @@
+--game: Protagon VR
+
+addappid(698100)
+addappid(698101,0,"d82b913d455328207dafd09dfe8bd61a98036ddfd9bff30455ba184447534544")
