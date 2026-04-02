@@ -1,0 +1,4 @@
+--game: Rotator
+
+addappid(771120)
+addappid(771121,0,"aaaeac586f1881bbf3f618add0164d7c537bedfd111da54d57bea7f8d83a53f3")
