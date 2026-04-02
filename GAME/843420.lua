@@ -1,0 +1,4 @@
+--game: Supermarket VR and mini-games
+
+addappid(843420)
+addappid(843424,0,"853d6f1e5fc19e021afb3617e2bc5bc3f88e01d0ea13f2c28abf3db7994de74d")
