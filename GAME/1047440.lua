@@ -1,0 +1,6 @@
+--game: DATE A LIVE: Rio Reincarnation
+
+addappid(228987)
+addappid(1047440)
+addappid(1047441,0,"42c300ed85d7618f3fa71ad5ba690b96a67971de91e986d9e920527d400ec700")
+addappid(1055670,0,"8fc5e53493b08c7ffb83539a743a7c012b87566802eb320fc37fc43c7dae751a")
