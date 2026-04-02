@@ -1,0 +1,4 @@
+--game: Panacea: Last Will
+
+addappid(773420)
+addappid(773421,0,"b3ce414ec0b11d54be5d50318ad57e33fb5307914f6822a5382dc68ef6fe5661")
