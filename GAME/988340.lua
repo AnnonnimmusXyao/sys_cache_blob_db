@@ -1,0 +1,4 @@
+--game: Mad Hunting Simulator VR
+
+addappid(988340)
+addappid(988341,0,"8e28098e1b08e4201afffa92937d4841c9e3d4f361a21deaf010844ac5c4ca41")
