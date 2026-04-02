@@ -1,0 +1,4 @@
+--game: 7 Sexy Sins
+
+addappid(1023740)
+addappid(1023741,0,"080d958a5c49374cd18c8d02ed6afd38caf19d49121f1bbf944ab419ad82df5d")
