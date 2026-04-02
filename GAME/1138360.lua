@@ -1,0 +1,4 @@
+--game: Next Hand Master
+
+addappid(1138360)
+addappid(1138361,0,"7c81ca38cdf597cf1418c9c49dfc1b4f5946b3b0bb80e7def598bfa5aa315444")
