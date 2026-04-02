@@ -1,0 +1,4 @@
+--game: Bare Boob Brawlerz Visual Novel: Vol 1
+
+addappid(906560)
+addappid(906561,0,"bc0a750ce9df88e4ffe4cf56d5bc765ea29e1ed384eba080921251807e9338e1")
