@@ -1,0 +1,4 @@
+--game: Roach Killer
+
+addappid(1034440)
+addappid(1034441,0,"88eed8ad1eb59e117e3f651934770503ab52f52000c0ccc10cf333e14f0ce30f")
