@@ -1,0 +1,4 @@
+--game: Scooter Delivery VR
+
+addappid(1060980)
+addappid(1060981,0,"4bb70638c8c854b8c9781064aed9690b2c02e52912caddc7587c79d032aae1c4")
