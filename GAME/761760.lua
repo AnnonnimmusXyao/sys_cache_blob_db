@@ -1,0 +1,4 @@
+--game: Till the dawn, waiting
+
+addappid(761760)
+addappid(761761,0,"db25436614647ef17f895eee4e1da83cabbeb24131c63dba6904085c0c80428d")
