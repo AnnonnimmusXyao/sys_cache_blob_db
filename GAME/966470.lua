@@ -1,0 +1,4 @@
+--game: Tale of Ninja: Fall of the Miyoshi
+
+addappid(966470)
+addappid(966471,0,"321350d7dd59d5138418243367f3a695dd0ff711285ab0beab02e9ec9a6e5c17")
