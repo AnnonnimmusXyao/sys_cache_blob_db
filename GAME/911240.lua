@@ -1,0 +1,4 @@
+--game: Super Streaker Plus
+
+addappid(911240)
+addappid(911242,0,"4a378fc2fdf96280c69de9d313839d9cc3ef138981713c4c1d283b3a02343ab4")
