@@ -1,0 +1,4 @@
+--game: The Gameshow
+
+addappid(960610)
+addappid(960611,0,"f50751880e27890be747c150dbe85ca5d038f48c3696b2c28f80d11be767fab0")
