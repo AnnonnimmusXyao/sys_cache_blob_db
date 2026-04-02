@@ -1,0 +1,4 @@
+--game: Kowloon High-School Chronicle: ORIGIN OF ADVENTURE
+
+addappid(1053390)
+addappid(1053391,0,"6eec974b7800fffb0dd317eddbdda52b61ce1161f146ea8287ea5875b1cbca4b")
