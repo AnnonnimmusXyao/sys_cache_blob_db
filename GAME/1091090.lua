@@ -1,0 +1,4 @@
+--game: They Are Beasts
+
+addappid(1091090)
+addappid(1091091,0,"8abe2142068faa8ca78494cb51731d8145853d994a670b5025cc60fe154a7da4")
