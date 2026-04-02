@@ -1,0 +1,4 @@
+--game: Five Day Great Escape 五日大逃亡
+
+addappid(994290)
+addappid(994291,0,"893d9077e920464bf38eb97946d1e43c15df2d5bd692c77b158745827fcb4cc1")
