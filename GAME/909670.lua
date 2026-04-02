@@ -1,0 +1,4 @@
+--game: Skybolt Zack
+
+addappid(909670)
+addappid(909671,0,"c6a870cfb0840ba8fdc63d73d378c5a2a03202769d619ce82a26e653e28de760")
