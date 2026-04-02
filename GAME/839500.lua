@@ -1,0 +1,4 @@
+--game: 血战夹皮沟
+
+addappid(839500)
+addappid(839501,0,"5801e055f5d842f4570c7e197f909da1a6d3fe76be101918c2f2e43b240d5f0c")
