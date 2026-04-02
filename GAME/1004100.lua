@@ -1,0 +1,4 @@
+--game: Chaos Caves
+
+addappid(1004100)
+addappid(1004101,0,"dffaf289f16c99e06a18e874208776ded38e3032361581cd5b5f060b5fbdf5c5")
