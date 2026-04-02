@@ -1,0 +1,4 @@
+--game: Radical Dungeon Sweeper
+
+addappid(761170)
+addappid(761171,0,"58c55043dd591c8a61fe0fbd08d3c1476308fc70cf6887e46f14b23a3df8e642")
