@@ -1,0 +1,5 @@
+--game: Devil Slayer - Raksasi 斩妖Raksasi
+
+addappid(1016600)
+addappid(1016601,0,"7305a22edb02e01eb406044f97a78b787bd783e099051056349ea84f1b46f673")
+addappid(1016602,0,"448b970771211febe247adae9dd14b54bc809cc82d73842d02fe93c7ac44c1f8")
