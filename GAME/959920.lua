@@ -1,0 +1,4 @@
+--game: VR Curling
+
+addappid(959920)
+addappid(959921,0,"74e70c66a0e48d251d0c45dcfa47d71da303066c034f5fda1e9092b9fd853d31")
