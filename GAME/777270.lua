@@ -1,0 +1,5 @@
+--game: Thirsty Bubble
+
+addappid(229000)
+addappid(777270)
+addappid(777271,0,"feba485d14c7a5def88e073abd50a1c17c64897a5310ba7b5e71b41398194a26")
