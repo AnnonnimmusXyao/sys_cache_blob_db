@@ -1,0 +1,4 @@
+--game: Terror of Hemasaurus
+
+addappid(1016180)
+addappid(1016181,0,"ad23b65650f7f7fd5f79ba3560baf8a094b6cef7b6367ae304e511ae58fe2a7c")
