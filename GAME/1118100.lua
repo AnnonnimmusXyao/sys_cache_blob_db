@@ -1,0 +1,4 @@
+--game: 曲阿小将 Minor Leader
+
+addappid(1118100)
+addappid(1118101,0,"11c9842f16e32edefc3c5cc33e0ef02942a57e1e87d9ba3fb76976cd298af338")
