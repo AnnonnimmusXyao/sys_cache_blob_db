@@ -1,0 +1,7 @@
+--game: Super Phantom Cat
+
+addappid(229000)
+addappid(229001)
+addappid(988100)
+addappid(988101,0,"a18840607f68fbf86ef87aadf5e1284dcc7f5bf04d603cb24c3ff39d9e813ce9")
+addappid(1048340,0,"7a32f8550606484b0c391df3943a7feb7042aba636d9d720b659832a7740b157")
