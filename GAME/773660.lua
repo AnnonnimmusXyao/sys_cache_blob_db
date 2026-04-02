@@ -1,0 +1,4 @@
+--game: Cannon Fire
+
+addappid(773660)
+addappid(773661,0,"ef448e3a456280f4fa57a0204a275998583496c4ee5253365e46ef548ca3ba26")
