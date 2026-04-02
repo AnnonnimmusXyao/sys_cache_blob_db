@@ -1,0 +1,5 @@
+--game: 狼と香辛料VR/Spice&WolfVR
+
+addappid(228987)
+addappid(1065970)
+addappid(1065971,0,"cc8c4f2ea1317324ece6d408894f3f18239681b1f13df4f4d415556097dcbd9f")
