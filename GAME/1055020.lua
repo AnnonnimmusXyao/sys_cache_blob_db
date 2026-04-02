@@ -1,0 +1,4 @@
+--game: InfinityVR
+
+addappid(1055020)
+addappid(1055021,0,"11d30ded8dbc2626f265156069ff870f2a98354b9970cfcec235da19643c4939")
