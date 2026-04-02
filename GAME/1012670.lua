@@ -1,0 +1,4 @@
+--game: Gnubbl
+
+addappid(1012670)
+addappid(1012671,0,"de2b46e96a9ad689bd0190aea593fc5fe9e2474c67994ff149b856c7a50b7913")
