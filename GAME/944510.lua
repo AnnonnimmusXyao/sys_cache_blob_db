@@ -1,0 +1,4 @@
+--game: Space Merchant
+
+addappid(944510)
+addappid(944511,0,"49a92254172528f2df6e902bcb6efdaab1ab41ed0e585aed77a984d47f0cbfa1")
