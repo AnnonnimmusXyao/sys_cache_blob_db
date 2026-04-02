@@ -1,0 +1,4 @@
+--game: Conjuror's Eye
+
+addappid(805320)
+addappid(805321,0,"f23c57f10865b16671a4b41092e6ac2be972cb0aba1385382f52378e563b28d5")
