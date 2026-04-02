@@ -1,0 +1,4 @@
+--game: Knights Rubbish
+
+addappid(980440)
+addappid(980442,0,"ec376ab78313b4aca3699ca693530e3b44aceab521462c32a2c720a2ddf9fdc6")
