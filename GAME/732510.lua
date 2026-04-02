@@ -1,0 +1,4 @@
+--game: Rise of the Foederati
+
+addappid(732510)
+addappid(732511,0,"31c9a0875809c9a6de052ec73a91399ccd5f8545f6cec5efa47fefccb7a07832")
