@@ -1,0 +1,6 @@
+--game: Thundering Skies
+
+addappid(228983)
+addappid(228985)
+addappid(725660)
+addappid(725661,0,"7ff447d6279906ad218b01df06a8a53cd4d5064914760342f88b5473ecde2b07")
