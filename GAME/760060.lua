@@ -1,0 +1,5 @@
+--game: Mutant Year Zero: Road to Eden
+
+addappid(760060)
+addappid(760061,0,"5705accc1426ce6319b7cba3cfd4b5295ffb60f186880202690355b00bc0d9c2")
+addappid(887780,0,"957717e1f5504d6233b99309e2b35aaf5e245213bd6b262fccac78414ecd5dce")
