@@ -1,0 +1,4 @@
+--game: 容身之地铁
+
+addappid(1067270)
+addappid(1067271,0,"14aa406b8d4d88164c9a0bbccfc4c3825e1104ca7fe43339e5f05aa302e54196")
