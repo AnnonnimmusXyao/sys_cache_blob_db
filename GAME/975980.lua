@@ -1,0 +1,4 @@
+--game: Mahjong Fest: Winterland
+
+addappid(975980)
+addappid(975981,0,"993a2d3176f9206d499964d779bb4b50e6be32b7e5d1ac0e6d87092225f1623d")
