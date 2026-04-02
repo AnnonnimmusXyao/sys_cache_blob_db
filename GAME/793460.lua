@@ -1,0 +1,10 @@
+--game: 112 Operator
+
+addappid(793460)
+addappid(793461,0,"2923abff356f40a6626759eef98e74c0fab20968d61d1d0a75916c77ea6bc0b6")
+addappid(793462,0,"6f789024b4260378373b82f48b9ebf951de6ee06ca48a46558fdbfd80b5efd04")
+addappid(1300850)
+addappid(1300851)
+addappid(1412760)
+addappid(1412761)
+addappid(1570180)
