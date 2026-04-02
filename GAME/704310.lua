@@ -1,0 +1,4 @@
+--game: Lumberjack VR
+
+addappid(704310)
+addappid(704311,0,"5393dd90aab4be0d0fb5de347094d1f71e81cda056c2f26c2e1f79a701d4f0f4")
