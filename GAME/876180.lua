@@ -1,0 +1,4 @@
+--game: Skyscrapers Puzzle: Airi's tale
+
+addappid(876180)
+addappid(876181,0,"a7789ed3c568e5ccfa8d3f4f778bd2f7bc61df571e375004a770b3b020458e61")
