@@ -1,0 +1,5 @@
+--game: Lamentum
+
+addappid(1033950)
+addappid(1033951,0,"4f3c83acb481fca957682d230cbc64e05d8bc2df908a3b486502c9ab6e0f4a4a")
+addappid(1741350)
