@@ -1,0 +1,4 @@
+--game: Yet Another Waveshooter
+
+addappid(1112670)
+addappid(1112671,0,"608db6e674ce3648bec79b83e3801ad99985c81db86567a3aa2777d992f6a701")
