@@ -1,0 +1,4 @@
+--game: BYTEPATH
+
+addappid(760330)
+addappid(760331,0,"22e06dbdaec70fc2209b5d80519ea4007c05ec118a6d945fd62c3adc5a7fbdf7")
