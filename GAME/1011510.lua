@@ -1,0 +1,4 @@
+--game: Wizard And Minion Idle
+
+addappid(1011510)
+addappid(1011511,0,"443a8c9b3324d8aee68dbb1489e47cf56b6224c2f999daf8190294ef895b083d")
