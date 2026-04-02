@@ -1,0 +1,7 @@
+--game: 茂伸奇谈
+
+addappid(228981)
+addappid(758090)
+addappid(758091,0,"5f812f0e87d22b6339d47a8fbc98617f2bee84d2599596d2c0b7cbfcb983e5b8")
+addappid(758092,0,"1ed4dd35b3330b6509117d17489ddb2bb18e5e263ee45159da01355fedc685b8")
+addappid(782090)
