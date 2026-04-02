@@ -1,0 +1,4 @@
+--game: Red Gate
+
+addappid(1076600)
+addappid(1076601,0,"f67d8f4b38701f69d338ca1a098a82dad4c5ff1b446270b3891a988ace078aec")
