@@ -1,0 +1,4 @@
+--game: Attractorache
+
+addappid(940520)
+addappid(940521,0,"7ffe27143ea6feceb66302bf2a01a5dfb30d6b6485098d72732d0657a3cee1e6")
