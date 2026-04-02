@@ -1,0 +1,4 @@
+--game: 御俠客 Wuxia Master
+
+addappid(933300)
+addappid(933301,0,"d003e8e35791f58f8dd5b9f4d7db15cee5ad821a6d46bfeaa2ccbdf317b48118")
