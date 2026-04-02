@@ -1,0 +1,10 @@
+--game: Alaskan Road Truckers
+
+addappid(849100)
+addappid(849101,0,"18d06e538da60410ecea175ee8198f8239f0de8d7fa253863ce308029d9135ae")
+addappid(2600800)
+addappid(2704590)
+addappid(2709680)
+addappid(2915720)
+addappid(3303500)
+addappid(3303510)
