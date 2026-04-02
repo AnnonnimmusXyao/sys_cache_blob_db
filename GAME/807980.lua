@@ -1,0 +1,4 @@
+--game: ElvenEscape
+
+addappid(807980)
+addappid(807982,0,"02deb50b9dddf4ba72bf7db9c9a2a908c16f3193164c9c92ad201d65dcca9582")
