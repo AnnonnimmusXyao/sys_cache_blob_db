@@ -1,0 +1,4 @@
+--game: Haunted Halls: Fears from Childhood Collector's Edition
+
+addappid(796100)
+addappid(796101,0,"d980aac6a411d86d428da43a3c2b93a8a165094c53223065fda9c514a5cc43c3")
