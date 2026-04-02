@@ -1,0 +1,4 @@
+--game: Globesweeper
+
+addappid(982220)
+addappid(982221,0,"aa727fc64a33a2cb339ef2dcd08f2bba3bdb94e66a2ef042158fbc1000658dea")
