@@ -1,0 +1,8 @@
+--game: SCP: 5K
+
+addappid(872670)
+addappid(872671,0,"87514c506dda0ed736b270bc5563c239ebe571e9c215a2c9085414ba6c22d26a")
+addappid(884101)
+addappid(884102)
+addappid(1989390)
+addappid(3508400)
