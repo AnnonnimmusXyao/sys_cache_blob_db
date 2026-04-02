@@ -1,0 +1,4 @@
+--game: Outbreak Story
+
+addappid(981090)
+addappid(981091,0,"75f2c165af3a2bcc523a8d3dff79f41ae634563247406f3cd0f55eb19c8db430")
