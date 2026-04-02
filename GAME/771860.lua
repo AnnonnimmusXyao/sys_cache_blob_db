@@ -1,0 +1,4 @@
+--game: Jelly Escape
+
+addappid(771860)
+addappid(771861,0,"27fae1d1e7b6a1a2a8bf274b6f73dc81e552da4d6e6c5a986afee930c8613819")
