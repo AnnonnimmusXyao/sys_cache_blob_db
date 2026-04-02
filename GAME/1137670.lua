@@ -1,0 +1,4 @@
+--game: Power Punch II
+
+addappid(1137670)
+addappid(1137671,0,"9ccdee0bfb62a04152c4a08f3c27aad6de92eb2ad96dd587cd6fdafc8f6ec2d4")
