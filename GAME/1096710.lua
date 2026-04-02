@@ -1,0 +1,4 @@
+--game: Hello Neighbor Alpha 4
+
+addappid(1096710)
+addappid(1096711,0,"697752c08abac9ec4a0bc0b2f76372923b648dd314107d3951669ab861c2d20f")
