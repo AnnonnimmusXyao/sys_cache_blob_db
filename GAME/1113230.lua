@@ -1,0 +1,4 @@
+--game: TerTD
+
+addappid(1113230)
+addappid(1113231,0,"ee4e9cfbce9e2846644cad1409c74a85dfe974cb008dfd26d19c75885d6c5f1b")
