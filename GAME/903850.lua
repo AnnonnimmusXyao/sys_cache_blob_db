@@ -1,0 +1,4 @@
+--game: Fairy Knights
+
+addappid(903850)
+addappid(903851,0,"226fed01af6c9c1d829b8b5ce92357c2bb8148a53ad1af2feb9dc1b253d1fb1b")
