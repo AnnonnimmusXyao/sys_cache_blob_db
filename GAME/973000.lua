@@ -1,0 +1,6 @@
+--game: Die Young: Prologue
+
+addappid(229002)
+addappid(229003)
+addappid(973000)
+addappid(973001,0,"f5495b32b8499214fa455fe081b48d0e19cde21b44c1e0eece88969af2df675c")
