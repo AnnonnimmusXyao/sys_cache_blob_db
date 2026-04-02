@@ -1,0 +1,4 @@
+--game: The Myth Seekers 2: The Sunken City
+
+addappid(1055310)
+addappid(1055311,0,"1f1125bc8c909fcd1bf8073ef61c884801d6e30f3adc9458176d0504f3b68623")
