@@ -1,0 +1,4 @@
+--game: NetHack: Legacy
+
+addappid(837200)
+addappid(837202,0,"374816e34fc4c0da1b463adf41e02dfcee7fc6d0a8effd04939f92ead46361e8")
