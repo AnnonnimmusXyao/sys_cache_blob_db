@@ -1,0 +1,4 @@
+--game: Supernova Tactics
+
+addappid(1027650)
+addappid(1027652,0,"939e33b2bf10503222c2220b6d04065536f8ad008e402bb8a49682d983a6d163")
