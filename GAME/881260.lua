@@ -1,0 +1,4 @@
+--game: Vagrant Fury
+
+addappid(881260)
+addappid(881261,0,"eb9b46c46da79a7e879d4533c0a937e557c072f77f8e8699561cf4f578197d58")
