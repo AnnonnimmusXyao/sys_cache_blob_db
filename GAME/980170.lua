@@ -1,0 +1,4 @@
+--game: Tenko's Magical Sword Quest
+
+addappid(980170)
+addappid(980171,0,"4c0239c9fa5e206540965f99eb74efdf2d3455947a2809af4276059531588333")
