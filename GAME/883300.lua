@@ -1,0 +1,4 @@
+--game: Poverty is a Choice
+
+addappid(883300)
+addappid(883301,0,"f4b3e1b464e5752847178d6ac02c1090e46f59b0452b05443fb1de67a41da0ba")
