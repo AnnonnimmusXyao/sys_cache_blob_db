@@ -1,0 +1,4 @@
+--game: RGB RUN
+
+addappid(978340)
+addappid(978341,0,"1bd42d2b7e81bc4748402a133cd6f2c6c10b18e0950625957e00513e4428f993")
