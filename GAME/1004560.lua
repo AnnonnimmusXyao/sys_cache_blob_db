@@ -1,0 +1,4 @@
+--game: Everpath
+
+addappid(1004560)
+addappid(1004561,0,"2d35c43c6a317dd42081e8b6df785935e09f06bd0c9486f02633230df3e8968a")
