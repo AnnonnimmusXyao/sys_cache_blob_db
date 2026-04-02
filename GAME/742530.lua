@@ -1,0 +1,4 @@
+--game: Roguemance
+
+addappid(742530)
+addappid(742531,0,"6cbadf74b05a5315ded2cbf108025fc0b1a0554f196e86020cdd43e7c03ec655")
