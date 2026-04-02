@@ -1,0 +1,4 @@
+--game: Kill The Monster
+
+addappid(890910)
+addappid(890911,0,"ab56eba07a34985d044b016a9ec2f6c790c152331c955a823dd292022a67f215")
