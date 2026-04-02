@@ -1,0 +1,4 @@
+--game: Qybe
+
+addappid(868500)
+addappid(868501,0,"6a58eedecaa0d37808c8760791c4220f4d3f29aa110f6424ef052da2dec66404")
