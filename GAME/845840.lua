@@ -1,0 +1,4 @@
+--game: Laser Maze
+
+addappid(845840)
+addappid(845841,0,"3818305572dd3cb6bfaa9e9d91808e10cde5030ecbcaf99e6c5acc5e157b935e")
