@@ -1,0 +1,4 @@
+--game: Super Arcade Soccer
+
+addappid(1024430)
+addappid(1024431,0,"9712ba190e933239db8257082a4dd989b54f879c78ca8272bbbccf0033a5e7ea")
