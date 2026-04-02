@@ -1,0 +1,5 @@
+--game: Bake 'n Switch
+
+addappid(1080410)
+addappid(1080414,0,"1719c4b75b779f013b29bfe6a577d9f65aad517196dfaefd20c53d1a3282a172")
+addappid(1322430)
