@@ -1,0 +1,4 @@
+--game: Beats Of Fury
+
+addappid(727450)
+addappid(727451,0,"a26a258c98c252c92f2221e67e034c396a7e58aafb7260340be5abb6b0ba9c8b")
