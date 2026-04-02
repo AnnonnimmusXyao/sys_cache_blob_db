@@ -1,0 +1,4 @@
+--game: Wounded - The Beginning
+
+addappid(1015130)
+addappid(1015131,0,"bbba32a0b178ad266b9159b08b5b5aab107e9b813baaf1eeeb3c1dcd7d3310cf")
