@@ -1,0 +1,4 @@
+--game: 尸如潮水
+
+addappid(953740)
+addappid(953741,0,"7660c34eeeef9907b0170d86c74ea51909daf0dfdbe9f33d803171ec825de408")
