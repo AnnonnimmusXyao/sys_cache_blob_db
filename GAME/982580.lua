@@ -1,0 +1,5 @@
+--game: 女巫与六便士 the sibyl and sixpence
+
+addappid(982580)
+addappid(982581,0,"27d0fe9904826d285eb953fd56041ba2330df4823dc49b2890fe32c6bf2c6bc7")
+addappid(982582,0,"4c7964114df46bbad980f03fca31d761b3982087b1e1be4b901f8a4a2739bf83")
