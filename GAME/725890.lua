@@ -1,0 +1,4 @@
+--game: Assembly League
+
+addappid(725890)
+addappid(725891,0,"20d030d0de56cfcb5fd3ea552c33f296f8b77eba606c8d7780bde9c2c1ca41ee")
