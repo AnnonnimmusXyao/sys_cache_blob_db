@@ -1,0 +1,4 @@
+--game: ERMO
+
+addappid(731670)
+addappid(731671,0,"8d56e2fa162e2b29c8d500aa93727fe7840b41af463b56448dad01947b75aa0f")
