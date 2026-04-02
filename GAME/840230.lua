@@ -1,0 +1,4 @@
+--game: Chicken ~Boiled Egg~
+
+addappid(840230)
+addappid(840231,0,"91a3051087e6132c04792105926e2feef7712c827d360f26db9a76980be50cf2")
