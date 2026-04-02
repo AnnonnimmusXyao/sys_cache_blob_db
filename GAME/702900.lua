@@ -1,0 +1,4 @@
+--game: Time Barbarian Extreme!!
+
+addappid(702900)
+addappid(702901,0,"30de44489780f24bf49227e52dd138ca621cdd4a29b20e067d30caf84135e9e1")
