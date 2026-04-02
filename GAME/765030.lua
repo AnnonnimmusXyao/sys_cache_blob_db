@@ -1,0 +1,5 @@
+--game: 樱雪集～Yuyuko's Butterfly Dream
+
+addappid(765030)
+addappid(765032,0,"2a3cbdf4af0d7bec6f0feaf4e681c55fb6eb666af022308a0071354fe13d1eaa")
+addappid(1145760,0,"ecb6991e763e6c3d818fac27a152c77d26da028fd13f55ca4324334f9a545ce8")
