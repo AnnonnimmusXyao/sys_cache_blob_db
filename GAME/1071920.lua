@@ -1,0 +1,4 @@
+--game: 👾 Foreign Frugglers
+
+addappid(1071920)
+addappid(1071921,0,"cb2c28bb4c0e43ee6e58986e675bf9dde4d4a95f5e11b943115dcbab4ac7fb9c")
