@@ -1,0 +1,4 @@
+--game: Sweet Galaxy Adventure!
+
+addappid(1023640)
+addappid(1023641,0,"90006d4fc8baceaebb4655085550a7b72c12a5f556e2b0f3d45803f71b0f2336")
