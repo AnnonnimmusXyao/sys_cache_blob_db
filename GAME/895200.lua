@@ -1,0 +1,4 @@
+--game: SWORDS of GARGANTUA
+
+addappid(895200)
+addappid(895201,0,"8e4eff902a2fa6490c6cb9321caeb7e9f4815c963f7f0b60a5f197c372ae7047")
