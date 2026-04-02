@@ -1,0 +1,4 @@
+--game: NEBULOUS: Fleet Command
+
+addappid(887570)
+addappid(887571,0,"75252a8e668a49c99a8f56a9b77550209a9965e9a93b26c882c9706b973f5054")
