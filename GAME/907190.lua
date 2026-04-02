@@ -1,0 +1,5 @@
+--game: GRITS Racing
+
+addappid(907190)
+addappid(907192,0,"ed165ae2f978f2254f02cdc20cb344cbbfc36306ca5a35c2b05b4d03ceb31cbb")
+addappid(907193,0,"f8a44c0068238baa8326f3dc7949b8fcd0d04f1644f429a87e0f9a3b924b3d13")
