@@ -1,0 +1,4 @@
+--game: Startup Panic
+
+addappid(1045610)
+addappid(1045611,0,"79aceeca7900160b3af0b02387deaba1bf6a62dd5abc11e8cbdfe543aba82361")
