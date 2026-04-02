@@ -1,0 +1,5 @@
+--game: Escape until Friday
+
+addappid(228987)
+addappid(1064010)
+addappid(1064011,0,"d770ae11afdc92ed140fd5571c64b48370d947c771cd28b7713438745f625451")
