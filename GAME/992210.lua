@@ -1,0 +1,4 @@
+--game: Waves of the Atlantide
+
+addappid(992210)
+addappid(992211,0,"bbe19e69945bc967c64445d4dbc4858e1f5467606632d6af356df1d8bd933ce8")
