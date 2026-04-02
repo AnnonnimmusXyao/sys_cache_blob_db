@@ -1,0 +1,4 @@
+--game: The Chronicles of Jonah and the Whale
+
+addappid(1004500)
+addappid(1004502,0,"5a1be72b3a5475300aa34a3df098e37be97ebd32fb3794bba6d5716a908fd6e6")
