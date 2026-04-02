@@ -1,0 +1,4 @@
+--game: Puzzle Monarch: Egypt
+
+addappid(938820)
+addappid(938821,0,"1e5af587072d25aad3c9d8a63aedc62e797a7e6020c263292cd3a7f8c5bbd4dc")
