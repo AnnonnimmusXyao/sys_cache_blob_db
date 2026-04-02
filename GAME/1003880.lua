@@ -1,0 +1,4 @@
+--game: Sky of Destruction
+
+addappid(1003880)
+addappid(1003881,0,"ac8cfc1930b2cd549e980e101bbdf3345d6761f47731482ffff36dd6af7455b1")
