@@ -1,0 +1,5 @@
+--game: NEONARCADE: adventure puzzle muse
+
+addappid(963960)
+addappid(963961,0,"ba35b34caaba123ccbc26fcb957cba285b50a6e27407881356642070848299c8")
+addappid(970930)
