@@ -1,0 +1,4 @@
+--game: 建筑大冒险 Architectural Adventure
+
+addappid(907920)
+addappid(907921,0,"a63ff12d1ab58c2228710b92564afd22f1b7c70a95cf18eddfb7346e563229fa")
