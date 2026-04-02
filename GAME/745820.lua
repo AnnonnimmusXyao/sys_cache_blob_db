@@ -1,0 +1,4 @@
+--game: 贤者挽歌之马略卡协奏曲
+
+addappid(745820)
+addappid(745821,0,"5d6d0ab2a41871211f73175e9c0ebea8fb3fd91f0d8d7ea78140f1dd3f6fc770")
