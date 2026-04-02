@@ -1,0 +1,4 @@
+--game: Bios Ex - Yami no Wakusei
+
+addappid(1022150)
+addappid(1022151,0,"c49373d3cd27346ee33585a58c3ad63f2bf37964f7a55cb7d1991634e6e6cd22")
