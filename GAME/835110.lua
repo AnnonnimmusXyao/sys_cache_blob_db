@@ -1,0 +1,4 @@
+--game: America's Retribution
+
+addappid(835110)
+addappid(835111,0,"41e6002c70fb5b8b4056239952e960a3b73550eb9ca5e8984f2aaca8785c2d9b")
