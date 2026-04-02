@@ -1,0 +1,4 @@
+--game: Cardinal Cross
+
+addappid(815450)
+addappid(815451,0,"045669b30602c8b24c0de75ce45d5e2848533ccef8976e04338a688dd143741e")
