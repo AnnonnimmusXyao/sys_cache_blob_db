@@ -1,0 +1,5 @@
+--game: Lost Artifacts - Ancient Tribe Survival
+
+addappid(708150)
+addappid(708151,0,"579605acd38ff1715d77e6526cf7c67494934ed58e6ec7847885b20fdc5298ea")
+addappid(983480)
