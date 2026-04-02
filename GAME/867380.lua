@@ -1,0 +1,4 @@
+--game: Up Left Out
+
+addappid(867380)
+addappid(867382,0,"1b6a7a46c7dd961a32aed6bc8205a63adda7122507bad0c0a29c394bb6363702")
