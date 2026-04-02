@@ -1,0 +1,4 @@
+--game: Flinch
+
+addappid(769170)
+addappid(769171,0,"2339a6e0e773f7dd84978a9e75bda04a81e721032a7f38d0a9fbeadb1decb320")
