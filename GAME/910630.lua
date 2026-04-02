@@ -1,0 +1,4 @@
+--game: Arcade Spirits
+
+addappid(910630)
+addappid(910631,0,"2bf2600edaabacbf5e40d51285545b99b6445a1564f4ff7587e6e6bc11c7f2e6")
