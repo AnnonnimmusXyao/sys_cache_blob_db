@@ -1,0 +1,4 @@
+--game: Semi-Sweet Tofu
+
+addappid(841830)
+addappid(841831,0,"32d3b031df2a8bdd96e36287cf4357c33efd1017abc87f3e8967375472346e99")
