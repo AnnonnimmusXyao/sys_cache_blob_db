@@ -1,0 +1,4 @@
+--game: Super Catscape
+
+addappid(1048260)
+addappid(1048261,0,"448d71a5cdf1efb704253fea122a1123d12c325dc15317f1fe0b478464209f6d")
