@@ -1,0 +1,5 @@
+--game: Tower of Origin2-Worm's Nest
+
+addappid(1000280)
+addappid(1000281,0,"75d8d966b1159c52c3807539077824574e719b2aa2f4c17fc1a1d28bf8ba191f")
+addappid(1757640)
