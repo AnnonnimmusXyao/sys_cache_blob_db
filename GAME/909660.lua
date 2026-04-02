@@ -1,0 +1,12 @@
+--game: Vagrus - The Riven Realms
+
+addappid(909660)
+addappid(909661,0,"b78c9f863001a8a018cb92afa84b794a77c1c8bb300df1b381ae7a288f24700f")
+addappid(1761710,0,"afd666f882ea51fa1a5d59e334c5ae115a434ab24ee05886b17d76c3bdbb1176")
+addappid(1762031)
+addappid(1979380)
+addappid(2079340)
+addappid(2297000)
+addappid(2672530)
+addappid(2672540)
+addappid(3967500)
