@@ -1,0 +1,4 @@
+--game: Rite of Passage: The Lost Tides Collector's Edition
+
+addappid(887910)
+addappid(887911,0,"81f30d1b2758470ce64c57199866eaa44862bb82e3244dc556bfa9ef06d92c8a")
