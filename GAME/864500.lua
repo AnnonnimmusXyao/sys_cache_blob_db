@@ -1,0 +1,4 @@
+--game: Calm Cards - Klondike
+
+addappid(864500)
+addappid(864501,0,"3085777675c805de3338bd2b0b879d3786d289e5ca54c7d56db6b07782637ca8")
