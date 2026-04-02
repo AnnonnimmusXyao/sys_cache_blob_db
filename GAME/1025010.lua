@@ -1,0 +1,4 @@
+--game: Cursor - by Mr iLyn.
+
+addappid(1025010)
+addappid(1025011,0,"b4ca6a3e0880690438aec7a5c4851cedde3ff9b097bb08804a5fc818620e6d2b")
