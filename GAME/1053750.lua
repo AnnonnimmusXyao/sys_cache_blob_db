@@ -1,0 +1,4 @@
+--game: The Red Reactor
+
+addappid(1053750)
+addappid(1053751,0,"09239c2b28d102b2a213c561152dc032cc554863db9b0ced609e047521c068cb")
