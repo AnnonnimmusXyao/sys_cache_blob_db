@@ -1,0 +1,4 @@
+--game: Hentai Dreams
+
+addappid(974320)
+addappid(974321,0,"8bbe32f4ae94fdc614973c8be024e7d7da1b7bb1dbf9ac9183c05344ab858d3e")
