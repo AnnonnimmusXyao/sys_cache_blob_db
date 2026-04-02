@@ -1,0 +1,4 @@
+--game: Aw Nutz
+
+addappid(707000)
+addappid(707001,0,"ba915b1943c8a85483cac4ca4a504d2190e32960d2a143e1a219b47b83926216")
