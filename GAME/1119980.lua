@@ -1,0 +1,5 @@
+--game: In Sound Mind
+
+addappid(1119980)
+addappid(1119981,0,"732d08165eb2d508fe8b3082419c091f9bcc1d837a162337009d686b73fc80eb")
+addappid(1756610)
