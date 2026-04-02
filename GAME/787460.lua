@@ -1,0 +1,4 @@
+--game: Squash Kings VR
+
+addappid(787460)
+addappid(787461,0,"a68fee535001861e9cf213409f31122f8cfdf98cc7a77da918f24bfbcb9a07c8")
