@@ -1,0 +1,4 @@
+--game: Lambs on the road : The beginning
+
+addappid(866270)
+addappid(866271,0,"9ad7102a820da9e3277225152acc2cc0071db26c479b6ca94bd23713d5e5f778")
