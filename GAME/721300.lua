@@ -1,0 +1,4 @@
+--game: American Angst (Steam Deluxe Edition)
+
+addappid(721300)
+addappid(721301,0,"6db0932bb74e68649492c505a436220b4ee86c9f5172d9081f35c636e52bf7cd")
