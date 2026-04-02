@@ -1,0 +1,4 @@
+--game: Rand-O-mazE
+
+addappid(949570)
+addappid(949571,0,"495f366073e505b8f0045c3dac02c436b5a0c1c423c56c2896505047db66b280")
