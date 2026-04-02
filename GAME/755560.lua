@@ -1,0 +1,4 @@
+--game: Arrowpoint
+
+addappid(755560)
+addappid(755561,0,"36538ba2dd6750120b6e564c96fde61d7dfbb00ae8d8aa605c9c11c7a3ac7ec6")
