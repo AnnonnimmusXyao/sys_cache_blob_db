@@ -1,0 +1,4 @@
+--game: Strike!OvulationDivine Fist!  Rebellion to Extinction!
+
+addappid(847550)
+addappid(847552,0,"c008b09a6305ec374ab78b717d63e128dc2b96f73b8f4fb53216c7a24ab85499")
