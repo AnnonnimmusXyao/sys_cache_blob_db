@@ -1,0 +1,4 @@
+--game: BattleCubes: Arena
+
+addappid(1036330)
+addappid(1036331,0,"de913addd2a7eda95a5c9f0e29422667e943498d68e7180c857578fd2ae4c04f")
