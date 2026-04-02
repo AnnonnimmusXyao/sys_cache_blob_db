@@ -1,0 +1,4 @@
+--game: 彼岸画廊/Nether Gallery
+
+addappid(1039830)
+addappid(1039831,0,"9a99b104ef785f3c30fd0337a09f1f418123c4adee73068a9e6cd1c1991d9782")
