@@ -1,0 +1,4 @@
+--game: Snipiyo / スナイピヨ
+
+addappid(1049680)
+addappid(1049681,0,"6a43008f1e0dff8f74bbaba426c153f719c864793d4562e836f78e54a729f603")
