@@ -1,0 +1,4 @@
+--game: Try 'n Cry - Prologue
+
+addappid(1106720)
+addappid(1106723,0,"5ca3d3029c2c3dc44704262ca778750c57d079fcda3ef01498913d1b60799558")
