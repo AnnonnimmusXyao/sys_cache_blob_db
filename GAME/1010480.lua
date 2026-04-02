@@ -1,0 +1,4 @@
+--game: TRE HUN: Unity-Chan x Action
+
+addappid(1010480)
+addappid(1010481,0,"108909d861fdbc233612eefd183ad325beb6623713ddc6176f44c25c3428c096")
