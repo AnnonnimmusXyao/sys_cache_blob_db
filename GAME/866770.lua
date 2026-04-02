@@ -1,0 +1,4 @@
+--game: Spaceteam VR
+
+addappid(866770)
+addappid(866771,0,"3f870bec1c9c1e175b9a26d581c5e5658e10f852992eec883107d1a5e8095ba8")
