@@ -1,0 +1,4 @@
+--game: Defenders of Tetsoidea
+
+addappid(735110)
+addappid(735111,0,"f4553aa598776ff256d582318066ee31b100b707bcfeed01eaf0345a5041c205")
