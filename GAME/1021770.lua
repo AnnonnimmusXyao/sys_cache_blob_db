@@ -1,0 +1,9 @@
+--game: Wanba Warriors
+
+addappid(1021770)
+addappid(1021771,0,"019549e531b58cf1e8c73b89236eb30262547830d4c060348de66d823e0dd264")
+addappid(1220420)
+addappid(1220421)
+addappid(1531480)
+addappid(1702640)
+addappid(2002970)
