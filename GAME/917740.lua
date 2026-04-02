@@ -1,0 +1,4 @@
+--game: Mandy's Room
+
+addappid(917740)
+addappid(917741,0,"5988659b6a54bbd58c20164f60a8cbc3cc3d32c50c1a888823d4de4928a4f324")
