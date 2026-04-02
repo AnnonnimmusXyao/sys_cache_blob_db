@@ -1,0 +1,4 @@
+--game: Conjury of Nature
+
+addappid(856050)
+addappid(856051,0,"3f338de9596524d4582874cbaef4dbc7392cc08ddb12bdf3333391a4befbed96")
