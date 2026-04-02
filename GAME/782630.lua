@@ -1,0 +1,4 @@
+--game: Twisted Sails
+
+addappid(782630)
+addappid(782631,0,"074ab02e78addb4e690f885f6a991165eae39548e5a56eb38392ab4fec2628ac")
