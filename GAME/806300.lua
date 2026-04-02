@@ -1,0 +1,4 @@
+--game: Quotes Quest - Match 3
+
+addappid(806300)
+addappid(806301,0,"05b5abbc177ba30478b73441392d4035eff9d0c17ae45b2fd802996686de1ef8")
