@@ -1,0 +1,4 @@
+--game: CrazyDriving
+
+addappid(929210)
+addappid(929211,0,"d614bafbe9785128547187ff0255fbb6536442510b362abf4923e0ef70543367")
