@@ -1,0 +1,4 @@
+--game: American Patriots: The Swamp Fox
+
+addappid(959850)
+addappid(959851,0,"f620389fe841556fd8bfdbdc3633527f167118f55fb4cee117cf9d69886e6311")
