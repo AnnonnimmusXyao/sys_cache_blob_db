@@ -1,0 +1,4 @@
+--game: Fly Punch Boom!
+
+addappid(1051960)
+addappid(1051961,0,"d707d2e353fcc826e2426226fab7e379a283f05dd2dc668e34cebc5b17764244")
