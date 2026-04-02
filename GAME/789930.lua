@@ -1,0 +1,4 @@
+--game: Blind Boris
+
+addappid(789930)
+addappid(789931,0,"faad734acfcd4574a5a0acc3e43169dfd35ef2d799536887f55f1a47ccb4f020")
