@@ -1,0 +1,4 @@
+--game: The Skeleton
+
+addappid(883330)
+addappid(883331,0,"897590f352f0448b8bcbc99bd286ed50c31571d6d798dba5cd689c2c22cfa861")
