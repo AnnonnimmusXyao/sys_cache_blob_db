@@ -1,0 +1,4 @@
+--game: Defenders of Tetsoidea Academy
+
+addappid(754160)
+addappid(754161,0,"7ff7ac4e068b9635f5aca42e84235226a24527396d00ddb86e7bbbdeb3ed9cc2")
