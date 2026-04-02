@@ -1,0 +1,4 @@
+--game: Cappasity Demo
+
+addappid(982830)
+addappid(982831,0,"ce3d99e556f3be39e9b53daabe147d481f1186d64c951c530b121dd2891cd788")
