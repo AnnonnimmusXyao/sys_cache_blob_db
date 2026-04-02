@@ -1,0 +1,4 @@
+--game: Strangers of the Power 3
+
+addappid(1019270)
+addappid(1019271,0,"d75b25f8c9d7c3992d4ddfbd1dc0683db36af7320ccbe15cb6729b60a37d3754")
