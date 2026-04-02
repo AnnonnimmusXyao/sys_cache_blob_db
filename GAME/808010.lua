@@ -1,0 +1,4 @@
+--game: Critadel
+
+addappid(808010)
+addappid(808011,0,"55c305da1a79039870a84aef543d3f6acc988a6d627caa7cb83d0d61ca7e1ee6")
