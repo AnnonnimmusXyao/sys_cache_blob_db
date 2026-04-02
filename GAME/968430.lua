@@ -1,0 +1,4 @@
+--game: Colonization of the Moon
+
+addappid(968430)
+addappid(968431,0,"37d378778a3d50b4a0ec9249c6a4f452fd98270134a42e9b1826afb51f4c077e")
