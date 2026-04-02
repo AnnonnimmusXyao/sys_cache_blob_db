@@ -1,0 +1,4 @@
+--game: Meu
+
+addappid(1124000)
+addappid(1124001,0,"8cfa52700e21e2cedbc76893f778c7330267a25042c0097e611ab15f0dc967c8")
