@@ -1,0 +1,4 @@
+--game: Dread of Laughter
+
+addappid(953050)
+addappid(953051,0,"298d5d29643a85af0a23df9f5e3b27471a4e5e631c0ec9a93c824cd7b4cd8f05")
