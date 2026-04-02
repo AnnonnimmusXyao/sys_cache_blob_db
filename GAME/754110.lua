@@ -1,0 +1,4 @@
+--game: Escort Commander
+
+addappid(754110)
+addappid(754111,0,"31d75edfa2bd1d1c4188e0ef25d0a057c17e559d3d6842441820690ee9234687")
