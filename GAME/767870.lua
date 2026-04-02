@@ -1,0 +1,4 @@
+--game: Dark Noid
+
+addappid(767870)
+addappid(767871,0,"1bb92f469f9aa265527a622d6b53cda78b2dd92f4334a47b502e8ef7cc9d815f")
