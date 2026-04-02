@@ -1,0 +1,4 @@
+--game: King of the Hat
+
+addappid(837350)
+addappid(837352,0,"74a15bc1037d9825241c9deef131672692df0f7dd5e5948b0f33cada30f6e12c")
