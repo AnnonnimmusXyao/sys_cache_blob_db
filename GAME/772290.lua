@@ -1,0 +1,4 @@
+--game: Rainswept
+
+addappid(772290)
+addappid(772291,0,"228e380d853b0b937e36afa0eacb3e6785485c923c7daf045eeb3ef07eae5723")
