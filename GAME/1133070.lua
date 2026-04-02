@@ -1,0 +1,4 @@
+--game: Viking Chess: Hnefatafl
+
+addappid(1133070)
+addappid(1133071,0,"d4c79d4c1478e9e7cac70d80295e912d6d42ce9cd3479755ab03eb0e4dcda2af")
