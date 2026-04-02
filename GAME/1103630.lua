@@ -1,0 +1,4 @@
+--game: Event Horizon - Frontier
+
+addappid(1103630)
+addappid(1103631,0,"f0d1dba83ac169014f479a7ac55602e3328d795d07060061a779c75b33433050")
