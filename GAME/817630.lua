@@ -1,0 +1,4 @@
+--game: Island Tribe 3
+
+addappid(817630)
+addappid(817631,0,"61ca30db98bcdc11cad6f75ccdf04c3446a85b88b818cb4cbcf2639073401fab")
