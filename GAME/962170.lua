@@ -1,0 +1,4 @@
+--game: Ultimate Legends
+
+addappid(962170)
+addappid(962171,0,"38a94f12426e70d0c1dfb67a7e2f744864eb6c1ba5eac2510bce265a94c73d39")
