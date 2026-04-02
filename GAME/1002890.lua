@@ -1,0 +1,4 @@
+--game: Galaxity : Beta VR
+
+addappid(1002890)
+addappid(1002891,0,"cddb60597745667968330f7c58bbbc3417386e9d2e673a8d167e7adda47c7e59")
