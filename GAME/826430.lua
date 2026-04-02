@@ -1,0 +1,4 @@
+--game: Twilight Phenomena: The Incredible Show Collector's Edition
+
+addappid(826430)
+addappid(826431,0,"9dae9ead16fafda3427dd8257edf5d2ae3eb5bab8593464282c365678c3fbd45")
