@@ -1,0 +1,4 @@
+--game: 霎时晴荫
+
+addappid(883870)
+addappid(883871,0,"43a214d834380d63c90f17f34cb748730ef3f22ceee7cfb3355cf965078f810d")
