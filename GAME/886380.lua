@@ -1,0 +1,4 @@
+--game: Ruya
+
+addappid(886380)
+addappid(886381,0,"929c3fe9d960beb7878934573f85ca9e59358aeccacb83a906c573f28a8ea380")
