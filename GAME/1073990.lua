@@ -1,0 +1,4 @@
+--game: The New Universes: ~ Eine Neue Reise Beginnt ~ Chapter 1
+
+addappid(1073990)
+addappid(1073991,0,"a7b5739c51575fbd8483f5f7352d74b0c8325502ea45caf63f2629c7f4623e8a")
