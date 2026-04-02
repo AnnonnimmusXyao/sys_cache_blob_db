@@ -1,0 +1,4 @@
+--game: Garrison Gauntlet
+
+addappid(912360)
+addappid(912361,0,"fe5c0e9c64647a94cbe07e07f8fe8288f7c847aec59bc4373e1f8727cc7cbbca")
