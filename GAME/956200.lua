@@ -1,0 +1,4 @@
+--game: Leopoldo Manquiseil
+
+addappid(956200)
+addappid(956201,0,"c3af535e9bbfdeb61d56316b40f900b7276951efdaafa6106335d0f9f49495fa")
