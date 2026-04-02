@@ -1,0 +1,4 @@
+--game: 心塞男孩 Sadboy
+
+addappid(1008910)
+addappid(1008911,0,"a6b48de96945b8b8890a874f402c941e8822f0596bf075d0cbf4e026abef4293")
