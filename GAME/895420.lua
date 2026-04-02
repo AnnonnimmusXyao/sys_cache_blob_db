@@ -1,0 +1,4 @@
+--game: Path of Sin: Greed
+
+addappid(895420)
+addappid(895421,0,"8f262aabeda33ff3221eb96ceb2f1c75c118fcbd599306d0c374b82af30e608b")
