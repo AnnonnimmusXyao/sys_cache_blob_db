@@ -1,0 +1,6 @@
+--game: Agartha
+
+addappid(228982)
+addappid(228983)
+addappid(1002420)
+addappid(1002421,0,"c76acd9a7172c2f3740a226c1866982dfc24ed775be55f33ef2f9163c023425f")
