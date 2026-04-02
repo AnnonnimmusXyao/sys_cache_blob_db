@@ -1,0 +1,4 @@
+--game: Pixelord
+
+addappid(737330)
+addappid(737331,0,"247f460e861020cfdf12cf05199a26666f4b1b003eaadb9dc65630e647b436e4")
