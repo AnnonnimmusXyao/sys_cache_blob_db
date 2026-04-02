@@ -1,0 +1,4 @@
+--game: Anime Vampire Slayer
+
+addappid(990240)
+addappid(990242,0,"18a79bbb60946c71935eb39b735b14318425d8b99ad6227b5d5da21c56e753f0")
