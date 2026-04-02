@@ -1,0 +1,4 @@
+--game: Fighting Spree 3D
+
+addappid(1019700)
+addappid(1019701,0,"877503e3a2de8a5a87d2a29d4a0503052eb32e830387be42d6cbb5445d255ae5")
