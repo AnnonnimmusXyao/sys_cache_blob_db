@@ -1,0 +1,4 @@
+--game: Tess Elated
+
+addappid(982850)
+addappid(982851,0,"ee6e2213bc6a4cd89c5536b9972881e0990c0a60a29b2e581051e46ed083f09e")
