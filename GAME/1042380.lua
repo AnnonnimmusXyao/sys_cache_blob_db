@@ -1,0 +1,7 @@
+--game: Hundred Days - Winemaking Simulator
+
+addappid(1042380)
+addappid(1042381,0,"6674f981af8da7936c143330fd466489ce26f95b2be45b5598f8413c2e6a7285")
+addappid(1042383,0,"f3937bbc089688d8651f0a7bc3ebf70bb869c71fc8f1fcacbd6e11539f1453a4")
+addappid(1681050)
+addappid(1780830)
