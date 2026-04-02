@@ -1,0 +1,4 @@
+--game: Dark Parables: Goldilocks and the Fallen Star Collector's Edition
+
+addappid(711890)
+addappid(711891,0,"1d0b04097089e68d804a4ec3808b5e8fde40ad4ef0f91cf3cefbb058c685754e")
