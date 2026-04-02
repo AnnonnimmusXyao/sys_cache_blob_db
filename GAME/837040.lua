@@ -1,0 +1,5 @@
+--game: Redneck Kentucky and the Next Generation Chickens
+
+addappid(837040)
+addappid(837041,0,"20ce5cd10dd7f8af83495f0844f591fcbbcf7e7fd4ac9d399d1893987b223bc4")
+addappid(837047,0,"516eb3fdce7cb9a29bf90661224a4600c34213e233e0fd6f13824ade076e967d")
