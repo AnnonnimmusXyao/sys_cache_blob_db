@@ -1,0 +1,4 @@
+--game: Olaguna Chronicles 命运启示录-阿尔巴雷克战纪-
+
+addappid(985650)
+addappid(985651,0,"be4a35f0f3409fba531c78e0fa765661c40d24cb009bd844f57399307dc96757")
