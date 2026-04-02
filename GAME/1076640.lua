@@ -1,0 +1,4 @@
+--game: Cricket Captain 2019
+
+addappid(1076640)
+addappid(1076641,0,"5692c5bf3b958c7d5ecc38eae6d7baebbe128d420a3176d3d8a746d8dfeffb05")
