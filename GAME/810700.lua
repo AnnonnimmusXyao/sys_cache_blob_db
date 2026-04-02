@@ -1,0 +1,4 @@
+--game: The Final Days: Blood Dawn
+
+addappid(810700)
+addappid(810701,0,"136b63e3d73c09834b8b883c5a24b9d9261fa280a76cae5659f11854273001e6")
