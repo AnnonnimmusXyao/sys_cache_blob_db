@@ -1,0 +1,4 @@
+--game: Cave under Richmordnom
+
+addappid(913570)
+addappid(913571,0,"e976cd45f705da7c36a8063837ade331a9f89523ca2204e2a4b0aae2ec787739")
