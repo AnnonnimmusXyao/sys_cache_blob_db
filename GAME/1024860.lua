@@ -1,0 +1,4 @@
+--game: BFGE (Bartender Flair Game)
+
+addappid(1024860)
+addappid(1024861,0,"e5359d7c25281ce4ea8407322b0268cb703a262d29c2906cf14b4fee809bdbe7")
