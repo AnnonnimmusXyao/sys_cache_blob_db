@@ -1,0 +1,6 @@
+--game: Box Cats Puzzle
+
+addappid(751980)
+addappid(751982,0,"8b99d23a933d0af26612380673ea5eb69010c0c2f65366aaa2a4ad3784232d41")
+addappid(1788240)
+addappid(1848880)
