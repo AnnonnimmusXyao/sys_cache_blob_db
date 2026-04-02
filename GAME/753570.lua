@@ -1,0 +1,4 @@
+--game: Rogue Buddies - Aztek Gold
+
+addappid(753570)
+addappid(753571,0,"bd6ed7273f4cf404112849edd067c98df98438cdae4485023d98eedf8edc3dac")
