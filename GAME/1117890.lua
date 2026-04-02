@@ -1,0 +1,4 @@
+--game: Tamiku
+
+addappid(1117890)
+addappid(1117891,0,"5ea46855e86675cad3515a59b360b88e23044b7befccf7ec96853187cf7e3d7d")
