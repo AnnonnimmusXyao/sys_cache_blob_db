@@ -1,0 +1,4 @@
+--game: Adventure Golf VR
+
+addappid(700650)
+addappid(700651,0,"7f2a85021bcc60f2226deeb5b2f409cb8182158dd580bab5f0c38936910f7493")
