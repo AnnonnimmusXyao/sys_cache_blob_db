@@ -1,0 +1,4 @@
+--game: Heroes Swipe Right
+
+addappid(1138630)
+addappid(1138631,0,"443631ab812c81b87a1872d245c262a4e97a49a38bc3dd6b13f0c86c91251af4")
