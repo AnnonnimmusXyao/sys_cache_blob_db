@@ -1,0 +1,4 @@
+--game: Manna for our Malices
+
+addappid(1013580)
+addappid(1013581,0,"83d1657eeba96b22933604655df020f75ea8965cb5fec1717f8948e23388f17f")
