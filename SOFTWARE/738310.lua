@@ -1,0 +1,4 @@
+--game: The VU
+
+addappid(738310)
+addappid(738311,0,"37fdeae48cd58be1b73d6059a62f264b20ba851a3f638204a718ae994edb983b")
