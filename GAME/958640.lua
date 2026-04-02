@@ -1,0 +1,4 @@
+--game: Super Turbo Sudoku
+
+addappid(958640)
+addappid(958641,0,"c1d8ec8af6e6ea41391a8743d0c160a3d12817defc7ef10c5edb373183e7e245")
