@@ -1,0 +1,4 @@
+--game: Wild West and Wizards
+
+addappid(1071290)
+addappid(1071291,0,"424e333b87fd4e15f7bb9c0fffeebef00e6894406e5e3d3ac336e4b0b2476dd0")
