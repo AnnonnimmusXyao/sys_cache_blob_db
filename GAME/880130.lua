@@ -1,0 +1,11 @@
+--game: Lawless Lands
+
+addappid(880130)
+addappid(229000)
+addappid(229001)
+addappid(229007)
+addappid(229012)
+addappid(229020)
+addappid(929720,0,"ddab24e08835c39f65d585a5eebc378757b80eb400957f43963ab73537a01a08")
+addappid(1009840,0,"fbe2ddbd78cb4ce906faaebdf79df488c79aa841de916f3e824986b0f44417e1")
+addappid(1050890,0,"194755f087234a95f4c11b56bf9c600b4b358ef4385d8be8243e495eefe72889")
