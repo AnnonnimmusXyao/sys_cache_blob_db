@@ -1,0 +1,4 @@
+--game: Monovert DX
+
+addappid(1033130)
+addappid(1033131,0,"c14fc36cb5ee5bde03c4f6bd2865413cd9843a5da8bd1b70edf27ff0c000f8fd")
