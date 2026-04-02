@@ -1,0 +1,4 @@
+--game: Vertigo 2
+
+addappid(843390)
+addappid(843391,0,"d6719362ab7b91b7b7ec67588c8c21cb1ba032f364c426766125ebaecd54b480")
