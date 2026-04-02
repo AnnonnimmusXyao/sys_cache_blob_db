@@ -1,0 +1,5 @@
+--game: Quaddro 2
+
+addappid(819330)
+addappid(819331,0,"f0688f3e17098cc3b9c42d9894dcb4bac10866b5f177ee4e3ba87b0e10061202")
+addappid(929820)
