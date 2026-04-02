@@ -1,0 +1,4 @@
+--game: Metal Quest
+
+addappid(754300)
+addappid(754301,0,"fcd371446169a3757416e85e16aa4444c1af6bca7bde2bbd927e4804a3576e51")
