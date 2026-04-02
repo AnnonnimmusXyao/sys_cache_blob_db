@@ -1,0 +1,4 @@
+--game: BionicBlitz
+
+addappid(1029020)
+addappid(1029021,0,"4349b600f3c57c46c36921bc035fcb024f757caba54e9579576095a37be9f333")
