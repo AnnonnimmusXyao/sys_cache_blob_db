@@ -1,0 +1,4 @@
+--game: Bonds of the Skies
+
+addappid(1015530)
+addappid(1015531,0,"50e3683d02b12344bd551c41d120dada6e84d0fde17d78ef7ceee1335c1cfcf2")
