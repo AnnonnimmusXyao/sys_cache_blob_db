@@ -1,0 +1,4 @@
+--game: Aerial Raver
+
+addappid(1046350)
+addappid(1046351,0,"1da2c8402f50e07d1f33a1fd06fd2e85ce63d43d5425f1019065daa6a82865aa")
