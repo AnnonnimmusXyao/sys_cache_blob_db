@@ -1,0 +1,4 @@
+--game: Zombie Soldier
+
+addappid(954780)
+addappid(954781,0,"ee2d8439e5409a0b0d5429aad5b226b99f91c01f2fb27501cb26a0ac2aa9083c")
