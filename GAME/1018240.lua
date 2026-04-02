@@ -1,0 +1,4 @@
+--game: Hooklings
+
+addappid(1018240)
+addappid(1018241,0,"2da7fbb7b136d6c15ebff5aa27566f8643695b7fd095b48796516e28fccc0597")
