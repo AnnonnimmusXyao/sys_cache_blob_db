@@ -1,0 +1,4 @@
+--game: Burnout Drift
+
+addappid(942760)
+addappid(942761,0,"ed386ee3ff58febd7ab9ebbae5f4a38372cbadf4e44a78f950fd698f90788065")
