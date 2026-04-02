@@ -1,0 +1,4 @@
+--game: Bustories
+
+addappid(778570)
+addappid(778571,0,"eac37e728c7c3db30bb3f1a93683f24725390c77993caaee7427059111654679")
