@@ -1,0 +1,4 @@
+--game: Ash Asylum
+
+addappid(1102680)
+addappid(1102681,0,"8ec57ff54b4b23fb415d59a43a010bef1b9d72ee4c8c1bf203b5723c311020f8")
