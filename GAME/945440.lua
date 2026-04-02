@@ -1,0 +1,4 @@
+--game: Tiny Bird Garden Deluxe
+
+addappid(945440)
+addappid(945442,0,"a070b520606ec80863fd0b357b55ced3091cbf4248f3e6b6e3cc9af9cb185a15")
