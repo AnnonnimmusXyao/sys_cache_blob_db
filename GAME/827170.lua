@@ -1,0 +1,4 @@
+--game: FlickSync - Mad Hatter VR
+
+addappid(827170)
+addappid(827171,0,"6b5fb029955c9b21d5631815527bb5a324c3e853fca595e51304988a2596f10d")
