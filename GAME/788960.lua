@@ -1,0 +1,4 @@
+--game: MAR WAR: The Evil Awakens
+
+addappid(788960)
+addappid(788961,0,"2dfa97a1478794b0ef44209bd4b27c61aad351c2bd33ae48309a9160277d7102")
