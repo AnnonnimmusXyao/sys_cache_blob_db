@@ -1,0 +1,4 @@
+--game: Sanguo: War Under Heaven
+
+addappid(742990)
+addappid(742991,0,"0e064e73e15db879b751dedc2792874baabb6dbbfb8e25c35bc09e7243257cff")
