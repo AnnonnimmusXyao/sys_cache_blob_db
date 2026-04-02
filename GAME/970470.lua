@@ -1,0 +1,4 @@
+--game: Emerald Shores
+
+addappid(970470)
+addappid(970471,0,"b069d28b7bf68f97716e08fe25e2757f33abee4bd442559dd61d4dc47631c5d1")
