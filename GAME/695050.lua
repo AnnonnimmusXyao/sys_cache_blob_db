@@ -1,0 +1,4 @@
+--game: Rain of Reflections: Set Free
+
+addappid(695050)
+addappid(695053,0,"872d75f09fc3a9326e25c596460817abeddb60ad0985de92127e858336867826")
