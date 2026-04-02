@@ -1,0 +1,4 @@
+--game: Tank Blazers
+
+addappid(983590)
+addappid(983591,0,"72156fefd237f87c93f25b5fe0be24c02d26a6db44e5671d8d9f6fb541d4ff89")
