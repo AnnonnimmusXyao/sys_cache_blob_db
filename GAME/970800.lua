@@ -1,0 +1,4 @@
+--game: Short Circuit VR
+
+addappid(970800)
+addappid(970801,0,"7d1ddbeabe72063e77d946e97d87db4adc260f7b3ca52938ad859ea85f74c31d")
