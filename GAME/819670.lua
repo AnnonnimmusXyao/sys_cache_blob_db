@@ -1,0 +1,4 @@
+--game: Wall Walker
+
+addappid(819670)
+addappid(819671,0,"55370c6af26083deb9df6bb3029c5f20a19e4a7b5a6ee785df1d3eee4a8df0e5")
