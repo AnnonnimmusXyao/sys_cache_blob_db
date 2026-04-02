@@ -1,0 +1,5 @@
+--game: End War RTS
+
+addappid(896650)
+addappid(896651,0,"2665a5302879eabb3a99f99bb2d71bc7d1400888957862401e69e5e428c3334e")
+addappid(973380)
