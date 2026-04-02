@@ -1,0 +1,4 @@
+--game: Maze of Gaea（Real Maze VR Simulation）
+
+addappid(727900)
+addappid(727901,0,"2de79876a2dec890b6b1839dfbfc15cffe0ac4c2a861a23e9251cd872620a4f7")
