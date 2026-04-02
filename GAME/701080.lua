@@ -1,0 +1,4 @@
+--game: Supersonic Tank Cats
+
+addappid(701080)
+addappid(701081,0,"7dec16c231cbc6e68f7c21df459bce3f4a6148d599af3ef60816c153d96d1ee8")
