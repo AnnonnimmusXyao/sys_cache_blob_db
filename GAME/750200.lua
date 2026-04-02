@@ -1,0 +1,5 @@
+--game: AWAY: The Survival Series
+
+addappid(228987)
+addappid(750200)
+addappid(750202,0,"d47f517e903365263b24ec1adb4aabd464545d307597cb1a7aaa15d7153c5f94")
