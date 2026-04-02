@@ -1,0 +1,4 @@
+--game: kamer
+
+addappid(1135130)
+addappid(1135131,0,"237b0565c18a27e5a18da73f27083ecde8dbe0b7cda0b7d4e91ac4b5c0b584b9")
