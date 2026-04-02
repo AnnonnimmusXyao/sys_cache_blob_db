@@ -1,0 +1,4 @@
+--game: Commando Fodder: War Dogs
+
+addappid(1020650)
+addappid(1020651,0,"494bcc4059c7778839c1b10025f4395cfa4f4d0912d52fb980d81d2232dbf05a")
