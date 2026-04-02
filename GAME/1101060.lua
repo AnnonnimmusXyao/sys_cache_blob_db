@@ -1,0 +1,4 @@
+--game: Lumen
+
+addappid(1101060)
+addappid(1101061,0,"69d35dceb8cfb91104d91203f0af7c9ab82334e82b3bfe2f313fe7c7018579ae")
