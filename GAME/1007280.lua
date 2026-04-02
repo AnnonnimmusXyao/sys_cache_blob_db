@@ -1,0 +1,4 @@
+--game: The Den of Chaos - 混沌の魔窟殿～アヒアハン１９世の指令編～
+
+addappid(1007280)
+addappid(1007281,0,"9a4839e5030f749a03ffc709b87d5952d3ef7f31c9f288a588a1d5b2f572c5e3")
