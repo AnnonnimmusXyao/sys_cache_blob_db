@@ -1,0 +1,7 @@
+--game: Welcome To... Chichester 2 - Part I : The Spy Of Chichester And The Eager Tourist Guide HD Edition
+
+addappid(907350)
+addappid(907351,0,"d7a40d6a340b23febbb1b214631b9934028c6a8eff91f6d95383e8cd7cd3b2d0")
+addappid(907352,0,"4033092f4c9d546a2e577ab973f0cd759c8d8314b854101491a586a4746d7821")
+addappid(907353,0,"5e7ff7cf0f87f8eeec587354049162255b2ebec93c6c9f8930564cc85b7ff0e1")
+addappid(1021250,0,"2b952b3d9b4af348ddacb22c82ec6010393cdec13c0f4588467cde881b6d4a0d")
