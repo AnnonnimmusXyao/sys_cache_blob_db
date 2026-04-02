@@ -1,0 +1,4 @@
+--game: Hidden Object: Home Makeover
+
+addappid(971090)
+addappid(971091,0,"254e20539b6706f0a49f4c0949c14848d23d20667ea93bcfd813308376ed43a1")
