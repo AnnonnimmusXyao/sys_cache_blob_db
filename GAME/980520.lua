@@ -1,0 +1,4 @@
+--game: Azurael's Circle: Chapter 3
+
+addappid(980520)
+addappid(980521,0,"fff5f14a532bf4cd35eacd233eeb9a5fd943168f4ad174331004aa8c022c20a8")
