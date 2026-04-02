@@ -1,0 +1,4 @@
+--game: Learn Japanese RPG: Hiragana Forbidden Speech
+
+addappid(1114950)
+addappid(1114951,0,"96e40421b43baac062796c3bb9a194a26bb8ee893967d48cf6f21274109a7689")
