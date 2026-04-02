@@ -1,0 +1,5 @@
+--game: Expeditions: Rome
+
+addappid(987840)
+addappid(987841,0,"14094ec59b39c55320b51fb59cea528683b720fd8402f74240da964dd3270f2d")
+addappid(1805540)
