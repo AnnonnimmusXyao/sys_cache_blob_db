@@ -1,0 +1,4 @@
+--game: Here Be Dragons
+
+addappid(945680)
+addappid(945683,0,"1ae04c419bb01076fa17dd12073983fe1198d2882f88162f9ae8d91e25e5a03a")
