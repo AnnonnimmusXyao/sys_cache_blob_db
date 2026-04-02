@@ -1,0 +1,5 @@
+--game: 秦殇 (Prince of Qin)
+
+addappid(229020)
+addappid(970500)
+addappid(970501,0,"6e1f0d2117377fbaccba27ed209d9f1cd63708616ecb81ae95acbe2def1cb488")
