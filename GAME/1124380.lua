@@ -1,0 +1,4 @@
+--game: One Gun 2: Stickman
+
+addappid(1124380)
+addappid(1124381,0,"8ddde35f10efe126ebf5da651129fe7a19dfd215fce82708097c02fcaf19aa51")
