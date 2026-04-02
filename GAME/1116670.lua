@@ -1,0 +1,4 @@
+--game: Simple Railroad
+
+addappid(1116670)
+addappid(1116672,0,"7474edb19fca101a17645374f955109a3d772483a9e3373e07bdd1c302c15f37")
