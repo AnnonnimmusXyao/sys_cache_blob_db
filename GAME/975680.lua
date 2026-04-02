@@ -1,0 +1,6 @@
+--game: METAL SLUG XX
+
+addappid(228987)
+addappid(229004)
+addappid(975680)
+addappid(975681,0,"21f6fbebee5780b9d663651af3112f8f440fe42ac4cb833d0ca31f9ff6498ded")
