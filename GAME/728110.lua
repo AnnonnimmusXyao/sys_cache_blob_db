@@ -1,0 +1,4 @@
+--game: Board Games VR
+
+addappid(728110)
+addappid(728111,0,"7ad40c5d10581461a124598082168885a04590763ea3721366b4cd92a922aa9e")
