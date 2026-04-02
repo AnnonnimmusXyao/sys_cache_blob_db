@@ -1,0 +1,4 @@
+--game: Chase
+
+addappid(867390)
+addappid(867391,0,"e22202708ebffa1144615fa1f7581666e0426fd061912c8b0c45f259674a70be")
