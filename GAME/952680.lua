@@ -1,0 +1,4 @@
+--game: Blind Girl
+
+addappid(952680)
+addappid(952681,0,"b3ed2bd3e512301c062224a737c98b2e36d2aa35f7e77916bb9079f1c5ee4135")
