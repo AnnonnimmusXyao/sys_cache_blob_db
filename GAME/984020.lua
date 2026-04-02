@@ -1,0 +1,4 @@
+--game: Super Ninja Meow Cat
+
+addappid(984020)
+addappid(984023,0,"d3333bebde991545d37f76a8190c321e71dafbcc6116771aa268d990c80ab8d7")
