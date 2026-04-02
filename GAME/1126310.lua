@@ -1,0 +1,4 @@
+--game: 风信楼
+
+addappid(1126310)
+addappid(1126311,0,"ffede9d3fd8a313ad609dd6a7d13389d61a37a47b78a06c0da1efaba6b26dcc8")
