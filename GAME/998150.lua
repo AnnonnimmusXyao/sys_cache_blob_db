@@ -1,0 +1,4 @@
+--game: 荒野大蛮神
+
+addappid(998150)
+addappid(998151,0,"6e8101b8b7f74d6791311a01dfae3db779a0ad3b691fe2d28044397b3b768010")
