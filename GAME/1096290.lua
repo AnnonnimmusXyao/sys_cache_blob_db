@@ -1,0 +1,4 @@
+--game: Real Man Got 100 |  是男人上100层
+
+addappid(1096290)
+addappid(1096291,0,"4b1a04bd20f191c2bf6fa1592dd20e13a7e30d71bcea75efd04063d0c4ac2bed")
