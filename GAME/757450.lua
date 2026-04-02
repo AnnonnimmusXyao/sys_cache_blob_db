@@ -1,0 +1,4 @@
+--game: Samurai of Hyuga Book 3
+
+addappid(757450)
+addappid(757451,0,"e5451666a124b977ba99424aed294d1aaad345fab082c9b762b87c3df85a68d4")
