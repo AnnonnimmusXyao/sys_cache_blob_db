@@ -1,0 +1,4 @@
+--game: Bomber Arena
+
+addappid(971280)
+addappid(971281,0,"311f4d7a65738ead053c1eda5b07563c6f6099d0cee25f7997bcbd398a2618c7")
