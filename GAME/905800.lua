@@ -1,0 +1,4 @@
+--game: SpaceExile
+
+addappid(905800)
+addappid(905801,0,"5ae17bf3c435ed5e51b807a651d17e8e2a06adc5ff0da37ece15b25feb52ef47")
