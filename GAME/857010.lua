@@ -1,0 +1,4 @@
+--game: HUBE: Seeker of Achievements
+
+addappid(857010)
+addappid(857011,0,"1691949846f287476abe7b18cd7e06dc7329a3fee016164d9e80de5a67387457")
