@@ -1,0 +1,6 @@
+--game: Refight:Burning Engine
+
+addappid(773520)
+addappid(773521,0,"8a1a5b80643504f34bebc7c8c55cbff1a4435ea9862def5e1f51b436578841f7")
+addappid(981730)
+addappid(1065240)
