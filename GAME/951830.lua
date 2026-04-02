@@ -1,0 +1,4 @@
+--game: The Last Sovereign
+
+addappid(951830)
+addappid(951831,0,"39310b427e2f6c34ee891788aa42b1bda4b20ad807261a33677a72f2dd348946")
