@@ -1,0 +1,6 @@
+--game: Skyland: Heart of the Mountain
+
+addappid(949800)
+addappid(949801,0,"1211190be26de4e2ac8a46f88c7eab7f1149497a67e3d41894dca2cae1be2fe0")
+addappid(949802,0,"63d11fabcaeee2a82875eefe4cd4ccdb053e8eacca367a74e9c2dd71052185ae")
+addappid(949803,0,"575e13a95b0afc18fc69b18e866433be6e76b65d6628b50285c9874c7dcb279d")
