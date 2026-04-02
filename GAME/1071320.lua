@@ -1,0 +1,4 @@
+--game: Isle of the Dead
+
+addappid(1071320)
+addappid(1071321,0,"b817c4030f6b3b103546febfd3ce71a05525259081054711b7faaf20316f2f3c")
