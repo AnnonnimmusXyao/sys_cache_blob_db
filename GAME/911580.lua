@@ -1,0 +1,4 @@
+--game: Audio Infection
+
+addappid(911580)
+addappid(911581,0,"3c12c1447d08bf1aa4766b3b7456f1db2032065cfe5879a3dc0fb93afb23bf1b")
