@@ -1,0 +1,4 @@
+--game: Ancient Anathema
+
+addappid(1010540)
+addappid(1010541,0,"3935acd140ae6c9b69d7dd015d1ab47e3a8de8940251dad9ac04791a6454c6b0")
