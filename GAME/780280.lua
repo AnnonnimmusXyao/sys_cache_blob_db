@@ -1,0 +1,5 @@
+--game: Summer Funland
+
+addappid(228987)
+addappid(780280)
+addappid(780281,0,"0bd3c8e0b192b05c54a5554abeec5a0a4e79379f32ae834e2e33a4df632f3b84")
