@@ -1,0 +1,4 @@
+--game: AXE:SURVIVAL
+
+addappid(958230)
+addappid(958238,0,"12033ec92b7997dd5f10b56eaca0c8933e94378e756e0d7211ff279d234d16db")
