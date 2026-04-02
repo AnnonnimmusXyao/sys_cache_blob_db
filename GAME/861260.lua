@@ -1,0 +1,4 @@
+--game: Synthetic Love
+
+addappid(861260)
+addappid(861261,0,"9725512a41d908da1068895bc1d5fea4573371fc964dc79c8a1412129e42b927")
