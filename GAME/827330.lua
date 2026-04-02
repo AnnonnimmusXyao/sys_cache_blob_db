@@ -1,0 +1,4 @@
+--game: Skydrift Infinity
+
+addappid(827330)
+addappid(827331,0,"645aa864ace73467aa443133da03796e38a27c65352c65667793f2b64255c953")
