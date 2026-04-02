@@ -1,0 +1,4 @@
+--game: Sudoku Zenkai / 数独全卡
+
+addappid(809850)
+addappid(809851,0,"62a9a0b61e009ae8890d8d4a319dad1a701f77f430b3f72984986059a3d1760e")
