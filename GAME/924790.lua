@@ -1,0 +1,4 @@
+--game: Island Maze
+
+addappid(924790)
+addappid(924791,0,"c69e242a35cb78fdf529451c58ddcd6fe34fd1a131af2f3f922fbb51919b4acd")
