@@ -1,0 +1,5 @@
+--game: Star Souls
+
+addappid(819520)
+addappid(819521,0,"4bb3aaffe1e719d47bfa0d5c623a488af1bbb30070106e5901744228b5391863")
+addappid(1369440)
