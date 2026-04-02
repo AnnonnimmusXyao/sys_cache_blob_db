@@ -1,0 +1,4 @@
+--game: Similars: Climb
+
+addappid(1036460)
+addappid(1036461,0,"8f9038cd44ef7d6cac0e80d6b2d0f07b3c0428e782638fafa99d8e90a1ce81db")
