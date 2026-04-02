@@ -1,0 +1,4 @@
+--game: Rocket Swords
+
+addappid(923030)
+addappid(923031,0,"a637bfaf2a68108618971cb8873d9e92ee128093772e7daab70e466afaf76dae")
