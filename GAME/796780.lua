@@ -1,0 +1,4 @@
+--game: Star Drift
+
+addappid(796780)
+addappid(796781,0,"a4d8f8013b73b51b60923eaf18c62dc28d90227c67ea85a050720e2b12203fed")
