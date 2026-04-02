@@ -1,0 +1,4 @@
+--game: Hill Quest
+
+addappid(773610)
+addappid(773614,0,"d475323407c7eba7bd24dcdc9961e3fa47d41ffb50a3a6f4a72fe14f737c91a7")
