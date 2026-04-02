@@ -1,0 +1,4 @@
+--game: Castle Secrets: Between Day and Night
+
+addappid(806930)
+addappid(806931,0,"bdca4353dca11542c469016fc64e7d79651813cf2216fcd6b4f6b9276bbfcf46")
