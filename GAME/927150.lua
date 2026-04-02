@@ -1,0 +1,4 @@
+--game: 普通家庭/OrdinaryFamily
+
+addappid(927150)
+addappid(927151,0,"e54f4a3d64e776531e4f88c5206cb0002a6a08aa39319cde707cdc8161499157")
