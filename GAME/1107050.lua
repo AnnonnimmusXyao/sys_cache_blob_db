@@ -1,0 +1,5 @@
+--game: 人工智能 阿尔法猫-AI Alpha Cat
+
+addappid(1107050)
+addappid(1107052,0,"fd45084f0c082659787f9a858b00a0376ddb095a5b5ec2cabbb3850c57641031")
+addappid(1357880,0,"694b473fd2578acd02df8a0225a6daa16ae83e51a29d2404d3bc3ad5a7945af9")
