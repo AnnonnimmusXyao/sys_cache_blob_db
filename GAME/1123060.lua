@@ -1,0 +1,4 @@
+--game: Alien Creatures
+
+addappid(1123060)
+addappid(1123061,0,"84352a658fd3de02bea6328ad903527e9690f7fd83835bb04a6ace117097118c")
