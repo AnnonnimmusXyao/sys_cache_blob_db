@@ -1,0 +1,4 @@
+--game: Survive Zombies
+
+addappid(965710)
+addappid(965711,0,"060a78ca7d34be42f9a131d2811959b4aa45b1ab4e27dc0961a5a2156218e6dd")
