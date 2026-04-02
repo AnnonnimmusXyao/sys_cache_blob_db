@@ -1,0 +1,4 @@
+--game: Little hidden city
+
+addappid(706490)
+addappid(706491,0,"0a05bb2ee30546ed642d73dc370b1cc37d54530867b5a1cfac3354d50ec83b32")
