@@ -1,0 +1,4 @@
+--game: Narita Boy
+
+addappid(1069530)
+addappid(1069531,0,"a4a4484c627f5b21ab3b103da51b53466291ebe0f757ca425141d07247a8261e")
