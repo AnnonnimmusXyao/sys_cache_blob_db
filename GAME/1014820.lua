@@ -1,0 +1,4 @@
+--game: The Angry Banana
+
+addappid(1014820)
+addappid(1014821,0,"675e069ce2bf4646fee92c1730711a8f23e139f427bd0d6ac1069308bed006ff")
