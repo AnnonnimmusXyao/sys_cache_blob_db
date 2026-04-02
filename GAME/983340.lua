@@ -1,0 +1,4 @@
+--game: Waifu Hunter - Secret of Pirates
+
+addappid(983340)
+addappid(983341,0,"cbf8b07596c33b3b23a88572f3b6289d723b859a3657b465143d2c22c3ebc82e")
