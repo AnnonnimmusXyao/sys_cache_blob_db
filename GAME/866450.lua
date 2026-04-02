@@ -1,0 +1,4 @@
+--game: Light Rider
+
+addappid(866450)
+addappid(866452,0,"c09a8e7c58645c7d2304b5e6e9e1dcc66c7278a70b5734cc57946430269a5d45")
