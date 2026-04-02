@@ -1,0 +1,4 @@
+--game: Moonlight Warrior
+
+addappid(1054590)
+addappid(1054591,0,"86c854a982cdebdfc38df6b75fd6431c348ecc656f38797b939c80b9d70a1013")
