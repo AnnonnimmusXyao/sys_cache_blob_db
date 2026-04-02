@@ -1,0 +1,4 @@
+--game: Asteroid Navigation
+
+addappid(1014720)
+addappid(1014721,0,"1414ae6068d4d028da2f067d48dd2a7b40f6c67187e53b91e2fa09847815c705")
