@@ -1,0 +1,4 @@
+--game: Box Labyrinth
+
+addappid(1093120)
+addappid(1093121,0,"21dc4f4725c88362f76f37f6b5bbb99e47801fd50900156b97c835197c166ca5")
