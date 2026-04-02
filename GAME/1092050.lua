@@ -1,0 +1,4 @@
+--game: Fire On Fight : Online Multiplayer Shooter
+
+addappid(1092050)
+addappid(1092053,0,"76ff5453943b2b602f6504100b5597a3d3ed7dc84024b77c258cccce9a84be4b")
