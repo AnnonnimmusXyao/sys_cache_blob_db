@@ -1,0 +1,4 @@
+--game: Wild Cats of Wasteland
+
+addappid(1044460)
+addappid(1044461,0,"40fc9f73317dc67113cfe6f71e6528c9f2d98d51e373a87252c9a08d8de1afbd")
