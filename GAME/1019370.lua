@@ -1,0 +1,4 @@
+--game: Radioactive
+
+addappid(1019370)
+addappid(1019372,0,"067b4e2966b76e813b19bbc8c3d78da7662536075f02aa804e763236f816a5f3")
