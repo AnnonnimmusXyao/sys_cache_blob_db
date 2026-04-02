@@ -1,0 +1,4 @@
+--game: EndZ Village
+
+addappid(999190)
+addappid(999191,0,"0a37914b3a31793a9f311a4a6aa90e341c942e677f17c7b379ceacbd9ccb9665")
