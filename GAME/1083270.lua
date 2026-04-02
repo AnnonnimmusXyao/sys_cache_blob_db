@@ -1,0 +1,4 @@
+--game: HeroOfMetal-Episode01
+
+addappid(1083270)
+addappid(1083271,0,"aa4e627493bdad21f1b4355d2cb38dc20238bb66b735d99b9d9031259e78509b")
