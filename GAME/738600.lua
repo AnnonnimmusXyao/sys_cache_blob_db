@@ -1,0 +1,4 @@
+--game: Odyssey: The Deep Space Expedition
+
+addappid(738600)
+addappid(738601,0,"de7544bd5199cd0f9a2f2134a0a03a0679dd0cb23ba569459423d6b759e2a513")
