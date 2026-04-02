@@ -1,0 +1,6 @@
+--game: Hoshizora no Memoria -Wish upon a Shooting Star- HD
+
+addappid(229002)
+addappid(715580)
+addappid(715581,0,"8a42524b25568650c773f1584895951c1e11dd2c918344b1845e3ee750bf9186")
+addappid(715582,0,"e6ccbac929169dcd829466b5e2638cbec13aa86beaa899ba746cd08c8a92d818")
