@@ -1,0 +1,4 @@
+--game: Robosoul
+
+addappid(707040)
+addappid(707041,0,"ada0cf4b41204a1f711bf6710c9c07e59825a8cd50de33553d2cc827ac83e921")
