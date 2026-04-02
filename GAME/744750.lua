@@ -1,0 +1,5 @@
+--game: Devil and the Fairy
+
+addappid(229004)
+addappid(744750)
+addappid(744751,0,"4b740b8304d3754f6ba142e3d4e8063f26e9fb39d0086e138030e65ea9ef3396")
