@@ -1,0 +1,4 @@
+--game: Dark Man
+
+addappid(949720)
+addappid(949721,0,"259f20fd97ffee28bd9043219255aa41b1d13e06308d8267222813aa2f22205b")
