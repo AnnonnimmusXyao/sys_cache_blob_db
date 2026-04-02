@@ -1,0 +1,4 @@
+--game: Loco Launcher
+
+addappid(994700)
+addappid(994701,0,"0ed341821a32cef64177bef1eac2b0c7820547e0ac0b9889a3b4bba5d1eba6de")
