@@ -1,0 +1,4 @@
+--game: Regenesis Arcade
+
+addappid(753370)
+addappid(753371,0,"8f662fa2dd1095fb54592c6a953d3e0e303bd6931ed010224df612cbd450f587")
