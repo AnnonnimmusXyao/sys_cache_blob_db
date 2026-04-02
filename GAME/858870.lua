@@ -1,0 +1,6 @@
+--game: Queen of Seas 2
+
+addappid(858870)
+addappid(858871,0,"0871075dd236fcfd43cdcef15787c5c875ef6ec5cd267a22a64aa08059bf1315")
+addappid(876550)
+addappid(877130)
