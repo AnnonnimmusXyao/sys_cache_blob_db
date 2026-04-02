@@ -1,0 +1,4 @@
+--game: Cube Life: Island Survival
+
+addappid(760800)
+addappid(760801,0,"9e802e3fb210f20d01ca0ef153fecece0f4ed367459204b06b6e3a7a6fa2d5d6")
