@@ -1,0 +1,4 @@
+--game: GUNS 'n GUTS
+
+addappid(960700)
+addappid(960701,0,"9068cca44588ca102283824c3857a6a270cf190e579d661ae389624b27b316e1")
