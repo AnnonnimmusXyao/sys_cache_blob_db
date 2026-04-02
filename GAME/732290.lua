@@ -1,0 +1,4 @@
+--game: Schatte ～The Witch and the Fake Shadow～ / 魔女と偽りの影
+
+addappid(732290)
+addappid(732291,0,"8dd915b8a99976725310776fa8446af22b6627242db0d5b15efce243ff09b812")
