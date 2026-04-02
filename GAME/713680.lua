@@ -1,0 +1,4 @@
+--game: Ablepsia
+
+addappid(713680)
+addappid(713681,0,"0d72abb2e84550c7ace65d4894a93427a52265258447d38cf4115e0a390fe526")
