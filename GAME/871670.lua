@@ -1,0 +1,4 @@
+--game: TrapLand
+
+addappid(871670)
+addappid(871671,0,"110724000b1678155ab8bf367bf01066d28d7687b9911ced8bfead8d82d15dea")
