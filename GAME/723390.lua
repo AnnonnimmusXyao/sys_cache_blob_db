@@ -1,0 +1,6 @@
+--game: Hunt Down The Freeman
+
+addappid(228985)
+addappid(723390)
+addappid(723391,0,"29372aa10cf85ded05c12283142dbc490e8c54a934a784e0cf2240a65b4c59ed")
+addappid(723392,0,"b1ffa7e05f317c27cd2ad391edcdeab0a04e00f66dd4060a89c67dc0ba96baae")
