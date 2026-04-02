@@ -1,0 +1,7 @@
+--game: DragonFangZ - The Rose & Dungeon of Time
+
+addappid(749850)
+addappid(749852,0,"5e37e9610b195ea0f462da1fd55740cc70e8cabb2dea3aa603c73c82e588ee63")
+addappid(904650)
+addappid(959820)
+addappid(1072460)
