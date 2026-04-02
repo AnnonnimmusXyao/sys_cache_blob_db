@@ -1,0 +1,4 @@
+--game: Transient: Extended Edition
+
+addappid(962630)
+addappid(962631,0,"cc3e03841a106621de15c4bdfb13084f849a33ef47a11fda01af42b32f4d1eb4")
