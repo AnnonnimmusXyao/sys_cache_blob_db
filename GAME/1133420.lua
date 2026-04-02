@@ -1,0 +1,5 @@
+--game: Hero or Villain: Genesis
+
+addappid(1133420)
+addappid(1133421,0,"7d81c8b12cc402842bdc76cdd534fba405ed4fd0ea2a42650b65d6a56f90a2d5")
+addappid(2550750)
