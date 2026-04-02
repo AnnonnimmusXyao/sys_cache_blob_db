@@ -1,0 +1,4 @@
+--game: HANZ!
+
+addappid(921770)
+addappid(921771,0,"37453a78822feea6740720f68cf1d6e62ee209b7584270383bff424b7efe1a72")
