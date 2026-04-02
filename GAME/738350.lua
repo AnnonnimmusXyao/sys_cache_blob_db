@@ -1,0 +1,4 @@
+--game: Dream Pets VR
+
+addappid(738350)
+addappid(738351,0,"eed81328ff40d4a71479586fbfe2abe459d85d1bc8cd15195c4479417a3e3137")
