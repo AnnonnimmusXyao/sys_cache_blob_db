@@ -1,0 +1,4 @@
+--game: Object "Cleaning"
+
+addappid(781880)
+addappid(781881,0,"1df094e4016302593fc7962ad4fee3a0545bf8552c06263f00085dffd6df43df")
