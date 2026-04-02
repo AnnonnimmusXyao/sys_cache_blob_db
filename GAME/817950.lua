@@ -1,0 +1,4 @@
+--game: Naturallandscape - Three Gorges (自然景观系列-长江三峡)
+
+addappid(817950)
+addappid(817951,0,"3bbe5f867a953a86139113e633b6446c90f937985acc06e50ed58401a8c8751a")
