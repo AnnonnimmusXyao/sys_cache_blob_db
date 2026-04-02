@@ -1,0 +1,4 @@
+--game: My Sunny Resort
+
+addappid(821610)
+addappid(821611,0,"c2c9ac1f17edb0c778fb0f909398a1b1aba8e04fe7174a4143832aa27286bdbd")
