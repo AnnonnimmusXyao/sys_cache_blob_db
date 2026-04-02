@@ -1,0 +1,4 @@
+--game: FPS Monitor – hardware in-game & desktop overlays
+
+addappid(966610)
+addappid(966611,0,"6e831f76f28e24710cc7727d44dcf814c54e3ecc7bf39030aa075c194c0eb204")
