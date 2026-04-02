@@ -1,0 +1,4 @@
+--game: BLOCKPOST LEGACY
+
+addappid(706990)
+addappid(706991,0,"c4c545ede35b85fd8b39f2a46321eebed69e9a6b5d1090968eba4ed4e0635555")
