@@ -1,0 +1,4 @@
+--game: Tet VR
+
+addappid(858560)
+addappid(858561,0,"f8799298081faca9ff80f39a8dbbbb604ae905faca1be52398803fed9f2ce1b4")
