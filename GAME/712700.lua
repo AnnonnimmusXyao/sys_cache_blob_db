@@ -1,0 +1,4 @@
+--game: Black Friday: The Game
+
+addappid(712700)
+addappid(712701,0,"7d5b57592eb1c73d04748c0da5a8e78f46de52a087b469da966f035ab73bf917")
