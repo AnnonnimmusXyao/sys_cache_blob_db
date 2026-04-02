@@ -1,0 +1,4 @@
+--game: Egg Hunt
+
+addappid(923010)
+addappid(923011,0,"8a411a7cf0653cf0f01b7bcdf77fed2763fd51069ffa50466ebec036148ac9da")
