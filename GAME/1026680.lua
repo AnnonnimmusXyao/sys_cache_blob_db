@@ -1,0 +1,7 @@
+--game: FINAL FANTASY VIII - REMASTERED
+
+addappid(228985)
+addappid(229004)
+addappid(1026680)
+addappid(1026681,0,"2a49f44a8153e4e505ded49c5844e54320aa082a9a1812f987644e6dac5863f2")
+addappid(1152240,0,"85f2fe46d3930f2ec95b072cdfd11ede2ba8e33bd11fa8e8dc2836db2a880073")
