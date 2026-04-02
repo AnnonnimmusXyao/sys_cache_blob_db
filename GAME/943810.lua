@@ -1,0 +1,4 @@
+--game: Chaos Sector 混沌宙域
+
+addappid(943810)
+addappid(943811,0,"7565b48a817cb6cf04becb803a540601541b8ec92847ec106922f7cc54cbeebf")
