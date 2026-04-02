@@ -1,0 +1,4 @@
+--game: Desolate Sands
+
+addappid(930300)
+addappid(930301,0,"d90073899e0db1c10d2af3776badab3904a5e9d208a9d00a776990d7e9db3abf")
