@@ -1,0 +1,4 @@
+--game: Lost in the tomb
+
+addappid(732070)
+addappid(732071,0,"dac3c3105a8f993ad1cc5df100f64276d63f51bef05ebf7c910cff63c8c43008")
