@@ -1,0 +1,5 @@
+--game: Fable of the Sword
+
+addappid(787370)
+addappid(787371,0,"d659a92eb5a7881fdd5f81367983560895a74651588129a907629d3cddec02c6")
+addappid(787373,0,"695dc34c6e056ba0378c6db72cf61b6e7a6a2c6c3cab6344f231aca2b3237ab7")
