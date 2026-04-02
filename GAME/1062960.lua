@@ -1,0 +1,4 @@
+--game: Under the Sand REDUX - a road trip simulator
+
+addappid(1062960)
+addappid(1062962,0,"989d21b0f93b1ddd79d230d1de15813a52063f0bbc554b0266534b54d5a36c4e")
