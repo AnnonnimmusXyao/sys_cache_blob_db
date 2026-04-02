@@ -1,0 +1,4 @@
+--game: The Wilting Amaranth
+
+addappid(867700)
+addappid(867701,0,"58d603d1259cdbf28ce93b063157edefba3201e1e4ad8790798b52dbca879b95")
