@@ -1,0 +1,4 @@
+--game: Alluris
+
+addappid(1078510)
+addappid(1078511,0,"c7fe6c4fd1ef9289961461d0564095053e417e6be2b2b2a18a17ff1fc3dc9e35")
