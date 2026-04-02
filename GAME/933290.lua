@@ -1,0 +1,4 @@
+--game: PixelRPG
+
+addappid(933290)
+addappid(933291,0,"4c41a2b7cf3abd87a021b9dbe591c0ccad20b560dea1d291776723d193888fc5")
