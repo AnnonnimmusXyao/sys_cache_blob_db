@@ -1,0 +1,4 @@
+--game: Space Viking Raiders VR
+
+addappid(1112120)
+addappid(1112121,0,"3518112674da4f3eea450680c11fdc744d4d2441ab278707c50c4532454016ca")
