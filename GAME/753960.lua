@@ -1,0 +1,4 @@
+--game: Jida Chronicle Chaos frontier VR
+
+addappid(753960)
+addappid(753961,0,"8b9f9b5da2162ace2998cf6912dd1a5a263278780fb7573a379981d68c149c8a")
