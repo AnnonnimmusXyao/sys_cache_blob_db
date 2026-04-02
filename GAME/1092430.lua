@@ -1,0 +1,4 @@
+--game: Budget Cuts 2: Mission Insolvency
+
+addappid(1092430)
+addappid(1092431,0,"38b767149be746fc883346561319cd03325549f148e20049c439ea5b91facfcd")
