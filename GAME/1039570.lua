@@ -1,0 +1,4 @@
+--game: Find the Oil Racing Edition
+
+addappid(1039570)
+addappid(1039571,0,"31019e947f6378d376c6c81a38340cec6223c79fa24995a3c9b33b106dceb56b")
