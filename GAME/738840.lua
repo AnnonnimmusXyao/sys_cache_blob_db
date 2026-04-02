@@ -1,0 +1,5 @@
+--game: Brutal Alice -The Hundred Day's War-
+
+addappid(738840)
+addappid(738841,0,"afa514693df1fa1a0090b221650345e754f544a1b8570e02caf7f4bcc10fe10a")
+addappid(738842,0,"70b787518d75952abaed798d159d7ab43680885f14b8afecfa942d3f34633a11")
