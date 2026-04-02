@@ -1,0 +1,4 @@
+--game: Flying Aces - Navy Pilot Simulator
+
+addappid(837430)
+addappid(837431,0,"05a6cd054e764f787a5461c9fa11ba4dbd2a9f687bee6c467697592532c6f4e8")
