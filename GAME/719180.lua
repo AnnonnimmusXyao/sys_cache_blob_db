@@ -1,0 +1,4 @@
+--game: Revulsion
+
+addappid(719180)
+addappid(719181,0,"a0d3132129dc3f632bdcc54b73e6b13c8c753cf08bf959da72e82d9de83b045a")
