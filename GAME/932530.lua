@@ -1,0 +1,4 @@
+--game: Skull's Impossible Quest
+
+addappid(932530)
+addappid(932531,0,"fa4ad786248d5a5e463cc2da483ff0119ad35451417a671033eeb03b80bfe522")
