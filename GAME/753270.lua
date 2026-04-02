@@ -1,0 +1,4 @@
+--game: Henri's Secret - Visual novel
+
+addappid(753270)
+addappid(753271,0,"16ef42a07bf378966dc5687ae6e565be0f15b6dd1d0b323cb05734ca35c1f840")
