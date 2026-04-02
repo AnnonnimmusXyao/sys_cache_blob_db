@@ -1,0 +1,4 @@
+--game: Beach Rules
+
+addappid(768880)
+addappid(768881,0,"034b7e600b11ab2b4d866eb14f1a1bf9289995baf64c92447212a41de342b1fb")
