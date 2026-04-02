@@ -1,0 +1,4 @@
+--game: Seeking Dawn
+
+addappid(859340)
+addappid(859341,0,"caf765836cab0edde252ff3d6d0255d0de23dab3a573183670d6c8e5f0f77085")
