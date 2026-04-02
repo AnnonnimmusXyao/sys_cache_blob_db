@@ -1,0 +1,4 @@
+--game: Manaya
+
+addappid(810000)
+addappid(810001,0,"d361c503821ae428267e5e2bc647992eabc8676a6dce5067f3319d81a714507d")
