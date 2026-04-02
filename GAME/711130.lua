@@ -1,0 +1,4 @@
+--game: God of Light: Remastered
+
+addappid(711130)
+addappid(711131,0,"e68f6b4b6dfde1e683ca9238b574cec4b29eacc02a4101585e5a49954dd85211")
