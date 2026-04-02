@@ -1,0 +1,4 @@
+--game: Snares of Ruin Zero
+
+addappid(970090)
+addappid(970091,0,"41baec278830ae1175c2befd9f005c457295fb11897ccfcfb83086f1865c9885")
