@@ -1,0 +1,4 @@
+--game: Achievement Collector: Space
+
+addappid(942340)
+addappid(942341,0,"6589f9fae33a91a9573c4ce69ba44b797b8154c1147d969d8b58c5ad7f75c233")
