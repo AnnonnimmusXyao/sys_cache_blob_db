@@ -1,0 +1,4 @@
+--game: Daedalic Complex
+
+addappid(971230)
+addappid(971231,0,"6154541a1efdb3211bfffd0ac0d43ecfe1879deb61c767a1df3406c03867bcbe")
