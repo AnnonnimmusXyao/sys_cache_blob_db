@@ -1,0 +1,4 @@
+--game: Bow to Blood: Last Captain Standing
+
+addappid(956500)
+addappid(956501,0,"76c6b301596ef9a7aab76a26519da0710656909051906ca029d802f320db60be")
