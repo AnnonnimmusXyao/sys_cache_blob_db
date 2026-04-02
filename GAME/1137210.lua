@@ -1,0 +1,4 @@
+--game: Alien Monopoly
+
+addappid(1137210)
+addappid(1137211,0,"2d32803b2100cdaba15655f3b191fb42b58692559ebb7b19b577276b4517f486")
