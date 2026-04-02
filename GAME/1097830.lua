@@ -1,0 +1,4 @@
+--game: Banished Monsters
+
+addappid(1097830)
+addappid(1097831,0,"7dc23d19b38ec0c4f1983a550f4ec13217b40b75c3b38cbbf6a99d201e9ac36d")
