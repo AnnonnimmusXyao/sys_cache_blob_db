@@ -1,0 +1,4 @@
+--game: Space Colonizers Idle Clicker
+
+addappid(850940)
+addappid(850942,0,"9ff602ed80c87c42600950264237337af268898f1df41567c7c5d8d637aa246b")
