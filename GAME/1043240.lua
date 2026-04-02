@@ -1,0 +1,4 @@
+--game: 東方輝針城 〜 Double Dealing Character.
+
+addappid(1043240)
+addappid(1043241,0,"c0a48134a7d1e921cc843298b39c1dcc19c76954dc589473aa0e27a39339649f")
