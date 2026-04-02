@@ -1,0 +1,4 @@
+--game: Malfortune
+
+addappid(893350)
+addappid(893351,0,"b90ab97685983fbd15d90b9776d3ac6b02f9e228596b82f863d148704906a01c")
