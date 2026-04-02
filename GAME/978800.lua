@@ -1,0 +1,5 @@
+--game: Rolling Bird
+
+addappid(978800)
+addappid(978801,0,"4ad6dda8bc0a7d864896825c5dccd9d91c27cccf8621df974ab81561d49ac7be")
+addappid(999960)
