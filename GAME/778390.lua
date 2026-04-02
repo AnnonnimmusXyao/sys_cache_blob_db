@@ -1,0 +1,4 @@
+--game: Corpse Party: Book of Shadows
+
+addappid(778390)
+addappid(778391,0,"e11bbe7a8165e6d8ece754bf89663d68081bd1927e5b4d9cd7913373c050bd86")
