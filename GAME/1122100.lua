@@ -1,0 +1,7 @@
+--game: Giraffe and Annika
+
+addappid(228987)
+addappid(1122100)
+addappid(1122101,0,"1b0af53cc13f4dc38b37092d2b27d911fa3fcefaf8bd6b9d8992968a2080a854")
+addappid(1868190)
+addappid(1868200)
