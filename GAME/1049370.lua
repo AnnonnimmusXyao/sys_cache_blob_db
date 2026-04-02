@@ -1,0 +1,4 @@
+--game: F18 Carrier Landing
+
+addappid(1049370)
+addappid(1049371,0,"f9eea44fe0e447c9011b5a35defc1c8934c91621e92f48ae20dd97aa91681bda")
