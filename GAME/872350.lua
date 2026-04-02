@@ -1,0 +1,4 @@
+--game: Zombie Killing Simulator
+
+addappid(872350)
+addappid(872351,0,"a43e937b1ce69da8c29ded55d68aa960bf99e1b0f3db584e4b44ba3e54b01546")
