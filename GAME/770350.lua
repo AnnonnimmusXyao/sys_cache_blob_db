@@ -1,0 +1,4 @@
+--game: PIXEL DRIFT
+
+addappid(770350)
+addappid(770351,0,"0a845491849f0c214a6ed63a50ba9de54ed041dfb643545b4664161b243f3e50")
