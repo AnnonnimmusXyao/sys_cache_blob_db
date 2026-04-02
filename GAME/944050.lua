@@ -1,0 +1,4 @@
+--game: Sixth Night
+
+addappid(944050)
+addappid(944051,0,"d7280039bce94af6aa45da836246176a216798a1289a4e7f9453d7742991c447")
