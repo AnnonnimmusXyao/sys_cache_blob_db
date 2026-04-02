@@ -1,0 +1,6 @@
+--game: The Royal Marines Commando
+
+addappid(837600)
+addappid(228981)
+addappid(837601,0,"b2379ea2f441580132a8d7208c47376ad380f52279cebd05f3a55ee4edf29909")
+addappid(837602,0,"a0ce0a1c7f59cf7223c5e79fe45255d31d383ac457cd52f18653c9c8a8e93fab")
