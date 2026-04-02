@@ -1,0 +1,4 @@
+--game: Zenith Hunter
+
+addappid(924360)
+addappid(924361,0,"a0b7d625a766395f81f025f4216771e0674301089caee8d4635f6743af4a7e27")
