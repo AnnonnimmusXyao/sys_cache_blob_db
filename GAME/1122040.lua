@@ -1,0 +1,4 @@
+--game: Kaede the Eliminator / Eliminator 小枫
+
+addappid(1122040)
+addappid(1122041,0,"3561b6e06a8bc926d054a11857d38b709215099bfd778955111fc446a4310d08")
