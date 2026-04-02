@@ -1,0 +1,4 @@
+--game: Adam's Ascending
+
+addappid(1110210)
+addappid(1110211,0,"708eea0b5ca5b68c1a516a225ce2fa3a2b23af09c1d2a1c3f56ca3271faf48e6")
