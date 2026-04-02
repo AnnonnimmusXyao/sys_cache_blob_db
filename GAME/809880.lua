@@ -1,0 +1,4 @@
+--game: Degrees of Separation
+
+addappid(809880)
+addappid(809883,0,"edde71c9c9a27898179fa7b14291875c2c60edddcb78ea28b4b05e8416eba646")
