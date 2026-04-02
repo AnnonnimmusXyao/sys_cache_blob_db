@@ -1,0 +1,4 @@
+--game: Speed Car Fighter
+
+addappid(833800)
+addappid(833801,0,"d3f357edff7b4354311a8965b7064197739665043d791a284c6e63b278bdaaa9")
