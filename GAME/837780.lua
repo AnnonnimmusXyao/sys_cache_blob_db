@@ -1,0 +1,4 @@
+--game: Coin-Op Kingdom
+
+addappid(837780)
+addappid(837782,0,"378525eb9f417ce489181c30460822f9d51921b8a63248388feeb6b53c8369fd")
