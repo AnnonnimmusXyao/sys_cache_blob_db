@@ -1,0 +1,5 @@
+--game: Hentai Girl Division
+
+addappid(1113680)
+addappid(1113681,0,"2d8e465d2ee8ef0237a40a8da9c052e9984ae730aee91e5b56d791705f8eeb94")
+addappid(1145500)
