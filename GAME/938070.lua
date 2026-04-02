@@ -1,0 +1,4 @@
+--game: LOGistICAL 2: Belgium
+
+addappid(938070)
+addappid(938071,0,"970ef74350bc538d01e98bab063dfc7eda827103f2841add31b8e1e1292d74e2")
