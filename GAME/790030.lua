@@ -1,0 +1,4 @@
+--game: Hexer
+
+addappid(790030)
+addappid(790032,0,"b38afa07c36c14556afe00764e0d2c2cca6abc055023411804602b0a7bd1237b")
