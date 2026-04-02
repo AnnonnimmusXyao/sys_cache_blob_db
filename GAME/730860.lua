@@ -1,0 +1,4 @@
+--game: Amoeba Battle: Microscopic RTS Action
+
+addappid(730860)
+addappid(730861,0,"cd718d88fca1cad599f5d7daf802bb51b9147e4d105af1d5e80a06bd8726add5")
