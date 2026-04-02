@@ -1,0 +1,4 @@
+--game: Snowdome
+
+addappid(1131740)
+addappid(1131741,0,"a3d6eeb3f04f277a082987ff2adaf0a12f22deb03ce9c7afa142ab1a930451e8")
