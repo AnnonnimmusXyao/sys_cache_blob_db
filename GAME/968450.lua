@@ -1,0 +1,4 @@
+--game: Hentai Puzzle Classic
+
+addappid(968450)
+addappid(968451,0,"8e3ae06877926735a00a18d59c586532e8daa13697e22eede30bc9dcd2cc1ba7")
