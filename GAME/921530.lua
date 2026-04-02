@@ -1,0 +1,5 @@
+--game: Demon King Domination: Deluxe Edition
+
+addappid(921530)
+addappid(921531,0,"57791497e4d6cb9c0b550cb48ec677abb28539d2333150a6f6f789736cfc9daf")
+addappid(921534,0,"c1c8c899fd64ea66d5e8b2ee9cb171ee7657e4f5cbb8496a535bed33d76b4956")
