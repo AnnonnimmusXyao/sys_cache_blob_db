@@ -1,0 +1,4 @@
+--game: 魔杖战争 Wand Wars: Rise
+
+addappid(1020360)
+addappid(1020361,0,"0a858c49190389c486367dec736fbee92ac03cd7b2782083d06014968bac22c1")
