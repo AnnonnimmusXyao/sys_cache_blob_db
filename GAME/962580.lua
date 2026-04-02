@@ -1,0 +1,5 @@
+--game: Summer in Mara
+
+addappid(962580)
+addappid(962581,0,"ecf7c33add3af3999496a2d4d329be64b95a454bf226f5234367c1512353ab67")
+addappid(1380090)
