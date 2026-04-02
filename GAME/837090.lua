@@ -1,0 +1,6 @@
+--game: Chronicles of Mystery - The Tree of Life
+
+addappid(837090)
+addappid(228981)
+addappid(837091,0,"5a122deadeaad10025aab300bcf75725b36e981b5a240233d1449456af0f6c41")
+addappid(837097,0,"bb8c458c8c72193e53638a14c931f3da66d941ccca7349201c8e94015277f3bc")
