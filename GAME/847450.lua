@@ -1,0 +1,7 @@
+--game: Solenars Edge Heroes
+
+addappid(847450)
+addappid(847451,0,"adc4ab6ed2f9dc57bab44365953606983e286620c83fcda395b198a64831f53e")
+addappid(873130)
+addappid(937480)
+addappid(1386470)
