@@ -1,0 +1,4 @@
+--game: Zen Chess: Mate in Four
+
+addappid(1043000)
+addappid(1043001,0,"10bbb4cf8b000745ee1d9a46ae2f489f0cb4e73be93b9809aa23eec40e5a78fd")
