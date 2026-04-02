@@ -1,0 +1,4 @@
+--game: Warden of the Isles
+
+addappid(1110980)
+addappid(1110981,0,"bb2d72848faf0cbdd17f17fc7785a48be4f59256fe85fd786d8f633f03ccfda2")
