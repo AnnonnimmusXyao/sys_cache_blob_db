@@ -1,0 +1,4 @@
+--game: Pegasus-5: Gone Astray
+
+addappid(794030)
+addappid(794031,0,"11c7bca499ac16241123781a8ce4a2d6713b66139c6e4902326a6f1478cbaafd")
