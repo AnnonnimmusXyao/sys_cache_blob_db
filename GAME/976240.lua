@@ -1,0 +1,5 @@
+--game: Spaceguy: Red Space
+
+addappid(976240)
+addappid(976241,0,"b85405a2d20fc1738d7f6984451ea605cabd966a01442756406f6ebc454f8577")
+addappid(977820)
