@@ -1,0 +1,4 @@
+--game: Make War
+
+addappid(1120210)
+addappid(1120211,0,"9bf8db776703402a43ccf9ef1fac96b5e977c96f4e9a2b1a88613e083e489f61")
