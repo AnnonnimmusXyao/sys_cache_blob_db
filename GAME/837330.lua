@@ -1,0 +1,4 @@
+--game: Crimson Shift
+
+addappid(837330)
+addappid(837331,0,"88283822f6b67a1a2357ce8ed10bbd7d1cb411551ba3abd9b9b1f76680377da3")
