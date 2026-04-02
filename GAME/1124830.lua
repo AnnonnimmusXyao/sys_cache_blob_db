@@ -1,0 +1,4 @@
+--game: 东方华彩乱战 ~ Touhou Blooming Chaos
+
+addappid(1124830)
+addappid(1124831,0,"34c5540a811b29618ec5f056644e154685cb13b0b663aa2b1c32cbfcffaa7e99")
