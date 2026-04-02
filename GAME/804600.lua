@@ -1,0 +1,4 @@
+--game: Trivia Vault Football Trivia
+
+addappid(804600)
+addappid(804601,0,"ebf16521e3c8e13f7fe86b98e7bc718bf456f1778f5a33f118cbe1eb68d19930")
