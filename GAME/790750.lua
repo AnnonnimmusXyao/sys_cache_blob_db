@@ -1,0 +1,4 @@
+--game: oVRshot
+
+addappid(790750)
+addappid(790752,0,"6d26f043ddb4d473f7974a1821db67e7e63e192afdc6e3dc4f40964ff4ce942e")
