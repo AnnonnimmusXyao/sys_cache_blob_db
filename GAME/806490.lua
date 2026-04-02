@@ -1,0 +1,4 @@
+--game: As We Know It
+
+addappid(806490)
+addappid(806491,0,"f6ab43ea7c2a71aa3964d1a663667a2ad9c24a08386e7656c2a4539031841a78")
