@@ -1,0 +1,4 @@
+--game: Ages of Mages: The last keeper
+
+addappid(820610)
+addappid(820611,0,"80ff45eeeb4ad0ad882e59950dd4c351bd8303c390f6ceb085a05764818b79c0")
