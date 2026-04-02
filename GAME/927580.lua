@@ -1,0 +1,4 @@
+--game: Smoker The Car Game
+
+addappid(927580)
+addappid(927581,0,"95592ae17c67cc15ce479fb8b53cdb57ede49960f6cc9bf67caebfb28b66ffec")
