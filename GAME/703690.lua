@@ -1,0 +1,4 @@
+--game: Nemesis
+
+addappid(703690)
+addappid(703691,0,"141bb0c96ed6ba14707237feea2cadd545229682fa30954af97effece919c789")
