@@ -1,0 +1,4 @@
+--game: Revenant March
+
+addappid(1118000)
+addappid(1118002,0,"5effc945ef22b85f8aa3b533319c6a8098417066ccd36d8188bf92fbe29ef35f")
