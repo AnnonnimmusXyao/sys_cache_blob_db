@@ -1,0 +1,4 @@
+--game: Deathbloom: Chapter 1
+
+addappid(1058560)
+addappid(1058561,0,"be0b877feb171936328682609d379759e4ed210aa0478df70f95001206939037")
