@@ -1,0 +1,4 @@
+--game: RibbonChase
+
+addappid(728620)
+addappid(728621,0,"3d52c40bd1e36e57f7a8b0e2301a594066a2713149d52340ad4de85954d40d0f")
