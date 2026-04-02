@@ -1,0 +1,5 @@
+--game: Gorytale
+
+addappid(973850)
+addappid(973851,0,"bdfa4dc1589fb64427ee01edfb99708274c681784cfb2c35f92a6a831eb0ddfb")
+addappid(973852,0,"82e2a808ef693292e7b867859c13330aa12bfafa67c9302c033b5fb5c93034d8")
