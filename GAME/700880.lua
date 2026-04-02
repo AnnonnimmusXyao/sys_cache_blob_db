@@ -1,0 +1,4 @@
+--game: Kingdom: The Far Reaches
+
+addappid(700880)
+addappid(700881,0,"a260ab54e5e5d597926097ff4d9d751b56658ae9349f581b5a81c8509b277017")
