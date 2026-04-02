@@ -1,0 +1,4 @@
+--game: PolyCube
+
+addappid(798790)
+addappid(798791,0,"ec58c0b60853223d7953a26f2046af15580a185089d8d7ed4edf74869259254d")
