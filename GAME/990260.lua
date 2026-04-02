@@ -1,0 +1,5 @@
+--game: Collapse: A Political Simulator
+
+addappid(990260)
+addappid(229007)
+addappid(990261,0,"2a1e109aa8f18d8d989c42c41232b0f70d707797347d3d9093275ac94c055f21")
