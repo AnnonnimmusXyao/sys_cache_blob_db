@@ -1,0 +1,4 @@
+--game: RAYGUN COMMANDO VR 2
+
+addappid(934520)
+addappid(934521,0,"6fc0cea3d5ba9935e2f3e09e3ed8449397c020e34cda25d245e0d67d4d8adc63")
