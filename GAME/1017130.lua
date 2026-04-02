@@ -1,0 +1,4 @@
+--game: Ikao The Lost Souls
+
+addappid(1017130)
+addappid(1017131,0,"93ec0a192a3538ec3d5d2f96be647feeb618b7fb3cad5cc118d23b3fa93696b9")
