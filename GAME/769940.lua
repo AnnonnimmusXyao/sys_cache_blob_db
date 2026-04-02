@@ -1,0 +1,4 @@
+--game: Fantasy Defense
+
+addappid(769940)
+addappid(769941,0,"b34f954e0505489d36c5077753b59491046b17d1301c17be21ae4777e11383e5")
