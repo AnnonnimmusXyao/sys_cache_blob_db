@@ -1,0 +1,4 @@
+--game: Little Memories
+
+addappid(941630)
+addappid(941631,0,"1ec64cae394facfd1ffa30fb422b01e5d288f401a884d46e574c775a145c205a")
