@@ -1,0 +1,4 @@
+--game: Gamedev Beatdown
+
+addappid(1100300)
+addappid(1100301,0,"59f588020b6b985d46fa5d486303bc18d74d15542f06ab5a648348bbf1222237")
