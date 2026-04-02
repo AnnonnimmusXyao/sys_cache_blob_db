@@ -1,0 +1,4 @@
+--game: Just N
+
+addappid(1095610)
+addappid(1095611,0,"6a78ed33d63246db620b5fe979bd36d6204adb3976ae7f7f3a82c2795370a068")
