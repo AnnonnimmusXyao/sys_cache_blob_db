@@ -1,0 +1,4 @@
+--game: Moe Jigsaw
+
+addappid(785840)
+addappid(785841,0,"964fc252507ee162e21475ec2deddb904f134e184c9dacb3cf408419329266b2")
