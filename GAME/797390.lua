@@ -1,0 +1,5 @@
+--game: How To Cope With Boredom and Loneliness
+
+addappid(797390)
+addappid(797391,0,"b0f7b3cac124ab8ccae260203dd3243ec7cfffb24ce242d0f829bddd8daefd00")
+addappid(797392,0,"7876d05162deb098d9c82fcdedd35ac52fcc85177dc8d087e3fd70528fc3adc9")
