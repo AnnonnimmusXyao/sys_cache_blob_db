@@ -1,0 +1,4 @@
+--game: The Misadventures of Denniz & Diana
+
+addappid(903700)
+addappid(903701,0,"5cd60d39af8e69b6de9760c12476783ef7163717bb43164e3e12192c1b5e40c1")
