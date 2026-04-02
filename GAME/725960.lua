@@ -1,0 +1,4 @@
+--game: Ballistic Mini Golf
+
+addappid(725960)
+addappid(725961,0,"80e48212df30ee1608ab8718134ff1ffb85dd6ee187c18f2fe3857628152c671")
