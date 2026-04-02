@@ -1,0 +1,4 @@
+--game: Magic Tower 3D
+
+addappid(788800)
+addappid(788801,0,"dd61efc3555508e06021551f0621666b340c6c28229dbca0899b30e3db30bec1")
