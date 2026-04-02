@@ -1,0 +1,5 @@
+--game: Devious Dungeon
+
+addappid(228987)
+addappid(1059880)
+addappid(1059881,0,"4db42e34df90e954d9db75205c640c96538d47c1d1a42a6eae78f1606263852e")
