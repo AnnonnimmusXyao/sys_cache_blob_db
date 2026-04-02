@@ -1,0 +1,5 @@
+--game: Chlorophos
+
+addappid(1093770)
+addappid(1093771,0,"f87fcb510eec8ddbc0c5fd5eea955054f4386c86b83ef46908144d0e4194e971")
+addappid(1093772,0,"a5c490395f9871d7fcf5da9b24b79f244e40e436860a365aae4aa2f9bc55fd41")
