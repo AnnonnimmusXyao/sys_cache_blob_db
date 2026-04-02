@@ -1,0 +1,4 @@
+--game: 香江之龙，Dragon of Hongkong
+
+addappid(1126430)
+addappid(1126431,0,"8a646bfa9e1315bf6f615b8de8a7e5343f37f291578bb8389ba099c61abae330")
