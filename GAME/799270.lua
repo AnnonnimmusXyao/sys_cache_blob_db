@@ -1,0 +1,4 @@
+--game: Looney Rally
+
+addappid(799270)
+addappid(799271,0,"44fa24c2dc8a0600b970713132e71541259805e4e5d040c61337c5fdb8253bd1")
