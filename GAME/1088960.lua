@@ -1,0 +1,4 @@
+--game: PsycoCat
+
+addappid(1088960)
+addappid(1088961,0,"a94c0470eaf0ed5f9ea22c23a08057c39fe2ca7eaf3d3ec3d5c40541b4de5b64")
