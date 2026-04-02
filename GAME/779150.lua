@@ -1,0 +1,4 @@
+--game: Shadow of Something
+
+addappid(779150)
+addappid(779151,0,"3ff3ab75bf2a231e2f688afeff129c5b0ff0909c9d70fffc7504904eabd047cf")
