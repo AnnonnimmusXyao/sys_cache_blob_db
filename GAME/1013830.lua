@@ -1,0 +1,5 @@
+--game: Agent Of Love - Josei Otome Visual Novel
+
+addappid(1013830)
+addappid(1013833,0,"00215b5b033bf887a30f27dfc6dc333c6db7379df5ad54560025a47dbd00af41")
+addappid(1013834,0,"7bb51405cc6d421c6fc3efd5dc73fd703f152f40bb96c9889e4f714e809b0cf1")
