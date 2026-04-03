@@ -1,0 +1,4 @@
+--game: A Very Bad Christmas Eve
+
+addappid(1480650)
+addappid(1480651,0,"0d398ae2428afadcc55cae0623fb14f8ce50115bf5596bae778ccb3345fab3dd")
