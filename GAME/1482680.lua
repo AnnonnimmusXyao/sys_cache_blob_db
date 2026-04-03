@@ -1,0 +1,4 @@
+--game: The Day They Came
+
+addappid(1482680)
+addappid(1482681,0,"9a9ceb5fe136d53828f747a19dbe0c42a2ee8775d6574fd6290a6fcc872e0d5d")
