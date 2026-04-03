@@ -1,0 +1,8 @@
+--game: Blightbound
+
+addappid(1263070)
+addappid(1263071,0,"850b739619642c88079846b442d40e3283129ac43c904be5ac708b93ab1b074a")
+addappid(1504040)
+addappid(1518260)
+addappid(1518261)
+addappid(1518262)
