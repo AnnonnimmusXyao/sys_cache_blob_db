@@ -1,0 +1,9 @@
+--game: Monster Girls and the Mysterious Adventure
+
+addappid(1229260)
+addappid(228987)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(1229261,0,"66f8eae7622c4431e450b6e036e1496ce3c721a7fa6e74a61a98d61c93bfc5d6")
+addappid(1229262,0,"e090eb313d18f383aedbe311da7ca13f809eb13a860fc046e8ccaede1baa99ca")
