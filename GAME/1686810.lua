@@ -1,0 +1,4 @@
+--game: idolYAKI: From Delinquents to Pop Stars
+
+addappid(1686810)
+addappid(1686811,0,"b188bdc2d738d5f228ef5ef36771be28d280b3c8d967fc070efa6a9c4c9e8dd6")
