@@ -1,0 +1,4 @@
+--game: Lack of Water
+
+addappid(1769390)
+addappid(1769391,0,"82c121027414250bf1406668520584ebf45c5dad35fd9b69965e00c619ba879e")
