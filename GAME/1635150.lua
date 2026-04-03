@@ -1,0 +1,4 @@
+--game: Protect the Earth
+
+addappid(1635150)
+addappid(1635151,0,"c8758861aeba7bbfb6416c75535212aa216f97027b8f12fb9331e6d473740940")
