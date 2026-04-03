@@ -1,0 +1,4 @@
+--game: Amazing Fix
+
+addappid(1476760)
+addappid(1476761,0,"06c3bb43a8d4095253c0957e18d915bd4f567df69e592a56fa61a57f55ed6347")
