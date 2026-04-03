@@ -1,0 +1,4 @@
+--game: Pak Sung Bo Wing Chun
+
+addappid(1672420)
+addappid(1672421,0,"d0b827b52a278744d5cc66f7c7176dfc858de4f24333daba37f54d49e6dbf12c")
