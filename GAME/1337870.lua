@@ -1,0 +1,4 @@
+--game: Argy Bargy Legends
+
+addappid(1337870)
+addappid(1337871,0,"26367b11e723c5f401122deb174459bdc60cfc96fbf75d449368d3a00b0de0c7")
