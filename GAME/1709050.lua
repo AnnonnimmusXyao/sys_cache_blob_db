@@ -1,0 +1,4 @@
+--game: Nitro Kid
+
+addappid(1709050)
+addappid(1709051,0,"79ad684a306bd3ac9c0946906053c835f53135bbab5257f4fb30967aa4ef1d57")
