@@ -1,0 +1,4 @@
+--game: ゆうゆう自適のゆうかりん
+
+addappid(1727000)
+addappid(1727001,0,"bb6f2e0c0915428428f42d536bb7bde4b65fe8b04a826cfcc525ad2892ab3173")
