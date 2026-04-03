@@ -1,0 +1,4 @@
+--game: Bone's Cafe
+
+addappid(1739070)
+addappid(1739071,0,"e9bc037e6afef9e30973c77dab241a70af052f9086b012186400b128cacdf7c4")
