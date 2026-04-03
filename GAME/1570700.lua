@@ -1,0 +1,4 @@
+--game: Slaughterhouse
+
+addappid(1570700)
+addappid(1570701,0,"9301d6934e1e01aae8bc3f80ee21c406c79c820e98eca32790c3395e009a158a")
