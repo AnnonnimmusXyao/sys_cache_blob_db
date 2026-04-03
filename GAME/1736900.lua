@@ -1,0 +1,4 @@
+--game: Legends of Snooker: One Shot
+
+addappid(1736900)
+addappid(1736901,0,"56e524858fddee88a11f6f22f5a889106f77d2c834a4c4282d602c9cd5b1cc95")
