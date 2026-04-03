@@ -1,0 +1,4 @@
+--game: Karisvale
+
+addappid(1762480)
+addappid(1762482,0,"8a5ebb79f75e9063438a1cc74ac3f474e178d32b2dcd5ae6412a1bb574d04a3c")
