@@ -1,0 +1,4 @@
+--game: Natsuki Chronicles
+
+addappid(1175190)
+addappid(1175191,0,"ab985b84529e75e25aa6f68c2abde709631d70157676a79162cd47eadb7f5a03")
