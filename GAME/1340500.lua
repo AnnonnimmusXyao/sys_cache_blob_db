@@ -1,0 +1,4 @@
+--game: Little Fire Girl
+
+addappid(1340500)
+addappid(1340501,0,"6b98075bc3d57239a80083a65b632fa272e9eea514e7e9e28019c3fe78503912")
