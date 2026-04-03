@@ -1,0 +1,4 @@
+--game: The Fantastic Adventure of Monsieur Grape
+
+addappid(1330080)
+addappid(1330081,0,"1b8a96aa4adab15afcdb3721d6a9b0c111630ccedb09375fac413b163e3fcad1")
