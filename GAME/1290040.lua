@@ -1,0 +1,4 @@
+--game: Intemporel
+
+addappid(1290040)
+addappid(1290041,0,"6c4b5dab73a2024072e05d83edc17670d60f8d7d389fd713713d825417360e61")
