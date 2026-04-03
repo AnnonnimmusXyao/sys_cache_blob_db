@@ -1,0 +1,4 @@
+--game: Hellbreachers
+
+addappid(1364330)
+addappid(1364331,0,"16cdf3cd5e6a96c49d4d6122a4f98a6f5354c8bfae5b42774a8848cb38028f12")
