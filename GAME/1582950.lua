@@ -1,0 +1,4 @@
+--game: Cinemoji
+
+addappid(1582950)
+addappid(1582951,0,"7b018dd17a1d98fe64331e3cce01a676eb07934c4241576831af95a891c3138d")
