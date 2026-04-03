@@ -1,0 +1,9 @@
+--game: Rainbows, toilets & unicorns!
+
+addappid(1271030)
+addappid(1271031,0,"a4e28417046e22e7d6ed460fc1eb303ec034d8dc5f2cc368d1d93509c195c2ed")
+addappid(1271032,0,"c3e08cb75e283088849bde1ad14ea0e1a297c1bf796124b9be9b42bcfda98190")
+addappid(1273960)
+addappid(1273961)
+addappid(1273962)
+addappid(1273963)
