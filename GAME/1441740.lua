@@ -1,0 +1,4 @@
+--game: Frick Frack
+
+addappid(1441740)
+addappid(1441741,0,"cb234914d1d28444901486bcd3c55cab9ddc6480231aa6608616a5c0f8becb35")
