@@ -1,0 +1,5 @@
+--game: The End of Dyeus
+
+addappid(1304400)
+addappid(1304401,0,"998c0599aacaed594dfb486f151467e0e57165053fc5d8d01f86da3d295b1585")
+addappid(1304402,0,"8226267dcbca27771d00ed1cc2524e3eb4fe47affe2ded6aed27669ad4ae1f0a")
