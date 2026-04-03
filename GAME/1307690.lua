@@ -1,0 +1,5 @@
+--game: The Darkest Tales
+
+addappid(1307690)
+addappid(1307691,0,"a6de5c8f5a58a8c2ac8c4d62646112e53cba20619d1590399eb48d0ab28af126")
+addappid(2180030)
