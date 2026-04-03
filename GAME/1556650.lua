@@ -1,0 +1,4 @@
+--game: Castle of Shikigami 2
+
+addappid(1556650)
+addappid(1556651,0,"91efaffff98bef3ed55848099f440d3ada8eea4ff0624b50d94322f3ed361a02")
