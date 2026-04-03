@@ -1,0 +1,8 @@
+--game: Siege Survival: Gloria Victis
+
+addappid(228983)
+addappid(228985)
+addappid(229000)
+addappid(229001)
+addappid(1167140)
+addappid(1167141,0,"790224660577049d9a88c87eab48e892225b456ce869f76259c5c56016e04d1f")
