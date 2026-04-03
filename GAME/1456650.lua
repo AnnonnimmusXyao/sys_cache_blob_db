@@ -1,0 +1,4 @@
+--game: Pascal's Wager: Definitive Edition
+
+addappid(1456650)
+addappid(1456651,0,"559deaf06509bad0ea10096b34b255d9578beb01b9a64cb9f058aca1d5c955aa")
