@@ -1,0 +1,6 @@
+--game: iFVN - AVG文字游戏制作工具
+
+addappid(229004)
+addappid(229006)
+addappid(1593790)
+addappid(1593791,0,"bc7bd7e50a037e1030b94c08d21bb12e518013bfcb969a31f139c50554297c8c")
