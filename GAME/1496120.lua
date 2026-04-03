@@ -1,0 +1,4 @@
+--game: Phantast
+
+addappid(1496120)
+addappid(1496121,0,"c5fae41900acffeaee8265fc1545b239915f6befa6d3a349f688cca429fcd803")
