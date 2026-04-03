@@ -1,0 +1,4 @@
+--game: FiberTales: DummyKart
+
+addappid(1717160)
+addappid(1717161,0,"0924664a43531b607364278d5fdcdf8ca2ecaa08a805a09e7362fd17b516058b")
