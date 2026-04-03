@@ -1,0 +1,17 @@
+--game: Zero Hour
+
+addappid(228985)
+addappid(229000)
+addappid(229002)
+addappid(229030)
+addappid(229031)
+addappid(229032)
+addappid(229033)
+addappid(1359090)
+addappid(1359091,0,"0894c1b6a123aba0a839dc8fa514cdf47430cfd10b68f14b9bf892b4fb51ebcf")
+addappid(2616600)
+addappid(2726290)
+addappid(2726300)
+addappid(2744030)
+addappid(2751840)
+addappid(3179440)
