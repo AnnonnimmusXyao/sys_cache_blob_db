@@ -1,0 +1,4 @@
+--game: Greak: Memories of Azur
+
+addappid(1311070)
+addappid(1311071,0,"c566b39c6fb1541771156e7e002676be9f2252773e1c55253cdfd17d707806c0")
