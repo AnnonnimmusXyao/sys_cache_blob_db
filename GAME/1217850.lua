@@ -1,0 +1,4 @@
+--game: Angry food
+
+addappid(1217850)
+addappid(1217851,0,"0fa008152d49d9fc5b0c798fd353f396a9a9f21dd3fbce759db9098c8021b016")
