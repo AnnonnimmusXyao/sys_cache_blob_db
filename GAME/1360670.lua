@@ -1,0 +1,5 @@
+--game: MiniMap Kingdom
+
+addappid(229006)
+addappid(1360670)
+addappid(1360671,0,"4241c1705c48c893b8b8bf0710fec1be830128e5f08a749eeedeac6c43044b3e")
