@@ -1,0 +1,4 @@
+--game: My Adventure（我的冒险）
+
+addappid(1206710)
+addappid(1206711,0,"e81f1d2392b7617d2f08804e48865af1f6f6cf8fb1bc3fb2a4370cee88803170")
