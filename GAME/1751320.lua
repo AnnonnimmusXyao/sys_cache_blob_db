@@ -1,0 +1,4 @@
+--game: HotGirls Sliding Puzzle
+
+addappid(1751320)
+addappid(1751321,0,"b570d46b45060a2a06f6dfbe2f162812cfc17624cee6b641964c4e65b7bfd334")
