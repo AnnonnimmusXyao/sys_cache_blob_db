@@ -1,0 +1,4 @@
+--game: ヘルズ・ハイ・ハーモナイザーズ
+
+addappid(1335500)
+addappid(1335501,0,"cdce2fc1cdd0bddb51a81db821019f4fb7489203bd8f03e5fc8d5572cefb9c87")
