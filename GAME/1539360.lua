@@ -1,0 +1,4 @@
+--game: Charlie The Roach
+
+addappid(1539360)
+addappid(1539361,0,"f9af9a4bc82cc5bc51aaaad36e46b9865985c68626540a28615d7fb8e40552b0")
