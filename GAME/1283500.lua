@@ -1,0 +1,4 @@
+--game: Euphoria: Supreme Mechanics
+
+addappid(1283500)
+addappid(1283501,0,"78c860fcc920b2ec4ab7bdb7178c0ae19cd2e9211d2b951aaeb71459308baafd")
