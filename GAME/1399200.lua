@@ -1,0 +1,4 @@
+--game: World's Worst Handyman: Prologue
+
+addappid(1399200)
+addappid(1399201,0,"f3a9dd1d84b76a9aab8e16a9e73ef128b5ef99e3105af70a5c4ae00b4c8b831b")
