@@ -1,0 +1,4 @@
+--game: Neon Ships: The Type'em Up Shooter
+
+addappid(1528580)
+addappid(1528581,0,"1b8e26408c95d8e20f58e35067946a1d4d601d16e9551d90bf3f35f9f88c00e6")
