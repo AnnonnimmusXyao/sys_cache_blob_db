@@ -1,0 +1,4 @@
+--game: Colorful Snake
+
+addappid(1287370)
+addappid(1287371,0,"317e04496eeeaf5e1fd36d8b1dcc332adc065fcf6574f0aa7518114e23b2ff2f")
