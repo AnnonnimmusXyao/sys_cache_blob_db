@@ -1,0 +1,4 @@
+--game: Cosmic Disco
+
+addappid(1372390)
+addappid(1372391,0,"885d1ac7d00e6d68c78a9d643273166e67870cb2795299ff635b94f7a5257d88")
