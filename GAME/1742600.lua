@@ -1,0 +1,4 @@
+--game: Perish Song
+
+addappid(1742600)
+addappid(1742601,0,"f78ae23f33e51d6464c64edc425d664cdb0acc6b1be9af10d4f5faeb1c4061f9")
