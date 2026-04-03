@@ -1,0 +1,6 @@
+--game: Command & Conquer™ Remastered Collection
+
+addappid(228983)
+addappid(228987)
+addappid(1213210)
+addappid(1213211,0,"3468f5d4f6b3e520cbc3f0e07308b1b5d4d78d088198c01827294ae44ca80467")
