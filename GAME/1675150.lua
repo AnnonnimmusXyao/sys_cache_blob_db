@@ -1,0 +1,4 @@
+--game: 「３」
+
+addappid(1675150)
+addappid(1675151,0,"33ad0205e10545ef93947a0479f4c64f9d6290faf1fac37434a05ec57a9a061d")
