@@ -1,0 +1,4 @@
+--game: 100 hidden gnomes
+
+addappid(1471530)
+addappid(1471531,0,"fba2391a1ff96b6cf468e0d66c1dbc70a77ac4cc5d56f32baca5706a1e44a6cf")
