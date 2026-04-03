@@ -1,0 +1,4 @@
+--game: The Cruel kings
+
+addappid(1734790)
+addappid(1734791,0,"d0e48b6d69fc65f8393d8124ea3a8b7917bef60b39c6d40bd97f7c345be7efa6")
