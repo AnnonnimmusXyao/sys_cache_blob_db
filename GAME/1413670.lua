@@ -1,0 +1,4 @@
+--game: U27RA R3Z0NANC3
+
+addappid(1413670)
+addappid(1413671,0,"ca0e0627e9dab029e6b192c7b00870d0d7a9e5b6c43acbfc765dcb71dd9c1709")
