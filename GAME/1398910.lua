@@ -1,0 +1,4 @@
+--game: Jorel’s Brother and The Most Important Game of the Galaxy - Complete Edition
+
+addappid(1398910)
+addappid(1398912,0,"c3c46eac3dfb69688091cce1c7b8d394ec6bf826628f46c4ba1cb49f26ce3e3c")
