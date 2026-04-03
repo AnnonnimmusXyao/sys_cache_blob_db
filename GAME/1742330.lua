@@ -1,0 +1,4 @@
+--game: TARAKAN - Mystery Point & Click Adventure
+
+addappid(1742330)
+addappid(1742331,0,"0a8d744dd8adf2c95feab89e78284cdb8c738dfc9ba3ba92a028e3f2965039d7")
