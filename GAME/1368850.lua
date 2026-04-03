@@ -1,0 +1,4 @@
+--game: Cursed Treasure 2 Ultimate Edition - Tower Defense
+
+addappid(1368850)
+addappid(1368851,0,"44d8ee0dfe4c9e2b26bc3116d1adb19c5c5cf3ed5bb0963f10d16be179500984")
