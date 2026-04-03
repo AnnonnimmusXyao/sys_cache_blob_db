@@ -1,0 +1,4 @@
+--game: Star Witch
+
+addappid(1713550)
+addappid(1713552,0,"ef04e3713ce18a9644f565c597a1807e7429ef190c397936eef4126ec1a5273d")
