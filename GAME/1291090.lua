@@ -1,0 +1,4 @@
+--game: Stozle - Solve the Mystery
+
+addappid(1291090)
+addappid(1291091,0,"4edaca8a03d20b1c03cb7aae96fcb2f10d840733479accf9c6427597aee22893")
