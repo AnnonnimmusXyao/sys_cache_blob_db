@@ -1,0 +1,9 @@
+--game: 噗噗的冒险乐园
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(1683380)
+addappid(1683381,0,"5e757a26515ae4aaca6e79f3f7183fd41dca0512a38b26e85988c50992ac8daf")
+addappid(1683383,0,"daca22dd4cee7f03fd26e215e43c454549f3fe3e2a2a11809aff8c9009d5efba")
