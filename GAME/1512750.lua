@@ -1,0 +1,4 @@
+--game: LeHweng LeHweng
+
+addappid(1512750)
+addappid(1512751,0,"5e314d9a91770b21e7317c844afc381092b025e280576538de8225f10bbf9231")
