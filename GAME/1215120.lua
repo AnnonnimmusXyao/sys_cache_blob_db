@@ -1,0 +1,4 @@
+--game: Artemis：We Are Escape
+
+addappid(1215120)
+addappid(1215121,0,"cf8b6f9e118d859a53c9dd4b88030e670437c98d73f216fe68cad0fcdf7c6bae")
