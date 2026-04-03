@@ -1,0 +1,4 @@
+--game: Domination
+
+addappid(1669430)
+addappid(1669431,0,"0ede483ffdd3eedbc2bde9f3b79ed02f72044a26152ddc265bd0aa1577dc6b06")
