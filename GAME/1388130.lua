@@ -1,0 +1,4 @@
+--game: Religion inc.
+
+addappid(1388130)
+addappid(1388131,0,"d0e7543ab525733d67d6eaf02b2bc4a74186dd8345496ac5fe03ec4f4ef90de1")
