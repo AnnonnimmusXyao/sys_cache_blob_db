@@ -1,0 +1,4 @@
+--game: Space Battle Arena
+
+addappid(1360080)
+addappid(1360081,0,"eeefc30a37bcf1fc6668c8f230b1ce8c080fa90f387e44836f035c8ad5bd7247")
