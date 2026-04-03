@@ -1,0 +1,4 @@
+--game: ATRIA-1
+
+addappid(1758600)
+addappid(1758601,0,"30060d693bbd861e7eb969b3c26bc7fedfbc9291a0981f4cf8bb98d0477a1255")
