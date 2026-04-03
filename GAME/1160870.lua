@@ -1,0 +1,4 @@
+--game: Dinosaur Hunting Patrol 3D Multiplayer Online
+
+addappid(1160870)
+addappid(1160876,0,"7b9a108c66e110a97104ddda13b19127c705dc67f618e9b5f867179523594479")
