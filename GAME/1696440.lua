@@ -1,0 +1,4 @@
+--game: 绝世好武功 The Matchless KungFu
+
+addappid(1696440)
+addappid(1696441,0,"d9d9203084ea5a76bb40325b0d450fda89e2f4b27f1c4a336f062110ed51c526")
