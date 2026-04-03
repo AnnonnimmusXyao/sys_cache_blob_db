@@ -1,0 +1,4 @@
+--game: Tales of Komori: Prologue
+
+addappid(1713200)
+addappid(1713202,0,"d7cb705dda0af7ef4606094459a891eb8ab01a5c4584713519a5e6964b389aff")
