@@ -1,0 +1,4 @@
+--game: Mystery Trackers: Nightsville Horror Collector's Edition
+
+addappid(1638920)
+addappid(1638921,0,"4334953ba3c7973d951973131a4c6d8af9a905a4fb8f230ebd0a8d66c580cf25")
