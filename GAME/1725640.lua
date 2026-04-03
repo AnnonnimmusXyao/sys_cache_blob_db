@@ -1,0 +1,5 @@
+--game: Sudocats
+
+addappid(1725640)
+addappid(1725642,0,"537ac520a4697350d930ee58abe69f32b0c9e28410b174847399d663ec3309fb")
+addappid(1923540)
