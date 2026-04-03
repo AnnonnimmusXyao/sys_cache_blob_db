@@ -1,0 +1,4 @@
+--game: Kitchen Island VR
+
+addappid(1563170)
+addappid(1563171,0,"f28a15952b03f201ed3c5b152e90f8e7c096e3ad252325016a795c2fe26b186e")
