@@ -1,0 +1,4 @@
+--game: 寂寞神明的心愿手记
+
+addappid(1682410)
+addappid(1682411,0,"48ecf522dff537246945a239d9bb11b17af12a847985de29f1ea5393022dc991")
