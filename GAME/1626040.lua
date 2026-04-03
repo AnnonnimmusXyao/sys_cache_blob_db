@@ -1,0 +1,4 @@
+--game: Dog_Fox_Bunny
+
+addappid(1626040)
+addappid(1626041,0,"0c8d602a51d558e11aecc0bfb45d7333ba46d58d6130e221335a6204c07b35b2")
