@@ -1,0 +1,4 @@
+--game: Alan's Automaton Workshop
+
+addappid(1289990)
+addappid(1289991,0,"5a4c90935f63054ad076a85ef165fef0f31d2464952f8837a68d1fb09e5064b6")
