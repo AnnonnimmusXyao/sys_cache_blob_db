@@ -1,0 +1,4 @@
+--game: Barrage Musical ~ Basic Danmaku Tutorial ~ / 弹幕音乐绘 ~ 基础教学篇 ~
+
+addappid(1173940)
+addappid(1173941,0,"b79fbee561efb0f38b096347f9a796ab1734e2e9a6a03082103f37858153bf73")
