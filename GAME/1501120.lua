@@ -1,0 +1,4 @@
+--game: Samurai Cat
+
+addappid(1501120)
+addappid(1501121,0,"cbb606f16d24a98ee6ed05a5e3d21305a78930f29406df2e2ec7931c40a7cb9d")
