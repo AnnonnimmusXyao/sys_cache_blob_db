@@ -1,0 +1,4 @@
+--game: Love Sucks: Night Two
+
+addappid(1719310)
+addappid(1719311,0,"8d0773f9b60ef0208efa3e3bb8580289af1bac002dba5daaebb73f15c151a32a")
