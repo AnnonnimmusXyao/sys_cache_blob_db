@@ -1,0 +1,5 @@
+--game: Awkward Girls
+
+addappid(1312990)
+addappid(1312991,0,"e465911c7049a1255c369741de7083a3a8acfa797135dc36d572fbe85b803a80")
+addappid(1324390)
