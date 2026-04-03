@@ -1,0 +1,4 @@
+--game: Orbital Defence Command
+
+addappid(1637100)
+addappid(1637101,0,"2c17e3dfcc34cdcb25ce8524401181bceaefd32eac1492f0baeb7bc5a24df396")
