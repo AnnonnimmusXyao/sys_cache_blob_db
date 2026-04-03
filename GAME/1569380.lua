@@ -1,0 +1,4 @@
+--game: Triple Dungeon
+
+addappid(1569380)
+addappid(1569381,0,"cc3f8d93bcb6bbdd6bae1143414406602228910010e215b0b9139888215ad306")
