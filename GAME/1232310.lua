@@ -1,0 +1,4 @@
+--game: Bonfire
+
+addappid(1232310)
+addappid(1232311,0,"077e12398a07d5ff1ea405c420b74bd55400dce45730bf414dc4d168cad6357b")
