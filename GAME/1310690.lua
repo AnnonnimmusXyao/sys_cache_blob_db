@@ -1,0 +1,4 @@
+--game: disc party
+
+addappid(1310690)
+addappid(1310691,0,"9c8938938036b30a93cf6d9ce20af8f45f8aed8a6528bfec63e7d6e04a8af8c5")
