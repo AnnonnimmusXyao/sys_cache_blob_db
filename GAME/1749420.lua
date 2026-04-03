@@ -1,0 +1,4 @@
+--game: Sand Story
+
+addappid(1749420)
+addappid(1749422,0,"aac74ebe55a3f3f21e119a97c733e497920cabd43a0d61aecfb102f1139cffa4")
