@@ -1,0 +1,4 @@
+--game: Danger City
+
+addappid(1198240)
+addappid(1198242,0,"afc8a5d6339fd1eaa479cb910216ab5c66b0b032b4784f4804f7981aec5e2993")
