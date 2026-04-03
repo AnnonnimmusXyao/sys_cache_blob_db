@@ -1,0 +1,4 @@
+--game: Ctrl Alt Ego
+
+addappid(1571940)
+addappid(1571941,0,"9fcaa2ca4296d7938fff3dd398411b087022b6a7265d484698fd16bc59a178cb")
