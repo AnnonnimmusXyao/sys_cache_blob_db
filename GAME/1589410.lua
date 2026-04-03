@@ -1,0 +1,4 @@
+--game: Bunny Factory
+
+addappid(1589410)
+addappid(1589411,0,"054971166a0a7e4976b33c9ace8cee75837ac8351741df94a7630bcf0b859fdb")
