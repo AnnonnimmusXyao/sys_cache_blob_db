@@ -1,0 +1,4 @@
+--game: Might is Right
+
+addappid(1152160)
+addappid(1152161,0,"487d6ca9c546ee99b54c4334b324b12e9acddb7ea13d92dc88b7f1fc6762d19a")
