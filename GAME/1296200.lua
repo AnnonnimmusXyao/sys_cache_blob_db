@@ -1,0 +1,4 @@
+--game: Astonishing Baseball Manager 20
+
+addappid(1296200)
+addappid(1296201,0,"3f41ea89b86d06b0e6c3339a0e9970d356fd783f2550c1c838d5a6fffeb13150")
