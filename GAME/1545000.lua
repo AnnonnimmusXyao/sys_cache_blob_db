@@ -1,0 +1,4 @@
+--game: Island Herders
+
+addappid(1545000)
+addappid(1545001,0,"7fb4991492a53d43e2c463f469042966a34fb034f42f542d6c9bddb8d3eec1b8")
