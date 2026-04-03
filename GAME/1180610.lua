@@ -1,0 +1,4 @@
+--game: Npc Problems: Vertex Coloring
+
+addappid(1180610)
+addappid(1180611,0,"1ec8b289408e64168d0e8f336f253a95ce0fdbec6403b84f5f53f4df468efd13")
