@@ -1,0 +1,4 @@
+--game: Sep's Diner
+
+addappid(1478880)
+addappid(1478881,0,"654e044cf28e21b583261bb456d46d5f75d83a6f52337d3981c48b54d5fc40cd")
