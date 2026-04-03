@@ -1,0 +1,4 @@
+--game: Atrius Star
+
+addappid(1533870)
+addappid(1533871,0,"ad6810ce70790645310e10b7294ac24a2e87d2bbbcfcf11ee7ce5d75c41314cb")
