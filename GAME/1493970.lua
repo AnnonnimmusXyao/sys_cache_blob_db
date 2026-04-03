@@ -1,0 +1,4 @@
+--game: The Chameleon
+
+addappid(1493970)
+addappid(1493971,0,"80966e7304ab4415753f29f8aee5226d45fb923ba98aaec83be7e04adce87001")
