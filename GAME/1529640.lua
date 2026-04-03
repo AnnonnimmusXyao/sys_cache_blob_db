@@ -1,0 +1,4 @@
+--game: Hanako's Flower Shop
+
+addappid(1529640)
+addappid(1529642,0,"aea16e3255a49f7e5c37b4cf108a708c0729170f0918423eae7e5fb181326040")
