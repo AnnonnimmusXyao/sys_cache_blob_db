@@ -1,0 +1,6 @@
+--game: Song of Nunu: A League of Legends Story
+
+addappid(229007)
+addappid(1333200)
+addappid(1333201,0,"1ec4c98d5752ad071680b74caf54433e4f774b5b8d19b6a13c48440c57a7d493")
+addappid(2475920,0,"f13f7341c1df3a115ca9a960b367e86c768853f103a14130f8d4773522239d59")
