@@ -1,0 +1,4 @@
+--game: Kriegsfront Battlescaper - Diorama Editor
+
+addappid(1703930)
+addappid(1703931,0,"1492dac5558b9fcd3ed3ad720abf15c9d78b3a70dee5cdb0d7049b47b80a726c")
