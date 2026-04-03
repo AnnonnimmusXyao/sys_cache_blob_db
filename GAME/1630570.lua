@@ -1,0 +1,5 @@
+--game: EXS1～EthnologySister：Cultural functionalism
+
+addappid(1630570)
+addappid(1630571,0,"7b1e4c12f5d0d655623d803ae57104943072fd2f3a36c8713b9fd076fa1cdb7a")
+addappid(1931081,0,"9803352f42eeb59064303eab5072b3226deba26456acbeb00f958dd14f2781b2")
