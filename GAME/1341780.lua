@@ -1,0 +1,4 @@
+--game: Super Huey™ III
+
+addappid(1341780)
+addappid(1341781,0,"379a9a227a4398598e8966382424042bba1198834dcbfd87bce7875d2e05248c")
