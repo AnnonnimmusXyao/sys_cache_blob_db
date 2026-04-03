@@ -1,0 +1,5 @@
+--game: Idle Research
+
+addappid(1482860)
+addappid(1482861,0,"d39edfe73b19c33e065b61e617d3c0b56accb7a9f9ddd8cc55cc507d1aae9726")
+addappid(1482863,0,"1612a4aca8261292be31df6d1948adf5b89f5eadc31a5cb931576ac6c66de35d")
