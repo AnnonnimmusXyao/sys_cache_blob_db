@@ -1,0 +1,4 @@
+--game: Lab 7: Cold Nights
+
+addappid(1173310)
+addappid(1173311,0,"e05233914eef8549d99241ae768b07fa8117720164e6ae10e6fd5a014b197346")
