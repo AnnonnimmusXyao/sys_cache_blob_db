@@ -1,0 +1,4 @@
+--game: Ashmedai: Queen of Lust
+
+addappid(1332620)
+addappid(1332621,0,"bf3d99bcbb2483ce23d84a79c67fac14d9169fe547b06135108cdd5a8dd7f3cc")
