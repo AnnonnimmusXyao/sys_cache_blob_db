@@ -1,0 +1,4 @@
+--game: Brushlings Pale Moon
+
+addappid(1409350)
+addappid(1409351,0,"7da88c17a2c7d847e6cc8113d35a4574941d5b52458b29aac0b6e4c60674dbed")
