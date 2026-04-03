@@ -1,0 +1,5 @@
+--game: Mortal Online 2
+
+addappid(229006)
+addappid(1170950)
+addappid(1170951,0,"94af5252c477a832d7d00b05f92b88eac984fbf4deae87b88b1852fa91f9719f")
