@@ -1,0 +1,4 @@
+--game: Brotate
+
+addappid(1699970)
+addappid(1699971,0,"4b7a0625527780ccd796972008f174da61b94dc13eb102f4d22051fda7cd3e37")
