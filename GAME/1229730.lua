@@ -1,0 +1,5 @@
+--game: Achievement Clicker
+
+addappid(229002)
+addappid(1229730)
+addappid(1229731,0,"532b3c83c9b60820b78d3f09da31dac2e72135055020dd35dd50fc7e4eddefab")
