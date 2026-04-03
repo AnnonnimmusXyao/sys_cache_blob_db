@@ -1,0 +1,4 @@
+--game: Corners
+
+addappid(1309280)
+addappid(1309281,0,"b59d359c8fa20d1b99b08d96e6cdf7853606add0803476afee2df1a18e4dfb70")
