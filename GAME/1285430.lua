@@ -1,0 +1,4 @@
+--game: The Link
+
+addappid(1285430)
+addappid(1285433,0,"05a3477ba09bea0109b964c6e39c4fdcbaf2ee9053ea1aa26eee34a4380358fc")
