@@ -1,0 +1,4 @@
+--game: Live by the Sword: Tactics
+
+addappid(1363210)
+addappid(1363211,0,"3bde907d66dfb422ac75cfc659275a9cf749ef6a1c714e4f754c424c41ef8c86")
