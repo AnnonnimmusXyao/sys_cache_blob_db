@@ -1,0 +1,4 @@
+--game: Color Game
+
+addappid(1304120)
+addappid(1304121,0,"284a32196d82e7a04bbd64a04ce66648b3f145ae57831c475d9fb36277bcd0e4")
