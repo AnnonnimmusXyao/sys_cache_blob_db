@@ -1,0 +1,13 @@
+--game: The Legend of Heroes: Sen no Kiseki III
+
+addappid(228983)
+addappid(228985)
+addappid(229000)
+addappid(1450080)
+addappid(1450081,0,"7057395db03f63afb71bc7b71bfa299dd9e5eef35b5f5e19f6d283470df4cc8e")
+addappid(1555250)
+addappid(1555251)
+addappid(1555260)
+addappid(1555261)
+addappid(1555263)
+addappid(3464310)
