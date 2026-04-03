@@ -1,0 +1,6 @@
+--game: Kitsune Tails
+
+addappid(228983)
+addappid(229007)
+addappid(1325260)
+addappid(1325261,0,"021be79561b9d0e1a45d3435aef31268abf0d0199446f1e86f13f292dbaca4a7")
