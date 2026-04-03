@@ -1,0 +1,4 @@
+--game: QUICAL
+
+addappid(1216600)
+addappid(1216601,0,"5d08466b8e67a832b5cefd34b6f68c482aa4470cc5c2a7d40e49e24db435d3a8")
