@@ -1,0 +1,4 @@
+--game: Cyborpunk Crisis
+
+addappid(1633410)
+addappid(1633411,0,"aedaef4865a8899773c8f59f2b68048461a195ed56a51a498df451925c29f285")
