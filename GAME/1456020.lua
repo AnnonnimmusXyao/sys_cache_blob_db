@@ -1,0 +1,5 @@
+--game: Lovely Warriors
+
+addappid(1456020)
+addappid(1456021,0,"fd7e69c50e7ba846200759fdcf7f8900e15425ed9169cf7c29eb751af2b4d855")
+addappid(1495160)
