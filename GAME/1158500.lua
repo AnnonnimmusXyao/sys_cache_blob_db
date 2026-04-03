@@ -1,0 +1,5 @@
+--game: Between Two Castles - Digital Edition
+
+addappid(229005)
+addappid(1158500)
+addappid(1158501,0,"32367ab513753314e461abe5b36bbdf1b3113e4a2856ecee0cff31709af91004")
