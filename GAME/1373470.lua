@@ -1,0 +1,4 @@
+--game: Magical Strings
+
+addappid(1373470)
+addappid(1373471,0,"964993d51accd89b54b453fae8c776e1edc74873d4de048d366f762e28c70e81")
