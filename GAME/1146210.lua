@@ -1,0 +1,4 @@
+--game: 亚当：机器人世界 / Adam: Robot World
+
+addappid(1146210)
+addappid(1146211,0,"66e8e5e0f00891ebbb577e8f6511b843489ae56e23ebae0ec798f565efe10fa4")
