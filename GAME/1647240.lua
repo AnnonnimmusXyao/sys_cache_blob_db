@@ -1,0 +1,4 @@
+--game: 煉獄紅葉 Momiji From Purgatory
+
+addappid(1647240)
+addappid(1647241,0,"e8c9b8df79ca7b683038fc1f4eab0480ce03a8567c20791b04b9f7f4b660a8da")
