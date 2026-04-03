@@ -1,0 +1,4 @@
+--game: 鲸走：前篇 Whale Left Part 1
+
+addappid(1308790)
+addappid(1308791,0,"e3a592c5dfbeacd1b03d565e1735aaee0804aa3d7968f1a2a736adb1b6cccf9f")
