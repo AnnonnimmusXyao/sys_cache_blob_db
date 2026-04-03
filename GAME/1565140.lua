@@ -1,0 +1,4 @@
+--game: Godsbane Idle
+
+addappid(1565140)
+addappid(1565141,0,"198ac144bce3df25283fa03a2f91bf2e4842d6fdce169c6c2f955730bfccc6bb")
