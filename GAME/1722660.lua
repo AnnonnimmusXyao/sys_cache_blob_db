@@ -1,0 +1,4 @@
+--game: Hamster on Rails
+
+addappid(1722660)
+addappid(1722661,0,"e546338a349d6cc400e16fdd4b26a82430f29a80ad9d97d1cc8458726726cd35")
