@@ -1,0 +1,4 @@
+--game: Cute Girl
+
+addappid(1637740)
+addappid(1637741,0,"ef548b2e5d9fd5a7a0a1d679f6522a14d24cf8d6aa134542d0ed09e7a581aa5b")
