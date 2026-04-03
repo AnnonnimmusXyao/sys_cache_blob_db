@@ -1,0 +1,5 @@
+--game: Blossom Tales II: The Minotaur Prince
+
+addappid(229012)
+addappid(1747830)
+addappid(1747831,0,"185e2969cdebd12d14fdc377241d8176698a0c8e1a64e7f36e61f6187a555b50")
