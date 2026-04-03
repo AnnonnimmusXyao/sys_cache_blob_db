@@ -1,0 +1,16 @@
+--game: SHIPS AT WAR
+
+addappid(229000)
+addappid(229001)
+addappid(229002)
+addappid(229003)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(229007)
+addappid(229030)
+addappid(229031)
+addappid(229032)
+addappid(229033)
+addappid(1557420)
+addappid(1557421,0,"faa6e7890386ee063c72b019abbb70e480b4c3e8bc42d3198a2611a37b82a644")
