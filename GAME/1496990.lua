@@ -1,0 +1,4 @@
+--game: Barrage Fantasia
+
+addappid(1496990)
+addappid(1496991,0,"cdc462f8d05b67e650fe0e8b81a6312d1da01d510c7112a93d3e9fad5c21dd1b")
