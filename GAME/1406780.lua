@@ -1,0 +1,4 @@
+--game: Viscerafest
+
+addappid(1406780)
+addappid(1406782,0,"69be68ff900f83fad19f01cd40c26e79fd601c5d26e5a8990778b6af02ab0d30")
