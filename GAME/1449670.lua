@@ -1,0 +1,4 @@
+--game: Relics of the Lost Age
+
+addappid(1449670)
+addappid(1449671,0,"21606c951e0ef7042267bc8ba9bfdbab5b6272a9c89b0515f296b75e2f4e82d6")
