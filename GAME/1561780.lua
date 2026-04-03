@@ -1,0 +1,4 @@
+--game: Zombie Friday
+
+addappid(1561780)
+addappid(1561781,0,"93c47985811e190d8451466a55b26719bd9f73699da7dcc6699ae2dfe9013923")
