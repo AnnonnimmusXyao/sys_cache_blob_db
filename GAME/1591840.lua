@@ -1,0 +1,4 @@
+--game: Avoid The Demons
+
+addappid(1591840)
+addappid(1591841,0,"031a7fbce9cd04d6344b0bef53e6071b9b50857362e71ce62c06852553afd397")
