@@ -1,0 +1,4 @@
+--game: Impious Pumpkins
+
+addappid(1774080)
+addappid(1774081,0,"f1775d2d3179e9f6fc1e13ae5a229733f42e8599c42c399d73505311349befed")
