@@ -1,0 +1,4 @@
+--game: Memories of Fireflies
+
+addappid(1516250)
+addappid(1516251,0,"2923a54291e20cf3eadfeeb661b1cfea75b71c3a72c6a92d15d3bc869654d2b0")
