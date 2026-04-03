@@ -1,0 +1,4 @@
+--game: Scholar of the Arcane Arts
+
+addappid(1650200)
+addappid(1650201,0,"b9a41f430b5d986dd4a616d03b923d4068c8d1abceed22426e864da87c16b42a")
