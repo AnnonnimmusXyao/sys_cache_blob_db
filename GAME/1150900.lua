@@ -1,0 +1,4 @@
+--game: EAGLETALON vs. HORDE OF THE FLIES
+
+addappid(1150900)
+addappid(1150901,0,"cfc1297b2524c1d13a5b5870d970e62a56ac6d6647dcdf8f5dc8f81a6fb645a6")
