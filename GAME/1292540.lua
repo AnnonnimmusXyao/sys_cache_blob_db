@@ -1,0 +1,4 @@
+--game: Escape: The Brother's Saloon
+
+addappid(1292540)
+addappid(1292541,0,"d6ff87d4faa37ea1220ff46e6bd7bb1f1c524a2e7532e88acafd9a37a62531ef")
