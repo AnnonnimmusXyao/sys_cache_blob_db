@@ -1,0 +1,4 @@
+--game: Invincible Fins
+
+addappid(1481880)
+addappid(1481881,0,"ca26e12467c2e11f4fc818e8b5f4bba4771de2e58f563cf190c33044bf327699")
