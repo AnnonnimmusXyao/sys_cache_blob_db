@@ -1,0 +1,4 @@
+--game: The Loneliest Artist Revamp
+
+addappid(1640920)
+addappid(1640921,0,"c7a354d339d09b52b7909ff15c7e3cef0cf5fb9e20c35c529399710b26f1d257")
