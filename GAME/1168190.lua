@@ -1,0 +1,4 @@
+--game: Hentai Series: Classic
+
+addappid(1168190)
+addappid(1168192,0,"702492197959afb7929b3fdfd96491b02db14cf69d92fe1c41a88f1da208199c")
