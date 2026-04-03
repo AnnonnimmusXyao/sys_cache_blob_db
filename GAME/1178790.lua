@@ -1,0 +1,5 @@
+--game: Shiren the Wanderer: The Tower of Fortune and the Dice of Fate
+
+addappid(228987)
+addappid(1178790)
+addappid(1178791,0,"83a0b55b7617bf9b5b5486d119ad8149889388e6e6623448878596ff4ebbad46")
