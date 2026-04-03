@@ -1,0 +1,4 @@
+--game: 狗蛋神冒险-搞笑的声控冒险
+
+addappid(1579010)
+addappid(1579013,0,"fff16c6e24fda6d3f4a0133e751c19e1d1f36fe8d94eefa42d264879c836bf71")
