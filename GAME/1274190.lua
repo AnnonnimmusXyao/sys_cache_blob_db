@@ -1,0 +1,4 @@
+--game: 南十字作战队
+
+addappid(1274190)
+addappid(1274191,0,"9e3330588333ff366661442c914bfaf37b8dd4bdd24167b248239e63f1a0b67d")
