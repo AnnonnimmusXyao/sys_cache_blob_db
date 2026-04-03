@@ -1,0 +1,4 @@
+--game: In Space
+
+addappid(1267560)
+addappid(1267561,0,"061340ba9d443a7fdeb09baa62781c48e9955d5a3e2c64e2595a0bac9f5740f6")
