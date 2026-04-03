@@ -1,0 +1,4 @@
+--game: Hentai Girls Sliding Puzzle
+
+addappid(1747340)
+addappid(1747341,0,"01e91796caaa26e74e667e453ec6c53bd42645f85130cdf7e6988e37714a1fea")
