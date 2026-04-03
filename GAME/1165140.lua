@@ -1,0 +1,4 @@
+--game: Picross Love
+
+addappid(1165140)
+addappid(1165141,0,"7aeb71a55866cbfa4a57b31f71122ff5516b62ce6693897bba52cd3024914fe3")
