@@ -1,0 +1,4 @@
+--game: Cubic Juice
+
+addappid(1245360)
+addappid(1245361,0,"6c7390d2006dea8f2be30dc75fae42e91d584a4b37008724c2f10eb93da9296e")
