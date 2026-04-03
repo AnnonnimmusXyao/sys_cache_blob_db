@@ -1,0 +1,4 @@
+--game: Fear Protocol: Codename Omega Starring Agent Jack Banger
+
+addappid(1440890)
+addappid(1440891,0,"0e3b008a3646e92c1250cc05a0b42e3ef924007db66543cbd3a615b1bd27c488")
