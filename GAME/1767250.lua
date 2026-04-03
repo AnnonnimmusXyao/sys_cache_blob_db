@@ -1,0 +1,4 @@
+--game: Shadow of the Guild
+
+addappid(1767250)
+addappid(1767251,0,"ebb9fc71288dd12f54c06486e8f584599de5e8dc78a4fe14f5d1ffb35b813f34")
