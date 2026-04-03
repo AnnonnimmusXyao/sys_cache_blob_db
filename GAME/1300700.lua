@@ -1,0 +1,4 @@
+--game: Kingdom Wars 4
+
+addappid(1300700)
+addappid(1300701,0,"f3d26acdefd143d64bbfa1e7cd40980b61842f3dc907af9bc6965a39b27524cb")
