@@ -1,0 +1,4 @@
+--game: Spirit Messages
+
+addappid(1369570)
+addappid(1369572,0,"1bb0bde4aab1290867d6af06f0453948324d8e1dadc538a2592ce2b67f33aa62")
