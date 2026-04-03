@@ -1,0 +1,4 @@
+--game: Radical Rabbit Stew
+
+addappid(1232010)
+addappid(1232011,0,"801fe8d9c842156f96a81816f89cac5bf3769386b57e4b18b36cf04cab2eabfd")
