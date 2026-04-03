@@ -1,0 +1,4 @@
+--game: Heterodox
+
+addappid(1420400)
+addappid(1420401,0,"b4e51d33d8da3b274dbb6df71efb912635a32b8918c8c4ed61bfbb1916783517")
