@@ -1,0 +1,4 @@
+--game: CorePiercer
+
+addappid(1585230)
+addappid(1585231,0,"ad80a15e600cf6cedc1c822509dcc3697df73ce7fa6f1d3e2f3333a9b9c9c858")
