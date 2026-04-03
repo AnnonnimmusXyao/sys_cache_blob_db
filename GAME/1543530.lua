@@ -1,0 +1,4 @@
+--game: Path of Insanity
+
+addappid(1543530)
+addappid(1543532,0,"185ff309d2dd00dd2c8505902cf56cf2b4cd99332c8f587be4b446a6611a7f76")
