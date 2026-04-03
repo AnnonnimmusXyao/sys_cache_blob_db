@@ -1,0 +1,4 @@
+--game: HexON
+
+addappid(1203570)
+addappid(1203571,0,"e4ad48823bf42fa3c3033ddb9577b01223f9b5fde125f4ff73215e5b46573c6d")
