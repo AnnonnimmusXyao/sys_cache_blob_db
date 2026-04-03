@@ -1,0 +1,4 @@
+--game: Strawberry Chocolate: Miner 8AD 4SS
+
+addappid(1300860)
+addappid(1300861,0,"0da5ee5840141150d5f9d01aaf375669a7bedaa9a1bb68888e1e2ea83856725c")
