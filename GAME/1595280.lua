@@ -1,0 +1,4 @@
+--game: 卡牌缔造者-CardMaker
+
+addappid(1595280)
+addappid(1595281,0,"d8177d55816687c8f3885fbf6afdf0ace5c8e3c648074a584bb50f9d62faf909")
