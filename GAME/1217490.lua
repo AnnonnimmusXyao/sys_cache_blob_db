@@ -1,0 +1,4 @@
+--game: Tyrania - A Kinetic Visual Novel
+
+addappid(1217490)
+addappid(1217491,0,"3ac86f86dc5b87dceed15b7f168eca3bd22792ee45ad8984064f3d2f6653782d")
