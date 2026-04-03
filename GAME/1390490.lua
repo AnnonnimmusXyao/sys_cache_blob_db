@@ -1,0 +1,4 @@
+--game: Kohate
+
+addappid(1390490)
+addappid(1390491,0,"0b970ac2c16cb6b9dafe73b4025bbb2f0a750cd3ba928ef10f61a172a802d891")
