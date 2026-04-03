@@ -1,0 +1,10 @@
+--game: Monster Prom 3: Monster Roadtrip
+
+addappid(1665190)
+addappid(1665191,0,"54444609941985bf7d7f7c095d22cbb84fcaf9a90492a369d7ca6fbee58894df")
+addappid(2147630)
+addappid(2147631)
+addappid(2147632)
+addappid(2147633)
+addappid(2251130)
+addappid(2337900)
