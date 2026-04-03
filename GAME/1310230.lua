@@ -1,0 +1,4 @@
+--game: Cyber Seraph
+
+addappid(1310230)
+addappid(1310232,0,"052260118b105213c315d83759290a0dba4afff0abc490c72919248d19cf572b")
