@@ -1,0 +1,4 @@
+--game: Ninja JaJaMaru: The Great Yokai Battle + Hell
+
+addappid(1195070)
+addappid(1195071,0,"38c417b701fb1af4d2c80e812c582d9cb7187b7ea0a92603a80a648c5b44ec8c")
