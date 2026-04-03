@@ -1,0 +1,4 @@
+--game: Dear Future
+
+addappid(1591300)
+addappid(1591301,0,"cd033f7e90bef1f8277eaea9b9899ccb22ea66ddb0cb7a2cd444c211f7db182c")
