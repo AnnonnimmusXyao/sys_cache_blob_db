@@ -1,0 +1,4 @@
+--game: Kejora
+
+addappid(1410400)
+addappid(1410401,0,"121abd6228fce2511f20c782762a6de3887c8dcde1b13c5c113669cffe904f20")
