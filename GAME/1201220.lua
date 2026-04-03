@@ -1,0 +1,4 @@
+--game: Afterbern Democralypse
+
+addappid(1201220)
+addappid(1201221,0,"eecac75494570d368c5fd925028922926ee66fffb7275665dd32b842ca791f82")
