@@ -1,0 +1,4 @@
+--game: Atlas Wept
+
+addappid(1699260)
+addappid(1699261,0,"40a43fa0d2079d8712dcdb9ee318d29fe4b71a65331a7695153a341407fdfdc4")
