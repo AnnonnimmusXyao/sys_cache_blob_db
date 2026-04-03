@@ -1,0 +1,4 @@
+--game: The Lost Cube
+
+addappid(1399280)
+addappid(1399281,0,"c529addf296255902124403baea7542266bf5982ec51aba4f2e8e8b63b599014")
