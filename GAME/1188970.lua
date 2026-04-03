@@ -1,0 +1,4 @@
+--game: Ether Loop
+
+addappid(1188970)
+addappid(1188972,0,"5b64c0b4ba3374520e2043e4cb2d3a103b2243f8308fc28073ad734052932ed6")
