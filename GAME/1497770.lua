@@ -1,0 +1,4 @@
+--game: Keylogger: A Sci-Fi Visual Novel
+
+addappid(1497770)
+addappid(1497771,0,"2ada38f9fa7681627b017c3f11b3064208b2ba564a91e37a312f945de691860a")
