@@ -1,0 +1,4 @@
+--game: Bolf
+
+addappid(1176970)
+addappid(1176971,0,"89de3d4f2b27c1066cf98e2b02751b3e994eed29647a845aea3efa9ecca8de42")
