@@ -1,0 +1,4 @@
+--game: PLUGMAX
+
+addappid(1248240)
+addappid(1248241,0,"223215cbce8f42df222f8668407d1c96e8021601dd82c0cc047ab94ae296a6cb")
