@@ -1,0 +1,4 @@
+--game: Kunoichi Ninja
+
+addappid(1148420)
+addappid(1148421,0,"4972629dc123d78dae055dba857617f41db93243dafd1d8c87064bdcdcc6263f")
