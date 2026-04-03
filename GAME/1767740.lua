@@ -1,0 +1,4 @@
+--game: Lust & Magic -Chisalla in a Flower Basket-
+
+addappid(1767740)
+addappid(1767742,0,"3bc4681cd64167232e102cfeea4231728600bca712cc51dbaeb187f17e10e574")
