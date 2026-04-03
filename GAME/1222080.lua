@@ -1,0 +1,4 @@
+--game: Feeling Square?
+
+addappid(1222080)
+addappid(1222081,0,"021970de3b07277edbfedb35bec93785c707f1e5d29d549c4a2fdb8717b88ac6")
