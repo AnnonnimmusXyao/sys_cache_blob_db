@@ -1,0 +1,4 @@
+--game: SwordBall
+
+addappid(1235920)
+addappid(1235921,0,"0526a2d853b973bc8c10592c7f803806c69f49aa0f2ffc4122a6ef4b2ada542a")
