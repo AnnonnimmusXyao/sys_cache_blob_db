@@ -1,0 +1,4 @@
+--game: illWill
+
+addappid(1567000)
+addappid(1567001,0,"398b0e54ad1cd83c04e5d676f9405a9346d59fe851ac0c5ea78b218511553d51")
