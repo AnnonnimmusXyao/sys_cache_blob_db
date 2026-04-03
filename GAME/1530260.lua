@@ -1,0 +1,4 @@
+--game: Zahhak
+
+addappid(1530260)
+addappid(1530261,0,"74dde10b349668e8253ea13f37b6099d194847ba19c6901a005ca31360af2d3f")
