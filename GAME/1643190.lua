@@ -1,0 +1,4 @@
+--game: Beyond The Gates
+
+addappid(1643190)
+addappid(1643192,0,"26464ea25bdfe49508fecfcda8b935d7b7f40b4a394b770d1d153d72ef01c252")
