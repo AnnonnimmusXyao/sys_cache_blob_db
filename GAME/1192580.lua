@@ -1,0 +1,4 @@
+--game: Nyanco Dream
+
+addappid(1192580)
+addappid(1192584,0,"d290ecaad6ad103f18f3e52332aada3d46c5689d85b7a9b98aa59fd537cb7428")
