@@ -1,0 +1,4 @@
+--game: Arktrum
+
+addappid(1180960)
+addappid(1180961,0,"b18053d2c7d15d949b5d2946df35ce2350a865a5c8c9068860d7716d5a57fb9c")
