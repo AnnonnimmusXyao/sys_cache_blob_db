@@ -1,0 +1,4 @@
+--game: Steel & Bone
+
+addappid(1252030)
+addappid(1252031,0,"a5c03c62dc580936c71ebf796217133dbee7e5250e51b21ee22e1fcba8d05379")
