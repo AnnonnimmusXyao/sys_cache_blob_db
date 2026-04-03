@@ -1,0 +1,4 @@
+--game: NecroLand : Undead Corps
+
+addappid(1185620)
+addappid(1185621,0,"d8c8d67c57b44e5b0e11180f566edea3f69c6b0f418bd015db8f5d91898495af")
