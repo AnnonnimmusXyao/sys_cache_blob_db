@@ -1,0 +1,4 @@
+--game: Underland: The Climb
+
+addappid(1592340)
+addappid(1592341,0,"59dc21925708ba67d6f5b138f87e5afa6a4f63acea0f8350dc8aa6a5aefe9e31")
