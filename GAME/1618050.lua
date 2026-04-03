@@ -1,0 +1,4 @@
+--game: Synth Retro Vapor Wave
+
+addappid(1618050)
+addappid(1618051,0,"c610c29127b858fd8e4f9e8e787416acbb9c7eecf32baef856615371ef6f9900")
