@@ -1,0 +1,4 @@
+--game: Wartorn
+
+addappid(1296660)
+addappid(1296662,0,"ee8a4233e3ba20aaf3907b5ab592c9a6ff2d9844bfffe0ab68f57f7293ab7407")
