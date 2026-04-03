@@ -1,0 +1,4 @@
+--game: Bitten! Someone has to be a villain
+
+addappid(1639530)
+addappid(1639531,0,"15f2dd9b05d439c31bbbf20328fe039c7eb65d413c1ece73a80979d30f771b5d")
