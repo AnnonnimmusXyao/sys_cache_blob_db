@@ -1,0 +1,4 @@
+--game: Don't Kill the Cow
+
+addappid(1180800)
+addappid(1180801,0,"3f31e386b05432de2faec8d33325b2eca74f307245d6baa60ae4181a3847fd9c")
