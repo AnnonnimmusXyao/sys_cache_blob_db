@@ -1,0 +1,4 @@
+--game: Wild Indigo Ranch
+
+addappid(1751350)
+addappid(1751351,0,"08c5703f14d4902ee7635dcebbd61ae48181662b030632e0209284fae026cef3")
