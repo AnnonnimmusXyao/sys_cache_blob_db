@@ -1,0 +1,5 @@
+--game: Dot Dash Dot
+
+addappid(1650790)
+addappid(1650791,0,"f6ca36b307b5a6d1c26592f901788eaf74f44c0e272f5c49c7f518222a84f345")
+addappid(1693120)
