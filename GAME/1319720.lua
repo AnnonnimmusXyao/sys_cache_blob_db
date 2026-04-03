@@ -1,0 +1,4 @@
+--game: Obsolete Souls™
+
+addappid(1319720)
+addappid(1319722,0,"f0593edfff395a926bf66083d7b6c97b646ddb483f49424982a1ac9d1680bf17")
