@@ -1,0 +1,4 @@
+--game: TUNNEL BIRD
+
+addappid(1265770)
+addappid(1265771,0,"ad673aefc194ef81b310725b11fb755b95ea36504216e9e9a7c2330e1ee8fcfa")
