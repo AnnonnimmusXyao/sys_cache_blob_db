@@ -1,0 +1,4 @@
+--game: Sainthum 圣颂
+
+addappid(1381690)
+addappid(1381691,0,"fbc7f71f8985e990613a5e7e9c50db6f0ebfff757501ecc8db5fd26a28cb9954")
