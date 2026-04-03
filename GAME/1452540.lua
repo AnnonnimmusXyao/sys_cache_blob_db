@@ -1,0 +1,4 @@
+--game: Frincess&Cnight
+
+addappid(1452540)
+addappid(1452541,0,"484ca774a7aeeaf2cd2686f413542586d2a7b8efc4b29308571ff62fa4d6db69")
