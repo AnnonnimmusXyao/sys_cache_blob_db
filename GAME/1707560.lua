@@ -1,0 +1,4 @@
+--game: Lost Alone Ep.1 - Sorellina
+
+addappid(1707560)
+addappid(1707561,0,"3e2d509c574b67572ab199071614666c0b25fcb02a33ab4daf9a88e2b543c69e")
