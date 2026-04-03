@@ -1,0 +1,4 @@
+--game: Space Cats Tactics
+
+addappid(1293300)
+addappid(1293301,0,"50b52d686efa389c18f54577e9a9935e2b1166f82bb33f2893948135709bd1f0")
