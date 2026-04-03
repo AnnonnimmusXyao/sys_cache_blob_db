@@ -1,0 +1,4 @@
+--game: Coin Flipping Simulator for Probability and Statistics
+
+addappid(1519560)
+addappid(1519561,0,"f0a1cf4f48bff8ca3238d166eeff7c1165e06eb69a8ae41a3ba2d04bb1b53aae")
