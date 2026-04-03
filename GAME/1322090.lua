@@ -1,0 +1,4 @@
+--game: Taken Away
+
+addappid(1322090)
+addappid(1322091,0,"09aa75f631bc5699ae19b90e346202350c9b45faba5242be871c14ad886e7330")
