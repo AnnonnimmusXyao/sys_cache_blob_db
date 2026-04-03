@@ -1,0 +1,5 @@
+--game: Master Bladesmith
+
+addappid(228987)
+addappid(1194830)
+addappid(1194831,0,"7bc16758d1695c74e5c689d7190a9121803bc3dc8db2bffb756b3ffcb4389459")
