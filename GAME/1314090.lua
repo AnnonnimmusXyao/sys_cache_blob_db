@@ -1,0 +1,4 @@
+--game: City Sniper
+
+addappid(1314090)
+addappid(1314091,0,"483ab95a8d98b6467c1b79dfd295b7ac6fa89b277953370326d241c15db58803")
