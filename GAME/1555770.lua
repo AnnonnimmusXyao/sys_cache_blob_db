@@ -1,0 +1,4 @@
+--game: Rogue Sentry
+
+addappid(1555770)
+addappid(1555771,0,"5ec298b8699698cdf80b9b543a1dedccb4d0d243ddf1f8c9d51a52d4d74af184")
