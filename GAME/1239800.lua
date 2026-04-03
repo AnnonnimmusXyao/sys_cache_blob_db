@@ -1,0 +1,4 @@
+--game: Cannon Jump
+
+addappid(1239800)
+addappid(1239802,0,"9e46daf31f52b75d211b3583ac9163c11c8c7dbaab27a6e425bbebc0e36a83cc")
