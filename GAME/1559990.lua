@@ -1,0 +1,4 @@
+--game: Exorcised
+
+addappid(1559990)
+addappid(1559992,0,"e5bdb7517982b77f0c80ae5b8d0f202db2f999d8326047633837451ae7051c92")
