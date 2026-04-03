@@ -1,0 +1,4 @@
+--game: Contract Killers
+
+addappid(1176360)
+addappid(1176361,0,"4140802ce6d6c4ee0aea083b80cdacbd5c3e8179a021d26ddab4ae2776c64404")
