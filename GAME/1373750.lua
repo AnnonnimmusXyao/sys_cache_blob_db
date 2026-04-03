@@ -1,0 +1,4 @@
+--game: Super Box Land Demake
+
+addappid(1373750)
+addappid(1373751,0,"5481db7fcaca617d916a7dfe819812aa2dcec21c547816817cb5406fef9d2d4e")
