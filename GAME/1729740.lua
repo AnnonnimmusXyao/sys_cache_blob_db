@@ -1,0 +1,4 @@
+--game: Luto
+
+addappid(1729740)
+addappid(1729741,0,"ae083aff6754925333f345c885acd58509a103503fd7ce6de8abe8b03e9fe4d2")
