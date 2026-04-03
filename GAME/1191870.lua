@@ -1,0 +1,4 @@
+--game: Goblin Times
+
+addappid(1191870)
+addappid(1191871,0,"41987c6c5c584387d2042bec360a245aec94056fc7d82e3e9b37fd72a1a2e18a")
