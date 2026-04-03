@@ -1,0 +1,4 @@
+--game: Atomic Cards
+
+addappid(1701140)
+addappid(1701141,0,"801d4f3e36577affdcdc3d7d3066d320d4b621dd700e55f56217f0d3263fa640")
