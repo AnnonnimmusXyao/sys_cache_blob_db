@@ -1,0 +1,5 @@
+--game: Chorus
+
+addappid(1153640)
+addappid(1153641,0,"b4cb3c8e26f72b264958c8e1477606fbc5b2de35f9a07ffac2f1f5c1857ceaac")
+addappid(1797160)
