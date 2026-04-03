@@ -1,0 +1,4 @@
+--game: 最后的坦克大战
+
+addappid(1632990)
+addappid(1632992,0,"b5c5756b7ad4ee7a621a8153a57c9596bb759ee7c60a2f1620e5d58861ea9479")
