@@ -1,0 +1,4 @@
+--game: Magic gems
+
+addappid(1664090)
+addappid(1664091,0,"45c5c548a81947d6da86b62520a57f853002aea8c56164450a2e7ed8898c91ab")
