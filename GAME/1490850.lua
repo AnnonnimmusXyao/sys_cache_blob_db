@@ -1,0 +1,4 @@
+--game: KILLING A SUPERSTAR
+
+addappid(1490850)
+addappid(1490851,0,"7d609cfa0b8c5959ba6c802e4ca911669a11407fef8342cc4cc3d976691a5daf")
