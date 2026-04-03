@@ -1,0 +1,5 @@
+--game: Asura Girls
+
+addappid(1284790)
+addappid(1284791,0,"f0c7b48f0f60f113abf3764f0ad3b042f3b974609716082bfae17765e0f4e906")
+addappid(1290870)
