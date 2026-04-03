@@ -1,0 +1,4 @@
+--game: Ancient: Legacy of Azul
+
+addappid(1661920)
+addappid(1661921,0,"992dc8b42b16e14f2863f5b52184afbaaf3486aef11bb80863ccd9790a5946d8")
