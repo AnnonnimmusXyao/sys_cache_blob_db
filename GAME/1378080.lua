@@ -1,0 +1,4 @@
+--game: Sex Lady Sonia
+
+addappid(1378080)
+addappid(1378081,0,"193a905e272eb0c0e70ff9925ee4bdde7b580e7921dda5745b9bcc3ba8325c8f")
