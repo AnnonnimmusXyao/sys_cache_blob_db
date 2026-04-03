@@ -1,0 +1,9 @@
+--game: Friends vs Friends
+
+addappid(1785150)
+addappid(1785151,0,"c3804d95965aff919c17133b9368730465743d377206cb34d0a526e61f940b0d")
+addappid(2432020)
+addappid(2464010)
+addappid(2617460)
+addappid(2680480)
+addappid(3153670)
