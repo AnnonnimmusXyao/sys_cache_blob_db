@@ -1,0 +1,4 @@
+--game: Invaders
+
+addappid(1387410)
+addappid(1387411,0,"a0afcfc38f6b2e07605982531261e3df253295f3498d08881072d5f9f010fbcc")
