@@ -1,0 +1,4 @@
+--game: Astonia Resurgence
+
+addappid(1584040)
+addappid(1584041,0,"4929fbd578110b11bb79269713fd534bbafcecfb0e82cece537fd4a47567bab9")
