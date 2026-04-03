@@ -1,0 +1,4 @@
+--game: Fighting Fiends
+
+addappid(1283430)
+addappid(1283431,0,"db1b43f9d34024182c67233a9048c9ad6352e16eef7ebc01bbf9afe36fe18a20")
