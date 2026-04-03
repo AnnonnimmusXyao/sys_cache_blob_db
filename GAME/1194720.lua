@@ -1,0 +1,4 @@
+--game: No School No Rules
+
+addappid(1194720)
+addappid(1194721,0,"010a12fe58cb92873554010c5b8daefd989f95efdccd1269ab068000091cb5ba")
