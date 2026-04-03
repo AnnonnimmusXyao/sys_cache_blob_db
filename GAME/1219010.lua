@@ -1,0 +1,4 @@
+--game: No Game No LIFE
+
+addappid(1219010)
+addappid(1219013,0,"56e4efda67fdea4a837f2c6f5127ae8115c63f2a9903d25a729c83dead6a44bf")
