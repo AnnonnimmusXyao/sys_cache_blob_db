@@ -1,0 +1,4 @@
+--game: Santa's Christmas Solitaire 2
+
+addappid(1202710)
+addappid(1202711,0,"2a8dd95a48cdb8e420becd4588e55dd9bcd0a564994e204faf67106d629b9d55")
