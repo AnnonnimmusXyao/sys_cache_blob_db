@@ -1,0 +1,4 @@
+--game: Craft Elements
+
+addappid(1177950)
+addappid(1177951,0,"950428893cf501d19c54f7847c7567fdf26722e8e223904c4948a132c9bb9f55")
