@@ -1,0 +1,4 @@
+--game: Angry Video Game Nerd I & II Deluxe
+
+addappid(1162960)
+addappid(1162961,0,"e02e17d203e295c046e8560525c5ecc69f63921b34b7ab7362691b4fe6b15925")
