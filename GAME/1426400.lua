@@ -1,0 +1,4 @@
+--game: Beat 'Em Up
+
+addappid(1426400)
+addappid(1426401,0,"62e33632362e9ed8f0337bc669252f543644b1ae52fc43c43a6e6d21fd3ebf09")
