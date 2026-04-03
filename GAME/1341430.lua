@@ -1,0 +1,4 @@
+--game: Inexplicable Deaths In Damipolis: Inner Thoughts
+
+addappid(1341430)
+addappid(1341431,0,"418cebad944528f8cb84395757ed9e14f89fc67cfdd7960273aefadc2c42f3cc")
