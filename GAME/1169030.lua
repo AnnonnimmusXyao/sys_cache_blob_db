@@ -1,0 +1,4 @@
+--game: Monophobia
+
+addappid(1169030)
+addappid(1169031,0,"0049d9c5b552496be4be831ec1203a1d55199a9c624050aa7437b00b1f182430")
