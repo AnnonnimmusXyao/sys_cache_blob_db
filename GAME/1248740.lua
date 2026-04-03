@@ -1,0 +1,4 @@
+--game: Campgrounds IV Collector's Edition
+
+addappid(1248740)
+addappid(1248741,0,"6ac31e568d39988c99432370c8d5f4e3a098be1e4707106e3f8e9592031527de")
