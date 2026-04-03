@@ -1,0 +1,4 @@
+--game: Subterrain: Mines of Titan
+
+addappid(1573100)
+addappid(1573101,0,"29d6e103e82c6b450e99eb309a44955facbaba9ccc7774f0a494ff684a6c8d26")
