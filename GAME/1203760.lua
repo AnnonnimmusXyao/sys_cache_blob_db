@@ -1,0 +1,4 @@
+--game: Builder VR
+
+addappid(1203760)
+addappid(1203761,0,"78c6cc58741d63317e6bee49fcb8aa3ec577928f6171ceab66ec85aece34238e")
