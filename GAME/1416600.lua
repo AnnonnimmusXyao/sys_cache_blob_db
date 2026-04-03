@@ -1,0 +1,4 @@
+--game: Evil Ritual - Horror Escape
+
+addappid(1416600)
+addappid(1416601,0,"77d12400b81a5904ceda529c16c862b9af7898449edbe1728336ab95f0b81eb4")
