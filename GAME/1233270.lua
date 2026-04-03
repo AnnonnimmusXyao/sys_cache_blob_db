@@ -1,0 +1,4 @@
+--game: OshiRabu: Waifus Over Husbandos
+
+addappid(1233270)
+addappid(1233271,0,"de577ded1fe5226b7935c00e7c5ef09042445071d73943b44885452dd8db9b86")
