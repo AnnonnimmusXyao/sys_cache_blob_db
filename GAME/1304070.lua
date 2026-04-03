@@ -1,0 +1,5 @@
+--game: Extra Terrestrial Nation
+
+addappid(1304070)
+addappid(1304071,0,"666c69962d92e6291a56d2eacc92192390da9e9ef429c3a85ceef80bdcceca6a")
+addappid(1353750)
