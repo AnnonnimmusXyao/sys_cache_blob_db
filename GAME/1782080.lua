@@ -1,0 +1,4 @@
+--game: Das Boot: German U-Boat Simulation
+
+addappid(1782080)
+addappid(1782081,0,"b3a95a3c7ab7d3623a22a4f92aabdb38839d00b990240bb474f9873bf3ad36e5")
