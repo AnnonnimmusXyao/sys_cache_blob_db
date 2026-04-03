@@ -1,0 +1,4 @@
+--game: PBA Pro Bowling 2023
+
+addappid(1595050)
+addappid(1595051,0,"913e17eab38711692b9eba149e676fed55c15015ec67d08f59f6dcedc3b58ce4")
