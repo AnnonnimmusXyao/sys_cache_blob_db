@@ -1,0 +1,4 @@
+--game: 江湖余生：缘起
+
+addappid(1177400)
+addappid(1177401,0,"2c80f89e112a29390d650a79c75cb2c0a7251ecca9d6b6dbf52b4f30345a5d80")
