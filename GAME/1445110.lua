@@ -1,0 +1,5 @@
+--game: The Legend of Arcadieu 2
+
+addappid(1445110)
+addappid(1445111,0,"0b990debdb9a847736dd810ad86af7eddf1bf4bbed91f71962155859e70d2d70")
+addappid(1445170)
