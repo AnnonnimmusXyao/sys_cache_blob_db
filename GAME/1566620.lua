@@ -1,0 +1,4 @@
+--game: Puzzletronics Analog Eletronics
+
+addappid(1566620)
+addappid(1566621,0,"5f993ac789daeac47c25d094ce46b025bbf8b9e4f2c2ca8990346224ac173adc")
