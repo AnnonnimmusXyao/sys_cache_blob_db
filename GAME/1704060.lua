@@ -1,0 +1,4 @@
+--game: Vtuber Simulator : Vtuber模擬器
+
+addappid(1704060)
+addappid(1704061,0,"557e69bd1da948ed030c42f296fc23bdef55f9562abead3c7f1f22b1cc9fb94d")
