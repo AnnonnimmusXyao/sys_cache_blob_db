@@ -1,0 +1,4 @@
+--game: Retis Tormentum
+
+addappid(1492370)
+addappid(1492371,0,"95502b10c85a07c3d9ff2c47ba03bc30cde3f87105007acaf748b20f0e8707fc")
