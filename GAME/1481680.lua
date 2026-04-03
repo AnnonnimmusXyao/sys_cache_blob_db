@@ -1,0 +1,4 @@
+--game: Lab Craft Survival
+
+addappid(1481680)
+addappid(1481681,0,"fdfb3f4969153edfaebaed51021175e05748ad4aa3e617d4f1be765c03f4f40a")
