@@ -1,0 +1,4 @@
+--game: Whispered Secrets: Dreadful Beauty Collector's Edition
+
+addappid(1184700)
+addappid(1184701,0,"7ad0d489dd0106e53150151f644d42883b2544391d7a2ad1247fe281e02c9578")
