@@ -1,0 +1,4 @@
+--game: The Marauder Chronicles: Curse Over Valdria
+
+addappid(1601380)
+addappid(1601381,0,"922fac52d4052d80af37f4c470dea1c60d2a9a794465ae3a95a14269c957d77a")
