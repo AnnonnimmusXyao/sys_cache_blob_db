@@ -1,0 +1,4 @@
+--game: Pandemic Crisis
+
+addappid(1281350)
+addappid(1281351,0,"63c4920f46c683e85a351f804bf3a62219a3bb15356d3d9b96201665e14db9d6")
