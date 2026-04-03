@@ -1,0 +1,4 @@
+--game: Every Day's Different
+
+addappid(1141600)
+addappid(1141602,0,"efa82d35181bbea2f68eaf00774e00df5ead328afd0b6990d9ce2f546c480f95")
