@@ -1,0 +1,5 @@
+--game: Fisherman's House
+
+addappid(229007)
+addappid(1745000)
+addappid(1745001,0,"61f0235d91eb887a3b20cdbaeb5a2816f985bcc9c4bad8631ce66ffe9f14d3c3")
