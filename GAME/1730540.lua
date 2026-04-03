@@ -1,0 +1,4 @@
+--game: Alchemistry
+
+addappid(1730540)
+addappid(1730542,0,"4c35b56de476cd3cf12f67f8b26000c2e91b826302a7a966b7cc658cfe07dcd0")
