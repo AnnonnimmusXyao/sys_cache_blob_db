@@ -1,0 +1,4 @@
+--game: IDLE HEROS
+
+addappid(1686290)
+addappid(1686291,0,"3d67d6cf1a5e00e8062e5c8dc6e4e2c4a0982260dd9833e5be5d2f9ae959ab16")
