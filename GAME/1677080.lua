@@ -1,0 +1,4 @@
+--game: Asteroid Five
+
+addappid(1677080)
+addappid(1677081,0,"0493027208bd40f94bf5777a82730f2cefc23bdcfa2897e15887663c000d4363")
