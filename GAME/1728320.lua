@@ -1,0 +1,4 @@
+--game: Dirty Fighter: Hollow Point City
+
+addappid(1728320)
+addappid(1728322,0,"dc84ebebe72ab710cc5b2f99e0384210f0317cb85e11ebd7cdcb6ec34955ff13")
