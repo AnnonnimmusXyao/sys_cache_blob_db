@@ -1,0 +1,4 @@
+--game: Mosquitoes and zombies
+
+addappid(1286160)
+addappid(1286161,0,"7732592c81ab12a3107c160e7d064424045fb5a917d656004099f81f0d419ed8")
