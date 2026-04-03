@@ -1,0 +1,4 @@
+--game: PEOPLEDOWN
+
+addappid(1646230)
+addappid(1646231,0,"c8d1d944ba50d8d5d33d9143a705b0c76f91ebf81c49370f8a7a80ebe915ae50")
