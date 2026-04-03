@@ -1,0 +1,4 @@
+--game: The Last Spark
+
+addappid(1718020)
+addappid(1718021,0,"074329dc26325c6fc94a3ee826565689e44f91744331b2098994f5a34a7d4f8c")
