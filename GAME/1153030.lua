@@ -1,0 +1,4 @@
+--game: Jigsaw puzzle - Evolution
+
+addappid(1153030)
+addappid(1153031,0,"fb38d8e268652a3439f22b5c1ddf6c7aa778b0ec382b57b506fc4e2da14f7f3d")
