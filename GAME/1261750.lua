@@ -1,0 +1,4 @@
+--game: Em-A-Zurvival
+
+addappid(1261750)
+addappid(1261751,0,"4a0be1dc32deb0338caf84855f8e2f3189baf9018ec03a719a064fc4824c735d")
