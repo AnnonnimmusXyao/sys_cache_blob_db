@@ -1,0 +1,4 @@
+--game: War and Empires: 4X RTS Battle
+
+addappid(1737050)
+addappid(1737051,0,"f4ac4122bf30e3b8c8847fc457cd8025599ff219231c68286780fd5138c78f9e")
