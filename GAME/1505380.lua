@@ -1,0 +1,4 @@
+--game: A hermit crab is finding a house
+
+addappid(1505380)
+addappid(1505381,0,"3f5aff74bb76457961ad9aa84df6ec478d4e46989f60da234358b579d43e109e")
