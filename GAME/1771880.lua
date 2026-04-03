@@ -1,0 +1,4 @@
+--game: UNDEMON
+
+addappid(1771880)
+addappid(1771883,0,"72accb38b3f0854fd102c7b433f00191e39432cb8ce4019bb82c0feb1eff03a2")
