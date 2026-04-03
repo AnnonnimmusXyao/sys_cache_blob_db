@@ -1,0 +1,4 @@
+--game: Panic Timing (惊恐计时)
+
+addappid(1284700)
+addappid(1284701,0,"5a8af1495aaa6ffb846d9f7d71080653ed8e187f3912e014c43ffe241087c70e")
