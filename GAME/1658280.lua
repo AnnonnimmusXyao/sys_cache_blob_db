@@ -1,0 +1,4 @@
+--game: Eiyuden Chronicle: Hundred Heroes
+
+addappid(1658280)
+addappid(1658281,0,"61d12d4ec2b9e888bfe67fae7c70f6d76bfe64bbef403294b7375cc326523bb4")
