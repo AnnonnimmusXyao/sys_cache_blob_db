@@ -1,0 +1,4 @@
+--game: Choice of Life: Middle Ages 2
+
+addappid(1573630)
+addappid(1573631,0,"e47b77bbf1b8440ac53dadbc9640dafe74243aed7d250296ae926ab01356d890")
