@@ -1,0 +1,7 @@
+--game: Tactics Ogre: Reborn
+
+addappid(1451090)
+addappid(1451091,0,"05d42e1703b05e7a865e15447318d8cb35bc0b30f9221f1150ee53f7cb434096")
+addappid(2087040)
+addappid(2087050)
+addappid(2087060)
