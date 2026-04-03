@@ -1,0 +1,4 @@
+--game: Ghost of Tomorrow: Chapter 1
+
+addappid(1325970)
+addappid(1325971,0,"52d03238ddfcd549fc40c32ac15f1b19385a5377edb4db968cd6238c93de57a0")
