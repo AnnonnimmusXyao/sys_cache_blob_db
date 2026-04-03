@@ -1,0 +1,6 @@
+--game: 100 hidden cats
+
+addappid(1587560)
+addappid(1587561,0,"5e0446a6545bfa39086156acaa07e0f801ea8e354c198dbea4092676bc9bfde1")
+addappid(2518290)
+addappid(3544630)
