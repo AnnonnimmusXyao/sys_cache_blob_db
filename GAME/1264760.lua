@@ -1,0 +1,4 @@
+--game: Saturn Quest: Shadow of Planetus
+
+addappid(1264760)
+addappid(1264761,0,"d60d507ece009ff87c71990607cfac31c3fc787f483a4aeb8f99cede92f7a66e")
