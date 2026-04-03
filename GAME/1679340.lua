@@ -1,0 +1,4 @@
+--game: Shanghai1920
+
+addappid(1679340)
+addappid(1679341,0,"5b2ac7c081be7373534351e7538df4b5dfa29c8be8a57f423b6438fd41ebeb5a")
