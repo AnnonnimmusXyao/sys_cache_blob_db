@@ -1,0 +1,4 @@
+--game: Frisbee For Fun
+
+addappid(1422880)
+addappid(1422882,0,"51268c85db2defa3e7f5167cb44c69edc1ca16fb43895ad88ff1b7b8b9816ed7")
