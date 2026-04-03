@@ -1,0 +1,4 @@
+--game: Hentai Karada
+
+addappid(1261090)
+addappid(1261092,0,"cbdf84add8192390fd29e2aea6477ec9e4a870d5c551145774a446a8c76c82f7")
