@@ -1,0 +1,4 @@
+--game: Virus Blast
+
+addappid(1305060)
+addappid(1305061,0,"eabfc0c3a0cee5fda91f01affb8a11bcd0330dfd7739894844ef375e73aa6878")
