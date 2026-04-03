@@ -1,0 +1,4 @@
+--game: WORDLAND
+
+addappid(1599690)
+addappid(1599691,0,"096d1346d5a02cfadff6db8ab6c6e23396b4da00d46d4e1d518f7f000b47340f")
