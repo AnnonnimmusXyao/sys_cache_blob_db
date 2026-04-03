@@ -1,0 +1,4 @@
+--game: District 99
+
+addappid(1399600)
+addappid(1399601,0,"21f38f72dca40801f7fe92e7e11b6f7a22028a304cbc74232ebd1272f73aeb1e")
