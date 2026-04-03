@@ -1,0 +1,4 @@
+--game: Let's Learn Xiangqi (Chinese Chess)
+
+addappid(1558750)
+addappid(1558751,0,"653d8a40331d0ef795668d7367a052bc90e715446c91b0cdeda26b74edcb5143")
