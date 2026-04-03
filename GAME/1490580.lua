@@ -1,0 +1,4 @@
+--game: Starforge
+
+addappid(1490580)
+addappid(1490581,0,"52e1150a4866256af8ae568c806e791309f1303c4bfc71ef83eee0f223093c68")
