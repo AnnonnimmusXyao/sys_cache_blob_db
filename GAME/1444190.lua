@@ -1,0 +1,4 @@
+--game: Death Becomes You - Mystery Visual Novel
+
+addappid(1444190)
+addappid(1444191,0,"2745ec6c6c71249157c7f95962d1493a8de7cd269c68f689bd3df557df8572ec")
