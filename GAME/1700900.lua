@@ -1,0 +1,4 @@
+--game: ellie on the ruins
+
+addappid(1700900)
+addappid(1700901,0,"acc8644ddd729de9e457e7110f9c2ff0bdb9bc8af15265ee4eee1c770c6bafc3")
