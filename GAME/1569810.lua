@@ -1,0 +1,4 @@
+--game: 24 Solar Terms
+
+addappid(1569810)
+addappid(1569811,0,"ea2915fdf8438aa9041489ab0dead9148e8d877937cfbbef46fbfdb7709b6dbf")
