@@ -1,0 +1,4 @@
+--game: Diamond Mirage
+
+addappid(1212150)
+addappid(1212151,0,"a1b6be0a2e0f242a77b3da870a7c53132d33c0d6f0d8e37aba76a3ebc0430dcc")
