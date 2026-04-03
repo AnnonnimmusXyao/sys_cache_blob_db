@@ -1,0 +1,4 @@
+--game: Summoner's Mess
+
+addappid(1727220)
+addappid(1727221,0,"d2b364c51a14308cea2ca4a1248ce07ee065ecb85d74a13eca1ea9a796c8bdab")
