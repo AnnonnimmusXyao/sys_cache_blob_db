@@ -1,0 +1,4 @@
+--game: Deadly Broadcast
+
+addappid(1627850)
+addappid(1627855,0,"1dc7cf241bdbe9740476e912acf3b307fb079e54e6d0b797d4312e39201a39c3")
