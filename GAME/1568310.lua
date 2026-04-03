@@ -1,0 +1,4 @@
+--game: Penguin Climbing
+
+addappid(1568310)
+addappid(1568311,0,"ca20374f8c026dd6508ac0db1ebcbb9e12ea39866c725889fc721cac6f7bd84b")
