@@ -1,0 +1,4 @@
+--game: Illegal Race Tuning
+
+addappid(1371090)
+addappid(1371091,0,"85835e7c8089b6675fc487434463a953b8159ee97b3990e854afd8b912a9fd03")
