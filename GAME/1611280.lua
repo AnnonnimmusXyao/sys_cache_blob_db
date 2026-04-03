@@ -1,0 +1,4 @@
+--game: G-MODEアーカイブス09 フライハイトクラウディア2
+
+addappid(1611280)
+addappid(1611281,0,"fd8036f8849f529d2e4a7fb0cddccd84627d9f95b8886daf25e0976fcf18898e")
