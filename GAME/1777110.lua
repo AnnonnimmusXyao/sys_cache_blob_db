@@ -1,0 +1,4 @@
+--game: DogFight Time
+
+addappid(1777110)
+addappid(1777111,0,"d6c5259faf9e61f54a7f580d07976a2859d576110cdfce2db7fcbfa786ebd7db")
