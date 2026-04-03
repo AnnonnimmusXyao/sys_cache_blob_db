@@ -1,0 +1,4 @@
+--game: Driving Simulator 2022
+
+addappid(1592390)
+addappid(1592399,0,"fe631d173ba7cbeadaf4ee509dea5daa5dbed5612b167f3b386ba1b956fdbbac")
