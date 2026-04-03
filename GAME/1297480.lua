@@ -1,0 +1,4 @@
+--game: Isorropia
+
+addappid(1297480)
+addappid(1297481,0,"f6818c77768189c5893a9bba9ed509ed88899cc17d0ae561cb8ecaa87a818ac1")
