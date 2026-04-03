@@ -1,0 +1,4 @@
+--game: Action Commando 2
+
+addappid(1646820)
+addappid(1646821,0,"29db3c98100bea3878b643e1f6c226a2757c361f4831b4176982e6dd95f84ec7")
