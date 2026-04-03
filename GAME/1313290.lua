@@ -1,0 +1,4 @@
+--game: Let Them Trade
+
+addappid(1313290)
+addappid(1313291,0,"0db4b2af91296d5dd2dc9cd5d1b6dc36eef26f0ddd35cfef53c524aa89182495")
