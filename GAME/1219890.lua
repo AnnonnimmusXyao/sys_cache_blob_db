@@ -1,0 +1,4 @@
+--game: The Last Turret
+
+addappid(1219890)
+addappid(1219892,0,"f4dc1bb64d4a3fd2235aa5e082ce63cbf98f78d6ec641079dadacb77dac3a602")
