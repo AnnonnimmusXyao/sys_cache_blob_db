@@ -1,0 +1,4 @@
+--game: 驱逐之剑(SwordBoy)
+
+addappid(1288960)
+addappid(1288961,0,"28621e7d436e3c1a300d8d272aca3f8b1f6c60ff58c611531d270118a915e146")
