@@ -1,0 +1,8 @@
+--game: Vampire: The Masquerade – Swansong
+
+addappid(1299510)
+addappid(1299511,0,"10e6d9c752130de53e4644e5493a6001a70aba427bd5878a59b396b95940ed61")
+addappid(1801880)
+addappid(1801881)
+addappid(1801882)
+addappid(2407740)
