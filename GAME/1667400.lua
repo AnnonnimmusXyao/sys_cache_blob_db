@@ -1,0 +1,4 @@
+--game: Cute Cats
+
+addappid(1667400)
+addappid(1667401,0,"62cdf4b1aa132407962737c390a54100a4251c96c48ca6e2a180a19020ee2a25")
