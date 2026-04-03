@@ -1,0 +1,4 @@
+--game: 2030
+
+addappid(1752890)
+addappid(1752891,0,"c4a2065b43227d68f15ee21bcce691cfc870d176ae37a249d0acdd3f142bd838")
