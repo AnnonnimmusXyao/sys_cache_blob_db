@@ -1,0 +1,4 @@
+--game: 送小鸡回家 sendchickenhome
+
+addappid(1284630)
+addappid(1284631,0,"e543b72ddfc697550486e7eaf08e6588c28ba87032e67c24bf97d53d20f2cf22")
