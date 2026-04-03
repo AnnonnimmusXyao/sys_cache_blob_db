@@ -1,0 +1,5 @@
+--game: Castle in The Clouds DX
+
+addappid(228983)
+addappid(1281160)
+addappid(1281161,0,"35aedc74e762a95acd5892f1d18533c20ccea01487562c6b6390ad4e709985e2")
