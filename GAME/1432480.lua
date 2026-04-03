@@ -1,0 +1,4 @@
+--game: Luminous Plume
+
+addappid(1432480)
+addappid(1432481,0,"d4ccf60d3d4b1fb030cd898e54f629694ffd977286ba9ea2c5e5a2d64cab3e10")
