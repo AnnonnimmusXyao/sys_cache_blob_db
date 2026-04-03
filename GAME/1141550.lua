@@ -1,0 +1,5 @@
+--game: CUCKOLD SIMULATOR: Life as a Beta Male Cuck
+
+addappid(1141550)
+addappid(1141551,0,"51ea3cfe06ce1156a8ca562c78a638afe933250b3252eae6b33100da90016860")
+addappid(1812161,0,"30ff5117f71879b066586288a39519d2ef5c61c0ac9abbcfae147c38ebc64c43")
