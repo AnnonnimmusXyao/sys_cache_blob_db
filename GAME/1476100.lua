@@ -1,0 +1,4 @@
+--game: A Rogue Escape
+
+addappid(1476100)
+addappid(1476102,0,"6dbaff76af9d8292108acab8278f1f2e6681c658ae41dc9863a3ec651c533773")
