@@ -1,0 +1,4 @@
+--game: Challenge racing
+
+addappid(1520200)
+addappid(1520201,0,"1557e9fe9e53bc2d2d5bef1b08927b6dc1bf7b8e9a25ee6f9c48a7df1b0bf296")
