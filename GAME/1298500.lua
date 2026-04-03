@@ -1,0 +1,4 @@
+--game: Fantasy Mosaics 33: Inventor's Workshop
+
+addappid(1298500)
+addappid(1298501,0,"5ce2736e0049a7c87c480b6492c4722eae33ef48bd465e79a75df4fb832ab97f")
