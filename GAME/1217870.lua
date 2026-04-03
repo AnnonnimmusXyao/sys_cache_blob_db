@@ -1,0 +1,4 @@
+--game: Box Kid Adventures
+
+addappid(1217870)
+addappid(1217871,0,"ab72139824b704350ff037896f4a4870cb3d571c33620d3e6254547acdf688a1")
