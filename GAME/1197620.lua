@@ -1,0 +1,5 @@
+--game: DragonRideVR
+
+addappid(1197620)
+addappid(1197621,0,"f3e321ade73f7974f0f303d41cfb56f1c9634f63f478441fcc38199894091e23")
+addappid(1595430)
