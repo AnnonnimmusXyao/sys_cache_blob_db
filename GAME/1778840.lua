@@ -1,0 +1,6 @@
+--game: Spirit of the North 2
+
+addappid(1778840)
+addappid(1778841,0,"b4829fc8fb08449fc0f307d6dd4130f1eccf40bc7aae5e3c7373efa304296086")
+addappid(3816570)
+addappid(3988930)
