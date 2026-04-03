@@ -1,0 +1,4 @@
+--game: Made in Abyss: Binary Star Falling into Darkness
+
+addappid(1324340)
+addappid(1324341,0,"9eaf4b7ea8830e817a0347e7d9579f940c5368a0759b9f2ecdf4443466eada7e")
