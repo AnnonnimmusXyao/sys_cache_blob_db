@@ -1,0 +1,4 @@
+--game: 醉梦传说 ~ Tales of Heroes in Gensoukyo
+
+addappid(1477010)
+addappid(1477012,0,"d8d27a27d12007252c6db515986b51deb8e08ad00542f8146eaf4d6bdf626d64")
