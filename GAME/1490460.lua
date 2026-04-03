@@ -1,0 +1,4 @@
+--game: 玄女诛魔录
+
+addappid(1490460)
+addappid(1490461,0,"38e7e8ec5d0adf8c67fa976da95e989317e09c9b8146b692050122ff1f1917ef")
