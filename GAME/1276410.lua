@@ -1,0 +1,4 @@
+--game: Sheltering With You
+
+addappid(1276410)
+addappid(1276411,0,"6c76d191d71d2230e481c6165f1e9c8be2fdb09833e1c29e5986b3df9327c8cf")
