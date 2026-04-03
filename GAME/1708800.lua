@@ -1,0 +1,4 @@
+--game: COTTOn 2 - Saturn Tribute
+
+addappid(1708800)
+addappid(1708801,0,"1b8982dbc71a50e486c98b3dc707f766d73f86c0042049d29121673e1c7f7b87")
