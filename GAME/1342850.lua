@@ -1,0 +1,4 @@
+--game: Bright Days in Quarantine
+
+addappid(1342850)
+addappid(1342851,0,"0ad64ae7f052c281593bba3a5875042e6c0e4ecf941ef0063eb4277e7f09634b")
