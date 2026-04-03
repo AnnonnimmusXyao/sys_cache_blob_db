@@ -1,0 +1,5 @@
+--game: Princess&Blade公主与利刃
+
+addappid(229033)
+addappid(1639430)
+addappid(1639431,0,"957bbb3429c03d99c686b26098f65bda3d42f715d772ef47356409e3ea0b07bd")
