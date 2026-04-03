@@ -1,0 +1,4 @@
+--game: NORSK: Epistle
+
+addappid(1531030)
+addappid(1531031,0,"3ba3d207acb4e498434c9ab9925ce37884bd811460b3d91211b4ede1f2acd43e")
