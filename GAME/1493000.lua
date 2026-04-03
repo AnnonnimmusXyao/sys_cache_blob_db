@@ -1,0 +1,4 @@
+--game: VR Bike Tour/Exercise in 22nd Century World
+
+addappid(1493000)
+addappid(1493001,0,"76fb3c1bd96f239b35f6ed424aa59f8a608f09db51ca2f61ddc66d78e0ad1545")
