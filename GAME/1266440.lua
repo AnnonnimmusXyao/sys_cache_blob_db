@@ -1,0 +1,4 @@
+--game: Disarmed
+
+addappid(1266440)
+addappid(1266441,0,"6363b43471502bae9650ef9da73a8747dbf58e108f2d2537e158ce7fff01b970")
