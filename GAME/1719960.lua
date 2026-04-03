@@ -1,0 +1,4 @@
+--game: Ada And Cal
+
+addappid(1719960)
+addappid(1719961,0,"0168da6d60c8c04e54f868d4ab101ecc65e43754969970fc8830c578b48be07a")
