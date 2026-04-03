@@ -1,0 +1,5 @@
+--game: Beach Buggy Racing 2: Island Adventure
+
+addappid(1230800)
+addappid(1230801,0,"c3c2ae1dbb6ee0cebcf8803e2469170b38e2f9f8a704344a3883b4a956d19a53")
+addappid(1552480,0,"bc76446b4379e003e98f0fdd5f1c5e990fe1122ac1f29afea0cccc0573544481")
