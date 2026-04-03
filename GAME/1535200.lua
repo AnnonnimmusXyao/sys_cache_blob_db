@@ -1,0 +1,4 @@
+--game: Rocket Skates VR
+
+addappid(1535200)
+addappid(1535201,0,"24e8bf84ec1f6095f59ef38f14b02bdb7df98bfe05509efc517f5b5f2b7de171")
