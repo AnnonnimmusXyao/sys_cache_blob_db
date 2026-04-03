@@ -1,0 +1,4 @@
+--game: Country Discoverer
+
+addappid(1388280)
+addappid(1388281,0,"331d3de041936574ae8890015d15937be9428da3ffc4ee99a735764bf14c7ee5")
