@@ -1,0 +1,4 @@
+--game: Deep Madness
+
+addappid(1722300)
+addappid(1722301,0,"7be0defc512c54c8c8fd03abd8644b96f54ff0babe62bd41ae59dc207239b99a")
