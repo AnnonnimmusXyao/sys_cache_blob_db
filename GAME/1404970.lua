@@ -1,0 +1,4 @@
+--game: Sponsor-A-Planet
+
+addappid(1404970)
+addappid(1404973,0,"9a6e69d5bdefc129bc5544a479a6964f612d29ca479fa0a508d26543ab820046")
