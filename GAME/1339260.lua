@@ -1,0 +1,4 @@
+--game: 末代侠客
+
+addappid(1339260)
+addappid(1339261,0,"13f775c2341e92d332b808febef5ff61f81a73a323b3e1b873667e74bff91e81")
