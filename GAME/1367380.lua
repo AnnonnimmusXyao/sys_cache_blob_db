@@ -1,0 +1,4 @@
+--game: She Salutes
+
+addappid(1367380)
+addappid(1367381,0,"3a4bd9122197840a74caa73ea83fe71e4fed37210e43469d41289f9481786f18")
