@@ -1,0 +1,4 @@
+--game: Adult Puzzles - CamGirls
+
+addappid(1780780)
+addappid(1780781,0,"ac61caefbbde3bc3076d21cdf94a488550f15e1f31e0a3ea3971e54000486298")
