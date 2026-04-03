@@ -1,0 +1,4 @@
+--game: Drift Phonk 666
+
+addappid(1591870)
+addappid(1591871,0,"4a907b1839ee0310b4c126fa312bc05356991ac7437b3b036e139ad08bc59a00")
