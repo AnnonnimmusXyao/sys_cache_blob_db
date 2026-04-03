@@ -1,0 +1,4 @@
+--game: Heliopedia
+
+addappid(1740070)
+addappid(1740071,0,"b2357250c6db98ac0564bec8ec86daf0f04bff0a895456850e3f056127ffb9ec")
