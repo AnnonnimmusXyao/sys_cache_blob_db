@@ -1,0 +1,5 @@
+--game: 四国志 ～酒池肉面战记～
+
+addappid(1379900)
+addappid(1379901,0,"4414d3a8892bb049cc1f7079a880f2b408b4fde33c9e9935df26acbbd8164fdf")
+addappid(1379904,0,"8b5301ca2f593f1bbfa23a3fd846c325b8f6f1c03aad5d5350aaeb7a5bb9c7ee")
