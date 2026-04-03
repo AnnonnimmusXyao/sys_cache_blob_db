@@ -1,0 +1,4 @@
+--game: Kaiju Wars
+
+addappid(1508400)
+addappid(1508401,0,"5592812a3a62a916ed2c7bebb9b16dd69ab56940d43433f0703528d3b98e299d")
