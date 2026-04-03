@@ -1,0 +1,4 @@
+--game: The Cruxis Sword
+
+addappid(1186720)
+addappid(1186721,0,"74150658dabd229878bc59675ea2a5ffa45e4613bbc95e01ec9915220d5f6b23")
