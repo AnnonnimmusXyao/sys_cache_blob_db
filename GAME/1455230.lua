@@ -1,0 +1,4 @@
+--game: Dungeon Slime:  Puzzle's Adventure
+
+addappid(1455230)
+addappid(1455231,0,"454214e12ee0fa2a67a51e3266cf6b95131c2bf7c50823c86d5a2f7567862dae")
