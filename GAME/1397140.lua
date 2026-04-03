@@ -1,0 +1,4 @@
+--game: The Last Show of Mr. Chardish: Act I
+
+addappid(1397140)
+addappid(1397141,0,"06507bddd5d96de214f7396089437367f398417b38b9031b14e6f73745b45756")
