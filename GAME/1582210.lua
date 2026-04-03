@@ -1,0 +1,4 @@
+--game: Fast Finger Rule
+
+addappid(1582210)
+addappid(1582211,0,"669071b8121c5099d8fcba03868ab6fa83b483f10762d7b34539b8d6fb518cf3")
