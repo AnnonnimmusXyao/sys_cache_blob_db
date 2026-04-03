@@ -1,0 +1,4 @@
+--game: Assembly
+
+addappid(1777560)
+addappid(1777561,0,"7f5f098ee586e6abbcac61ea87f4a1fa8866a90f1eb5b468362efa6a212486d2")
