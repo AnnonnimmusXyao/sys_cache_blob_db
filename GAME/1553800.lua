@@ -1,0 +1,4 @@
+--game: Ninja Fights
+
+addappid(1553800)
+addappid(1553801,0,"48f186914e693684ab2653aad085f68c47393f6d14a4962c03dec0db71c0cb51")
