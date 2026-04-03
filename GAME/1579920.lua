@@ -1,0 +1,4 @@
+--game: Opportunity: A Sugar Baby Story
+
+addappid(1579920)
+addappid(1579921,0,"5f9170d717a4ea3ca6d56f852911b5bf8e4011ce924a5719f0867aedd88f8a77")
