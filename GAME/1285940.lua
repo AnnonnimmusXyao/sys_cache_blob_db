@@ -1,0 +1,4 @@
+--game: Briefcase Inc.
+
+addappid(1285940)
+addappid(1285941,0,"40a038df7c780741d53b7898cff2dd36f5810fb8b13a167089743c508eb83b5f")
