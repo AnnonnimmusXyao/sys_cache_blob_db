@@ -1,0 +1,4 @@
+--game: Dark effigy
+
+addappid(1778190)
+addappid(1778191,0,"67c8268c0dd685511f1e156ba349d63073d121363bfe02bab1b286781df9b930")
