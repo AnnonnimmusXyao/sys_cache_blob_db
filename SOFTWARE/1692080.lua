@@ -1,0 +1,9 @@
+--game: SVFI
+
+addappid(229006)
+addappid(1692080)
+addappid(1692081,0,"b0eb4797a1aa370628b12a367482f2163f60d1c091ab9206a462f8092fa04ca4")
+addappid(1718750)
+addappid(1758570)
+addappid(1813870)
+addappid(1991700)
