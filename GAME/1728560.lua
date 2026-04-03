@@ -1,0 +1,4 @@
+--game: 致命游戏-Lethal Gamble 1 Werewolf Puzzle
+
+addappid(1728560)
+addappid(1728561,0,"a1e326322048e3af1d9f4ca9633ff467cce7893d5a0aafbd1607d85d493bc017")
