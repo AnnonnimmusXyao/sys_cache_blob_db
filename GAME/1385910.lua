@@ -1,0 +1,4 @@
+--game: 魔王救世劍
+
+addappid(1385910)
+addappid(1385911,0,"02402d4cf14a4ac7e701f562313eac4d4425a3b51940cc90ff21719490a61d65")
