@@ -1,0 +1,4 @@
+--game: Space Empires II
+
+addappid(1430140)
+addappid(1430141,0,"061c6e281467893481b4c9e5c8ab5b7d939a6a6b887afeb1fcf4396fecd2182a")
