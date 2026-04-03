@@ -1,0 +1,4 @@
+--game: Little Moneybags
+
+addappid(1560540)
+addappid(1560541,0,"0aadb296a10761ed45325ceccde33f59ae430af33825c5554fca51254284d0b0")
