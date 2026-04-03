@@ -1,0 +1,4 @@
+--game: Laid-Back Camp - Virtual - Lake Motosu
+
+addappid(1514360)
+addappid(1514361,0,"b47ec01b4c67874c5f094140d903cb31e25db99dbb978ff2eda9faee7beeb2f9")
