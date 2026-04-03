@@ -1,0 +1,4 @@
+--game: DARK MAGIC
+
+addappid(1428130)
+addappid(1428131,0,"4150ffcf0fa8d19e46332546363ace2ab21964089a0aa548a2a7c521255b85ed")
