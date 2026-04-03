@@ -1,0 +1,4 @@
+--game: United Assault - Battle of the Bulge
+
+addappid(1625340)
+addappid(1625341,0,"49147f586721f9b3165bea15f1cde89aa6b9c56db666957285da0497b035e4a7")
