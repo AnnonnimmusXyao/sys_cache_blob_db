@@ -1,0 +1,8 @@
+--game: RESEARCH and DESTROY
+
+addappid(1279310)
+addappid(1279311,0,"3069ad919e387f6c4f2f63c16649847bdf093e43bf777fe181cc7f0fe4302bce")
+addappid(1479290)
+addappid(1479291)
+addappid(1555690)
+addappid(1555691)
