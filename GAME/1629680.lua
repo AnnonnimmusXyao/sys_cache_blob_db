@@ -1,0 +1,4 @@
+--game: Artifacting
+
+addappid(1629680)
+addappid(1629681,0,"c5f3f755a65f4514595be3144430531e8e5511abb90d33bd794356602d8a8b70")
