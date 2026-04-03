@@ -1,0 +1,4 @@
+--game: Horror Globes
+
+addappid(1416460)
+addappid(1416461,0,"b4e95d9985c14f9b60aadb55488fd347d91b8fdb95d2c3b47ca3da01fd6a2aa4")
