@@ -1,0 +1,4 @@
+--game: Crimson Hotel
+
+addappid(1140500)
+addappid(1140501,0,"efb055d1971a5382971e22bda5951bbf3118af95754ed1fa5f6c763efab86a7a")
