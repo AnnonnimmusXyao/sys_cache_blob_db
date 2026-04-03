@@ -1,0 +1,4 @@
+--game: Tale's Casino Escape
+
+addappid(1149930)
+addappid(1149932,0,"78101eb0cc54672cc5dc373247a9bca35f0189f4c36d1445f0e4cd7959e576a7")
