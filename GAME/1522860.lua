@@ -1,0 +1,4 @@
+--game: flaming/million
+
+addappid(1522860)
+addappid(1522861,0,"a544afba8a86817fbd85d35782e7bae3671a30b9311bd93cebcfc20f7d49d0b4")
