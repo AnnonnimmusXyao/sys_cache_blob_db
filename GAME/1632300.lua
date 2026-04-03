@@ -1,0 +1,4 @@
+--game: 侦查故事：枪声
+
+addappid(1632300)
+addappid(1632301,0,"cc6300b61f451b0d6c45c572b65e01655f6cb9cba676a576ac8e2734eb449a40")
