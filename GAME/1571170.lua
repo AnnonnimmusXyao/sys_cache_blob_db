@@ -1,0 +1,4 @@
+--game: Summer with Mia
+
+addappid(1571170)
+addappid(1571171,0,"539b4655ca7d8383d3352944af60bcc2fdcf3c1c0a044547488281f2eda335e3")
