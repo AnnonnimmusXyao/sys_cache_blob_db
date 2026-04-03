@@ -1,0 +1,4 @@
+--game: FIGHT BOTS
+
+addappid(1664100)
+addappid(1664101,0,"1c6275382bd8e0a7be648266e41be34d0d821b2c6a5060397eada2ca04db945d")
