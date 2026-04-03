@@ -1,0 +1,4 @@
+--game: Kathy Rain: Director's Cut
+
+addappid(1395030)
+addappid(1395031,0,"1f91bfa49a2a1c2408480b422395bf9779304e369c0e4e55492dff398064809d")
