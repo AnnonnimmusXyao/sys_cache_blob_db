@@ -1,0 +1,4 @@
+--game: Cave Guessers
+
+addappid(1632670)
+addappid(1632671,0,"cf848e5e8e422fefec1d99002a0d3b73099ed7887ade9d36203ac72dc3a39d6d")
