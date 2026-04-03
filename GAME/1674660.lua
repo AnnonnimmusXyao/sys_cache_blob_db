@@ -1,0 +1,4 @@
+--game: Cards of the Dead - Prologue
+
+addappid(1674660)
+addappid(1674661,0,"e0a51f309944bfa53600ec44b87d73eb89423a0fc30f6748eb67c9aa1fd30770")
