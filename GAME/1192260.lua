@@ -1,0 +1,4 @@
+--game: Labyrinths of the World: The Wild Side Collector's Edition
+
+addappid(1192260)
+addappid(1192261,0,"7cc112132faa7b1e3c653f883fbb58d52308312b90938ea293a27ac9177b0088")
