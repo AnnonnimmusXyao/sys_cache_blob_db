@@ -1,0 +1,5 @@
+--game: Heavy Cargo - The Truck Simulator
+
+addappid(1474930)
+addappid(1474931,0,"9ebe45ec36b6017e74fbffec6a0f5877792ef03b356231266a2e8503a72f999b")
+addappid(3581920)
