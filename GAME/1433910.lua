@@ -1,0 +1,4 @@
+--game: Dragu's Puzzle Adventure
+
+addappid(1433910)
+addappid(1433911,0,"5bf28a23a0cf0b634ad4bf15468d454ee748e45d75169c8f7239035b4ff64d19")
