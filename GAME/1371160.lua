@@ -1,0 +1,4 @@
+--game: InMaze
+
+addappid(1371160)
+addappid(1371161,0,"560bb59945e440e6d51036a2ccd9a1dfe138d520c489bd7ccf4a95606a657273")
