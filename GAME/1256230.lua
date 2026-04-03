@@ -1,0 +1,4 @@
+--game: Hyperbolica
+
+addappid(1256230)
+addappid(1256232,0,"2d8398037ac313ecbe8a31e147b1f4a7f129cbee255ab5967c8d06420982f2da")
