@@ -1,0 +1,4 @@
+--game: 雨音スイッチ - Amane Switch -
+
+addappid(1692000)
+addappid(1692001,0,"86714b01b626cbaac47488a2a7ffe20223195f9e8d36486ee37922c5567ec4cd")
