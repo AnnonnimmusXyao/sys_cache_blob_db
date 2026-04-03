@@ -1,0 +1,4 @@
+--game: Hunting Unlimited 3
+
+addappid(1330820)
+addappid(1330821,0,"1705aac52299e84e2a10ebdc4015db58475753a3ded304025e2ac151417c3abe")
