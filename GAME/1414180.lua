@@ -1,0 +1,6 @@
+--game: Motesolo : No Girlfriend Since Birth
+
+addappid(229004)
+addappid(1414180)
+addappid(1414181,0,"eb6604e1db93b83c18314db52dd2b6a287428f61fb146b9da2f2f972bad4840f")
+addappid(1635390)
