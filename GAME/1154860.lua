@@ -1,0 +1,4 @@
+--game: Elite Battle : Rio
+
+addappid(1154860)
+addappid(1154861,0,"7447d64b04c2cbadc82471f5552c3a9b3735f8b8657cdc0eeab69359cfd4d832")
