@@ -1,0 +1,4 @@
+--game: Electrify
+
+addappid(1393220)
+addappid(1393221,0,"18ac5091c39b932a749d017f1d05ab860ad6e0d6b8298a61ab1c797b2a3889d8")
