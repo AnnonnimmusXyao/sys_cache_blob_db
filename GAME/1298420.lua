@@ -1,0 +1,4 @@
+--game: Paris in 2000 Years
+
+addappid(1298420)
+addappid(1298421,0,"217b163637079a04357d3a81e2790ae18d731ebb5c4cf6358744cfb07e61cdce")
