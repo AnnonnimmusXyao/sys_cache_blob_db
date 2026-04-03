@@ -1,0 +1,4 @@
+--game: JUST DEFENSE
+
+addappid(1573160)
+addappid(1573169,0,"499230be36a5f1da835805133e6e73e054c9e4b90f1b1bd1aa3d63a953a8307f")
