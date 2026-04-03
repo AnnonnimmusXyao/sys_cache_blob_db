@@ -1,0 +1,4 @@
+--game: Musical Vibes
+
+addappid(1690200)
+addappid(1690201,0,"5f063a705de7bd6ae91bf3e47ba7aaca3c8a509e00fc5fdf783029ca27d548e6")
