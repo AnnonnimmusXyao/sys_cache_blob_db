@@ -1,0 +1,4 @@
+--game: Super Astrovade
+
+addappid(1710120)
+addappid(1710121,0,"9de4fc0712d2978c140fa1d7eeb5860c5ecaf23438ce350f20ae805cca553dac")
