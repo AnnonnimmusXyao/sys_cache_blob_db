@@ -1,0 +1,4 @@
+--game: FutaDomWorld
+
+addappid(1222750)
+addappid(1222751,0,"47c5dedb648d52c75aa785c1560a91860dfc04f85556cf250a9b3944db274c29")
