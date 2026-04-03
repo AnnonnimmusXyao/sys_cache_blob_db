@@ -1,0 +1,4 @@
+--game: Fury Fight
+
+addappid(1496150)
+addappid(1496152,0,"f8c4026d61c9bfe7d5e78f75184ebcc6a27757281d261dfbdf244ad79003a418")
