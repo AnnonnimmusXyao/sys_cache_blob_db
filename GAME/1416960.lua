@@ -1,0 +1,5 @@
+--game: Everafter Falls
+
+addappid(1416960)
+addappid(1416961,0,"2257e99decaf0453ec32df3a6762cc771e6ad768998a6dab444a236f02315163")
+addappid(3024910)
