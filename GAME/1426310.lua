@@ -1,0 +1,4 @@
+--game: Dee-6: Dice Defenders
+
+addappid(1426310)
+addappid(1426311,0,"542997f9158a2e9e8c748cf4027f353f4bdf5f75135d5f1116cbdee8f4d5fee6")
