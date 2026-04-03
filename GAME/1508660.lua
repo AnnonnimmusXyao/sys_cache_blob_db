@@ -1,0 +1,5 @@
+--game: 正宗台灣十六張麻將2
+
+addappid(229007)
+addappid(1508660)
+addappid(1508661,0,"da5da5e56fa0b6715459ef9c5fec68f7478416d7caf8b8d397a9554607c76ee3")
