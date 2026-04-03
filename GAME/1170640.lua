@@ -1,0 +1,6 @@
+--game: When The Past Was Around - Prologue
+
+addappid(1170640)
+addappid(1170641,0,"fcce1d700678d429efa88b8c82003eb17af3c6d0a5075bcadc881428e5f7485c")
+addappid(1170642,0,"f0d3619a515e6ccf7e5e5188bd9a68aebddacb7d4fe82cc55e13aa189646a522")
+addappid(1187170)
