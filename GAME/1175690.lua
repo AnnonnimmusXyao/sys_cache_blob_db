@@ -1,0 +1,4 @@
+--game: MyStar
+
+addappid(1175690)
+addappid(1175691,0,"f2e02bf33ecdab3e8cc60de2d60482cb787428bb6e73d86c6929e8da09f32bfa")
