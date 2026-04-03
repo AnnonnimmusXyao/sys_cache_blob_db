@@ -1,0 +1,4 @@
+--game: syGlass View
+
+addappid(1560420)
+addappid(1560421,0,"89e5094b3d612035720f524e6f1789fce44f260715da3480a4d3ab701109808d")
