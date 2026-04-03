@@ -1,0 +1,4 @@
+--game: Confessions
+
+addappid(1400700)
+addappid(1400701,0,"39682cfd462a50922499cf5173a9a6f37aeb010890c5b5d659a0f75108fd79f6")
