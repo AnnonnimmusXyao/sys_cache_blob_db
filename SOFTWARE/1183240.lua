@@ -1,0 +1,4 @@
+--game: Image Compressor
+
+addappid(1183240)
+addappid(1183241,0,"f20372eb36672a8dfc2d98b8a80f99470b1cd6eda700b1c67e36b8383d3d332c")
