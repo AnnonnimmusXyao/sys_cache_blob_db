@@ -1,0 +1,4 @@
+--game: Cubyrinth
+
+addappid(1734810)
+addappid(1734811,0,"1d60b1b2a14c440417ad978886245bb7abaf84da3eb58e8a5c224468b1545e10")
