@@ -1,0 +1,4 @@
+--game: 生化工厂/Biochemical factory
+
+addappid(1285450)
+addappid(1285451,0,"eac978177be1ab1a49b0c3b49e7594443e3997e2290d1af435f76dab49af6660")
