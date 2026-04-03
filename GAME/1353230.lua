@@ -1,0 +1,5 @@
+--game: Bomb Rush Cyberfunk
+
+addappid(1353230)
+addappid(1353231,0,"39e891398178eb462896935f7400ec32fb665213162d174d4b34d9b843519e66")
+addappid(2518220)
