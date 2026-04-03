@@ -1,0 +1,4 @@
+--game: Valley Knights
+
+addappid(1781590)
+addappid(1781591,0,"c6e10b3686a3d5c64babdc24739e5e3f9b5ec8c7f6fe07330a7379fd11c950e0")
