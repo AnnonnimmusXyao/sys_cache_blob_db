@@ -1,0 +1,8 @@
+--game: Zoey: My Hentai Sex Doll
+
+addappid(1716170)
+addappid(1716171,0,"1dd4f58a4443ba289d01dbe06d1f6c8807164c577cd812c69751e60b16cf08d0")
+addappid(2138950)
+addappid(2138951)
+addappid(2138952)
+addappid(2195420)
