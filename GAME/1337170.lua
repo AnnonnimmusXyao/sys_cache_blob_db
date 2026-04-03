@@ -1,0 +1,4 @@
+--game: Lords of the Shattered Kingdom
+
+addappid(1337170)
+addappid(1337171,0,"dff92a5d729df1291ab800268e74d70e424dce118d4218e2895fe63ece5bcda5")
