@@ -1,0 +1,4 @@
+--game: Ducks' Wrath
+
+addappid(1233790)
+addappid(1233791,0,"ac52be6f310ff36b668c75205ad1d20800bbe716be467d9b2028dd107fb0b21e")
