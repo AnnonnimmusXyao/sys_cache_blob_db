@@ -1,0 +1,5 @@
+--game: PJ Masks: Heroes of the Night
+
+addappid(1635600)
+addappid(1635601,0,"fece03bfe1d48573e4a73f36537cbb5bc29c994ce5391c075743c433b68e75b0")
+addappid(1840900)
