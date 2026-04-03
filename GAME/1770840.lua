@@ -1,0 +1,4 @@
+--game: The medical examination diary: the exciting days of me and my senpai
+
+addappid(1770840)
+addappid(1770841,0,"a8fb207778be9fe014733c246481fd7bda3e28ee3b1b6f6d7b6b3ac84bf6b22d")
