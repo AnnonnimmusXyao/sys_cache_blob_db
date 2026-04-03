@@ -1,0 +1,4 @@
+--game: World Racing 2 - Champion Edition
+
+addappid(1301010)
+addappid(1301011,0,"60b681610300fafb0b5af61d04d61e01c2436241c7958e9d1e04a3870d9bb8a7")
