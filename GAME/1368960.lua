@@ -1,0 +1,5 @@
+--game: Fishing Sim World: Bass Pro Shops Edition
+
+addappid(1368960)
+addappid(1368961,0,"19ce558d9663fc5e495f636c8f5f2668bd46ae38c5dd304b508ad3d5338ffe8d")
+addappid(1369000)
