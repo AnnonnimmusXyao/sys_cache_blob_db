@@ -1,0 +1,4 @@
+--game: Defender of Kuiper Belt
+
+addappid(1505520)
+addappid(1505521,0,"43e5e5b3574ce7fb2cea7ba378dbb0600be5ee07a7c612d83d2d691f59b26c69")
