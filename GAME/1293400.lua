@@ -1,0 +1,4 @@
+--game: Software House Simulator
+
+addappid(1293400)
+addappid(1293401,0,"637e6e10f067c1fc5e275f3d2716c8af98f3b216d59231e640764bf8e7e5de70")
