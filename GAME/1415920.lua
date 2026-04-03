@@ -1,0 +1,4 @@
+--game: PBA Pro Bowling 2021
+
+addappid(1415920)
+addappid(1415921,0,"55c1f46d4745d02cdc6466e57157dbbb88f2a266f8f4e58f1e5294d6cffb22cf")
