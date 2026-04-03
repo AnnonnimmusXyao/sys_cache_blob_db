@@ -1,0 +1,4 @@
+--game: Broken Ecchi Gallery
+
+addappid(1465200)
+addappid(1465201,0,"c94fa7143e2345cb7595ef37f5958675e71d0f6939af51ddcb999291afe4ef12")
