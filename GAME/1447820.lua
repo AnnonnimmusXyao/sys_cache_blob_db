@@ -1,0 +1,4 @@
+--game: The Girl from Arkanya
+
+addappid(1447820)
+addappid(1447821,0,"bc6bad2be1872b73943128bb127cb16cf7c70292d31cbb9daaa0e1637fd5513e")
