@@ -1,0 +1,4 @@
+--game: Cemetery Warrior 4
+
+addappid(1150990)
+addappid(1150991,0,"b7b40d0cef5666e752870e61d674f51d88e178f06d243aa81a495698a816e6b2")
