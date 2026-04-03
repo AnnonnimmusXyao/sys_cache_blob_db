@@ -1,0 +1,4 @@
+--game: Linea VR
+
+addappid(1144100)
+addappid(1144101,0,"d9ff8ceec2171667236ce86bffe2e2a10e1d084f4c91074b4e76480aa5a62dd3")
