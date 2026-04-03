@@ -1,0 +1,4 @@
+--game: SpermDash精疲力尽
+
+addappid(1355880)
+addappid(1355882,0,"ec374462337b6fc7d47d791cff4424a0accf86ce0587e28d38fcfc3c0aa262da")
