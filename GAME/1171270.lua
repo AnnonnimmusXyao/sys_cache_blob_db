@@ -1,0 +1,4 @@
+--game: TroubleDays
+
+addappid(1171270)
+addappid(1171271,0,"a544b2fa24bdf04d9cef50a68771cb60215973dcdb3b84c7b5c0cd5a5bc10aa4")
