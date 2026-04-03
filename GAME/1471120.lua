@@ -1,0 +1,4 @@
+--game: 弹幕大修仙 - 开篇
+
+addappid(1471120)
+addappid(1471121,0,"64486fdee7d25b588331fc3ba65bacc12e89ea39547ed6d5052d247b5494c877")
