@@ -1,0 +1,4 @@
+--game: Star Of The Show
+
+addappid(1636490)
+addappid(1636492,0,"9475130611c8062aac229bda5f3d12a86188c7413495724a98bb538af89afedd")
