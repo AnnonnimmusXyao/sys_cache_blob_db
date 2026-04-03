@@ -1,0 +1,4 @@
+--game: 孟德大小姐与自爆少年THREE KINGDOM FANTASY
+
+addappid(1217410)
+addappid(1217412,0,"2aee0547617abe684fe7c7d90a4ea3cc4653b9bba72f5fca4c342f0c2de9bb3c")
