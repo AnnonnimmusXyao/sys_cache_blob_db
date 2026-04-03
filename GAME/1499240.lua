@@ -1,0 +1,6 @@
+--game: Brookhaven Grimoire
+
+addappid(1499240)
+addappid(1499244,0,"e9ff3ab04d21e690ba0dd96e951ba06dd609da10e28e5ef36c17a0c4858df309")
+addappid(1679030)
+addappid(1679031)
