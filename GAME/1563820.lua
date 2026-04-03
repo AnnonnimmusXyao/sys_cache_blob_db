@@ -1,0 +1,4 @@
+--game: Inside My Mind
+
+addappid(1563820)
+addappid(1563821,0,"de40ac9cbcf1b4145301f8a50f4fe8caa38aeab9e178656306e02ea6b074f97c")
