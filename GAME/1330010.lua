@@ -1,0 +1,4 @@
+--game: RetroBound
+
+addappid(1330010)
+addappid(1330011,0,"ba5a60cd7df7fd2c98d736f09adfd0498d19e70a32dfa4fa5621414b4b55e514")
