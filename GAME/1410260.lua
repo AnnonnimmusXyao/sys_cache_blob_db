@@ -1,0 +1,4 @@
+--game: The Last King's Archer
+
+addappid(1410260)
+addappid(1410261,0,"17856b8745083cb5a809abd2e147448e4aa3708d93df94d9a5abb350168a36ad")
