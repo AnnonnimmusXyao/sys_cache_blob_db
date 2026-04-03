@@ -1,0 +1,4 @@
+--game: ChessCraft
+
+addappid(1635790)
+addappid(1635792,0,"1799c403db3136cabb2f48f0f0965990395f87b115f5ba48e6013d48b4e1e148")
