@@ -1,0 +1,4 @@
+--game: Hey Stranger! I Dare You to Love Me!
+
+addappid(1703220)
+addappid(1703221,0,"88a431853f28c605bcc04cc45386607a6e3070492474d77ac7819f76bad98615")
