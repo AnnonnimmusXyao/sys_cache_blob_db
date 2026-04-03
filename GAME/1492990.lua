@@ -1,0 +1,4 @@
+--game: Fission
+
+addappid(1492990)
+addappid(1492991,0,"4bde1521945cab0dbc2bb4726b12e2d9d9ef6e365d67b7ad358cfc4d0f873348")
