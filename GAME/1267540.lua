@@ -1,0 +1,10 @@
+--game: WRC 9 FIA World Rally Championship
+
+addappid(228983)
+addappid(1267540)
+addappid(1267541,0,"af197905780602fd49b05bccf6e8f59a872a943619b0aa7c563b2bc9e48e3ee7")
+addappid(1530500)
+addappid(1530501)
+addappid(1530502)
+addappid(1530503)
+addappid(1530504)
