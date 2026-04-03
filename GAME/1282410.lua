@@ -1,0 +1,8 @@
+--game: Hard West 2
+
+addappid(229005)
+addappid(229033)
+addappid(1282410)
+addappid(1282411,0,"ed806de682e2ef949547012e45206c1f39611d45a31c4559c43e2145b9a49283")
+addappid(1953460)
+addappid(1991380)
