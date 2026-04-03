@@ -1,0 +1,4 @@
+--game: BURNT ASHES
+
+addappid(1583450)
+addappid(1583451,0,"1a4f145ab23da7de5cea8faf41655f6e5fa15a17b3557f4c1375725c4a445205")
