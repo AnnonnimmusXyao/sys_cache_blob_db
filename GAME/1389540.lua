@@ -1,0 +1,5 @@
+--game: Wesprau Senki
+
+addappid(1389540)
+addappid(1389541,0,"3ea04cd38765ae53dbd1b7a66ed937ca4ce2d5566bc5ac85ad6172bdc76a02d5")
+addappid(1389542,0,"71cdb1a2d79942cd1a6a5867f36d802cf5acba978914cefbf12243d328b01a69")
