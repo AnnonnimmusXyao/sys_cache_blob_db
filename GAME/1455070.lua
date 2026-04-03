@@ -1,0 +1,4 @@
+--game: Countess in Crimson
+
+addappid(1455070)
+addappid(1455071,0,"859051ddbff2bdd55f81b830d8a1a8e5c689f8bae2a0ec1d121e2aa1a2759a18")
