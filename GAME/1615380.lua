@@ -1,0 +1,4 @@
+--game: RANGER VS. DRONES
+
+addappid(1615380)
+addappid(1615381,0,"d1023259fd6bb1ae3ce9a71d25e215fa485b5fd383fac4df50af8c4e1a7f2165")
