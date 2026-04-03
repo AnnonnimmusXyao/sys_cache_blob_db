@@ -1,0 +1,4 @@
+--game: Leap of Love - Safe Edition
+
+addappid(1507980)
+addappid(1507981,0,"f95de23d4895e345b16a458dbcb2344b03c24a5755d229196fe231dbe819b419")
