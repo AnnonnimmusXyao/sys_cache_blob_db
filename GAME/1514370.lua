@@ -1,0 +1,4 @@
+--game: Laid-Back Camp - Virtual - Fumoto Campsite
+
+addappid(1514370)
+addappid(1514371,0,"a7e458bddb3953f89230ba3790b357e0966fcd0589926fd1c00a980958623573")
