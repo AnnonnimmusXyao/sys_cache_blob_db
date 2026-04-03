@@ -1,0 +1,4 @@
+--game: Beat Or Die The MiniGames
+
+addappid(1189380)
+addappid(1189381,0,"033730ebecd88b66afcd2eb91671d6fd52d1338974dab871bb7fff0f7e08164e")
