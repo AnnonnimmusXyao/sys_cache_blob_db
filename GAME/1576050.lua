@@ -1,0 +1,4 @@
+--game: Super Pixel World
+
+addappid(1576050)
+addappid(1576051,0,"0c89fc67337cff98e8e1c4c608c14d3b2ce5c8da356e489c23c2a24c12f7c764")
