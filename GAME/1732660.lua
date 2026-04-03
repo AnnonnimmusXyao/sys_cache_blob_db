@@ -1,0 +1,4 @@
+--game: Car Wash TD - Tower Defense
+
+addappid(1732660)
+addappid(1732661,0,"6b7496d4dddd64d49846a8de1fc4535ae703b48f145c4febdeafc9efd11e90ba")
