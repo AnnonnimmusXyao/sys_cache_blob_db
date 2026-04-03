@@ -1,0 +1,4 @@
+--game: 剑为君舞 百夜缀
+
+addappid(1387350)
+addappid(1387351,0,"8d200807c298022e9fcd03f9799a9cdf6a8d8fc00e10b890bef5955afa181c9c")
