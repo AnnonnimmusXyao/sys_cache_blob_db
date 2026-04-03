@@ -1,0 +1,5 @@
+--game: Glitchpunk
+
+addappid(1459960)
+addappid(1459961,0,"d1614967bd23577a915eb8fd558a306845f6ad806504c11241e3361b97287b21")
+addappid(1670560)
