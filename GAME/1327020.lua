@@ -1,0 +1,4 @@
+--game: 亭上满月映西枝~The Forever Moon
+
+addappid(1327020)
+addappid(1327021,0,"42b74507064f9779171c80fecc6e0277cf36128d7a0827316d98f97317ea9531")
