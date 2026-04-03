@@ -1,0 +1,4 @@
+--game: Hold The Plates
+
+addappid(1739360)
+addappid(1739361,0,"f20b5617538911d587c36d28211b79ca6288b8757518d876c14373ffc14d108c")
