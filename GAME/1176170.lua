@@ -1,0 +1,5 @@
+--game: GIRLS BATTLEGROUNDS | 性感大逃杀
+
+addappid(1176170)
+addappid(1176171,0,"195266ccc4864fd97e066718a48519e56b27f1474a08e466c52ca9abb06a3136")
+addappid(1246610)
