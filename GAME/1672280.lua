@@ -1,0 +1,4 @@
+--game: Donutis Simulator
+
+addappid(1672280)
+addappid(1672281,0,"bbc9f1104da1f0fc6bc30ede1b38d351275b6e79ead697870895a143ac26794f")
