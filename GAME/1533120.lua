@@ -1,0 +1,4 @@
+--game: Shonen Adventure : The Dual Blades Hero
+
+addappid(1533120)
+addappid(1533121,0,"f9e43800dbccbb461964c0674dbf09101a184aa8cdabf462ed4598242494e988")
