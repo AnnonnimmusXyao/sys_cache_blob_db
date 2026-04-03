@@ -1,0 +1,4 @@
+--game: Hashi: Light
+
+addappid(1703650)
+addappid(1703653,0,"c20c4598c82f7d99649eb1795ea3a2658a5f6eb1a591a556e150d89fd347fba1")
