@@ -1,0 +1,4 @@
+--game: God of Riffs: Battle For The Metalverse
+
+addappid(1578110)
+addappid(1578111,0,"0838465ea601ba93ff850d30633f4d20abc0f64d226c4f043fe8692275295ba2")
