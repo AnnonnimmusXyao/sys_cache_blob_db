@@ -1,0 +1,4 @@
+--game: Detective March Forward - The Missing Will
+
+addappid(1265680)
+addappid(1265681,0,"0a59ce40217277c59760817968bb027ae9806e01518c76c2289ebee8a8f542f0")
