@@ -1,0 +1,4 @@
+--game: 逃出图书馆(Escape from Library)
+
+addappid(1290830)
+addappid(1290831,0,"620014855f11377b28d53b8bab8cff02edc9446f55e85d16e57b4095bbfcaa9e")
