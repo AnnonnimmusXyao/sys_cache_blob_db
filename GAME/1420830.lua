@@ -1,0 +1,5 @@
+--game: Happy Numbers
+
+addappid(1420830)
+addappid(1420831,0,"cecd0616a9c3965f32c369036ae5166e0364f711bafd53022a1f1ee91be5632e")
+addappid(1430490)
