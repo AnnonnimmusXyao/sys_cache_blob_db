@@ -1,0 +1,4 @@
+--game: Infinity Valley
+
+addappid(1630760)
+addappid(1630761,0,"e4e9f8f93fa0b22424fbe32026bff20607053da240d7e5eef1aa1549c69a0ecd")
