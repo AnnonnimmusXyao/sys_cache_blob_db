@@ -1,0 +1,4 @@
+--game: ReversEstory
+
+addappid(1524350)
+addappid(1524351,0,"9126f8a2cff42ea667bf59615cc239504f8397ff819608f70522e525efb55e4e")
