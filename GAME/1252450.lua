@@ -1,0 +1,4 @@
+--game: Skin and Bones
+
+addappid(1252450)
+addappid(1252451,0,"098716f21f5bbd29bc66688cf325d30e1c584071ce8e5a2c96bd298e3d54dc5e")
