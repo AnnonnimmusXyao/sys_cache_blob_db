@@ -1,0 +1,4 @@
+--game: CrateTastrophe
+
+addappid(1578920)
+addappid(1578921,0,"7fb48202c67ea92b0b845f2101b9b6e498b943e14f63b6cdc7904f2738fdc7da")
