@@ -1,0 +1,4 @@
+--game: Chico
+
+addappid(1207420)
+addappid(1207421,0,"6aca6d1c5ea62caece15b465d8e5d7a105d1198314ffb6558b7ea45523a064fb")
