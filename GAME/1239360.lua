@@ -1,0 +1,4 @@
+--game: Genokids
+
+addappid(1239360)
+addappid(1239362,0,"b249fd8c457ec64a3dbee264828d3113becea6b43a7e19b81c04fcec2c8d9330")
