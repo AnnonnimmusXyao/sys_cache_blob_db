@@ -1,0 +1,4 @@
+--game: PARA♰BELLUM ~ 魔弹帕菈
+
+addappid(1153150)
+addappid(1153154,0,"da5b88337801b9c4242bafe361f27254c0dd46a82654ebbdeb874d5579f55957")
