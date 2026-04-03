@@ -1,0 +1,4 @@
+--game: The Ghost Cage
+
+addappid(1719130)
+addappid(1719131,0,"fe05f96408d466d60e16d984dceeaf460a750a02d91cd0ad623f44ed3af77d4e")
