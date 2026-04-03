@@ -1,0 +1,4 @@
+--game: Legend of Chilli Tree
+
+addappid(1635250)
+addappid(1635251,0,"b4126a1da63f5d019c74c1d4406ad59957280f3fdc59ba4145e16e2f57cb7db2")
