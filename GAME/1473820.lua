@@ -1,0 +1,4 @@
+--game: Kitty Tactics
+
+addappid(1473820)
+addappid(1473822,0,"069fdf076452f0d3b183d97cd0e48f1d7328ff90872d37a1784983cdf8f14991")
