@@ -1,0 +1,8 @@
+--game: Симулятор Прыгания по Гаражам
+
+addappid(229003)
+addappid(229004)
+addappid(1529710)
+addappid(1529711,0,"ff8f351b1b2e8ba4b8efb7504550fb73537958abe8608c1f5a6c5a94e18ac095")
+addappid(2291370)
+addappid(2318940)
