@@ -1,0 +1,4 @@
+--game: Super Dango
+
+addappid(1395890)
+addappid(1395891,0,"7f0e03f75610aa90d94a0a9bec0faaa7feb93e4a533e1fe738cf10538d1056b2")
