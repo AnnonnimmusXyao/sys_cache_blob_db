@@ -1,0 +1,4 @@
+--game: Ghost Blood
+
+addappid(1625110)
+addappid(1625111,0,"5f484f3a74e3078785f882ed112b50d3c26beba94093255cc3870dd38b1a7126")
