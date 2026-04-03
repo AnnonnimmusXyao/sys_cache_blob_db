@@ -1,0 +1,4 @@
+--game: 砌墙 Qi Qiang
+
+addappid(1192950)
+addappid(1192951,0,"c4af0096558e0c24f2715ed0177bfc089350a6368acebdb03458afe1ce074fae")
