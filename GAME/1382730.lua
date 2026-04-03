@@ -1,0 +1,4 @@
+--game: Midnight Scenes: The Goodbye Note
+
+addappid(1382730)
+addappid(1382731,0,"ad439ee23c07ffc1d9639127f17e138d9bf8cfefeb039eca8d05c1e507089685")
