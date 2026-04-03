@@ -1,0 +1,6 @@
+--game: Cannibals
+
+addappid(229000)
+addappid(229001)
+addappid(1744120)
+addappid(1744121,0,"3ae4780ebea24f67c2580df548c1f010411482e74852343fa6eb5a788f4237ee")
