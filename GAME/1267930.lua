@@ -1,0 +1,4 @@
+--game: Deadly Dozen: Pacific Theater
+
+addappid(1267930)
+addappid(1267931,0,"9b36e346a7b111c6ebba9c8649ce1327652cc37e09f339e9fde426010c9a3be8")
