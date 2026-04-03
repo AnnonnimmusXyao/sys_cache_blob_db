@@ -1,0 +1,4 @@
+--game: House of 1000 Doors: Family Secrets
+
+addappid(1151630)
+addappid(1151631,0,"9722152882c687ebcf39f8989bc4158b4460c95e7565758dc0fd13d4e474ca0b")
