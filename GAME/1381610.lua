@@ -1,0 +1,4 @@
+--game: AEON BLOOD
+
+addappid(1381610)
+addappid(1381611,0,"2c4a9d415af1c5af4af80d9aa33dd5c1d9af6f207b2cfe128f5b28edf42e3037")
