@@ -1,0 +1,4 @@
+--game: POSSESSED BLOODY ASYLUM
+
+addappid(1524190)
+addappid(1524191,0,"c032421aa33857decce9d4cdcab42fb485cf79fde688e195d95221479cfbd724")
