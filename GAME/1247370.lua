@@ -1,0 +1,4 @@
+--game: Food Chain
+
+addappid(1247370)
+addappid(1247371,0,"5951cada7cb27ea590f80a760ce0407e6f502d18d75bba1404e58e2dd6852276")
