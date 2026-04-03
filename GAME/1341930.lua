@@ -1,0 +1,5 @@
+--game: Furry Woof
+
+addappid(1341930)
+addappid(1341931,0,"3e36f50bd5289c16516771cd6d22c2ab47e04e93b78b3d9f3039afde8d99ad76")
+addappid(1354280)
