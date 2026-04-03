@@ -1,0 +1,4 @@
+--game: Love Hentai and Puzzles: Yokai
+
+addappid(1775730)
+addappid(1775731,0,"f2664b0c0e449fc4db5de504d5f3a4890cc11d9767b6a2836b6ecefceb580d7f")
