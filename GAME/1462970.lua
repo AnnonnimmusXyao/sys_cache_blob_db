@@ -1,0 +1,4 @@
+--game: Jumpman (C64/MSDOS)
+
+addappid(1462970)
+addappid(1462971,0,"689d4359badb3496cba922c25c58e21f0c8bbade49cae3989e81ef946bd93a3c")
