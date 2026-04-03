@@ -1,0 +1,4 @@
+--game: Krim: The War in the Crimea 1941-42
+
+addappid(1294000)
+addappid(1294001,0,"31a212bc43b4ce36f1a0190801cd2bae5d22bd0cdf5ab7a931f24b7217b9fc7b")
