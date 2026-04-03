@@ -1,0 +1,4 @@
+--game: Saints and Sinners
+
+addappid(1497590)
+addappid(1497591,0,"6975973aec7215c42383b8d122d407b8e86119361d4777623fda717540674e83")
