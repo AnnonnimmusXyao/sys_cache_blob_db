@@ -1,0 +1,4 @@
+--game: Beyond The Evil
+
+addappid(1676050)
+addappid(1676051,0,"f3978ba72a657d998c1a26149d649b50af889113200383629a3ef829282d13a9")
