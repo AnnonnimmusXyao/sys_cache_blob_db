@@ -1,0 +1,4 @@
+--game: Retro Machina: Nucleonics
+
+addappid(1582850)
+addappid(1582851,0,"4ebeb25dfc54907bb00fd27d017d559cc65e08fcd3a50d5ea131d729643dd365")
