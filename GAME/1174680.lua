@@ -1,0 +1,4 @@
+--game: Ashland Dossier
+
+addappid(1174680)
+addappid(1174681,0,"6e1c88979cffdc53bed721cb4888efab3cac98ee13944c9d13fde457c91bfc78")
