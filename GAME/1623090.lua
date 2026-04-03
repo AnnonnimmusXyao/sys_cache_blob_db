@@ -1,0 +1,4 @@
+--game: From Earth To Heaven
+
+addappid(1623090)
+addappid(1623091,0,"c940ab2e86379020e49573ab9c90f776c50bb4a61d764faa39d91be25fbb35d3")
