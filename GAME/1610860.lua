@@ -1,0 +1,4 @@
+--game: Merek's Market
+
+addappid(1610860)
+addappid(1610861,0,"f5f52b94a72bc8c74b196d82577e1d6ab9442dcfda9d3c43151c1a7011a01a43")
