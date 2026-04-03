@@ -1,0 +1,4 @@
+--game: Jumping Jax
+
+addappid(1315100)
+addappid(1315101,0,"c6ecab6c9f734dcc8a121373b0ee45f771d6087160055adb0ecf934f9bb9267b")
