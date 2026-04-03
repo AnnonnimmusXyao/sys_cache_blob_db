@@ -1,0 +1,4 @@
+--game: Gan's Matchstick Men：Deadly Rhythm
+
+addappid(1272660)
+addappid(1272661,0,"39aad58d84de0291659ced5922648586b61ba1add659d0ee88580e4b3f8e1fa5")
