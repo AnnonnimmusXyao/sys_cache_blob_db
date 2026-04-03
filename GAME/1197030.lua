@@ -1,0 +1,8 @@
+--game: Mystic Pillars X Kantara
+
+addappid(229000)
+addappid(229001)
+addappid(229003)
+addappid(229006)
+addappid(1197030)
+addappid(1197031,0,"a4eb49bcb1861cd71be11003ca454c47dfa37dec9e1f01728615818f2708551c")
