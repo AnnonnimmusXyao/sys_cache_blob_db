@@ -1,0 +1,6 @@
+--game: Blade Runner: Enhanced Edition
+
+addappid(1678420)
+addappid(1678421,0,"7d4a4829b8106b692a3bcab2491052b136c5e7ee7477bb80526fc5242f42f1df")
+addappid(1678422,0,"c1548261a662b36db241fa5d50339dfd82dcf169632b263608c6e779864cc40d")
+addappid(1678425,0,"82fe057fc5cb02ebf85caefc495bf23b41eeee63eea1bb69f8d98e40bc777d70")
