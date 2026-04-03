@@ -1,0 +1,4 @@
+--game: Crowhille - Detective Case Files VR
+
+addappid(1489500)
+addappid(1489501,0,"cc948cc156ee301ed98c3920cc8e0f2aae6ce9e79cc3668e55f6aed92ebe9da9")
