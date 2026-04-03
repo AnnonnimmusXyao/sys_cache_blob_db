@@ -1,0 +1,4 @@
+--game: My Silly Life
+
+addappid(1329990)
+addappid(1329991,0,"b9a5509484af68ceb91e76fb87da575a05bb6d4ce5ae4649d6cfb7831660de5e")
