@@ -1,0 +1,4 @@
+--game: 地狱酒馆
+
+addappid(1204970)
+addappid(1204971,0,"feedbe43d3c3fb38eac0bfd086473c256653e62b4963049ffdc28dbf3b9a23f9")
