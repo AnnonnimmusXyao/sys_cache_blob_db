@@ -1,0 +1,4 @@
+--game: Hidden World of Art 2
+
+addappid(1182200)
+addappid(1182201,0,"0d5f0cdd258cb330e25e9dfc3df41be75daf0f903f112c88185248cc3bf5c520")
