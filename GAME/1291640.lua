@@ -1,0 +1,4 @@
+--game: Stress explosion
+
+addappid(1291640)
+addappid(1291641,0,"6272393b01a556b16b4dae4ce29f52c6077a950f6b7e231f7429f6bd47c80705")
