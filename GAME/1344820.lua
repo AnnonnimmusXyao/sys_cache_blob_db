@@ -1,0 +1,4 @@
+--game: Stargaze
+
+addappid(1344820)
+addappid(1344821,0,"34af8f3992dd9d21812d038e90572fb608caa66f0dcce10e33d50b1d0b934728")
