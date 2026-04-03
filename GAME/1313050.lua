@@ -1,0 +1,5 @@
+--game: Cute Lady
+
+addappid(1313050)
+addappid(1313051,0,"8edca1bff5c88ea710c42ebffecc50d7c025a81e09669bab95758cc141b4388d")
+addappid(1324240)
