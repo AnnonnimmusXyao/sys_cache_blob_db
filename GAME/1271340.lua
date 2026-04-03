@@ -1,0 +1,4 @@
+--game: Cat President 2: Purrlitical Revolution
+
+addappid(1271340)
+addappid(1271341,0,"00de358fae48dba8f919b8b65c9ead5d42add2383175b13c962c43f0e01eae65")
