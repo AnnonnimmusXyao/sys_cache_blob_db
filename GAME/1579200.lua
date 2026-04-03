@@ -1,0 +1,4 @@
+--game: Renova
+
+addappid(1579200)
+addappid(1579201,0,"3dcf00a16c18c0bd7f2c8047be91fbd4bb3ea43233cde67ce6d7004bb4a0998d")
