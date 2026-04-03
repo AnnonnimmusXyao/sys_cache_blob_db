@@ -1,0 +1,4 @@
+--game: Hot Hentai Puzzle Vol.1
+
+addappid(1472620)
+addappid(1472621,0,"11933a4c29a91c32fc1f0b2a377cb713ebc4a7f964179103e0ff296db7541bb9")
