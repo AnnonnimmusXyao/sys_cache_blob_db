@@ -1,0 +1,4 @@
+--game: Hoards of Glory
+
+addappid(1445260)
+addappid(1445261,0,"1d611545984e82abfdf802a8c402c779816290e96c5630465af06c9a1f958cf2")
