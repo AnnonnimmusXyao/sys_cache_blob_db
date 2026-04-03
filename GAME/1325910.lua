@@ -1,0 +1,4 @@
+--game: Trainslation
+
+addappid(1325910)
+addappid(1325912,0,"8e10141ddb83bce9a3d001ddc70618e163c08204047d41327d40f660332f6655")
