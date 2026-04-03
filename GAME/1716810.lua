@@ -1,0 +1,4 @@
+--game: Herodes
+
+addappid(1716810)
+addappid(1716811,0,"f324069d89d410a9de577a484396da3798659d5bafedc1640052dbfca1968db6")
