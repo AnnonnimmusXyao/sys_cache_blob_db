@@ -1,0 +1,4 @@
+--game: Dangerous Blaster
+
+addappid(1177460)
+addappid(1177461,0,"c79eb9829d79e4cf9dccea06082939aed32eec85c07c6ef55ac3cbb8f9025bf6")
