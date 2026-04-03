@@ -1,0 +1,5 @@
+--game: Sex with the Devil
+
+addappid(1202690)
+addappid(1202691,0,"3da30e69657b2f3b2ab434ce2a86f8bb331691ff615436cd27314fc716f246db")
+addappid(1757780)
