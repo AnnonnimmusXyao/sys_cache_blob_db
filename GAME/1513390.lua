@@ -1,0 +1,4 @@
+--game: 夏日的回忆
+
+addappid(1513390)
+addappid(1513391,0,"b15f77d87047543ede1aece60ebb26ee1173cef5f85871a1ae68db76f59cef0d")
