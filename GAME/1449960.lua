@@ -1,0 +1,4 @@
+--game: Crazy Rabbit AntiLogic
+
+addappid(1449960)
+addappid(1449961,0,"29bbf9400f1477796509a4db22768d51a2afe2ca8a6fd777d46433f0245fdcc4")
