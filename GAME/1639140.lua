@@ -1,0 +1,4 @@
+--game: Mouse adventure
+
+addappid(1639140)
+addappid(1639141,0,"d71069e944cf6640a0e90d2232a687797ff4f7a998f8ac1c017dea06be6aaa85")
