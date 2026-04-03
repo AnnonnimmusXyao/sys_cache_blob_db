@@ -1,0 +1,4 @@
+--game: Down and Out
+
+addappid(1450060)
+addappid(1450061,0,"446ba5bc57b9b711606ca54ce4903da4dbc31c217075bfcc062a865df9860378")
