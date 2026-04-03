@@ -1,0 +1,4 @@
+--game: Theseus - Mythological Hero
+
+addappid(1655010)
+addappid(1655011,0,"a59bf8e247f7427a6788f9dd3a0105936ec58e4e5e25b063f0bdecbdb6ba6e6b")
