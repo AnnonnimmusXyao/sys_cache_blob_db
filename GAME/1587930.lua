@@ -1,0 +1,4 @@
+--game: Flingleberries!
+
+addappid(1587930)
+addappid(1587932,0,"01f32b5bd81298b677b7fb43f22e7cc45472bbf6dcd35e54979d432f0b488a79")
