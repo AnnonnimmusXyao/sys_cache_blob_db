@@ -1,0 +1,4 @@
+--game: Rescue Team: Danger from Outer Space!
+
+addappid(1333190)
+addappid(1333191,0,"8215aad360b69acfa950e7112fcf411959ccafa1d36978b93853c244563da790")
