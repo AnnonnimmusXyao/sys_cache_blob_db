@@ -1,0 +1,4 @@
+--game: 方块给爷爬
+
+addappid(1380890)
+addappid(1380891,0,"5252edcac94bb9a04d287bb692667e1cc6310a10d5613a8e168fee7c08ef9b42")
