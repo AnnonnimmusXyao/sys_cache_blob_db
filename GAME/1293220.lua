@@ -1,0 +1,4 @@
+--game: Kaleidocraft
+
+addappid(1293220)
+addappid(1293221,0,"6d309d42111a6b6a6a20f66e010a0c7bb002404668c79f92d95efcf2ec6cb8ba")
