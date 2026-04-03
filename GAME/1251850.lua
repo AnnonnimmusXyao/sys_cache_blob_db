@@ -1,0 +1,5 @@
+--game: Inferno - Beyond the 7th Circle
+
+addappid(1251850)
+addappid(1251851,0,"fc34ac430ba36842408e58c6383630d214ec48c48bcc72f770cf938dd047989b")
+addappid(1251852,0,"a6bebf2f868c750744d17c6cfd16ef74fd0214867402665a6be8c14ac60315c2")
