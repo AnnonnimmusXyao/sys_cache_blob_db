@@ -1,0 +1,4 @@
+--game: HUMANITY
+
+addappid(1581480)
+addappid(1581481,0,"681b15c86b5812c55cfb2eac33bb668a5d769685de545086c89e320bd4e9bd46")
