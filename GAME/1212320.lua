@@ -1,0 +1,4 @@
+--game: 异星前线 Alien Frontline
+
+addappid(1212320)
+addappid(1212321,0,"c65175931381983c5fefb96072bfc813d5d8e5f3cdb73435b70367ecf2ef7115")
