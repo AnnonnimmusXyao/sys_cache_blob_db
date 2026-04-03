@@ -1,0 +1,4 @@
+--game: Let Me Out
+
+addappid(1269520)
+addappid(1269522,0,"38dda11aa1112eeb6060146ecbc776c74f9f25867e82137f47ba314566899b3a")
