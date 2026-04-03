@@ -1,0 +1,4 @@
+--game: Cold Winter Morning
+
+addappid(1217440)
+addappid(1217441,0,"4bcb09bffdbe8b738438afebb835b26fca0c0918cab8e9f1734cd501a09ff898")
