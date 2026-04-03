@@ -1,0 +1,4 @@
+--game: Shoal
+
+addappid(1666070)
+addappid(1666071,0,"955f0c341333ff7a487ff06a038c67f828bc6d67e0a3319d72cc3edaec47c3d2")
