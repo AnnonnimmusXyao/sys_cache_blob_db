@@ -1,0 +1,4 @@
+--game: Gangsta Sniper 3: Final Parody
+
+addappid(1173260)
+addappid(1173261,0,"fe71244e37a68cf6d37889595aba6197ee60422d40f760772821ac2e02af2d87")
