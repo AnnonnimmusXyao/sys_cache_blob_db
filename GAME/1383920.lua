@@ -1,0 +1,4 @@
+--game: Shattering Obsidian
+
+addappid(1383920)
+addappid(1383921,0,"b6dcd6d41a8c452355d593951e39ba220821a2692a87c3256dd75736f1f915a9")
