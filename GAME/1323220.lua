@@ -1,0 +1,4 @@
+--game: Hoops Madness
+
+addappid(1323220)
+addappid(1323221,0,"6912cdc328c2043be4ea6d7aec0cf5a49879d4371911129aa08fe94e0f53b69a")
