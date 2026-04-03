@@ -1,0 +1,4 @@
+--game: マグネクション磁
+
+addappid(1601670)
+addappid(1601671,0,"816e8407163eedca5f7ad669760ac9ee8ed9821d889b9cf7e4ad297faf7b7ae2")
