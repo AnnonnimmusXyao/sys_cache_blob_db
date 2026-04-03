@@ -1,0 +1,4 @@
+--game: Exp Parasite
+
+addappid(1356790)
+addappid(1356791,0,"88bbdfc2245412b5d33890ce36b356113a2a3ea992ed574f700cb912943e57ec")
