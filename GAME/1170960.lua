@@ -1,0 +1,4 @@
+--game: The Eye of Borrack
+
+addappid(1170960)
+addappid(1170961,0,"d41ef4700afbc838217a61f750d0fb406cd73fe50dc196a2cca843a521b6be4b")
