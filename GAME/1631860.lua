@@ -1,0 +1,5 @@
+--game: My Cute Pagangirl
+
+addappid(1631860)
+addappid(1631861,0,"a91e40b7f38dee9d49742d11e7acf29fea942931507b754116dba97307cda842")
+addappid(1688000,0,"c5b11bc5a1ee42d0e67fec835445d7c6b28c43306b1c163ecc7c1cbbca43dd62")
