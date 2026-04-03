@@ -1,0 +1,4 @@
+--game: The Wolf's Girl
+
+addappid(1685850)
+addappid(1685851,0,"5941ec79b5765c5a4760794e1389d31dfffc0f880465fcea1d867f48b50edfea")
