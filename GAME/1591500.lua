@@ -1,0 +1,4 @@
+--game: 猫头鹰和灯塔
+
+addappid(1591500)
+addappid(1591501,0,"5913d9f18b3f9eb7347671e58cc6d79028d911c79a2cfc100d73da5bebe34f55")
