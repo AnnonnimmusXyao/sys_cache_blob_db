@@ -1,0 +1,4 @@
+--game: 迷失渡口VR
+
+addappid(1226490)
+addappid(1226491,0,"197f223348f852b36768d23dba42a21c6afdf792409f216547307bd617dfa1cd")
