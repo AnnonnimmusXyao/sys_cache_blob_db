@@ -1,0 +1,6 @@
+--game: INFINITY
+
+addappid(1285090)
+addappid(1285091,0,"495ce0e5a1b71db8c851757da3712938c7785368370d4285209b21220da9b3cd")
+addappid(1289910)
+addappid(1305360)
