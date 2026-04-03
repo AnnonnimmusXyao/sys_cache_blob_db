@@ -1,0 +1,4 @@
+--game: ShapeVS
+
+addappid(1575750)
+addappid(1575751,0,"bd5e094a5e0bf6847060bfa469660e022c65323770e9150d87a3e0bc2e69ff9b")
