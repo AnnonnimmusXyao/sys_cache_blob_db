@@ -1,0 +1,4 @@
+--game: LRRL or RLLR
+
+addappid(1201520)
+addappid(1201521,0,"8cc0957fce4e073cd02316ca44cc03b737040a5de48951706178cb52e002d669")
