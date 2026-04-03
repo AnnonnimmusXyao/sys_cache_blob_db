@@ -1,0 +1,4 @@
+--game: DJIGULI
+
+addappid(1294160)
+addappid(1294161,0,"a2763c79e762b0b7a3b425f9920a200929085d19d613e360eddcf306ff2e7bd4")
