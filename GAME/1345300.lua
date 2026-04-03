@@ -1,0 +1,4 @@
+--game: Item Collector - Pirates
+
+addappid(1345300)
+addappid(1345301,0,"6e9f04776d119a5c8046f59d94c2cfc7a337c9cba9a9dd31aecef5980d91ea89")
