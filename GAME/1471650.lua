@@ -1,0 +1,5 @@
+--game: The Knightling
+
+addappid(1471650)
+addappid(1471651,0,"6175a8694d73748e4691de64e74b0fcd1075f8dd3f504b3fef0a068b1ce7dc48")
+addappid(3574010)
