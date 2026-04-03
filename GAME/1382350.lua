@@ -1,0 +1,4 @@
+--game: The Beast of Stormy Forest
+
+addappid(1382350)
+addappid(1382351,0,"c7d308d414b004bfdbe8acebfeece63bc6835b5b55272b8ac8dff70a7b0c834e")
