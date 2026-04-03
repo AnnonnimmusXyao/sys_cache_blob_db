@@ -1,0 +1,4 @@
+--game: King Bullseye: Headshot Training
+
+addappid(1600870)
+addappid(1600871,0,"346af9dea17d9ee0b61f1a1319311543f5cb24cd74b7e342cc8b78455c58cfbc")
