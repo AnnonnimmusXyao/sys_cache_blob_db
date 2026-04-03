@@ -1,0 +1,4 @@
+--game: Saviorless
+
+addappid(1438480)
+addappid(1438483,0,"1014ff4bd3077664ccca330f6d6eabd5f3cab198de87a90b24def910b148ebbf")
