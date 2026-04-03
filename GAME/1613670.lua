@@ -1,0 +1,4 @@
+--game: Anglerfish
+
+addappid(1613670)
+addappid(1613671,0,"ef5e07f4a10024500b7e9b856049db9bdab2289dca9ada6dc240973ce65255b2")
