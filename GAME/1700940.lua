@@ -1,0 +1,5 @@
+--game: Anime Zodiac
+
+addappid(1700940)
+addappid(1700941,0,"73cb6ac346b83d2b2bfda33f67ac6b222086615c60da94eee73dacc54d3cce46")
+addappid(1709200)
