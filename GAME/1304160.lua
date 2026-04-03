@@ -1,0 +1,4 @@
+--game: Spellbearers
+
+addappid(1304160)
+addappid(1304161,0,"d0b52fa0080702f77bce1ece0df77b40e1b624d0099efce739b76c7445bc59d7")
