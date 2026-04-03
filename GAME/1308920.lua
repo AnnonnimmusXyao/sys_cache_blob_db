@@ -1,0 +1,4 @@
+--game: Nightmare Simulator 2 Rebirth
+
+addappid(1308920)
+addappid(1308921,0,"fe769e552e4defaf32efe8e4267dcbed586131eca1c7401da36cf310f6dd662b")
