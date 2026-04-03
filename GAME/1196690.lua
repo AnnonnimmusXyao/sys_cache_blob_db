@@ -1,0 +1,4 @@
+--game: OctaFight
+
+addappid(1196690)
+addappid(1196691,0,"0d74f1723a37004eb5026e36ad949c2807a2dcdf9c36dd8979a17b3b87d4064b")
