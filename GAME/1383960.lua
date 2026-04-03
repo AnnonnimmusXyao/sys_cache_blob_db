@@ -1,0 +1,4 @@
+--game: Nickelodeon Kart Racers 2: Grand Prix
+
+addappid(1383960)
+addappid(1383961,0,"3fee5819de14f7418fae7500e0cc8431c5ee377bf5ae7071ef1ff0e15ba0e786")
