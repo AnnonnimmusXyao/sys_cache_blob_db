@@ -1,0 +1,4 @@
+--game: Brain Sanguo
+
+addappid(1325340)
+addappid(1325341,0,"fc3d685bf3f6dbdf4cbe0b0c2716584cf01ee5368a242d17b9a47249b01e11a9")
