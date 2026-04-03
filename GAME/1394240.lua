@@ -1,0 +1,5 @@
+--game: VirtuaCreature
+
+addappid(1394240)
+addappid(1394241,0,"77233a162a1de91eb6fb6d53fd3e7c10a92ab8b89249061dc2a668898aa9de61")
+addappid(1887480)
