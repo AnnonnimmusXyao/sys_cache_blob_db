@@ -1,0 +1,4 @@
+--game: Phalanx of Resistance
+
+addappid(1236320)
+addappid(1236321,0,"1b8416b18ff11d3411ade8ee4674643734c36e476fe5c77e0c8343a045c03bbe")
