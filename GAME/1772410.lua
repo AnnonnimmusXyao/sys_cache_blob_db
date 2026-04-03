@@ -1,0 +1,4 @@
+--game: Blood Red Fists
+
+addappid(1772410)
+addappid(1772411,0,"cb7371b21da5793b6c43e379c6a237e682984de84c793f21b529ad13bb12b419")
