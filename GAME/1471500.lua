@@ -1,0 +1,4 @@
+--game: Tales of Lagoona 2: Peril at Poseidon Park
+
+addappid(1471500)
+addappid(1471501,0,"7f76de98b55de73dd1a023532790570c7c5823c428b051cbdc74c76f854afaee")
