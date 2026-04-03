@@ -1,0 +1,4 @@
+--game: Tyrgard Archer VR
+
+addappid(1335440)
+addappid(1335441,0,"9a812bfdbade2eb70078a0d62e0f9767059883117cef162a8a2ecadc0254b432")
