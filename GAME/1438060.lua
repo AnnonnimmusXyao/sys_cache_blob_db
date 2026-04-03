@@ -1,0 +1,5 @@
+--game: Rolls and Girls
+
+addappid(1438060)
+addappid(1438061,0,"7d31a8d341b04349cad32b639dbbb1618addec17e85b6f56442b1cffab704b89")
+addappid(1456790)
