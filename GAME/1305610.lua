@@ -1,0 +1,4 @@
+--game: Cosmodome
+
+addappid(1305610)
+addappid(1305611,0,"1e54313238b716b3cf5197265d48f7dfa0e66651378ecc3e222ab33e5fb10a61")
