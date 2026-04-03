@@ -1,0 +1,4 @@
+--game: Chicken Holmes - Chanislavski Whispers
+
+addappid(1620860)
+addappid(1620861,0,"10237d77e3b1a2086c59f66321a504d47310f4cd50d12eb851f4f0e776ba1c39")
