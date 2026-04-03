@@ -1,0 +1,4 @@
+--game: NinNinDays2
+
+addappid(1698030)
+addappid(1698031,0,"a75611d4c9a83844fa3d6a75846b7929ccfd2b0570ee5e30138fb95bbd291e59")
