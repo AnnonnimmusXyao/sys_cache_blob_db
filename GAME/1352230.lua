@@ -1,0 +1,4 @@
+--game: 1917 : The Prologue
+
+addappid(1352230)
+addappid(1352231,0,"0b94a6105885262fd6380758c0f94825fd49dbe40a613becb933f5481af13479")
