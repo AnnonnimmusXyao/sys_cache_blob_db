@@ -1,0 +1,4 @@
+--game: Sole Survivor: Stages of Death
+
+addappid(1620050)
+addappid(1620052,0,"adfab58d5201e9ff5ef679dcee237eb230b601b39757684eee37bdfc9e35aad5")
