@@ -1,0 +1,4 @@
+--game: AllBlocksWantToBeStacked
+
+addappid(1779500)
+addappid(1779501,0,"8c8d6ea544c4a5dcbd81161efbbb8f1659f749eb26e1c252eeb58becd53f29fd")
