@@ -1,0 +1,4 @@
+--game: Fantasy Realm TD
+
+addappid(1198110)
+addappid(1198111,0,"6cdb6a02170fee2ab0841e12cc064c0dbc816a32cbf37d3e60b77c65c25dbf01")
