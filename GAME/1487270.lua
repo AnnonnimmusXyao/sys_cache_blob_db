@@ -1,0 +1,9 @@
+--game: Last Command
+
+addappid(1487270)
+addappid(1487271,0,"e2cb13ecf63037185abff0e505121254599aba1d2ab89ad25e4c2b7df1786f40")
+addappid(1586780)
+addappid(1981640)
+addappid(2146950)
+addappid(2171340)
+addappid(2417760)
