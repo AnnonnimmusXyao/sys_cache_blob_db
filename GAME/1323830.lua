@@ -1,0 +1,5 @@
+--game: Shanghai Summer
+
+addappid(1323830)
+addappid(1323831,0,"2a6049716831049f8ee162a4760b3cdbe37dd7c57c6f1cab929f01c6d2948fc8")
+addappid(2867940)
