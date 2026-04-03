@@ -1,0 +1,4 @@
+--game: Yurukill: The Calumniation Games
+
+addappid(1733840)
+addappid(1733841,0,"acc59d1b2d2a07b575b4c2d1c612f798c4c82aa122abde45a098700a3f42f370")
