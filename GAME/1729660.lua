@@ -1,0 +1,4 @@
+--game: Hyper Bullet
+
+addappid(1729660)
+addappid(1729661,0,"abc938bd38199ae4411c953e4129b149d0f6b9da079883913e79748d7225743f")
