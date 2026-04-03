@@ -1,0 +1,4 @@
+--game: Pebble Witch
+
+addappid(1501150)
+addappid(1501152,0,"336332f6daa6c79d9f392a79a1d7d9fe6653d910c3304717427588fc67180353")
