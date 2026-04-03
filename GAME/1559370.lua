@@ -1,0 +1,4 @@
+--game: Goblins!
+
+addappid(1559370)
+addappid(1559371,0,"3ef1a5a7b4f20b96814c21a4399c73383f1624a9e86e7055e283d032e89ec09e")
