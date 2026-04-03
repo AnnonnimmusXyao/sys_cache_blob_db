@@ -1,0 +1,4 @@
+--game: SKULL CHAINZ
+
+addappid(1705150)
+addappid(1705151,0,"63fa0d76d4fe8f5b83e8b3f281efb5f7cee605c8ede47ecba061af5acb6c0b17")
