@@ -1,0 +1,4 @@
+--game: Tribal Hunter
+
+addappid(1379870)
+addappid(1379871,0,"39cf1f56fc2d5a8115950f27e89bdfbc1b0b69c23f10fba64ca8ff189c20d93b")
