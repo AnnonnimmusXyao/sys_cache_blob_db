@@ -1,0 +1,4 @@
+--game: Tandis
+
+addappid(1297210)
+addappid(1297211,0,"10d7f3230e176d8d1de23e9247641666ef8562aa28dfc8ffe0d89ba5e36bf03a")
