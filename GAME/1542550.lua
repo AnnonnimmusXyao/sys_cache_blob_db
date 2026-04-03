@@ -1,0 +1,4 @@
+--game: Scrap Riders
+
+addappid(1542550)
+addappid(1542551,0,"7508c88a70edd7a64765e702f7f1a863e0dfd22041a1015be5c259dec6619454")
