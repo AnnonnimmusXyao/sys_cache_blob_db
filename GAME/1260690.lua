@@ -1,0 +1,4 @@
+--game: Man Face Spider I
+
+addappid(1260690)
+addappid(1260691,0,"4fe6556cd3738c6057bde6122d2ee41bbcbd26740da49e81e3222cec0a293119")
