@@ -1,0 +1,11 @@
+--game: STAR WARS Jedi: Survivor™
+
+addappid(1774580)
+addappid(1774581,0,"94d6a0b0e4e36aadffcbc197792207f773276593c72faf9b02b4b4200135a36f")
+addappid(1774582,0,"b6efa1ef672dce88aa6a6a094211c19110ebe78cf04b8bb87f7ba76e7cf15243")
+addappid(1774590)
+addappid(2161370)
+addappid(2161740)
+addappid(2161741)
+addappid(2161742)
+addappid(2334020)
