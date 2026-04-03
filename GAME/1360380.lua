@@ -1,0 +1,4 @@
+--game: WORDDING
+
+addappid(1360380)
+addappid(1360381,0,"042ebacf9149512a8b6cefc4712b8ae05cdf0d4a12512f63555f38ed4096d818")
