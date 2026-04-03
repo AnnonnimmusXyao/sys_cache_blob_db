@@ -1,0 +1,4 @@
+--game: LiveOnIdol
+
+addappid(1345220)
+addappid(1345221,0,"c35edacaf0a4b8a7b5e6b0181299fb901f2433a7eff066f085129bc950be6ebb")
