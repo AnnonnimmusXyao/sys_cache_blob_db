@@ -1,0 +1,4 @@
+--game: Recluses
+
+addappid(1217880)
+addappid(1217881,0,"3b0f2b65fff80526f2298b2134e53ae40b60916b38bcc5ffd529cf4f2db3e627")
