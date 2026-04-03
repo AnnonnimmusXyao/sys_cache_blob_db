@@ -1,0 +1,4 @@
+--game: Vector Light
+
+addappid(1175570)
+addappid(1175571,0,"2beab0cd51057b6c3f1bd16982a4add54fab05156d560638e477f86cd59fddf6")
