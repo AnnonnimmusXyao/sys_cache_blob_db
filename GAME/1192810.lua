@@ -1,0 +1,4 @@
+--game: Romancelvania
+
+addappid(1192810)
+addappid(1192812,0,"7e00b7c5805650bf73d81e60daea15effd09092311c2567f8243d5549d2f8a87")
