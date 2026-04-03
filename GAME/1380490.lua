@@ -1,0 +1,4 @@
+--game: Winter Wastelands
+
+addappid(1380490)
+addappid(1380491,0,"c3a6cf9a0f603415a9b507d93948b71eec19af85c6d308669308b007262c4a6a")
