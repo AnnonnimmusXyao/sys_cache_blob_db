@@ -1,0 +1,5 @@
+--game: Furry Shades of Gay 2: A Shade Gayer
+
+addappid(1724050)
+addappid(1724051,0,"ae9d0aef9d7ab238bb06468f0803859cc281bc34cf64073bc0bc0f00c8479c30")
+addappid(1834610,0,"b726b69150549cc11cce2713cb235feb69a836e28755d7d44ac53b2ea91234fd")
