@@ -1,0 +1,6 @@
+--game: Hentai Girl Seek
+
+addappid(1236140)
+addappid(1236141,0,"86358ee86040f198ac55a500207fcd0d0c72dae0bface942acfbea2dea37b323")
+addappid(1246830)
+addappid(1256240)
