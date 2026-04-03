@@ -1,0 +1,7 @@
+--game: Manor Lords
+
+addappid(229007)
+addappid(229033)
+addappid(1363080)
+addappid(1363081,0,"28763f0001125b10d1d269c0655d8d3f9e6a7678dd9fed0af3f4a37701443e70")
+addappid(2932660)
