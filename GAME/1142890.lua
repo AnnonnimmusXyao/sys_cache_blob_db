@@ -1,0 +1,4 @@
+--game: Heart in the Dark
+
+addappid(1142890)
+addappid(1142891,0,"c7ad5343c2891db4e6b2ebb87afaca89803054934c22d7834a05fddb29b60574")
