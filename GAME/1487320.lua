@@ -1,0 +1,4 @@
+--game: Astro Sentai Jarbonder
+
+addappid(1487320)
+addappid(1487321,0,"bdb041045ae63790e22fef57aff8ffc3e16e31ca7b85b991a7bb1f3d18a98201")
