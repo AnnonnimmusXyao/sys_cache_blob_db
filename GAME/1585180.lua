@@ -1,0 +1,4 @@
+--game: Drova - Forsaken Kin
+
+addappid(1585180)
+addappid(1585182,0,"e3f3f5b9271ecc5008846fdb91f891cfec142053bee010982ef6927466254c52")
