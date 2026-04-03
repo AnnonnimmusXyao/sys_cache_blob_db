@@ -1,0 +1,4 @@
+--game: Mystery Case Files: Crossfade Collector's Edition
+
+addappid(1467870)
+addappid(1467871,0,"1827f44f44749252f0a6fa8fd0d060637a2007b470882d7ca0eb2e2ebd0057de")
