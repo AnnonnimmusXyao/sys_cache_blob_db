@@ -1,0 +1,4 @@
+--game: VR Gigapixel Gallery - visual VR Benchmark
+
+addappid(1202360)
+addappid(1202361,0,"3777a031c91893cb2828019c4655532dfec6071bd4fc138fe136a385ff193fc6")
