@@ -1,0 +1,4 @@
+--game: Psycho Bathroom
+
+addappid(1601340)
+addappid(1601341,0,"37016def562259971df81ff93697b63def6f2b9f791c6e6891c7f6d065b083d3")
