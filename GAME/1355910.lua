@@ -1,0 +1,4 @@
+--game: Wolf Territory
+
+addappid(1355910)
+addappid(1355911,0,"467136b23584cbc342367b1d1eda0723cf9b7d202cc072f4915aff5bf323b8a1")
