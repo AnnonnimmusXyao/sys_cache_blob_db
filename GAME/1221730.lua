@@ -1,0 +1,4 @@
+--game: Anti-Science Brigade
+
+addappid(1221730)
+addappid(1221732,0,"985df73613e2f5907de2e4f5317ace9b97c329a48ade15c0499a49afc58d326d")
