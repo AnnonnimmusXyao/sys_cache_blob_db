@@ -1,0 +1,5 @@
+--game: 异邦人-The foreigner
+
+addappid(228987)
+addappid(1207210)
+addappid(1207211,0,"a70cca7a6027d4d6a4cf6121ae4f6ab7888dead8c618545838436ecf51c3fc67")
