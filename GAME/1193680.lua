@@ -1,0 +1,4 @@
+--game: Alien Invasion 3D part 2
+
+addappid(1193680)
+addappid(1193681,0,"9017dd236b8f6bcd5fbe39b448c496009013d76fa2ef011902d63635a4c91dd3")
