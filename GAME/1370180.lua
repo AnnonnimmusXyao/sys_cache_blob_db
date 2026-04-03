@@ -1,0 +1,4 @@
+--game: Alien Cat 6
+
+addappid(1370180)
+addappid(1370181,0,"3d73623718ee76478227f4152bdbb5b0b6f202cd416a5a27399fbb063f90b179")
