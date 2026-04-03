@@ -1,0 +1,4 @@
+--game: Magic Twins
+
+addappid(1270080)
+addappid(1270081,0,"49b1ac8bc5626ac32a81e07dfd114c359243f8361c8e757fe6438ffc22a2adbb")
