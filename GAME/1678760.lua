@@ -1,0 +1,4 @@
+--game: Arcano: The Trickery
+
+addappid(1678760)
+addappid(1678761,0,"158f53d1e54c272d2974c2a98788429c57b91d90cac310d48067b4e1b470f608")
