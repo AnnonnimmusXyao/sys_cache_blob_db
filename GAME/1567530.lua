@@ -1,0 +1,4 @@
+--game: Vlad Circus: Curse of Asmodeus
+
+addappid(1567530)
+addappid(1567531,0,"3fb49a8b277749e87d3ba96fef9ce124fb67475c8099edf109d640a37d5aab58")
