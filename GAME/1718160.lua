@@ -1,0 +1,4 @@
+--game: Crimzon Clover World EXplosion
+
+addappid(1718160)
+addappid(1718161,0,"b6aab5c5616d272151d6c8c45e9f52cea64fbd1c1ecb547c53c916d49b4e3763")
