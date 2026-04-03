@@ -1,0 +1,5 @@
+--game: Rogue State Revolution
+
+addappid(1145340)
+addappid(1145341,0,"0a42cf706cc68a319cac6996235d9f9261d9bc9cd3ebb2ea7ec768e40cff2762")
+addappid(1145342,0,"79c8a5ff00e653e7b9a35c565a70ef9af41300342543820c5eeb1955500a2df2")
