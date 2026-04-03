@@ -1,0 +1,7 @@
+--game: Kármán line: the edge of war
+
+addappid(229006)
+addappid(229020)
+addappid(229030)
+addappid(1331120)
+addappid(1331121,0,"77a82f3996d423444841a873e196b7fd44847da95ebfab046737721962702ecd")
