@@ -1,0 +1,4 @@
+--game: IDIOT
+
+addappid(1410740)
+addappid(1410741,0,"52c5b8cc8799035e0de73c73e4f55f1e8ed16621e1545a671bdffdbdc113bfe0")
