@@ -1,0 +1,4 @@
+--game: The Adventures of Herbie & Katt LeChatt
+
+addappid(1656210)
+addappid(1656211,0,"2fcbac207b96ae03b4ccfadefca81b13f650f31f941cbc61f9eae452aec246be")
