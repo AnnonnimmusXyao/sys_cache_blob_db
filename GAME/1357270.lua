@@ -1,0 +1,4 @@
+--game: Proto Cuckoo 64
+
+addappid(1357270)
+addappid(1357271,0,"bcd95d7902ea0d068a76c29a0abcd54608f19e00fc53c2958b08a744e4bc9982")
