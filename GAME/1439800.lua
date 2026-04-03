@@ -1,0 +1,4 @@
+--game: ASMR Journey - Animated Jigsaw Puzzle
+
+addappid(1439800)
+addappid(1439801,0,"57b3db0da8260efeb2eb22d851f478eb285acebb2decd6b628d08f033e236f76")
