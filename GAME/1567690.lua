@@ -1,0 +1,4 @@
+--game: Canary in a Crater
+
+addappid(1567690)
+addappid(1567691,0,"cc1e2821d616bb8963c293f1b9ed31c07b362fe77d7e292e00fd84ca192e014c")
