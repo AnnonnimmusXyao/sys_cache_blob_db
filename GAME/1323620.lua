@@ -1,0 +1,4 @@
+--game: Cherry VX
+
+addappid(1323620)
+addappid(1323621,0,"f435ef0213064134bbe91edf66697e93c5f7ee461244282cb0512588ef56cb0d")
