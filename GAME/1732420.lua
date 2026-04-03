@@ -1,0 +1,4 @@
+--game: Spanky!
+
+addappid(1732420)
+addappid(1732421,0,"96e3e7efcf64757664a4ff547d7ae664f3aa5d999dac014e4715f0db696e11da")
