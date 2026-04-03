@@ -1,0 +1,4 @@
+--game: Dontdy
+
+addappid(1469660)
+addappid(1469661,0,"b45484ff5ec6aeb65965602fae7cf6eee9643dd8cb6a5a0ce7b1aa7691c077f4")
