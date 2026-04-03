@@ -1,0 +1,4 @@
+--game: Synthetic Blood: Mind Shift
+
+addappid(1234850)
+addappid(1234851,0,"6578378fa5f0cbb9704f4d6ba7c794eaa4b46995d7b82663c518db02924d69d9")
