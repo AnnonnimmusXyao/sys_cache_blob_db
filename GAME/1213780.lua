@@ -1,0 +1,4 @@
+--game: Basic Warfare
+
+addappid(1213780)
+addappid(1213781,0,"aaa2e8914cc4747e983e2f96e293f1e25fc140b85b8d06678e827ada1c76b2e3")
