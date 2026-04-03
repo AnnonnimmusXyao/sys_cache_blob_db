@@ -1,0 +1,4 @@
+--game: Digital Janitors
+
+addappid(1389850)
+addappid(1389851,0,"e6488d8ce5e3f9c8464a91ed7618cb8fc3fe58301035e39f0cfdb52323e66d7a")
