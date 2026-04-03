@@ -1,0 +1,4 @@
+--game: ShiroKuro's Adventure
+
+addappid(1707280)
+addappid(1707281,0,"b05895c13c29459da5c1300b9fb239c6cdfd7c0abfc95e7187ab1c9341f8534d")
