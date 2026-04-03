@@ -1,0 +1,7 @@
+--game: Rally Mechanic Simulator
+
+addappid(1588090)
+addappid(1588091,0,"cecf7484103c8897fdd30c70eb51673a35c6f6fc44c5c174fdc6a0a69f1d0a78")
+addappid(3839950)
+addappid(3839970)
+addappid(3839990)
