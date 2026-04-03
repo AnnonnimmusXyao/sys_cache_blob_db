@@ -1,0 +1,4 @@
+--game: Devil's dream
+
+addappid(1309700)
+addappid(1309701,0,"bfa34516b6b6da9d38e78f135b1ae3c37715772afb3109b32adccf533e93c143")
