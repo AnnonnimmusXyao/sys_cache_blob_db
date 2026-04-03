@@ -1,0 +1,4 @@
+--game: Shell Shuffle
+
+addappid(1395450)
+addappid(1395451,0,"ebaa00b617e3ba08fc4321731ad1846f7864b6be1348c0df6f487dbcae5a3d4b")
