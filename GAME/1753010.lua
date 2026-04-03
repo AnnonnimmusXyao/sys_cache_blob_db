@@ -1,0 +1,4 @@
+--game: Scale Enchanter
+
+addappid(1753010)
+addappid(1753011,0,"c35120e54d7d647cf5061bb7a802ee3160def78fa6a73d501a7b1aa7016220ec")
