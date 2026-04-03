@@ -1,0 +1,4 @@
+--game: Flappy Bat
+
+addappid(1587430)
+addappid(1587431,0,"5934dda6d433cf8b171437726cfd58ffdaf2cc70a34bca8f0a4b71f15d91d50c")
