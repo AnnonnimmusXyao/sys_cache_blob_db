@@ -1,0 +1,4 @@
+--game: Warriors of the Nile
+
+addappid(1267470)
+addappid(1267471,0,"d102fe7b5f8bd3273989af2e4a744e2ef7caeacfcbb1a0a87c469d499d5fa895")
