@@ -1,0 +1,4 @@
+--game: Sexy Sniper
+
+addappid(1520170)
+addappid(1520171,0,"8bec20ce6151d511c2acd5717f527ec68b41d63f16ee60a187283e1f91fa9017")
