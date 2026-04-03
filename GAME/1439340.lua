@@ -1,0 +1,4 @@
+--game: Kittens of Fear
+
+addappid(1439340)
+addappid(1439341,0,"aedf5eb9073563e573f2594e4fa7d99c9f75541c084c2fd4b9c3ab0fb72ca9ba")
