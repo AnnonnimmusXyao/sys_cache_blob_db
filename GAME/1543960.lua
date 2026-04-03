@@ -1,0 +1,5 @@
+--game: Squiggle Football
+
+addappid(1543960)
+addappid(1543962,0,"4148bd287a541ab157fd7552c73ad18eaed72fa3b7962ccf855abb8f2a63a90a")
+addappid(3168980)
