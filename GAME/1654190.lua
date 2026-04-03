@@ -1,0 +1,4 @@
+--game: Spin City
+
+addappid(1654190)
+addappid(1654191,0,"caa5085c479a9fee617266af2a7079ea221dafec3121a412a21fe5be42561b6b")
