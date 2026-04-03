@@ -1,0 +1,5 @@
+--game: Harvest Island
+
+addappid(1292500)
+addappid(1292501,0,"52534dd810b76039aac1068984a178df357e9f66e09ce0b1cb3e379fd66cb40b")
+addappid(2972440)
