@@ -1,0 +1,4 @@
+--game: 鬼谷八荒 Tale of Immortal
+
+addappid(1468810)
+addappid(1468811,0,"57880f9288973b73552c08af505e7d3e21db84ff579c2b5d08a34f092f652349")
