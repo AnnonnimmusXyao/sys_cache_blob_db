@@ -1,0 +1,4 @@
+--game: Andromeda Six
+
+addappid(1642870)
+addappid(1642871,0,"5aecce21bf01737fda705aba6fe49d6e3bfc37ea59dc1577a8edba6bd2ad7839")
