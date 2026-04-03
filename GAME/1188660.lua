@@ -1,0 +1,6 @@
+--game: World of relish
+
+addappid(1188660)
+addappid(1188661,0,"879e3e794d58286421ca8a2924a2c6013c85a71d306e7803f1deb3f36a9ed08e")
+addappid(1209630)
+addappid(1210290)
