@@ -1,0 +1,4 @@
+--game: The Zone: Stalker Stories
+
+addappid(1299540)
+addappid(1299541,0,"c4f734b6b8c989749b9acbcac600a3b1ab125f8ecc939d9668868c5ff04453f9")
