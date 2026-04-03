@@ -1,0 +1,4 @@
+--game: Tomb Keeper Mansion Deluxe Pinball
+
+addappid(1767760)
+addappid(1767761,0,"e09aec46c88ace6cc5b126fbbaa5e99952d744ce6a7eeed0300e14f7cdd8b7cd")
