@@ -1,0 +1,4 @@
+--game: PRIMAL DUNGEON
+
+addappid(1252850)
+addappid(1252852,0,"fd07f2a98ffcd6f68661c8aeaa6f312cf873db6c9f298a95fade611c04b208c1")
