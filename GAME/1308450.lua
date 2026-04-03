@@ -1,0 +1,4 @@
+--game: Halloween Horrors Deluxe Steam Edition
+
+addappid(1308450)
+addappid(1308451,0,"1ff5f89f968c94132f1d920f934f9dd47cef7af33ba795e555a55288881f22e6")
