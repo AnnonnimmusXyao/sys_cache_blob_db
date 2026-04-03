@@ -1,0 +1,4 @@
+--game: Classic Racers Elite
+
+addappid(1577080)
+addappid(1577081,0,"42cea17220690d5ca1b183b01b24b55d110165aa00ed1dfa32dbde3bccb7acbe")
