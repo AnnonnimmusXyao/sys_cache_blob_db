@@ -1,0 +1,4 @@
+--game: Hueor
+
+addappid(1182590)
+addappid(1182591,0,"7235a7363952dbd7e06f4d756e1b8ef7d7ead269f626f04ef19d826a05419668")
