@@ -1,0 +1,4 @@
+--game: Bad Guy Adventure
+
+addappid(1541520)
+addappid(1541521,0,"3d6894e3111acbdf9139044f2aa074ff3db35245c9ffa979e2a54f267a924bce")
