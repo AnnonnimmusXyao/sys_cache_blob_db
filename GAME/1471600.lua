@@ -1,0 +1,4 @@
+--game: warDrive: Prologue
+
+addappid(1471600)
+addappid(1471601,0,"04f075a18fc73af553dabe13feae0819d43f2c3b248502f7c073395c194d0f3d")
