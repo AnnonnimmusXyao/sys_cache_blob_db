@@ -1,0 +1,4 @@
+--game: Dome Discover
+
+addappid(1446470)
+addappid(1446471,0,"04b4b9e35b270cee2c8952889807ceb4d8828eeca4f06309eaa8e21d213d9b7c")
