@@ -1,0 +1,4 @@
+--game: Unnamed Adventure/无名之旅
+
+addappid(1186590)
+addappid(1186591,0,"5ef6df5df2beb7737f939b76f27b2c443add8188669c003dc652a453d08789a6")
