@@ -1,0 +1,6 @@
+--game: Shachibato! President, It's Time for Battle! Maju Wars
+
+addappid(1390600)
+addappid(228985)
+addappid(1390601,0,"2c17f474bae89b06fa086422be9302f1260a8cc61169f83761940461817edf9c")
+addappid(1418730,0,"d683c8b8d954c93fa4dcb798e8aa07c7dca3ca22f02ffdfae3a1c997cea1adb9")
