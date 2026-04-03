@@ -1,0 +1,11 @@
+--game: Aliens: Fireteam Elite
+
+addappid(1549970)
+addappid(1549971,0,"4ac690bec527e770c57e0527886089cc9fe835779f3e70da8bdc7e5626c10410")
+addappid(1643350)
+addappid(1643351)
+addappid(1643352)
+addappid(1643353)
+addappid(1643354)
+addappid(1643355)
+addappid(1942650)
