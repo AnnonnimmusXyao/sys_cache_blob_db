@@ -1,0 +1,4 @@
+--game: Halloween Candy Reclaim
+
+addappid(1298540)
+addappid(1298541,0,"85633438ab7b999f7b15c365f928766c7dbf2456dc54f15f5dc498be0ecffd8f")
