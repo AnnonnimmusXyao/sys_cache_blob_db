@@ -1,0 +1,4 @@
+--game: Grandiose
+
+addappid(1504110)
+addappid(1504111,0,"6ac35e2dfe47839e7575ee4d9527c90eeb33c2cd8876cad7551073587bfb362f")
