@@ -1,0 +1,4 @@
+--game: Gravels of Endless War
+
+addappid(1439440)
+addappid(1439441,0,"cc8d0de1e9fbaa9741655e400c7622a2a039685c3edfd9f4bd649dceba7df9c7")
