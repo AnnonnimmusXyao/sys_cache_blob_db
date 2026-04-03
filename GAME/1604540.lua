@@ -1,0 +1,4 @@
+--game: TURK: The Demon Slayer
+
+addappid(1604540)
+addappid(1604541,0,"29e6e43d3cf92cfdc4380d8952a77f827eb08f146e07cd17d15a0761416cf377")
