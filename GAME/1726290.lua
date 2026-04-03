@@ -1,0 +1,4 @@
+--game: The Last Defense
+
+addappid(1726290)
+addappid(1726291,0,"0b1c748fdcbfea7553337fe61169bc333512ad120d52272e55a158aec23196ab")
