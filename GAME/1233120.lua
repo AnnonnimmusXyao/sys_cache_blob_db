@@ -1,0 +1,4 @@
+--game: Street Racing 2020
+
+addappid(1233120)
+addappid(1233121,0,"e85c6e62b802dae988e0a9d1f45dcb373fb89795c8c2d0ccc19c77fe3b506b18")
