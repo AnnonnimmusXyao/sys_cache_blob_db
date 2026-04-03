@@ -1,0 +1,4 @@
+--game: NagiQ
+
+addappid(1251550)
+addappid(1251551,0,"99fd373d1e708ee8856363a42ceb11c75c5cc29040a5ef440c8c8a7039ca5328")
