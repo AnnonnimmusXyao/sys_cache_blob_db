@@ -1,0 +1,4 @@
+--game: Leif's Adventure: Netherworld Hero
+
+addappid(1392980)
+addappid(1392981,0,"4f4511b54568ae7c269a852d029f86bb01bcdbd292f2d13822ac4d7fdd29caf5")
