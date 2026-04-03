@@ -1,0 +1,4 @@
+--game: 找心脏 Find the heart
+
+addappid(1779670)
+addappid(1779671,0,"79c666e5359f6fbbdb94ab126a870d99eb3e10d95aa917ce94e7c32bc2ba5843")
