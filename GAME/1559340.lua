@@ -1,0 +1,4 @@
+--game: Qubie: Invader of Worlds
+
+addappid(1559340)
+addappid(1559341,0,"1db2e13713754251db5911cff761cc7ab637950188c034fc4f1c0d2c87483480")
