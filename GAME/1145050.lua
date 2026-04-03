@@ -1,0 +1,4 @@
+--game: Tonetaker VR
+
+addappid(1145050)
+addappid(1145051,0,"2faaab242b3737ac7d0d19bf482dadb98ce1663f9bbb5e5193f822a30290ff16")
