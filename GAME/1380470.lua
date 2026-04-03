@@ -1,0 +1,5 @@
+--game: Water Rain
+
+addappid(1380470)
+addappid(1380471,0,"a6f42e91714b0ad7fc090ffdac57727f37bd6b4470d367ce1bf3ad79f3919005")
+addappid(1380472,0,"872a12254b59c46eafad631ac7402882c3d047467fc5aaa76a65bba7a1dd8f06")
