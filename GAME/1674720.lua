@@ -1,0 +1,4 @@
+--game: Rage Quit
+
+addappid(1674720)
+addappid(1674721,0,"368e61d5d2a039783dd2b16b2f08d712166331b73d3ebe07d957b562d707823f")
