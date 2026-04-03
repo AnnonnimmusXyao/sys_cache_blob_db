@@ -1,0 +1,4 @@
+--game: Heartworm
+
+addappid(1257030)
+addappid(1257031,0,"a85af9ecdf6aa236abcac4e3cbdc3389ab2882f1c80b8432401dcf8b77fecbd3")
