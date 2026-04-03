@@ -1,0 +1,4 @@
+--game: A Ghostly Tale
+
+addappid(1161120)
+addappid(1161121,0,"bf5a49d0408af06146d9e2e59109bf1b7f27a0e1b56fa26be6fc1416a4707bf6")
