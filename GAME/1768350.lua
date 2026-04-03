@@ -1,0 +1,4 @@
+--game: Multris
+
+addappid(1768350)
+addappid(1768351,0,"bf1b08b3e4d12b1dff368e27c4930967bb4ccd06505859daa363cff2788eba55")
