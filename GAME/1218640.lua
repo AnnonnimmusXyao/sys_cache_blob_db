@@ -1,0 +1,4 @@
+--game: Draco Knight
+
+addappid(1218640)
+addappid(1218642,0,"4aa6b2f4ad28ab9ece6a8f74843e6286d5de9d0623e3e1ebbbfcb3a52adb19e9")
