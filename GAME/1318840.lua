@@ -1,0 +1,4 @@
+--game: Outlast : Journey of a Gladiator
+
+addappid(1318840)
+addappid(1318841,0,"4417706e50b3a5e3197f93715ef670f7917a44e3d4f877c32ed6c8e47f8fbf8d")
