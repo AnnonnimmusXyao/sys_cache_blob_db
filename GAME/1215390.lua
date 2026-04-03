@@ -1,0 +1,4 @@
+--game: Animal Revolt Battle Simulator
+
+addappid(1215390)
+addappid(1215391,0,"94d913cb61b5cd8d9f0e75d1b2003b0c25004d0633654e4f2ad8bad4b02c331f")
