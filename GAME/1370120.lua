@@ -1,0 +1,4 @@
+--game: Construction Simulator 3 - Pocket Edition
+
+addappid(1370120)
+addappid(1370121,0,"aac7ba42a16f93b3041084123a993064de28297a9087f9fcc19f4f73c2014004")
