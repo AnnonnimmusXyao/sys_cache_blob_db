@@ -1,0 +1,4 @@
+--game: 驱灵
+
+addappid(1231440)
+addappid(1231441,0,"54e77ff4a5a54e443519bbf084ef15993b40e0470b2181d04f246fe26cd7e312")
