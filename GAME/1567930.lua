@@ -1,0 +1,4 @@
+--game: War Tank combat
+
+addappid(1567930)
+addappid(1567931,0,"30027869cdca6cd36572f2ef37be723fc295ae050f783558dc570875280942f9")
