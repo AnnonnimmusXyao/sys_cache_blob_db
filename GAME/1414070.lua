@@ -1,0 +1,4 @@
+--game: Sokoban: Bunny Tales
+
+addappid(1414070)
+addappid(1414071,0,"1486b61b19d37d8a45fed06d84f6e7fbdf2aba6e75d8463812d320563c810439")
