@@ -1,0 +1,5 @@
+--game: Lovely Archeologists
+
+addappid(1782390)
+addappid(1782391,0,"49046cd446e7b2772190b40201041bdb65b026e0ca1ff698ea5c6838d026b287")
+addappid(1796360)
