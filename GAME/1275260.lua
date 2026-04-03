@@ -1,0 +1,5 @@
+--game: This will not go well
+
+addappid(1275260)
+addappid(1275261,0,"467f87bddb6650323cdd1136a8e684841998e26a8eefed9c911cdc73043bd8c5")
+addappid(1275262,0,"a2a53c573c49bc6e8ce2dfd9df9aee645d3d7f7d26180724a5e25955065fd5ab")
