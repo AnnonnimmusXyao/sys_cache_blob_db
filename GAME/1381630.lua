@@ -1,0 +1,4 @@
+--game: Pumpkin Dog Xtreme
+
+addappid(1381630)
+addappid(1381633,0,"c8e8b66fdc81395ba2ccfb76121fb59001a196311739540c1a7045b90a9944a7")
