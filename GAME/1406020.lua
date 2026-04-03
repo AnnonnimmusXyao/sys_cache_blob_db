@@ -1,0 +1,4 @@
+--game: Sakura Succubus 3
+
+addappid(1406020)
+addappid(1406021,0,"accbd61d0a0da09b367198221b934f36afd8a8d86b303f5b31ad71590a94f105")
