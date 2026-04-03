@@ -1,0 +1,5 @@
+--game: Collection Quest
+
+addappid(1278090)
+addappid(1278091,0,"dac7022734776643e4b53a653852c987201e412ba5c65accef4a0eeebf72d542")
+addappid(2466340)
