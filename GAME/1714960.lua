@@ -1,0 +1,4 @@
+--game: Astero Inc.
+
+addappid(1714960)
+addappid(1714961,0,"a155b74b5c8d07d3aa6357833e49822dcce079dbccbc5d683e33c97ca02b1919")
