@@ -1,0 +1,4 @@
+--game: DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition
+
+addappid(1295510)
+addappid(1295513,0,"940f6f87ded1c6f17229cc6e898c946f8ae111e0f74214543e0d73384711c0f2")
