@@ -1,0 +1,4 @@
+--game: Erotic Jigsaw Puzzle 2
+
+addappid(1649960)
+addappid(1649961,0,"582921f7c23c70c28656c135f62b7bdc298a7274e4ffbbaf4c007d86a9bd6763")
