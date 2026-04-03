@@ -1,0 +1,4 @@
+--game: Open Mod 2025
+
+addappid(1591680)
+addappid(1591681,0,"d0f0dc27c041e439a722df0b08e3227393b06a3b556cd0d0bce4368360a06f4e")
