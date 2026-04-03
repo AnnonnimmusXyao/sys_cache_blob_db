@@ -1,0 +1,4 @@
+--game: Wéko The Mask Gatherer
+
+addappid(1682290)
+addappid(1682291,0,"7ec36c96269ba0b460a53d5958a9ca9e5c0669e5e0f64a20708316dd86132029")
