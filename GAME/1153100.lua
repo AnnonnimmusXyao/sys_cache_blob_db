@@ -1,0 +1,4 @@
+--game: Pixels can fight
+
+addappid(1153100)
+addappid(1153103,0,"b45aa14e15a360089bbf8930eaaa0160371cbe668cfcbcbb89528411105f7c39")
