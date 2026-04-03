@@ -1,0 +1,7 @@
+--game: VEGAS Pro 18 Edit Steam Edition
+
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(1325400)
+addappid(1325401,0,"d78647a715c6b05690ff1b183cb54d055600c85737c23a8ded663c542382a391")
