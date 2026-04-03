@@ -1,0 +1,4 @@
+--game: HS Galaxy
+
+addappid(1602100)
+addappid(1602101,0,"baee76823ade12e056a2c05fed72d2488a067ef3b5dcfceec07ebfedcf1c9ea9")
