@@ -1,0 +1,5 @@
+--game: Daughter of Essence
+
+addappid(1517470)
+addappid(1517471,0,"014258d50e56a5ef626f4d30e130fd37f372f751c2cb52d03b8f5e141f7c95ea")
+addappid(1517475,0,"9afdb1cad3e6487682b542ea0a2ea4b5deeaf6ecae617e039f6a23f16331898d")
