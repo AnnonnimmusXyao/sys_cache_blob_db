@@ -1,0 +1,4 @@
+--game: LineArt Jigsaw Puzzle - Erotica 2
+
+addappid(1482000)
+addappid(1482001,0,"97d5e805169b8d7305f3a621268feab8c4be7b1865a74fbaa0dc60f6855d196a")
