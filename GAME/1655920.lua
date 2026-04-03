@@ -1,0 +1,4 @@
+--game: Shin Lotion Samurai
+
+addappid(1655920)
+addappid(1655921,0,"c73f7b12f05319170d956f13b204414402e0bbc54f4629a7d29c8dbb8a527f9b")
