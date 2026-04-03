@@ -1,0 +1,4 @@
+--game: Anime Fantasy Jigsaw Puzzle 3D
+
+addappid(1779270)
+addappid(1779271,0,"acf8e1e7b207e234dad469edc9e6466ab73b14da7292dd0ab5b37a1aab825d04")
