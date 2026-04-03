@@ -1,0 +1,4 @@
+--game: Horace: First Trip
+
+addappid(1146280)
+addappid(1146281,0,"418ed900c9a97ce1b87ed9f37feb0fcad9fca550f0d68b7a3d9d64903b8f9236")
