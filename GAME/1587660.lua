@@ -1,0 +1,4 @@
+--game: 奇迹世界 miracle world
+
+addappid(1587660)
+addappid(1587661,0,"c621921675c48a4a7aa6fe2ca6253908863d0b15b0490809eab748d3730d8b7b")
