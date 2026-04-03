@@ -1,0 +1,5 @@
+--game: Parasomnia
+
+addappid(229007)
+addappid(1713990)
+addappid(1713992,0,"ea6314ecb9a93663fe355bbe9662414cd75be1ec93213c1078c9cf60c7a1d022")
