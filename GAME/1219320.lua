@@ -1,0 +1,4 @@
+--game: Pets Sniper Shooting
+
+addappid(1219320)
+addappid(1219321,0,"bdab73593126439a2c6b57ccaf761db7bcbf0bd6d072fb114aebd7fc4bad5c1c")
