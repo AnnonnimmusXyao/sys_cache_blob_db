@@ -1,0 +1,4 @@
+--game: Little Fighters on Stream
+
+addappid(1589460)
+addappid(1589461,0,"99cae8409a83d8117d5d90a2fcdb604f0524beaff7559591fc36b11fb21b55e6")
