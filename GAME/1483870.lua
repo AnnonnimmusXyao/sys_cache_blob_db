@@ -1,0 +1,4 @@
+--game: Draw & Guess
+
+addappid(1483870)
+addappid(1483871,0,"3e39df44a18dd1013bc7a6a9fcb645852308303acb9901fca0686753cd371508")
