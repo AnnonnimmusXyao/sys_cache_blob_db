@@ -1,0 +1,4 @@
+--game: Before Dark
+
+addappid(1440370)
+addappid(1440371,0,"2304f10b328f1252e0ab196ad454b872f482e33070d76ab67a6362b01cc57246")
