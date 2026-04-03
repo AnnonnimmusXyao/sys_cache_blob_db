@@ -1,0 +1,7 @@
+--game: Architect Life: A House Design Simulator
+
+addappid(1296400)
+addappid(1296401,0,"4e7f5f76e4b45de0a1446e15e192444674e32ac61f103d7772d63b2b88e984a2")
+addappid(3478930)
+addappid(3478940)
+addappid(3676700)
