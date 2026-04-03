@@ -1,0 +1,4 @@
+--game: The Seven Keys: Escape Room
+
+addappid(1408200)
+addappid(1408201,0,"3f34dd685c60c64dcf46c8ed1c604abb8b8d525049bd14c3e46ec6e42077525e")
