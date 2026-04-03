@@ -1,0 +1,8 @@
+--game: Land of War - The Beginning
+
+addappid(1146300)
+addappid(1146302,0,"44475b55d86f9ca6c724ad0c8875d654835abe5ecf35822c8cd2bc89a0653b9c")
+addappid(1593122)
+addappid(1593123)
+addappid(1593124)
+addappid(1609280)
