@@ -1,0 +1,4 @@
+--game: CAPTAIN STARONE
+
+addappid(1722110)
+addappid(1722111,0,"f57b06527ba04b7891120eb37aad230586d1a2240b8340fbdbb164318c78ad2a")
