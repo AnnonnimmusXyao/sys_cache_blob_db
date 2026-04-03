@@ -1,0 +1,5 @@
+--game: In Stars And Time
+
+addappid(1677310)
+addappid(1677311,0,"5c168975657d2ce4b6970aabbee571b7c0a4d43d48184092896c8fbbb4bd8d4f")
+addappid(3588130)
