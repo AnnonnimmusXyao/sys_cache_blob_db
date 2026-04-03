@@ -1,0 +1,4 @@
+--game: Interregnum Chronicles: Signal
+
+addappid(1640710)
+addappid(1640711,0,"62924b34f6943a18597fa676f0c9403074b719a9e13d8732d8e0fb6a32cc19b6")
