@@ -1,0 +1,4 @@
+--game: Rift World
+
+addappid(1492430)
+addappid(1492431,0,"128158f9fdd01efa7078ee3f09ec04cc56adcda68ac5df381c618c2ea572e234")
