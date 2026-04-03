@@ -1,0 +1,4 @@
+--game: ReBall
+
+addappid(1646600)
+addappid(1646601,0,"b319e79c7cd90879beb592bda1c3ee31272eb6f78cc951fea75bce835c14241c")
