@@ -1,0 +1,4 @@
+--game: CADE PRIME
+
+addappid(1761750)
+addappid(1761751,0,"10bc6afbe163a85ff92a85585052cb48c16aff48bdab267cc37348808b8d267e")
