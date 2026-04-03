@@ -1,0 +1,4 @@
+--game: Happy Summer Holiday(愉快的暑假)
+
+addappid(1391350)
+addappid(1391351,0,"151c8ad15ee34813867ada93876daaab5d3103542425e5425db4c58720963f6b")
