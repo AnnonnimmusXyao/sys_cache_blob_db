@@ -1,0 +1,4 @@
+--game: UpMove
+
+addappid(1175650)
+addappid(1175651,0,"384cb71ba35866de7e8c665d00b6af98acbdf29eca20b8acb03f5325625321f3")
