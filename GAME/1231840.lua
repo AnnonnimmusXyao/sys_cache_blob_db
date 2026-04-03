@@ -1,0 +1,4 @@
+--game: Climber: Sky is the Limit
+
+addappid(1231840)
+addappid(1231841,0,"451c7a71fd257dc883fa867bcb5c5de992e49839f3d2d182c10581920c6d11cb")
