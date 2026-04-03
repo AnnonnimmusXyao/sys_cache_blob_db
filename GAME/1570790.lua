@@ -1,0 +1,4 @@
+--game: 2D Platformer GAME (Toy Factory)
+
+addappid(1570790)
+addappid(1570791,0,"47199815bd65c47116d2db6ee796929899037d10e9cd934b42ff36cfbc6fa751")
