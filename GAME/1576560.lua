@@ -1,0 +1,5 @@
+--game: DownhillVR
+
+addappid(229000)
+addappid(1576560)
+addappid(1576561,0,"32db52124570890a8d14456bceeca7e9f4d6a6fabc6b2cc042d9365e35211161")
