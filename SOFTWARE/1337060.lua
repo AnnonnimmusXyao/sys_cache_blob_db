@@ -1,0 +1,4 @@
+--game: LabTrainingVR: Biosafety Cabinet Edition
+
+addappid(1337060)
+addappid(1337061,0,"756ab3e5c35f0ccbff6f0bc5f21af3647fd03141ff5fb631ebd16ee508872561")
