@@ -1,0 +1,4 @@
+--game: Rushberry Mercs
+
+addappid(1258990)
+addappid(1258991,0,"9969e0b5a058e8bfd603216379b49e9767edd11481ee3fcfdeb47c8d2e242840")
