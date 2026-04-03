@@ -1,0 +1,4 @@
+--game: Project Hacker
+
+addappid(1603290)
+addappid(1603291,0,"e0ae8612b9693c2682c8be182495188970de4e7bae4293e92c74f45f04844892")
