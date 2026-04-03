@@ -1,0 +1,4 @@
+--game: Pacifist Outside
+
+addappid(1779810)
+addappid(1779811,0,"64a10ba43f2835b0e476dd2a7e9e31562c0868e100e6970af6a21f012c450b46")
