@@ -1,0 +1,4 @@
+--game: Midnight Mahjong
+
+addappid(1767310)
+addappid(1767311,0,"0aac0c89c084771be3cc3aa696d2e6ebb7a7c49c481ac087d5e080054f47c17c")
