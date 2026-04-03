@@ -1,0 +1,4 @@
+--game: Star Chaser in Sea World/海の世界の星追い
+
+addappid(1657200)
+addappid(1657201,0,"a727230aee420d60db8fac5b169c30866c894eb9b57e88df82fa8ad9e39146e7")
