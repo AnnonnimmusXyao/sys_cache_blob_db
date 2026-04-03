@@ -1,0 +1,4 @@
+--game: Bacteria Wars
+
+addappid(1707890)
+addappid(1707891,0,"6e8525b842dfefae1a520b3e4de77cee1e364e9d2ac77ed375350e87b60bbafe")
