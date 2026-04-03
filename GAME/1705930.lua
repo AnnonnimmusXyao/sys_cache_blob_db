@@ -1,0 +1,4 @@
+--game: Born Into Fear
+
+addappid(1705930)
+addappid(1705931,0,"6057f03a991a79e4716ab587d767d3e52e01a6a06fd3c6bbec5a288b24d9af23")
