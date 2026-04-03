@@ -1,0 +1,4 @@
+--game: Napoleon in Russia
+
+addappid(1185960)
+addappid(1185961,0,"3bd95c9d29ced225dc7531601b6df828c890b68bf99e8d6b3a02fbc0a96950b6")
