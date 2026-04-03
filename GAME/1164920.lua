@@ -1,0 +1,4 @@
+--game: Axeson's Fury VR
+
+addappid(1164920)
+addappid(1164921,0,"2f180026fe4569d7adeac4e3eca7c7ef1785cb24ff7887ee5962a1615ebc1090")
