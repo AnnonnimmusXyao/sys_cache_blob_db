@@ -1,0 +1,4 @@
+--game: Speed Swing
+
+addappid(1314930)
+addappid(1314931,0,"c9a05d94054d887a260da540acb9ec243932e427d617db084ca901e64e1fd87f")
