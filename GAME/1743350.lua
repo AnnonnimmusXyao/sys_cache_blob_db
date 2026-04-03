@@ -1,0 +1,4 @@
+--game: KOSHMAR
+
+addappid(1743350)
+addappid(1743351,0,"11fb85400c27dd3bd65131d20baebd9681e1af7c231b1bc70640a3bc07eba21e")
