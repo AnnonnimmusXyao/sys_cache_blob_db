@@ -1,0 +1,4 @@
+--game: Lunar's Chosen - Episode 1
+
+addappid(1695680)
+addappid(1695681,0,"bb449648212dd932489306754deb9f1941f385770814efe345c8fa05c872e181")
