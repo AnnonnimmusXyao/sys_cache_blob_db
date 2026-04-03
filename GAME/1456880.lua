@@ -1,0 +1,4 @@
+--game: ElecHead
+
+addappid(1456880)
+addappid(1456881,0,"715a2a81e28b3855760acc06d0227b8763a3f4679ec30a3f49e1ac1b65566a35")
