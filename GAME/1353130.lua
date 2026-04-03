@@ -1,0 +1,4 @@
+--game: Hoplichess
+
+addappid(1353130)
+addappid(1353131,0,"6b11907cfb58dd89972cdcf86d031d7b786f5ac428cadb0fc5da969084ce8b25")
