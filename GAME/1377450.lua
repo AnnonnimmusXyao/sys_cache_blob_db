@@ -1,0 +1,4 @@
+--game: 圣歌德嘉的晚钟
+
+addappid(1377450)
+addappid(1377451,0,"93c439290f5357adbb2c3bf4a1387bbe8bba6d56734a0a80ff4738908a24b496")
