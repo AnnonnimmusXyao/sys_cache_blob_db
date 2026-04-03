@@ -1,0 +1,5 @@
+--game: Midnight Ride
+
+addappid(1210110)
+addappid(1210111,0,"73cce7a1c4a35fecb022a0f0b83a29e2ae506f394efe17be585437c1707a8bea")
+addappid(1356050,0,"408d796bed0e1c3b49e083bac0690bbcea2dce0818da047636029fc2d4658b8b")
