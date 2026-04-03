@@ -1,0 +1,4 @@
+--game: Vedelem: The Golden Horde
+
+addappid(1517150)
+addappid(1517151,0,"e4de5b3905ccfecfc6dbf75e80bc44be11c2b60cc1a858be7d606197e9b95b43")
