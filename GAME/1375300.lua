@@ -1,0 +1,4 @@
+--game: POLAR
+
+addappid(1375300)
+addappid(1375301,0,"ea9068ba09667c3b87d01b8d336f5f5605c8aae09695d5189d1b2412671ac3fd")
