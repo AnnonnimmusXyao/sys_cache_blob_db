@@ -1,0 +1,4 @@
+--game: Star Ships
+
+addappid(1498660)
+addappid(1498661,0,"079e8fcc412bbb549949996d4d0e5aded4335daad8393aaa0474cf3d430b6834")
