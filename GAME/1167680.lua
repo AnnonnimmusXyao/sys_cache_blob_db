@@ -1,0 +1,4 @@
+--game: Orbital Bullet – The 360° Rogue-lite
+
+addappid(1167680)
+addappid(1167681,0,"dc0b3e9ed4721c6021fde75fed36862324e101a7d0c33900818a4af8b58c6753")
