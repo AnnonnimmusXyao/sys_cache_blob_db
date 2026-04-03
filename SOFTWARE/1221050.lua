@@ -1,0 +1,4 @@
+--game: Ultimate Low Poly Pet
+
+addappid(1221050)
+addappid(1221051,0,"7a9020d8d5a145c43c6526124bf901c6f77f9e02a9cc9ce19d63f4b345d532f8")
