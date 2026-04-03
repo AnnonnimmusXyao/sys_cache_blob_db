@@ -1,0 +1,4 @@
+--game: League of Felt Tanks: Together
+
+addappid(1713310)
+addappid(1713311,0,"69c0d7d6f622d5cae73e0bc39ada0112cdce8b6ebb73fa967a0f5b571d2cb84b")
