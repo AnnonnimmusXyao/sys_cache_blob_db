@@ -1,0 +1,4 @@
+--game: Liars Village
+
+addappid(1533960)
+addappid(1533961,0,"f02db7a737a1b321b363e548627db2f05b26bdedba15b8afda70444ace421917")
