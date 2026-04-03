@@ -1,0 +1,4 @@
+--game: Spider Fear
+
+addappid(1219910)
+addappid(1219911,0,"ca448a14c6b5b57c1572b26964929e249702b0bd491407194373fbdc255506dd")
