@@ -1,0 +1,4 @@
+--game: Hentai Madness
+
+addappid(1785020)
+addappid(1785022,0,"7d4bde9238c716f1790578dfbaa26f590d105722fbfef23dde24132dc9a8639a")
