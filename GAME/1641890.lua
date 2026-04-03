@@ -1,0 +1,4 @@
+--game: Lust from Beyond: M Edition
+
+addappid(1641890)
+addappid(1641891,0,"42fffa773e33caaf34fc4fba3245527648838b6b060b0957625f4bb0b95d5429")
