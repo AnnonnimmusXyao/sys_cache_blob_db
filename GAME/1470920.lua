@@ -1,0 +1,4 @@
+--game: Howdy, Jacob!
+
+addappid(1470920)
+addappid(1470921,0,"be813ee0be72a504d0947fc70d6c096a2131e8c74b9497c5b6e92d943be0fd40")
