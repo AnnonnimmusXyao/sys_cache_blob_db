@@ -1,0 +1,4 @@
+--game: Astroroxx
+
+addappid(1625900)
+addappid(1625901,0,"737900d4add578d2bc2438d16934cbba1c2ad9233f93c9e15c388a14ee5bfb9d")
