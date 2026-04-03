@@ -1,0 +1,4 @@
+--game: CULTIC
+
+addappid(1684930)
+addappid(1684931,0,"a66658f152af830e0aaeff5d5e5cb8c4b31bf7e379547fe442ce70c0804dde01")
