@@ -1,0 +1,4 @@
+--game: Alien Wall
+
+addappid(1582810)
+addappid(1582811,0,"10d06fe623d3cbca72a316d16d8579621e2e13921906c9b7cd9ee7abb7376055")
