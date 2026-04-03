@@ -1,0 +1,5 @@
+--game: Summertime Madness
+
+addappid(1360550)
+addappid(1360551,0,"88e96a4750f64907997164c910e3f37164d77eb97bcd78e2aaad0d0b48626576")
+addappid(1360552,0,"d98254aae4d0d4acd46df0f9728e90d7e0e97c0b8e16e2cb6cef16d47ba54472")
