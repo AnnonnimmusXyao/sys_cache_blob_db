@@ -1,0 +1,4 @@
+--game: Kill It With Fire: Ignition
+
+addappid(1291500)
+addappid(1291501,0,"a3180f7777ff39be856ad266c1568cc08a63c85347bf17410dff5c9164b0f9ed")
