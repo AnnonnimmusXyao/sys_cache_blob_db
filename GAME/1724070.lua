@@ -1,0 +1,4 @@
+--game: Don't Hate My Music Taste
+
+addappid(1724070)
+addappid(1724071,0,"6a67042182e53cf69064e91b3cdb34c76ef2caa8e282b148aca9a06c3d96d34b")
