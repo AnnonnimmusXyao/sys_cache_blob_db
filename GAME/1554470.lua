@@ -1,0 +1,5 @@
+--game: Dragon Island
+
+addappid(1554470)
+addappid(1554471,0,"535dbf0cc0986c12556206b0a061b872468a9e36df7db7bdf4de13660380ca08")
+addappid(1877240)
