@@ -1,0 +1,4 @@
+--game: Museum Of Extravagance
+
+addappid(1399460)
+addappid(1399461,0,"722216351975a986e815938fb78894fc0a15fcf7350eac65229aa0ff29e3d3cd")
