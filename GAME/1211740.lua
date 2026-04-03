@@ -1,0 +1,4 @@
+--game: Guardian of Lore
+
+addappid(1211740)
+addappid(1211741,0,"064a921a2a64ae8bc569d9dc1bc6a0699c60e8f5e9696aefbf151c872f415e80")
