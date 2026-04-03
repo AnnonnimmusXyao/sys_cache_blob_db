@@ -1,0 +1,4 @@
+--game: BullyBall
+
+addappid(1512950)
+addappid(1512951,0,"02ca5560c165376e3ef727d8ea88c2c132443ffc5d61ec4562f9307c7a1b7601")
