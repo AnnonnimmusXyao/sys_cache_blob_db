@@ -1,0 +1,4 @@
+--game: Great Alhcemist
+
+addappid(1237550)
+addappid(1237551,0,"05204650bd05fa32456227bbda0c66164aae4d631f0908b56577ff9f54043d2b")
