@@ -1,0 +1,4 @@
+--game: The Lost Dungeon Of Knight
+
+addappid(1147620)
+addappid(1147621,0,"84f522c6f55ed66503ddbc56e2b1f3a60a746aa770ef75719703b353923b1ec4")
