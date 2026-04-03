@@ -1,0 +1,4 @@
+--game: VR Wonderland 2：Adventures in a Fruit Boat
+
+addappid(1504610)
+addappid(1504611,0,"e4e35dcdf96c72d59863642ca765a09f17b585010c88cf8b50ef00f0333f00b6")
