@@ -1,0 +1,5 @@
+--game: AETHERIS
+
+addappid(1786010)
+addappid(1786011,0,"a4aa0eb4c6f041fe94f24f894cde973661bc9859672d02f5fce83cc7f0f6169f")
+addappid(2724720)
