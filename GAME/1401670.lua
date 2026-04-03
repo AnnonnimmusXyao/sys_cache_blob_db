@@ -1,0 +1,4 @@
+--game: Handy Machines VR
+
+addappid(1401670)
+addappid(1401671,0,"26a8b9f3087283832518ff804d5009cdfeb28dff7254ef3911c23a1e3292261c")
