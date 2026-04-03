@@ -1,0 +1,7 @@
+--game: Horizon's Gate
+
+addappid(229003)
+addappid(229004)
+addappid(229012)
+addappid(1224290)
+addappid(1224291,0,"5fe3536a465ac0f161ec229e8dfa8987e2e7834b0af635904239d24a2a752038")
