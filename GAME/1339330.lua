@@ -1,0 +1,4 @@
+--game: Samurai Cooking
+
+addappid(1339330)
+addappid(1339331,0,"d7937b9080a8c6cb1375c1d5df9a54e9ba31ae8664d1b15857f31bac48b79bed")
