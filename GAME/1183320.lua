@@ -1,0 +1,4 @@
+--game: Bundle Kitt
+
+addappid(1183320)
+addappid(1183321,0,"1151a1948dd99931477a2b638e4b622b9f78e5b419716cd8dce33f27f3717e61")
