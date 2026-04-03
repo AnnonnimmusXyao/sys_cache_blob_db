@@ -1,0 +1,4 @@
+--game: 美足小屋 / Beautiful Feet Cabin
+
+addappid(1277210)
+addappid(1277211,0,"2dd80763e86e71e291b4f0fe164a910082fba17dddf56f624b12ef937e45d2b3")
