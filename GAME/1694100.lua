@@ -1,0 +1,4 @@
+--game: 幸存者乐园
+
+addappid(1694100)
+addappid(1694101,0,"d44a92ce99bfdb07c07b9b3e703096f2ee807621b82607d375c462e2d9fa5099")
