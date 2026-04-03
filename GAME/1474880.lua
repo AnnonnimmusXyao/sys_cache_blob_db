@@ -1,0 +1,4 @@
+--game: Cash Horse - Match 3 Puzzle Adventure
+
+addappid(1474880)
+addappid(1474881,0,"b81ccc0a68e5f0422fef89eae5c39354cacf762e176c5ce9a6b4e4ece1b8ff1f")
