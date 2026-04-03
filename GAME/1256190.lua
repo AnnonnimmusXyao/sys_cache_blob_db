@@ -1,0 +1,4 @@
+--game: Chickduck & Catduck
+
+addappid(1256190)
+addappid(1256191,0,"2b3eeaa70dec81df2d82743cb138d4dcec5bd6e7d93b0beb57974180b82ce182")
