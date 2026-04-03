@@ -1,0 +1,4 @@
+--game: Sweet Desire: Hentai Puzzle
+
+addappid(1742350)
+addappid(1742351,0,"ee3f65e080db3407b76a99a1649657895c7cab496c2a9af13986cba8f5168291")
