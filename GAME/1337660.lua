@@ -1,0 +1,4 @@
+--game: Shikari Rising
+
+addappid(1337660)
+addappid(1337661,0,"f65f3a225bf2c5a2b47b8770453418a1be494308201f63abcfb8fe1aa15a47ae")
