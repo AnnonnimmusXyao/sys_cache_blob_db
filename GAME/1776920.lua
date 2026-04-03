@@ -1,0 +1,4 @@
+--game: Cursed Town
+
+addappid(1776920)
+addappid(1776921,0,"c5779f9937fe4ce7a8b90e683e82952beda88843738fa3307d134e92c22ac09f")
