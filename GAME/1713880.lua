@@ -1,0 +1,4 @@
+--game: Hungry Lizard
+
+addappid(1713880)
+addappid(1713881,0,"b064d35447b4db109f855e1f99f08ce9a962b678bf02f6946879b36f229a32cc")
