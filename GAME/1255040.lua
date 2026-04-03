@@ -1,0 +1,4 @@
+--game: Let's Learn Korean! Hangul
+
+addappid(1255040)
+addappid(1255041,0,"75ce54e7780664db32127ae5a6b11511d1a51fb918f94be4d4e276eac126c51c")
