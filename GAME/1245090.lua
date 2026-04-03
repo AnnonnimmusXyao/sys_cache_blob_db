@@ -1,0 +1,5 @@
+--game: Teacher Lady
+
+addappid(1245090)
+addappid(1245091,0,"d045e2b306a1921fc2eb1e294d85a814bff742a5802affc4511db8367190a077")
+addappid(1245340)
