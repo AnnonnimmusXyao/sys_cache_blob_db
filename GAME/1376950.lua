@@ -1,0 +1,4 @@
+--game: Fantasy Friends
+
+addappid(1376950)
+addappid(1376951,0,"ca837745a49341b266a9bc501a5679a6d4a6f57318ff999ff3023b6478887aa2")
