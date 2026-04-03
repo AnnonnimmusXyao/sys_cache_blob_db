@@ -1,0 +1,4 @@
+--game: Restland - Inno World
+
+addappid(1595780)
+addappid(1595781,0,"05ca969f7c0dc6701d734cacbd30f33fa530bbf5b732b66ee8395c8f887ed143")
