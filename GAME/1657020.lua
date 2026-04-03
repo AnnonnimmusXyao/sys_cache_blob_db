@@ -1,0 +1,4 @@
+--game: Word Escape
+
+addappid(1657020)
+addappid(1657021,0,"772ee3f53b1ed1ec81225f81015afcc114aa20bfc366df37444534a64829d949")
