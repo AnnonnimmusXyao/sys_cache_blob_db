@@ -1,0 +1,4 @@
+--game: Sakura Alien
+
+addappid(1592640)
+addappid(1592641,0,"de4fb7467e4a57f7f3836b8050b10cf6eabeb0261e408de45492608e66306df5")
