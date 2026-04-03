@@ -1,0 +1,4 @@
+--game: Hooplord
+
+addappid(1246710)
+addappid(1246711,0,"dd28976c50fdfd5fa45ff002fccd88cda7c0f2af60678c3c07e32520ed68bf87")
