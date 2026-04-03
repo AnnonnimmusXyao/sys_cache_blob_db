@@ -1,0 +1,4 @@
+--game: Карьера Президента
+
+addappid(1646480)
+addappid(1646481,0,"25215c79c49dfc3e360adead967af487bbe88b64b71dc4f751f50a4788c4f52f")
