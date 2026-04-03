@@ -1,0 +1,4 @@
+--game: Dread X Collection
+
+addappid(1296510)
+addappid(1296511,0,"7bc0d08264747e1e8f75d4c2b4d5f627dcbf956fb9a12367807b49de1c35bb03")
