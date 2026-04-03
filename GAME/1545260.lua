@@ -1,0 +1,4 @@
+--game: 火柴人大逃亡
+
+addappid(1545260)
+addappid(1545261,0,"92d4e18c8d23dbdcc45e01846aef954b1068806472ff8ce9b5e56d8a64d6bff7")
