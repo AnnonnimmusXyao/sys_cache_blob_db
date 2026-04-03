@@ -1,0 +1,4 @@
+--game: Shrine's Legacy
+
+addappid(1435410)
+addappid(1435411,0,"5a08d19c32f6007af41ac881a5cddb9f50aab657d819f02ada069b5df66ea8d8")
