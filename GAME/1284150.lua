@@ -1,0 +1,4 @@
+--game: Danger Zombies
+
+addappid(1284150)
+addappid(1284151,0,"bfc47c470c9aea4543c12cd9d00a7fb5fdffeb9ca3e302bd1009a5333c488d22")
