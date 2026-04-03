@@ -1,0 +1,4 @@
+--game: I, AI
+
+addappid(1298670)
+addappid(1298671,0,"411eefaa2d4d4eb30ad179a8f6d381dede5a016e6126a96cf8acbffc136a6a33")
