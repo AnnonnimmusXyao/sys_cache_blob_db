@@ -1,0 +1,4 @@
+--game: 兵法：战国篇
+
+addappid(1270100)
+addappid(1270101,0,"a57adb5e1d4b482095177476bc8e56a864475601d6ec59fae5baf1268c662a56")
