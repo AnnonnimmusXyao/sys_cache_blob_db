@@ -1,0 +1,6 @@
+--game: Angry Bunny 2: Lost hole
+
+addappid(228987)
+addappid(229000)
+addappid(1235460)
+addappid(1235461,0,"b0a059d823b7a86cf8c0680cb7dda3f68287e832c22af7cdb32883b23df55a9b")
