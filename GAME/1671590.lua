@@ -1,0 +1,4 @@
+--game: Paladin's Oath
+
+addappid(1671590)
+addappid(1671591,0,"a8ce6bac8bc487bc05d7067795cc6cbb4baea9995e915e590358a8ec01e9349e")
