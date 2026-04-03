@@ -1,0 +1,4 @@
+--game: Color Souls
+
+addappid(1590080)
+addappid(1590081,0,"50421d341567526425fbf8641f1d5ac683ac7a1bef303febd9b5cfa920b145ba")
