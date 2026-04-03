@@ -1,0 +1,4 @@
+--game: Aria Dating Simulator
+
+addappid(1181290)
+addappid(1181291,0,"3bb5b08bfdb3c2e00e5b0047f37320a38757d8e86196d5384ca6734892766477")
