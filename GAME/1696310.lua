@@ -1,0 +1,4 @@
+--game: Starveling Way
+
+addappid(1696310)
+addappid(1696311,0,"76c1cda0d1f321c483fc398c286bc8154adcd3cc0fd2201a68b9a9d00f7cd383")
