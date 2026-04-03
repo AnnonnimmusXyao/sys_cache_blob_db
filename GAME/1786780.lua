@@ -1,0 +1,4 @@
+--game: Batsumaru
+
+addappid(1786780)
+addappid(1786781,0,"bca46c6cc61c38b82e11d1dc05d30c8905cfcddc1155f5812c14f090f45f0598")
