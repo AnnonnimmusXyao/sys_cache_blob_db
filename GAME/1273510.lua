@@ -1,0 +1,4 @@
+--game: Mysterious World
+
+addappid(1273510)
+addappid(1273511,0,"2d299c27e9e69e5e3ea15e25c8bc5c0c1dc282bbc4625f696327f344138ca1f9")
