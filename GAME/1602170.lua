@@ -1,0 +1,4 @@
+--game: Need For Conquest
+
+addappid(1602170)
+addappid(1602171,0,"8e202f87dbcf1a1ff376fad3d68af40cc2b9fca81a2234be001c05e5f164646c")
