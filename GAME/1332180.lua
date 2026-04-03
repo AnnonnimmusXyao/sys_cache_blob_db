@@ -1,0 +1,4 @@
+--game: CIPHER ZERO
+
+addappid(1332180)
+addappid(1332182,0,"3e296c4fdd8df16340b78e3ac679f31f04bbc55b024605311b8840c06677a023")
