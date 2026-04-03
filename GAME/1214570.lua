@@ -1,0 +1,4 @@
+--game: DriftOn
+
+addappid(1214570)
+addappid(1214571,0,"2d364e1b057aa72746d3c149cb71ba7d914920d12b756c6ade6d2ad2d8b62bcd")
