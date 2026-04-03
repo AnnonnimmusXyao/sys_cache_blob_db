@@ -1,0 +1,4 @@
+--game: 美少女万华镜 -理与迷宫的少女-
+
+addappid(1310990)
+addappid(1310992,0,"28fab8a1be87167abc7c623c1142d6abdc279465b5e33f6c7f9d99a42e34a853")
