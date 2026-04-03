@@ -1,0 +1,5 @@
+--game: Bikini Armour Explorers
+
+addappid(1738520)
+addappid(1738521,0,"44cd14cd20a6b69408965f70e5a214ebdd8708e8c2d13409bcb572ae54443609")
+addappid(1738522,0,"24da35e14065c0fbd2071ac16600f005f7dd610709162c2b0acabe87e48c0f81")
