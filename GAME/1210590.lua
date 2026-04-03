@@ -1,0 +1,4 @@
+--game: 大禹治水 Pipeline Of Emperor Yu
+
+addappid(1210590)
+addappid(1210591,0,"d6f96eeed29ed930461f8f606d38b981994dd03dfd1eaa3f0d60d07d91dae5b7")
