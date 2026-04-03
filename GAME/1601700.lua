@@ -1,0 +1,4 @@
+--game: Society's Paradigms
+
+addappid(1601700)
+addappid(1601701,0,"f5a24fe1b4011e6d8c91734641a4cdd00a66105a0b03178ddef3a537101a2481")
