@@ -1,0 +1,5 @@
+--game: The Elevator Game with Catgirls
+
+addappid(1603500)
+addappid(1603501,0,"c0962ce61950c5dd22f1ce590911d7d68d46c0a68ca414f3eaa41ba8d1240bd2")
+addappid(3344340,0,"5087b872d7ab32ac42e24f1ee5fe966f43be7c3db769c8c47cc1732497011c5f")
