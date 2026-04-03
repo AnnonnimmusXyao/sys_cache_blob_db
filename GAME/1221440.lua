@@ -1,0 +1,4 @@
+--game: Path of Redemption
+
+addappid(1221440)
+addappid(1221441,0,"f7d72c1b10191e093f2c8614c8752f5f7ca8c7430bc8db8c945013a54fe364c0")
