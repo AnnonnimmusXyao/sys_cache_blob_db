@@ -1,0 +1,4 @@
+--game: Heroes of Dungeon
+
+addappid(1382860)
+addappid(1382861,0,"07ba5ed595074b1bd126210f238bd0f2dd504da40b541dbec216f5478d09f42f")
