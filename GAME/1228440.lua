@@ -1,0 +1,4 @@
+--game: Maritime Hegemony： Carrier Travel  海上霸主：航空母舰之旅
+
+addappid(1228440)
+addappid(1228441,0,"14dde3627ccf56c3c580d3ff0c95901d80a8ce7eb0e8dff04db5c18658f6a281")
