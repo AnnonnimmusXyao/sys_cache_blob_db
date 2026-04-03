@@ -1,0 +1,4 @@
+--game: Lost Remnant: Roaches to Riches
+
+addappid(1386020)
+addappid(1386021,0,"bd7ca1fb49e7851c4b41948d5e717c8868f0106d80709dc5fb443c9d4716c30f")
