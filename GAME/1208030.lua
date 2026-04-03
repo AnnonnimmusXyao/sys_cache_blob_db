@@ -1,0 +1,5 @@
+--game: Let's Learn Japanese! Vocabulary
+
+addappid(229005)
+addappid(1208030)
+addappid(1208031,0,"d5918243660f5db7a3ac7f3bdb854dc1f8942bd79abe89170398fe586a6d9b7f")
