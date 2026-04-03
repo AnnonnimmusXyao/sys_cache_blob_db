@@ -1,0 +1,4 @@
+--game: The Magnets
+
+addappid(1532780)
+addappid(1532781,0,"86d0fe5510f388ebd3e4295e0d349d5dad711e85796334bb8f1438dc30bbadc3")
