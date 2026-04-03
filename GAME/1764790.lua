@@ -1,0 +1,4 @@
+--game: Moon  Defense
+
+addappid(1764790)
+addappid(1764791,0,"ba0ad1e58a95a00e6a6aadc3cda625af82335efe44ed2a3d6228a47605812eaf")
