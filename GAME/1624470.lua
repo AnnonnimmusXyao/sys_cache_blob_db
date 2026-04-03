@@ -1,0 +1,4 @@
+--game: Mirror Of Life
+
+addappid(1624470)
+addappid(1624471,0,"6da43d953d80304cc051ec7c19228dcad8fc9a838e4947b09fd1e77abe08b1e8")
