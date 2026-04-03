@@ -1,0 +1,4 @@
+--game: Seblen: Battle!
+
+addappid(1685950)
+addappid(1685951,0,"ae36e03ca9c6f0327e7a53bcab2ffc237910ece452051377da54f9dd8e8325c1")
