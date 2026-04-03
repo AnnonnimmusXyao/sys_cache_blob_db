@@ -1,0 +1,4 @@
+--game: Rollfall: Quest of Acceleration
+
+addappid(1349070)
+addappid(1349071,0,"2848cdb03a1fb99d81d33c9d889c763cd824616473a74439f05d894960fcffcc")
