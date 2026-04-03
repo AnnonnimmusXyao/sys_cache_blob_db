@@ -1,0 +1,4 @@
+--game: Colorful Colore
+
+addappid(1444090)
+addappid(1444091,0,"87fbc7a839ee05dc948b89fcb896d1b441dac4c70c2293e1e2a64a545a1ed7d3")
