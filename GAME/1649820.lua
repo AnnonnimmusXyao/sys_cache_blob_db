@@ -1,0 +1,4 @@
+--game: Unicorn and Sweets 2
+
+addappid(1649820)
+addappid(1649821,0,"87e353201977e53c475daa9c8cd4471816f943ba9a96c0e7c2452b489b637697")
