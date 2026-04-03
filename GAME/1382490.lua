@@ -1,0 +1,4 @@
+--game: Treasure Hunting
+
+addappid(1382490)
+addappid(1382491,0,"66400469c783c9dfe50e46345d5734af7966673f0c48f03da354a55a05643278")
