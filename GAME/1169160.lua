@@ -1,0 +1,4 @@
+--game: ECHORIA: Ancient Echoes
+
+addappid(1169160)
+addappid(1169161,0,"93ee8cba959268c86e5784bb76e0d55adb45a587157124ac7cfe932befa2009e")
