@@ -1,0 +1,4 @@
+--game: Gemstone Defense
+
+addappid(1677300)
+addappid(1677301,0,"0dcb84af7fa07cce1d1cdd160d661a61266619692430f7055959ff113f926dd4")
