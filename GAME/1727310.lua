@@ -1,0 +1,4 @@
+--game: Project: Cow
+
+addappid(1727310)
+addappid(1727311,0,"59c1fba65c8e260c12ce0c414a91acbbf46e0005005b3dcce864aaa2da00b398")
