@@ -1,0 +1,4 @@
+--game: Mad Cart
+
+addappid(1580290)
+addappid(1580291,0,"2ff13431095d51bd6597a0c0ca9f4f585a6a7581348deb37eafac470801dae43")
