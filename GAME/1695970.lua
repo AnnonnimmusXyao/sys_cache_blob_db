@@ -1,0 +1,4 @@
+--game: CUBE-e
+
+addappid(1695970)
+addappid(1695971,0,"e0abcdb01ebc4b48be2c394cc6fe9a6ca1e91a8f29bdb51d7f14ecf911572712")
