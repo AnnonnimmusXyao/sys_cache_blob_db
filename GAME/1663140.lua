@@ -1,0 +1,4 @@
+--game: 女孩与七匹狼
+
+addappid(1663140)
+addappid(1663141,0,"8132278a875eec2dd3633058f7fbb82c9dad8073bf540289570d66eb19f130e1")
