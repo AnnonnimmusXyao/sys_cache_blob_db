@@ -1,0 +1,4 @@
+--game: Hunt Together
+
+addappid(1778030)
+addappid(1778031,0,"50f798c2b7013e1b1b465dc186bbf72681b03c0995ac166b5aa56580995ef25d")
