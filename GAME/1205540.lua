@@ -1,0 +1,4 @@
+--game: Shmup Arena
+
+addappid(1205540)
+addappid(1205541,0,"65ec0b0753ce372c66aee2e59bcc26681ecd58b672bc5afd74861328d6d654ac")
