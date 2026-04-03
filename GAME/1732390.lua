@@ -1,0 +1,5 @@
+--game: Nayuta no Kiseki: KAI
+
+addappid(228983)
+addappid(1732390)
+addappid(1732391,0,"4d0b9fdb6b2518a92b11563182daf85685d3d827ecc7ca573745d057eccf494a")
