@@ -1,0 +1,4 @@
+--game: My name is human
+
+addappid(1667240)
+addappid(1667241,0,"59fe04a552209ac0b43a2796bd97b9e94e481cdc6728ce82e4c1d1629ac234f9")
