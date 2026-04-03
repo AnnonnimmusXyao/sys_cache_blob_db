@@ -1,0 +1,4 @@
+--game: Detective VR: NFT secret Files
+
+addappid(1610670)
+addappid(1610671,0,"f6744654142388025e8ad72a3dea748d3a889e5bfc8583282bb6baa280536b0c")
