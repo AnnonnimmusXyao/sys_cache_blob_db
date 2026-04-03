@@ -1,0 +1,4 @@
+--game: Vaporum: Lockdown
+
+addappid(1161880)
+addappid(1161881,0,"80caf23e14cc7cad0f96285a66a52eaf74e6c4b7d7551d1afae9e7a5c49d2663")
