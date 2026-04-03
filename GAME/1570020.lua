@@ -1,0 +1,4 @@
+--game: World's End Club
+
+addappid(1570020)
+addappid(1570021,0,"e9ca437800a02541ec4f01a35c050be03285f368857b545ed94dae35d8756d4a")
