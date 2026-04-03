@@ -1,0 +1,4 @@
+--game: Cornmaze Craze
+
+addappid(1739130)
+addappid(1739131,0,"6d28b0e12e16d7e3f2175281cdeed23227e9bb2cf6c14bd808d9ce9739a5b250")
