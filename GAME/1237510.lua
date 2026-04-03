@@ -1,0 +1,5 @@
+--game: Dr Livingstone, I Presume? Reversed Escape Room
+
+addappid(1237510)
+addappid(1237511,0,"5900b2653011c2c301f470be292934c21eb74e5bf04871b5af57c10818b1f022")
+addappid(1640620)
