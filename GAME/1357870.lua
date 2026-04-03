@@ -1,0 +1,4 @@
+--game: Metel - Horror Escape
+
+addappid(1357870)
+addappid(1357871,0,"1c82a6b5aaf883617aa58e6f72873cc7bc1286db03c601fe3817ca8cd288d7bd")
