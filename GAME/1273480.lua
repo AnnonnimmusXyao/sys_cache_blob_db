@@ -1,0 +1,4 @@
+--game: The Highrise
+
+addappid(1273480)
+addappid(1273481,0,"00f9a620dab7ccfd76083e360e69f050b80c9eb4c2e9950f41af85680097c08c")
