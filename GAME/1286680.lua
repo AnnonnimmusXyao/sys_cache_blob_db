@@ -1,0 +1,14 @@
+--game: Tiny Tina's Wonderlands
+
+addappid(229033)
+addappid(1286680)
+addappid(1286681,0,"9fc3a420ac82d1a5db76b0eb7fb49dcb9beddd0843042254f712b3bec3975496")
+addappid(1286682,0,"e8012a88d38526c88c0319f71dc6361fb9d774bd84985a7f128a2ede140f7bcd")
+addappid(1621030)
+addappid(1621031)
+addappid(1621032)
+addappid(1622260)
+addappid(1769530)
+addappid(1769531)
+addappid(1769532)
+addappid(1769533)
