@@ -1,0 +1,4 @@
+--game: Phoenix Strike
+
+addappid(1237460)
+addappid(1237461,0,"a35c52b40e83abffafe03aa31c04ca84e12c85cdd8ec67677e4959284d6ff4f1")
