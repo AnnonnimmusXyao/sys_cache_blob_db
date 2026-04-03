@@ -1,0 +1,4 @@
+--game: Salome's Kiss
+
+addappid(1779960)
+addappid(1779961,0,"23e8e92ce614e3b38d83f1e32e65d7ec0647b424343d25dcbea0a46f51d48d9b")
