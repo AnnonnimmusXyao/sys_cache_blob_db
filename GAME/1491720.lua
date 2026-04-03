@@ -1,0 +1,4 @@
+--game: Frick, Inc.
+
+addappid(1491720)
+addappid(1491721,0,"5c57d68672d737061747ceea8ec4eeafb1dcef9f00920f55af3dc458977d8171")
