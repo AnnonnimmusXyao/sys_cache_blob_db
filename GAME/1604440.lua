@@ -1,0 +1,4 @@
+--game: Recall
+
+addappid(1604440)
+addappid(1604442,0,"5a29af63c4e5482fc981a17d302c8d9d2ee3858371d655d75da50d8fae972bd6")
