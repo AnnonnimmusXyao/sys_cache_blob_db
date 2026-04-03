@@ -1,0 +1,6 @@
+--game: Angry Golf
+
+addappid(228987)
+addappid(229000)
+addappid(1145780)
+addappid(1145781,0,"c37cb8979a050caea29c940fd13239f7cc0262ed371f7743e497f5fcb21c7e6d")
