@@ -1,0 +1,4 @@
+--game: Self-Delusion
+
+addappid(1590190)
+addappid(1590191,0,"ab997772a93e5e05bd05270da8ef242023dedf34708932abdf89cace134e45af")
