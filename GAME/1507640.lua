@@ -1,0 +1,4 @@
+--game: Mage Hunters
+
+addappid(1507640)
+addappid(1507641,0,"d1336db7d111b6ae009a09595b585d89395056861b6e545fb0fe8224fc08f5ba")
