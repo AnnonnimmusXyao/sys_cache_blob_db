@@ -1,0 +1,4 @@
+--game: Lone Fungus
+
+addappid(1674780)
+addappid(1674781,0,"bd7f83ebcedce1e0c989d4b0c5f5336fb5f7e7d0fa76810799427d8e0c07d7f6")
