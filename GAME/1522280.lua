@@ -1,0 +1,4 @@
+--game: Grim Realms
+
+addappid(1522280)
+addappid(1522281,0,"8160f1147cdf92cd96189792a0987ff4d9e5bd78e65150ecd46d5409871a9432")
