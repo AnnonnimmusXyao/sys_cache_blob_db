@@ -1,0 +1,4 @@
+--game: Copy Editor: A RegEx Puzzle
+
+addappid(1489660)
+addappid(1489661,0,"7adf4553a9cf191f9b6a80984e146d683bf7c61ff010ea6b03601980889e262d")
