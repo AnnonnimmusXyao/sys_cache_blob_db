@@ -1,0 +1,4 @@
+--game: Olympic Boxing
+
+addappid(1357640)
+addappid(1357641,0,"9d4e5a0162bc1ef6e54cfadda9cff1dda3a72468b8d519647bd018ecbe63a04a")
