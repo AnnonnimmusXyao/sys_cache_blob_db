@@ -1,0 +1,4 @@
+--game: Seal World
+
+addappid(1684410)
+addappid(1684411,0,"53e94325e2d749609640d0035a7f5b3ff44e3700a4c7f8c3ec1f0be6c1d7a549")
