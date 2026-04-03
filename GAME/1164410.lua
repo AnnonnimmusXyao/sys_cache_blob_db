@@ -1,0 +1,4 @@
+--game: Restless Hero
+
+addappid(1164410)
+addappid(1164411,0,"d4e957ac7501a7ee0e936e568c971aad3a232b8869cbcb3d4dfc42c96c7dba7b")
