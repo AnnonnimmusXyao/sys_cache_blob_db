@@ -1,0 +1,4 @@
+--game: Gunbrick: Reloaded
+
+addappid(1222270)
+addappid(1222271,0,"52400c4ee1fa676319854c4eeb02a167c8cb794f5cd6b0942750739a8e1eb692")
