@@ -1,0 +1,4 @@
+--game: Hoples
+
+addappid(1660460)
+addappid(1660461,0,"da5da2383cbc3d8a42712a0c6606b5f3d784aa842543832302b7fef274aa041c")
