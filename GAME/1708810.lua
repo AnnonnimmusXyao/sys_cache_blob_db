@@ -1,0 +1,4 @@
+--game: COTTOn Boomerang - Saturn Tribute
+
+addappid(1708810)
+addappid(1708811,0,"53d8675aa9c98d0fe61f799e82799e66e31208aa76755a27029a465a5211bb78")
