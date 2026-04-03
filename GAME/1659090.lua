@@ -1,0 +1,6 @@
+--game: REMEDIUM
+
+addappid(229007)
+addappid(229020)
+addappid(1659090)
+addappid(1659091,0,"214585f811b4457a928b7c8888ad914c00ae2378d2b2ebd66887ecf6654bfcef")
