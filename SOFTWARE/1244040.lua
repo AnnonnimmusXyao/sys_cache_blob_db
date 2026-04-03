@@ -1,0 +1,4 @@
+--game: Crocotile 3D
+
+addappid(1244040)
+addappid(1244044,0,"ac90285d5c5308df897fabd50d4683ed2641b00ddf71bb98fdf07e72f3343708")
