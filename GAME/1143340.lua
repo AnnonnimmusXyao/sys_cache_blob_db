@@ -1,0 +1,4 @@
+--game: Industriworks
+
+addappid(1143340)
+addappid(1143341,0,"614b070e533777a99b27588a734bbe7eddcd34865ee68a3ca42159721a929107")
