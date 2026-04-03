@@ -1,0 +1,4 @@
+--game: The Corruption Within
+
+addappid(1395400)
+addappid(1395401,0,"d9a1f1f2d8af6dd00bd295fcad54842713504dc892fe4c274270e6c9b0fafdd5")
