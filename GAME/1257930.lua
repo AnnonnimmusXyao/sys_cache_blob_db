@@ -1,0 +1,4 @@
+--game: Zero Tolerance
+
+addappid(1257930)
+addappid(1257931,0,"62b7732a51355ae5eae4e0678a281515e244d4a8105a4016baa5e8b8d891768e")
