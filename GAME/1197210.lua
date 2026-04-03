@@ -1,0 +1,4 @@
+--game: HentaiTeachers
+
+addappid(1197210)
+addappid(1197211,0,"9ef3730f3ff2b12c3da29cf3fd2562099cb7e482b81639870a771aafae1a8942")
