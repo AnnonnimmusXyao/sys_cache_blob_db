@@ -1,0 +1,5 @@
+--game: L.O.L. Surprise! B.B.s BORN TO TRAVEL™
+
+addappid(1785270)
+addappid(1785271,0,"5494b5c32e035b1fc7ee3b38aa2f98e3e2b468b385e555f1fc3f7e039429f8e6")
+addappid(2116580)
