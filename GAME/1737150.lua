@@ -1,0 +1,5 @@
+--game: Scarlet and Blank
+
+addappid(1737150)
+addappid(1737151,0,"cf0f7d91f7c10667bff2e8303364c1ee4780c4d80c9c9b859ccbdee546a80f1b")
+addappid(1737152,0,"7da3a2887243ca2a0c7c82f45357c305d3ae88d5936736687373e6ffed50b808")
