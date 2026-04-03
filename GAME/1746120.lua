@@ -1,0 +1,4 @@
+--game: Halloween Trouble 3: Match 3 Puzzle
+
+addappid(1746120)
+addappid(1746121,0,"0fc1726586c7047a27f9bc93ee7fb270fb3ea9d4d19cf9caf44e9c6f30f62f05")
