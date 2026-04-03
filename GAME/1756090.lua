@@ -1,0 +1,6 @@
+--game: Trial Of Empires TD
+
+addappid(1756090)
+addappid(1756091,0,"0fa0530cabcd8ba8115436283b2f7acb79e8d3f2adeedc40ed711e9b30d7abdf")
+addappid(1756092,0,"9bcd4c8b323ab38c87cec2cd23de8096d5735d04cb15567792920541ee6e9789")
+addappid(1756093,0,"d2631b57a9614435cbc1d2d9d15096bd5ef053ba2698c096cea64bc16ce29af8")
