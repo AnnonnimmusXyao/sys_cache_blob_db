@@ -1,0 +1,4 @@
+--game: Escape From The Grim
+
+addappid(1226230)
+addappid(1226231,0,"0c39d83f9435a9e3506eed883883ef4621c177c3c0b43c71312f11bbff4dddbc")
