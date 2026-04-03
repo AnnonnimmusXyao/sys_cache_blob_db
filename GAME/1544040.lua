@@ -1,0 +1,4 @@
+--game: Medieval Shop Simulator
+
+addappid(1544040)
+addappid(1544041,0,"f2bf2ea96dfbd4024486cddfef24afac000bda49cce39930a055bc6e0c23e3fa")
