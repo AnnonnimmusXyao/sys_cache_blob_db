@@ -1,0 +1,4 @@
+--game: Heisen Bay
+
+addappid(1576110)
+addappid(1576111,0,"a14d86f1537798aef3a1c8a90010318b12edc1becee1d9f72dd8810405ab845f")
