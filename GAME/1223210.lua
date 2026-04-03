@@ -1,0 +1,4 @@
+--game: Zombie Towns
+
+addappid(1223210)
+addappid(1223211,0,"82711321301a4dbcdd0482421b35cfdfdeacc01331754e46f0df0d2372bbd8a9")
