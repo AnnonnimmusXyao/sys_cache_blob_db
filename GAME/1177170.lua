@@ -1,0 +1,4 @@
+--game: Pooplers
+
+addappid(1177170)
+addappid(1177171,0,"04e59ff565f5c6934a339d9f950d22f4cac958e18ecce33a5a125aa702d07235")
