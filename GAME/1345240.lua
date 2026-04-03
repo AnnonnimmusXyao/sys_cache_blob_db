@@ -1,0 +1,4 @@
+--game: Shuffs
+
+addappid(1345240)
+addappid(1345241,0,"f4f4eec963b3242907b93a7e1ac351a9c36c6cb401bb064b76fbb960b233813a")
