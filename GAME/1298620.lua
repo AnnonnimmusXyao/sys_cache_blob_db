@@ -1,0 +1,4 @@
+--game: GAMECINE VR
+
+addappid(1298620)
+addappid(1298621,0,"df83de7864301c01153cc7ba8b3d3ecf9f507f0863a6ee9d42c1da79ee7f5a4b")
