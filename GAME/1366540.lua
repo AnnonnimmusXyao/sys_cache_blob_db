@@ -1,0 +1,6 @@
+--game: Dyson Sphere Program
+
+addappid(1366540)
+addappid(1366541,0,"88e374cd6c344868ab9b1591cdf0391483ea487bde467410ba7cac376292c19c")
+addappid(1366542)
+addappid(1530310)
