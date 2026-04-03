@@ -1,0 +1,4 @@
+--game: Spooky Milk Life
+
+addappid(1621540)
+addappid(1621541,0,"da248b681f7058df83a67345a8b402b8cfd5bdcfa64a115ae25dfc53352973f7")
