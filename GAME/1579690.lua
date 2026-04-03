@@ -1,0 +1,4 @@
+--game: Void Surfer
+
+addappid(1579690)
+addappid(1579691,0,"ff8d9ec98ec7900bafb2e61890e0ae0ccc7a113d6d2663841f4d2e97c4ee5bee")
