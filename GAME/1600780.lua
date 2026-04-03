@@ -1,0 +1,4 @@
+--game: MY LITTLE PONY: A Maretime Bay Adventure
+
+addappid(1600780)
+addappid(1600781,0,"45af09a05a0ac0a1cd3bba85bf0c39883d53b9ca70bc65c9b591d2b56889fd35")
