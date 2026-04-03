@@ -1,0 +1,4 @@
+--game: Magurele Mystery
+
+addappid(1751560)
+addappid(1751561,0,"7e937fecc5612223716a940dc31cd6f16a287f3ab0b2329604a3fb52a99fc680")
