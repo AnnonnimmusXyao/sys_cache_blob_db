@@ -1,0 +1,4 @@
+--game: 长明火计划 Project: Eternal Flame
+
+addappid(1653050)
+addappid(1653051,0,"063ad9bf6e3454c16bb1ff1880941375636fc4a93535109b2e96df76265ea84b")
