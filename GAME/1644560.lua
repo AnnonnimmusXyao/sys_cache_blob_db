@@ -1,0 +1,4 @@
+--game: Endings
+
+addappid(1644560)
+addappid(1644562,0,"686d7622ef2542ca14fb0ac2d07ce03e868c4d90bd44172d722c2176dbec42bb")
