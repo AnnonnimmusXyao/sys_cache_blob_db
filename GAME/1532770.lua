@@ -1,0 +1,4 @@
+--game: Sex and the Furry Titty
+
+addappid(1532770)
+addappid(1532771,0,"dbc2cd6327f98c3df57a699fdb5bb5b9c66b9d9926889ee6464391cd04d39ff1")
