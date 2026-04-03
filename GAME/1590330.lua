@@ -1,0 +1,4 @@
+--game: Lasagna Boy
+
+addappid(1590330)
+addappid(1590331,0,"282e2bc58f654456d2a7007dfdb9370546a1886996d27602c5846e2c5d49ebcb")
