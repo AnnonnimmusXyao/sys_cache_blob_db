@@ -1,0 +1,4 @@
+--game: Elette Fragments
+
+addappid(1181360)
+addappid(1181361,0,"67c1ff5d10f7d7808e35bcb0f36676db2630c9b83cb57bcbbcb1467076a191c0")
