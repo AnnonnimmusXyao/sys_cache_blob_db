@@ -1,0 +1,4 @@
+--game: Elite Escape
+
+addappid(1141990)
+addappid(1141991,0,"047c93f24a2bf6ad4d0ae548f86f396f2776891cb5775665e2550e9f1704f739")
