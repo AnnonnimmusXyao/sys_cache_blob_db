@@ -1,0 +1,4 @@
+--game: DeadLock
+
+addappid(1688690)
+addappid(1688691,0,"8a7f80feaeb49e53cf519c3f17844fec66af55a0d2a1aea3403e67bc5fa20de1")
