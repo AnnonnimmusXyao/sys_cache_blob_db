@@ -1,0 +1,4 @@
+--game: Midnight Scenes: The Highway
+
+addappid(1279700)
+addappid(1279703,0,"f0754b6d5eefa344aff60dbe70fb85d83acb3d921f63c02dccb4afb9f110b505")
