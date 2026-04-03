@@ -1,0 +1,4 @@
+--game: 七彩航行 Colorful Trip
+
+addappid(1548020)
+addappid(1548021,0,"571588c076d063bca01f5e92670a69b9bd9e8a8b31dd9a5ef1859c254e6f3870")
