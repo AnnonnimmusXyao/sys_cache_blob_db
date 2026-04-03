@@ -1,0 +1,4 @@
+--game: Bossfight Tactics
+
+addappid(1635710)
+addappid(1635712,0,"8b4f8885009ae2a6bcbe85403d8ced9ae6a50ddd5effb6784dd126d61e777fd4")
