@@ -1,0 +1,4 @@
+--game: Kosta Projekt
+
+addappid(1344430)
+addappid(1344433,0,"fd3189f90d60826c10ea0636ef1bfe6cea0c9c1326dd7153a6cf243673f3d14f")
