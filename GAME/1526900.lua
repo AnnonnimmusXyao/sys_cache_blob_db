@@ -1,0 +1,4 @@
+--game: Sapphire Safari
+
+addappid(1526900)
+addappid(1526901,0,"9c4e34006cee70e91a1245dcdd513e30d1dfcf391a5cd0d8e52b0bc8203d2178")
