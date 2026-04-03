@@ -1,0 +1,4 @@
+--game: Meteoroids 3D
+
+addappid(1553110)
+addappid(1553111,0,"72c3599ff801646e8b10d76ff8c0671db0dca00b16d07136801e43305f2c2be4")
