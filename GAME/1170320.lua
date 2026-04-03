@@ -1,0 +1,4 @@
+--game: Hentai energy: Halloween
+
+addappid(1170320)
+addappid(1170321,0,"e41466df587d5ce2fee3070da548673f95016f613fb3fa27edf2980a2c90ee01")
