@@ -1,0 +1,4 @@
+--game: Shoot Shoot My Waifu
+
+addappid(1405660)
+addappid(1405661,0,"486bbd6889295eabe558d318911b750096fd245ea18e85d68a46d090c2bea36d")
