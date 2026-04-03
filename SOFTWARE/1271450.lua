@@ -1,0 +1,4 @@
+--game: Sama Learning
+
+addappid(1271450)
+addappid(1271452,0,"17a02642431cc2de008eb3f4ea6bd251e2c46e5e926a891400da7c80cfa95452")
