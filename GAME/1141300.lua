@@ -1,0 +1,4 @@
+--game: Sloth Quest
+
+addappid(1141300)
+addappid(1141301,0,"bcc0577d54fe7cc84a0020f1c1cfb3dac5d22b619eac80490049e0418cb3021b")
