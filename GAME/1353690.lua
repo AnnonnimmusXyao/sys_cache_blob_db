@@ -1,0 +1,4 @@
+--game: Mini Army Tactics Medieval
+
+addappid(1353690)
+addappid(1353691,0,"435ad1dbe24d2c75dd9bc63c9fdd4e34e8e4d8080464ae83e76ae0ae7f970904")
