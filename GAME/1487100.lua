@@ -1,0 +1,4 @@
+--game: Lost to Time
+
+addappid(1487100)
+addappid(1487101,0,"cd4811ad3dfb531f62818bf88fd7c215fd05ac170152c8e3bcc59aed20843d54")
