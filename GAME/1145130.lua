@@ -1,0 +1,4 @@
+--game: 卖萌恶霸喵霸霸 Cute Bully Nyanbaba
+
+addappid(1145130)
+addappid(1145131,0,"06575ff39f4241946971152143df66a65f3839c75e883a4970e15a30381c1ceb")
