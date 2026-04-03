@@ -1,0 +1,4 @@
+--game: StressOut
+
+addappid(1143770)
+addappid(1143771,0,"2e28e19bb6220633db1b0c20e29fa3c3f30740061a0a6e5c65148cf99734d0c0")
