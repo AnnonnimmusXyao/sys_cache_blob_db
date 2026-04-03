@@ -1,0 +1,4 @@
+--game: BLASTRONAUT
+
+addappid(1392650)
+addappid(1392651,0,"e2e9dcd372c89ac2c7ee1ec58c0578a7f92c960354b16bbe8ae4d39b60b5ce92")
