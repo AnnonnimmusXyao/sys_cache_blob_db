@@ -1,0 +1,4 @@
+--game: My Inner Darkness Is A Hot Anime Girl!
+
+addappid(1753050)
+addappid(1753051,0,"d345175a59cccedf22bc9227ea8817b56b8221100e1a706b803b453090830b2d")
