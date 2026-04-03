@@ -1,0 +1,4 @@
+--game: Psychocat: The Door
+
+addappid(1384820)
+addappid(1384821,0,"c24c8f8fe96c62b2f01d9041812e8cffaac92aa0aa27630438bc2ab1c26629ec")
