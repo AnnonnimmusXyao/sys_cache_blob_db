@@ -1,0 +1,4 @@
+--game: Bish Bash Bots
+
+addappid(1424860)
+addappid(1424861,0,"b534aff2fef456a1101da0df31d9183de9742f896d5fb2bc3f9a99aebc4407ef")
