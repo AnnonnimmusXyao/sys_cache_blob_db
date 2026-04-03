@@ -1,0 +1,4 @@
+--game: Mystery Tales: Til Death Collector's Edition
+
+addappid(1300000)
+addappid(1300001,0,"668b16106febae67b653e84e8708913c8f589e1aa35503d744361671861e8cd5")
