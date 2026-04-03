@@ -1,0 +1,6 @@
+--game: Just Act Natural
+
+addappid(1485080)
+addappid(1485081,0,"ef48e53e752784e4885f55cfe5dbdf842b18da47a5c3a11f547c81ddd0531cc9")
+addappid(1740900)
+addappid(2544070)
