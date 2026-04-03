@@ -1,0 +1,4 @@
+--game: Helicopter Simulator 2020
+
+addappid(1288040)
+addappid(1288041,0,"dd4e1b55eecfd0bc5fbc8bd3a940c54ce9d743d03542d5968d499225a03ffffe")
