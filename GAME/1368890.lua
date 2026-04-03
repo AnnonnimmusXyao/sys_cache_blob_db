@@ -1,0 +1,4 @@
+--game: Hong Kong Obscure
+
+addappid(1368890)
+addappid(1368893,0,"da7c29d289f018fd6615008c9c04e22fb199549eb355e81baefe428a4d38cc13")
