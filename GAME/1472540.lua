@@ -1,0 +1,4 @@
+--game: Save me Mr Tako: Definitive Edition
+
+addappid(1472540)
+addappid(1472541,0,"2a478ac2312e7c27687a1ed1598b9d0523ef763ad60eb421fa4bc7c0c3fa270f")
