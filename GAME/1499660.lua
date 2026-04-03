@@ -1,0 +1,4 @@
+--game: Cute animal jigsaw puzzle
+
+addappid(1499660)
+addappid(1499661,0,"b1fa2ecf7a03ef7bc30d87e9014017f578936291b1538667efc2a917996c4971")
