@@ -1,0 +1,4 @@
+--game: Hermitage: Strange Case Files
+
+addappid(1225820)
+addappid(1225821,0,"b41cff4bd8c58ef3e9de29a57def371f38165ef2e30ea3923e95d211b0775ddb")
