@@ -1,0 +1,4 @@
+--game: Chaos Brigade
+
+addappid(1698930)
+addappid(1698932,0,"12541af030132a7b831e17fe164a5a182ffb1901f7ac9f6ff560f55c5ab60353")
