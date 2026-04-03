@@ -1,0 +1,4 @@
+--game: Beach Body Bros
+
+addappid(1157920)
+addappid(1157921,0,"86248affba131ce5a78d7b6c65544edaa726214016cffa060ffaa2d9bdcfe0a8")
