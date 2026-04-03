@@ -1,0 +1,4 @@
+--game: Enchantress
+
+addappid(1313150)
+addappid(1313151,0,"21cf07bce63ab206db59e8e1c4e3054778b0dcd2c488741ab191c0797b2c4385")
