@@ -1,0 +1,4 @@
+--game: Party Pumper
+
+addappid(1152440)
+addappid(1152442,0,"8619c31afca26188bd6d9ffe66a401055fe5af01dbdad850001cff17f237c0be")
