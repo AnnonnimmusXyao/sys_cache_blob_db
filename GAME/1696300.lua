@@ -1,0 +1,4 @@
+--game: VR Pirates of the Caribbean Life Experience
+
+addappid(1696300)
+addappid(1696301,0,"dab6b85397a8361d72365028dfae4dab3feb698b65701c6411290a6d1d92e828")
