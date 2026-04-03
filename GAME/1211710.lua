@@ -1,0 +1,4 @@
+--game: UFO ESCAPE
+
+addappid(1211710)
+addappid(1211711,0,"f7a201f9c26ff84c36ae27a815bf39c587766dbe6eae0645f0207689cb28f08c")
