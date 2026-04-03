@@ -1,0 +1,4 @@
+--game: Null Drifter
+
+addappid(1170050)
+addappid(1170051,0,"9d70b36c1ed71410a2ea15e8d34fb78a1f7604fffb5fcfb01bf861604d0f5563")
