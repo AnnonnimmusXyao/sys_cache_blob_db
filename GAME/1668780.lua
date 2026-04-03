@@ -1,0 +1,4 @@
+--game: Firelight Fantasy: Vengeance
+
+addappid(1668780)
+addappid(1668781,0,"3d1ca8b02f028604229f63beac922bab96863c21c6f8260db6d5c2219739ca86")
