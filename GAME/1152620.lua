@@ -1,0 +1,4 @@
+--game: PixelForces.io
+
+addappid(1152620)
+addappid(1152621,0,"b47c8e4c53004bf7bb100f3e252c11f75f29ae4fbe64b2ec7efb9d820e35ffa9")
