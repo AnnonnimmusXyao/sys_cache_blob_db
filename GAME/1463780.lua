@@ -1,0 +1,5 @@
+--game: Mohism: Battle of Words
+
+addappid(1463780)
+addappid(1463786,0,"32370b46655d0c403cc0f8f777c257444102f37ededbeebbbbb901d77bb222ff")
+addappid(1463789,0,"3bca134b2c4ff18d65d280eb5c45f6ba3ddb0060e565c2fac2f6c6b817adedfc")
