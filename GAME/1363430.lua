@@ -1,0 +1,8 @@
+--game: Propagation VR
+
+addappid(1363430)
+addappid(228988)
+addappid(228990)
+addappid(1363431,0,"a60fcd8f86ea5f14805c6201b5021353343fa5e5f71f5aa206a45ca420aef1ff")
+addappid(1487770)
+addappid(3902190)
