@@ -1,0 +1,4 @@
+--game: Speedrun
+
+addappid(1308550)
+addappid(1308551,0,"24573f4f0aa7c4382120856de4ee5c775ce30ee80b20bcda951b13bcb2d90c7f")
