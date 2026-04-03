@@ -1,0 +1,4 @@
+--game: Odenavirus: Zombie Invasion
+
+addappid(1536260)
+addappid(1536261,0,"3d07447cf583f439aa98e45b02bff42609664bb61b8425e2ba3d4605df6ba600")
