@@ -1,0 +1,4 @@
+--game: Click and Relax
+
+addappid(1537960)
+addappid(1537961,0,"887317813f2b3196b89fa7d3a212d71d786dd0602c7325a922dd83e498ba5e53")
