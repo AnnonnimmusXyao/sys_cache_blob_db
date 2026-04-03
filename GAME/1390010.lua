@@ -1,0 +1,4 @@
+--game: pyramida
+
+addappid(1390010)
+addappid(1390011,0,"ebee0c8619d82eba352b57b389c7c382ba4460ee45b6bea98ed7644eaa3918a7")
