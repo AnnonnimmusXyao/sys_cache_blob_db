@@ -1,0 +1,4 @@
+--game: Pandemic Pandemonium
+
+addappid(1572170)
+addappid(1572171,0,"292c0b0e809daef40de80d10d2160feb26508600d1edf07cf579591d84a781a0")
