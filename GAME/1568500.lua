@@ -1,0 +1,4 @@
+--game: Traversing Traveler
+
+addappid(1568500)
+addappid(1568501,0,"ecec555aaa80f1b78687deb25c69ec09e31d8b629e74dd53b277b2fe51f429ee")
