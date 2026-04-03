@@ -1,0 +1,4 @@
+--game: Scramble
+
+addappid(1478210)
+addappid(1478211,0,"ad270b92857c514df57f3a0cb93c67893cad095fb8e85b266b35c6eb6efd7f2e")
