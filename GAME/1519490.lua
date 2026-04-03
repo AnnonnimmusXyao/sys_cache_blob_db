@@ -1,0 +1,4 @@
+--game: The Doors of Trithius
+
+addappid(1519490)
+addappid(1519491,0,"b218786c6d2faeda40eb93f4d9c53eb4f136a1029bc283069f138a7a7f133292")
