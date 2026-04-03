@@ -1,0 +1,4 @@
+--game: 《Drifting : Weight of Feathers》
+
+addappid(1378350)
+addappid(1378351,0,"9e4df68a6ca009270b1797daaf3808f167951eb3f984e9481be9335061e0b5ee")
