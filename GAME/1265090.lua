@@ -1,0 +1,4 @@
+--game: 魔女秘药（witch elixir）
+
+addappid(1265090)
+addappid(1265091,0,"5612e22686a8e033a120d56e03296b891a15204ca9d60d0e76fb863ced13ecbe")
