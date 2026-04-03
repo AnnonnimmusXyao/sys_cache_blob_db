@@ -1,0 +1,4 @@
+--game: Stardom
+
+addappid(1512720)
+addappid(1512721,0,"d6519091ba2ac0933c5f29bcd224c489af905681b25d8bc6297f83a9596ad533")
