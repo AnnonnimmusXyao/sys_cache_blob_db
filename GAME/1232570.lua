@@ -1,0 +1,4 @@
+--game: Paper Beast
+
+addappid(1232570)
+addappid(1232571,0,"298c07c73ebb0c5fb279db0d4e966c5fcfed74ea5803343aa391644b3f8f855c")
