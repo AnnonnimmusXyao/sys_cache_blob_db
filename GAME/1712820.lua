@@ -1,0 +1,4 @@
+--game: Brave Dungeon + Dark Witch's Story : Combat
+
+addappid(1712820)
+addappid(1712821,0,"d65d813fc3c2e7ffb79a8768f3bed1a46534aef5307907d127eb19df9f79898e")
