@@ -1,0 +1,4 @@
+--game: Circles of Hell
+
+addappid(1370550)
+addappid(1370551,0,"10b489c520a01333934caf8435548ba348da7149e2c02aa99cbf29db9efd0032")
