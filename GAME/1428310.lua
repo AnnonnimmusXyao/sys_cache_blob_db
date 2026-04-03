@@ -1,0 +1,4 @@
+--game: The Test: Final Revelation
+
+addappid(1428310)
+addappid(1428311,0,"c51b643282ea21f4b792e0f4a6dc28610571e1f61ea599253943c4637a1fb427")
