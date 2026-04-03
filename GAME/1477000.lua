@@ -1,0 +1,4 @@
+--game: Starship Turd Nugget: Too Cool For Stool
+
+addappid(1477000)
+addappid(1477003,0,"680c1bca4b05bd3903980106a1a933850c57f9790f59d05b4bc8b0eff6364320")
