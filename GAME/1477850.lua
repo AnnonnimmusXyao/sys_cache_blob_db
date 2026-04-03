@@ -1,0 +1,4 @@
+--game: Millennium Atoll
+
+addappid(1477850)
+addappid(1477851,0,"a94a24abcde5a59af40cefcba9b95a2fc5914f81e61731f6837e61c084cec02c")
