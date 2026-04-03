@@ -1,0 +1,4 @@
+--game: Slit Mouthed - 口裂け女
+
+addappid(1710750)
+addappid(1710751,0,"c0754499d4b7926438037e3f3fcab6d387bde2d2556e973a526fcc47f0d630e3")
