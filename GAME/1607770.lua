@@ -1,0 +1,4 @@
+--game: Endless Zombie Tower
+
+addappid(1607770)
+addappid(1607771,0,"4125ada79ac2c37592279df780efd950c32667965ec05167a47bd46abb5ebbed")
