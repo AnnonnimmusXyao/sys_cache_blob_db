@@ -1,0 +1,4 @@
+--game: LIBLADE
+
+addappid(1736300)
+addappid(1736301,0,"1d02bbc1840cd551d39ac530e98432baa27d9e0ce454bd6c25262b26cb771b27")
