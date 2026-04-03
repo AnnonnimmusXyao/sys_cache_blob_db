@@ -1,0 +1,4 @@
+--game: Ar nosurge: Ode to an Unborn Star Deluxe
+
+addappid(1477490)
+addappid(1477491,0,"2bc5ef3ac9abae757db296b33a6a511e6df9e6934cc5b6504bd9f1260348da37")
