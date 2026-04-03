@@ -1,0 +1,4 @@
+--game: OPERATION SERPENS
+
+addappid(1364340)
+addappid(1364341,0,"b982bcf86e9cae46dc0a4a459e560f038db409df809016b1e6b8460b1b51306b")
