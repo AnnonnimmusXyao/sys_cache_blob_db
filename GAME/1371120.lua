@@ -1,0 +1,4 @@
+--game: The Maze Escaper
+
+addappid(1371120)
+addappid(1371121,0,"15a82ac06d2830d700c927dc3e5a47d0652ef9997f5ad04a58cc93b4460ae9e6")
