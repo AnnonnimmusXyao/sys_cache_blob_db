@@ -1,0 +1,4 @@
+--game: Twin Stones: The Journey of Bukka
+
+addappid(1662690)
+addappid(1662691,0,"c1f250ccb6e39bce027201c6285b6c78ec9fb1ca1eb3552d3e53a36efcf9cdc2")
