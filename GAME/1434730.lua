@@ -1,0 +1,4 @@
+--game: Epic Diavolo
+
+addappid(1434730)
+addappid(1434731,0,"87987b1c452420280e32e5b0667b3cc207d95f98e91cf96b53637492eb91d1c7")
