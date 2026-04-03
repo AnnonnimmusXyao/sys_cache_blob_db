@@ -1,0 +1,4 @@
+--game: Lofty Quest
+
+addappid(1758320)
+addappid(1758321,0,"2d8aaea9e991b32c027c87e195e82b025802344892f04c2c9459c2648c770cb8")
