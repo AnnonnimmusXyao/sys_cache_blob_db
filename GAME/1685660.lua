@@ -1,0 +1,4 @@
+--game: 保护蛋蛋
+
+addappid(1685660)
+addappid(1685661,0,"b45d303f18e5022c7b002bc25a35aadb5e2e32ba2afdd089bf66629ddeba2552")
