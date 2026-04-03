@@ -1,0 +1,4 @@
+--game: Pilie Pals
+
+addappid(1722590)
+addappid(1722591,0,"71ea6ff159a5e7d17e9ebd98084989357bae6d38fcfd264d85c83828dcfe66e3")
