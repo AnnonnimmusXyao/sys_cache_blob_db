@@ -1,0 +1,4 @@
+--game: Archer Master
+
+addappid(1560390)
+addappid(1560391,0,"fd4dd73b206e3cc44d8e2e0adaad0ebbdcccb1a6f9ca0c827205034b8f7e8590")
