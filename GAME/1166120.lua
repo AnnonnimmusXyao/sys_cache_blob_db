@@ -1,0 +1,4 @@
+--game: SisterFight
+
+addappid(1166120)
+addappid(1166121,0,"360e7c2295cb01281b174b5cd9b57a6d7b89c6a736485cf7853fc574afac779b")
