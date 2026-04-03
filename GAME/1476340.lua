@@ -1,0 +1,4 @@
+--game: The Adventure of NAYU
+
+addappid(1476340)
+addappid(1476341,0,"b953ebcd6059f46ee59b57cb9f67f926da9b6639416eeda88be88036a4eccf65")
