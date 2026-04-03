@@ -1,0 +1,4 @@
+--game: Rosemary's Fate Life Worth Living
+
+addappid(1561920)
+addappid(1561921,0,"47737985af27000afed6873bf062e84c71b3eb217f23e30a09e4ef87d6eec6a4")
