@@ -1,0 +1,5 @@
+--game: NORCO
+
+addappid(1221250)
+addappid(1221251,0,"0b426679c1a4645ceffb450c2cc7429f642700e86834de9d7bbfd6fe53f37a25")
+addappid(1221252,0,"4732571eb94fbee50ef9df204c750bbb946eeb5cb145eb5b321c41e1d5b688ee")
