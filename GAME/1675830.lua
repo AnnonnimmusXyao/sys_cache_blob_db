@@ -1,0 +1,4 @@
+--game: 1000xRESIST
+
+addappid(1675830)
+addappid(1675831,0,"251d5215fe6174f423769d01cc9a6235309a8a94c9b5ec78b6a3c22ac5925de2")
