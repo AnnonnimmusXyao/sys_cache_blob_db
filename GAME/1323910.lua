@@ -1,0 +1,4 @@
+--game: Wall Ninja
+
+addappid(1323910)
+addappid(1323911,0,"7cbfbc74ba8ca655d54cea37f8df87bffa47ff4229336237ef7a2958b8797901")
