@@ -1,0 +1,4 @@
+--game: WeeRPG
+
+addappid(1586330)
+addappid(1586331,0,"0f45ac795dbd41c40d8c0a8ddb8fb35fcce04016570a3487088d769c200956fc")
