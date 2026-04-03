@@ -1,0 +1,4 @@
+--game: 三国吕布传说(Legend of Lv Bu of the Three Kingdoms)
+
+addappid(1353680)
+addappid(1353681,0,"09e4626b6bbbc103fbc106c6204d0ee449e4b883a541f50e0fc6991e5e8eab89")
