@@ -1,0 +1,4 @@
+--game: Bierwagen Rush
+
+addappid(1143140)
+addappid(1143141,0,"8a57791ccd6a4bb53f3f51cd079e52875461ee534ec3daf42312bb4f83947377")
