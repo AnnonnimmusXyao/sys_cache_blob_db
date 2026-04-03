@@ -1,0 +1,5 @@
+--game: つぐのひ -彁名縛りの部屋-
+
+addappid(1562690)
+addappid(1562691,0,"1752d1993f3de371df36865cf79aaec7f95906a46bd1f8d3e7947784f17ec5eb")
+addappid(1562693,0,"50e13595bb74521c87b78497a5bebf56d1c592eed9b91990a1ecfdcc55073e46")
