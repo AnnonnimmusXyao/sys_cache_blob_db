@@ -1,0 +1,4 @@
+--game: 凯尔文 - Kelvin And The Chateau
+
+addappid(1561910)
+addappid(1561911,0,"9a9ed3c4eccb110e13455887bc8bbc68d9bd90c43b80afd5492128699895902e")
