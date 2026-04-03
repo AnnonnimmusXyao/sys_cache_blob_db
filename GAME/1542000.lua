@@ -1,0 +1,4 @@
+--game: Thearchy
+
+addappid(1542000)
+addappid(1542001,0,"1a45738bb625a51926c468d6a981eb35925a75351c11af1145adc4aac9695022")
