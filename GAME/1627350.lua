@@ -1,0 +1,5 @@
+--game: DEAD LETTER DEPT.
+
+addappid(1627350)
+addappid(1627351,0,"8bc236396b13778fd3a38c39cbaa20ae26e3bb34338b08e7660da2e22dc77fba")
+addappid(1627352,0,"63b03309627cdaab06e5857c1e72be51b703ad1bbfa7777bde97b2d54c3bd327")
