@@ -1,0 +1,4 @@
+--game: GALSAD - Galactic Salvage and Disposal
+
+addappid(1344340)
+addappid(1344341,0,"4de558a3d75ec78afae37f94a6194002234bfda16de4648d2e2c2ef10825a7f1")
