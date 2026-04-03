@@ -1,0 +1,4 @@
+--game: Spooky Horror Game
+
+addappid(1764910)
+addappid(1764911,0,"8624644b871bc8ef511dd42e95adebab8db5f0186aa9d70ecfaf2e4a53461e82")
