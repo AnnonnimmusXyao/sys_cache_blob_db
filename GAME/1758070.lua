@@ -1,0 +1,4 @@
+--game: Remy Raccoon and the Lost Temple - Halloween Hijinks (Volume 1)
+
+addappid(1758070)
+addappid(1758071,0,"617fb366fbb2f1cbda894c1265edcacfa1eb5f319dc32ca1823ebe8d1547e780")
