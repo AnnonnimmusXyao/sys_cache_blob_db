@@ -1,0 +1,4 @@
+--game: Slime Sprint
+
+addappid(1502530)
+addappid(1502531,0,"6b0caf1f064ad42ee0883e08a998b01f3a898b382484347b0c790f4590475d03")
