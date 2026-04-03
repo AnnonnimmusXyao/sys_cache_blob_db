@@ -1,0 +1,4 @@
+--game: Hentai Waifu
+
+addappid(1191100)
+addappid(1191102,0,"50b7992b8be6aec699b7290a007d566d1d3638e8ea49dfb6d5abbda024cdcf61")
