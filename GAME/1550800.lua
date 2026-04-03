@@ -1,0 +1,4 @@
+--game: Omega-Altro
+
+addappid(1550800)
+addappid(1550801,0,"54bdd4290695149749af8a6e1bb4d30dc3a7c10c2278d1354673206683cbef94")
