@@ -1,0 +1,5 @@
+--game: Easy Hentai
+
+addappid(1201450)
+addappid(1201451,0,"71a7e1670ff8a8757c22bcf481e3727f2e36cc6e194023a959cfb93fccf11108")
+addappid(1201510)
