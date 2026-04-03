@@ -1,0 +1,12 @@
+--game: Showgunners
+
+addappid(1155330)
+addappid(1155331,0,"162e3f67b49ada80838196b01e21f4b93bbac53734b24528e22d422d30d6c208")
+addappid(2303680)
+addappid(2362290)
+addappid(2362291)
+addappid(2362292)
+addappid(2362293)
+addappid(2362294)
+addappid(2362295)
+addappid(2362296)
