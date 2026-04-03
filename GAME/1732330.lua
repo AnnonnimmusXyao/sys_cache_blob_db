@@ -1,0 +1,6 @@
+--game: Ys IX -Monstrum NOX-
+
+addappid(228983)
+addappid(229007)
+addappid(1732330)
+addappid(1732331,0,"24193ac2bad2747e22948a5f20a863077064cc603f414b81cc592822b62c7bf7")
