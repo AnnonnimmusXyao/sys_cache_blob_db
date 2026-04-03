@@ -1,0 +1,4 @@
+--game: Venkazoid Blast
+
+addappid(1386700)
+addappid(1386701,0,"7ef8e3a055039b1f8f979e2f515daf5c77cd83af4be65791d2b23e6d4bc267d8")
