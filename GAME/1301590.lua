@@ -1,0 +1,4 @@
+--game: Beyond Mankind: The Awakening
+
+addappid(1301590)
+addappid(1301591,0,"5aaec39a47fb48624587c9bb34cf6cfccce7fe79dc587057173accf942a5cb79")
