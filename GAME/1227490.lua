@@ -1,0 +1,4 @@
+--game: Meowhalla
+
+addappid(1227490)
+addappid(1227491,0,"533ef98cdeb1aeff269414024b3290e410527e5637fcbd1eeb9f1ec3db518dfb")
