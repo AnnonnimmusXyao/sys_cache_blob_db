@@ -1,0 +1,4 @@
+--game: Light: A Maze Game
+
+addappid(1274110)
+addappid(1274114,0,"526d48068c05ac9ea4a031b90aa1d9cbf642652cf3e405df56b63b2c3615c70c")
