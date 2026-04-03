@@ -1,0 +1,4 @@
+--game: RPGScenery
+
+addappid(1689510)
+addappid(1689511,0,"3009260b6041d2c5efe97b5031553c85d9ee1712148db505031db387b82ce582")
