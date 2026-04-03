@@ -1,0 +1,4 @@
+--game: Evil Soul 邪恶之魂
+
+addappid(1730090)
+addappid(1730091,0,"96a2998a6d36ebec5b0995f02aeabc5353214396f24d01a76d8344fc51e1f494")
