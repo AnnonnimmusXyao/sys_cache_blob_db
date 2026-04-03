@@ -1,0 +1,4 @@
+--game: Dooria
+
+addappid(1343990)
+addappid(1343991,0,"884418a95da5f49ff5937c87c080909ff52f6590eec4c02ecd7a553761f6e8b1")
