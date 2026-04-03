@@ -1,0 +1,4 @@
+--game: Ice Star Tribes
+
+addappid(1411630)
+addappid(1411631,0,"f2c67855af18366ad809b4efd01d36c8d8340f777da8c26c9d9268cf6af2dd78")
