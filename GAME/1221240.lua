@@ -1,0 +1,8 @@
+--game: Tavern Cards
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(1221240)
+addappid(1221241,0,"bf8581ee1559d6154c71e212e759d20c71277f1e720b62a0f0a978fb05ea6df7")
