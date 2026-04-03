@@ -1,0 +1,8 @@
+--game: 临渊觉醒
+
+addappid(229033)
+addappid(1641670)
+addappid(1641671,0,"7d23d7b7fa7c560cdf18bbfa635fdb400f8fa2456a2c613003c78643fd3514ef")
+addappid(1870080)
+addappid(1880260)
+addappid(1927010)
