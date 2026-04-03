@@ -1,0 +1,4 @@
+--game: Bluravity
+
+addappid(1513260)
+addappid(1513261,0,"f5415e3a0c8ffee4f02b9b8b3a34fa80f7cca619c682d0b231d55a7fab699490")
