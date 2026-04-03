@@ -1,0 +1,4 @@
+--game: Full Pawer
+
+addappid(1574830)
+addappid(1574831,0,"165f162dc781b0ce770533086d9da68c2213e3a305ead4f3fffbbf3f32b4eb54")
