@@ -1,0 +1,4 @@
+--game: Color Pixel Heroes
+
+addappid(1582260)
+addappid(1582261,0,"8cec3e5ec1e548ca20e4ef50c803bf0543312faf5236752400361b1f94cd90a6")
