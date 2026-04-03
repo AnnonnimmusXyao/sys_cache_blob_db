@@ -1,0 +1,4 @@
+--game: One thousand baht simulator
+
+addappid(1691380)
+addappid(1691381,0,"cb42e04241d917af87df2874ee8aaafa9dd69d73b47a0727670dc1458e9a4e19")
