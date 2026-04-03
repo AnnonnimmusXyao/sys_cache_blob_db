@@ -1,0 +1,4 @@
+--game: Tentacular
+
+addappid(1220100)
+addappid(1220101,0,"78049c1a79a8bca9383cc48176aaab95c26daeadd6677114c236601633c4f239")
