@@ -1,0 +1,4 @@
+--game: 肉牛养殖计划
+
+addappid(1568900)
+addappid(1568901,0,"f7e8d4481dec3714c337e3f4fca7538cbbac153d725c58e67f95ace21f1499ea")
