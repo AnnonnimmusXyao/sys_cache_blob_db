@@ -1,0 +1,4 @@
+--game: Fast Gear
+
+addappid(1282390)
+addappid(1282391,0,"2a8bbe50aff77474e2c49cebf416c4c6d3c32f4861c7306535bae9cac83e3ca7")
