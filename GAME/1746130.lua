@@ -1,0 +1,4 @@
+--game: Onmyoji in the Otherworld: Sayaka's Story
+
+addappid(1746130)
+addappid(1746133,0,"df8793540b2978c2e09814c0c62dd173101735311821f84f7eac56f9ee3f08d8")
