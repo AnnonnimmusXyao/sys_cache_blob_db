@@ -1,0 +1,4 @@
+--game: RaceXXL Space
+
+addappid(1159770)
+addappid(1159771,0,"0b7f9df64542e0605d3a6459c341a116f18e56c88f8e19857cf0c8c9a6b1db6d")
