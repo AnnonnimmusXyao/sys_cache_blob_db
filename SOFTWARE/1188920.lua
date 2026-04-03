@@ -1,0 +1,4 @@
+--game: YUR
+
+addappid(1188920)
+addappid(1188921,0,"745fefa83414d6fe7ffb4731304085d3053f1c88526a0b88f6e98607e92fc7a3")
