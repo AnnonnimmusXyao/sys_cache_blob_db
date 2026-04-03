@@ -1,0 +1,4 @@
+--game: Directional Isolation VR
+
+addappid(1358100)
+addappid(1358101,0,"fea72196070383d71ca073dbe1ce1df67fa7073fa3bd111dba1e46aa0af57eb7")
