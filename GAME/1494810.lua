@@ -1,0 +1,4 @@
+--game: Mortal Sin
+
+addappid(1494810)
+addappid(1494811,0,"0a511e83da83f4164929f78b0220da9474d343cbf334e814f37b5731de7196be")
