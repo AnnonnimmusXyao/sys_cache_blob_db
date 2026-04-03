@@ -1,0 +1,4 @@
+--game: 6.0
+
+addappid(1165860)
+addappid(1165861,0,"6fa9d6eb08a76d81b119708b1314f407107171e82613f99f411cbef4c3ebbaef")
