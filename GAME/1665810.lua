@@ -1,0 +1,4 @@
+--game: 2048 Royal Cards
+
+addappid(1665810)
+addappid(1665811,0,"8f7697df6c9313ef118c000e5b28d482ce4a5ec4b163a276e1c222788c7e37d3")
