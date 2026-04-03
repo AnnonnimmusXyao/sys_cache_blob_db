@@ -1,0 +1,4 @@
+--game: DOGS.IO
+
+addappid(1744060)
+addappid(1744061,0,"323945f128abc365149d3b7df6757b13314e421db81c63cd070fd6e322c58a17")
