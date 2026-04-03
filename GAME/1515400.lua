@@ -1,0 +1,4 @@
+--game: A Kiss from Death
+
+addappid(1515400)
+addappid(1515401,0,"c6658597890200b92ef792f1ac22a81dc90cff22bbe82806e5af045aa310afb7")
