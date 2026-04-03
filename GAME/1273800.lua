@@ -1,0 +1,4 @@
+--game: Vaccine
+
+addappid(1273800)
+addappid(1273801,0,"4492f4e58b26c5873aee24ab13c341b01584d31cc8607fd5a2abffbfa1b10aaf")
