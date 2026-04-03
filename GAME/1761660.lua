@@ -1,0 +1,4 @@
+--game: The Van of Justice
+
+addappid(1761660)
+addappid(1761661,0,"e64c41dbb7dbd9a8bd1e6d25ab9b034fa925b2e45729eff518eed0c324509419")
