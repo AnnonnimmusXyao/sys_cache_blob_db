@@ -1,0 +1,5 @@
+--game: The Light of Summer
+
+addappid(1512660)
+addappid(1512661,0,"2fbcf1faa8848948eff4ddd76efc489945f4edf0322f974c18edced29f5cc180")
+addappid(1512662,0,"e1900c6ef20f80ea388ae3bda37f31406a8d46e500f5f31c148b9c7d6a817a1d")
