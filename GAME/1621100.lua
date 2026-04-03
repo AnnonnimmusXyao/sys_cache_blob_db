@@ -1,0 +1,4 @@
+--game: Sorcerous
+
+addappid(1621100)
+addappid(1621101,0,"a13744a5bf6b7a47cb33bbb3e4cad7b74675d77d172cedce693cf7f48ce7fb1f")
