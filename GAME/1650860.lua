@@ -1,0 +1,4 @@
+--game: Chambers of Devious Design
+
+addappid(1650860)
+addappid(1650861,0,"b14b41d55d0ec55528e5296ea4d7880670f0d58dcdbdbfb160e76d462ff2efcd")
