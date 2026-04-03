@@ -1,0 +1,4 @@
+--game: Mutated Muter's Invasion
+
+addappid(1245080)
+addappid(1245081,0,"417270d60245c0026ed7e4676aa7bab235561d6dbc19a63f756d843cec44f306")
