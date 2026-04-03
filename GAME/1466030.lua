@@ -1,0 +1,4 @@
+--game: Pamir Saga
+
+addappid(1466030)
+addappid(1466031,0,"9c08f93d584f6b808accfb70575d59f8aadf1bcd93dec78b1cba354bb1570858")
