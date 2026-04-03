@@ -1,0 +1,4 @@
+--game: Church of the Midnight Sailor
+
+addappid(1645990)
+addappid(1645992,0,"2fbbeea497453ebf55581e7c723324b4e6b91a7595530271ae479601c0528e4c")
