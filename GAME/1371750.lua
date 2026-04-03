@@ -1,0 +1,4 @@
+--game: T-Minus 30
+
+addappid(1371750)
+addappid(1371751,0,"b57aa0a462202118a21da1af469155bcc41110917471b1989d440ca2dafc9d41")
