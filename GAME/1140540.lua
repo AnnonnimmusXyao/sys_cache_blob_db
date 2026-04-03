@@ -1,0 +1,4 @@
+--game: Lonely Arts
+
+addappid(1140540)
+addappid(1140541,0,"a9a99b750b019ee40a849579198e4d474cf607a8b9b8aadf7b1c3bd90911cd20")
