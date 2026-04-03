@@ -1,0 +1,4 @@
+--game: 丧尸之城   Epidemic
+
+addappid(1420980)
+addappid(1420981,0,"bc22aa502ee973554e267949231620c4eff141425dad62ef18ccd14011cca086")
