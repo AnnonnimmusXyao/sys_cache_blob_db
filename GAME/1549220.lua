@@ -1,0 +1,4 @@
+--game: Storyblocks: The King
+
+addappid(1549220)
+addappid(1549221,0,"553fde5a98242bbb2e56657e27164732d5af02e219815db866e0bb56d616e7c5")
