@@ -1,0 +1,4 @@
+--game: 人格面具：陰影面積(Persona：Shadow)
+
+addappid(1253400)
+addappid(1253401,0,"a42ac9fcdc8d5ad6f8820cc30c8cc901b7a654001828df04f0bba108e3dc6f27")
