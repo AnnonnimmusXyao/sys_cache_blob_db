@@ -1,0 +1,4 @@
+--game: Tales of Tomorrow: Experiment
+
+addappid(1189730)
+addappid(1189731,0,"bba2329b113a7e081fdb36ea6ddeb1341f8e2bc06f213eaa8bbb31520923a290")
