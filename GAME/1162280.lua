@@ -1,0 +1,4 @@
+--game: Eternal Hope
+
+addappid(1162280)
+addappid(1162281,0,"14794ccf7ff5ef784069dea896939ce167c3c75b18a8c40073dfc4740f6ce2ad")
