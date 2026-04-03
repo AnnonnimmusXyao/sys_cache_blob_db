@@ -1,0 +1,4 @@
+--game: Mine Trap Reborn
+
+addappid(1310390)
+addappid(1310391,0,"c6dff32ce8e5b3f30ee2a0fc54795088a49244e1cece84cb9532a02b1390f4aa")
