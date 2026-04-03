@@ -1,0 +1,6 @@
+--game: CONSCRIPT: Director’s Cut
+
+addappid(1286990)
+addappid(1286991,0,"8c1377b907d090b7a9a8e8ea92efdb8cd9a27c88c08f2b7d596ec27878deb993")
+addappid(2936330)
+addappid(2936340)
