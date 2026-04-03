@@ -1,0 +1,4 @@
+--game: PAW Patrol Mighty Pups Save Adventure Bay
+
+addappid(1374990)
+addappid(1374991,0,"e063499289c711bd928f62b294c3bf225bec365e3e5c45e6ac29681d3ebbd401")
