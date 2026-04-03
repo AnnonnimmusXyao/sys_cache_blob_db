@@ -1,0 +1,5 @@
+--game: PARANOIA PLACE
+
+addappid(228983)
+addappid(1592290)
+addappid(1592291,0,"acd2f8b4b5818e8958a6f694789fe7f6c3127753e27e8da0c99dfe11a97bab22")
