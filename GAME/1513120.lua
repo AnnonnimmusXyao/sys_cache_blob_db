@@ -1,0 +1,4 @@
+--game: The Zodiac Trial
+
+addappid(1513120)
+addappid(1513121,0,"1d2a910a8a4d05b93cce98264c8fd1dbf4197c6dd84ee3248dbb9213e803efe2")
