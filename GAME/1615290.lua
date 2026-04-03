@@ -1,0 +1,4 @@
+--game: Ravenous Devils
+
+addappid(1615290)
+addappid(1615291,0,"3922ca231f055cfc951f20d2aa0497a90dd0ddf945d91135ece9ed433f37534a")
