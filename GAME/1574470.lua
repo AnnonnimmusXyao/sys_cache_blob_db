@@ -1,0 +1,4 @@
+--game: Hop Step Sing! VR Live 《Hop★Summer Tour 2020》
+
+addappid(1574470)
+addappid(1574471,0,"e1ffdde9967ce3c9e1268f9d452d459029552ba160615d873303a9179ccb9160")
