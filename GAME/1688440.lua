@@ -1,0 +1,4 @@
+--game: Secret Trouble
+
+addappid(1688440)
+addappid(1688441,0,"acb76dde35d7188841258f441f4dcf58cecd9ee08962ad1ef2f4ca2a3bf26dc1")
