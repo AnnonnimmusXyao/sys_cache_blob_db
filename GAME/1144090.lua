@@ -1,0 +1,4 @@
+--game: ArtFormer: Ancient Stories
+
+addappid(1144090)
+addappid(1144091,0,"25e9f6ad2251c2d004b825ddf04a51d3646f4b5895ec55b3fce67c52f108d795")
