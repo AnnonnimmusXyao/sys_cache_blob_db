@@ -1,0 +1,4 @@
+--game: The Legend of Eldridge Scrolls: Woop
+
+addappid(1215600)
+addappid(1215602,0,"b9e67116e32ff757548e5e587205a9f8893247c765fbfb65de1c5fd4b3b2fc39")
