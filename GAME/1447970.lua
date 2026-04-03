@@ -1,0 +1,4 @@
+--game: Spacebug
+
+addappid(1447970)
+addappid(1447971,0,"d880a909f96ecbdd0d7832c39809f7907da1649470749817fd4ce881953abf80")
