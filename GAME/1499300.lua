@@ -1,0 +1,4 @@
+--game: dogpet
+
+addappid(1499300)
+addappid(1499301,0,"7e693a52c3446bee9cee8eabec2d600c261722f2ee9a1622a448f65968adab04")
