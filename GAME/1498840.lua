@@ -1,0 +1,4 @@
+--game: Rushing Beat Of Rage
+
+addappid(1498840)
+addappid(1498843,0,"f3c7480c5c4a5fc2ec827cd2c0cdb9db3b06ddbfc1076934901cc306faa34b0d")
