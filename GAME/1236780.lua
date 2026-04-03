@@ -1,0 +1,10 @@
+--game: AKIBA'S TRIP: Hellbound & Debriefed
+
+addappid(229000)
+addappid(229002)
+addappid(229003)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(1236780)
+addappid(1236781,0,"c58644dc4a81ca9440da3ae0f460a5d01168e7f6f98c4241b5816ab3dc7a7f83")
