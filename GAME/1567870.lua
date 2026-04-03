@@ -1,0 +1,4 @@
+--game: KingdomDefense
+
+addappid(1567870)
+addappid(1567871,0,"aeb561195783b87976a1524305f653cd1bb756ae767b344ff5d2c1fbc6ae4617")
