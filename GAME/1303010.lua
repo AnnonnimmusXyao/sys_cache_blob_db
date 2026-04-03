@@ -1,0 +1,4 @@
+--game: Vincemus - Air Combat
+
+addappid(1303010)
+addappid(1303012,0,"325f2f900c5b56e425e5c58f7c333620a8a27befa888233c94d3753bdeb79a5f")
