@@ -1,0 +1,4 @@
+--game: Ciconia When They Cry - Phase 1: For You, the Replaceable Ones
+
+addappid(1162560)
+addappid(1162561,0,"b9c1011039ece640ff9997da88fb3b93c5b773e8b00a6d6b6b6fa9d95deb71e3")
