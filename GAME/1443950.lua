@@ -1,0 +1,6 @@
+--game: Last Hope
+
+addappid(1443950)
+addappid(1443951,0,"917c805c672ab46dcc621f2e90b7849018c5a3af1f004ea9eb188dccf53f0ac7")
+addappid(1443952,0,"c7ccf2ce3e0660c0a5e95a2d0fb0c7b16c5dbac35a1e4f43c7b08f37cc3ab7d3")
+addappid(1443953,0,"af38250522abc1871ef9bde90abdff9410c78dfb0af14d2233b227810c3d069a")
