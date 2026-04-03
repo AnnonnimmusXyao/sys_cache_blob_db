@@ -1,0 +1,4 @@
+--game: Zoo 2: Animal Park
+
+addappid(1352330)
+addappid(1352331,0,"d9a76e33e7a222522d2a1486673cb6a697aad81f60cda4afe8c46097d473698a")
