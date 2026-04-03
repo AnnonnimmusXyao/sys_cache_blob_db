@@ -1,0 +1,4 @@
+--game: Dogs of Wallstreet
+
+addappid(1164970)
+addappid(1164971,0,"7e080861e0b6b25fcbc2e582fcf361cf9317f4addfd78d285ea8040944b4019e")
