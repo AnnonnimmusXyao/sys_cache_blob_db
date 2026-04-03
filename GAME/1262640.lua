@@ -1,0 +1,4 @@
+--game: Brittany Home Alone
+
+addappid(1262640)
+addappid(1262641,0,"4022f6a7d0206fdda55da5d47b343c737c5069fa970633a0a6ff6f161dbd5987")
