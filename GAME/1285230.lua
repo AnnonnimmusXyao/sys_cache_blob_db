@@ -1,0 +1,4 @@
+--game: Ultimate Racing 2D 2
+
+addappid(1285230)
+addappid(1285232,0,"cc40d30c74f2b18479d080a384b1f2ac3e3e0e79d6062a965abb9f2382055e79")
