@@ -1,0 +1,4 @@
+--game: Deadly Night - No Escape
+
+addappid(1177850)
+addappid(1177851,0,"15c87de3628035b51417f26d5072977dbc36aad15d4585cb7379a5c86a75c522")
