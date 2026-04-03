@@ -1,0 +1,4 @@
+--game: Henry's Day
+
+addappid(1611930)
+addappid(1611931,0,"7f6731682d1a2e5368fde6da1db4fc60a847746c5f5c836c08a9cc54c7c99b3c")
