@@ -1,0 +1,4 @@
+--game: Galactic Federation
+
+addappid(1779550)
+addappid(1779551,0,"c9188d9af00999140902ecf02e8600bfc5ef819819fafa39c71e089f29275f0f")
