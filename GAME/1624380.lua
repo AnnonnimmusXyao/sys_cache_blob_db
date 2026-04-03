@@ -1,0 +1,5 @@
+--game: Horny Sekai
+
+addappid(1624380)
+addappid(1624381,0,"7947fd79d5fc9cb252f5435c750b714f7d865cb2dee07c6b447a3a9685e47c5d")
+addappid(1729680,0,"e82679bb60531f2c9f7a523ce4aa0b84be11db8c9deae56967b999365d2b5d1d")
