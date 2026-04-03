@@ -1,0 +1,4 @@
+--game: Hurry Up!
+
+addappid(1323200)
+addappid(1323201,0,"f04f53af746e200dd0920c87a0f3fa117dbfcec31a7e4ad544983cae18a8bb1d")
