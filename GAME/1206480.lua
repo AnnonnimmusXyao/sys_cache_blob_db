@@ -1,0 +1,7 @@
+--game: Swordsman VR
+
+addappid(228987)
+addappid(229006)
+addappid(229033)
+addappid(1206480)
+addappid(1206481,0,"547327d0263bf39a7565ec9d26a363234a8362049c201efbb02596625a875a73")
