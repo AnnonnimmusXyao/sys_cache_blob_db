@@ -1,0 +1,4 @@
+--game: Germany at War - Soviet Dawn
+
+addappid(1383020)
+addappid(1383021,0,"29e3616a21f15251c0db13f357fda1d921658f86a111f4ffdd0debb61bc6d91c")
