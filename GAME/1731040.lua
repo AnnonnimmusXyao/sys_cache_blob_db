@@ -1,0 +1,4 @@
+--game: Shawarma or Shaverma
+
+addappid(1731040)
+addappid(1731041,0,"98a3388f2dbba6ebc7394c6369b683207b73633939f18b6b2e627802d79c9147")
