@@ -1,0 +1,4 @@
+--game: Lost in Terra Mora
+
+addappid(1653910)
+addappid(1653911,0,"023caecc8714c00c54b79462e444ce46edf6c7aafa47c6866cb5da0146e4e478")
