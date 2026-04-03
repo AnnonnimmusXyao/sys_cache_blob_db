@@ -1,0 +1,4 @@
+--game: Card Tower Defence
+
+addappid(1648450)
+addappid(1648451,0,"8f926809472f14dcf870a16158b2e2c3b6354c1b57e579feef864ccd5884940e")
