@@ -1,0 +1,4 @@
+--game: Devil Inside Us: Roots of Evil
+
+addappid(1543520)
+addappid(1543522,0,"bb93b1ed4f9fbd2aac127916b1d725c78c1567f40ae589ee581fec990964c312")
