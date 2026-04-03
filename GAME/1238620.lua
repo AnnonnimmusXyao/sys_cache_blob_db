@@ -1,0 +1,4 @@
+--game: Peg Solitaire Adventure
+
+addappid(1238620)
+addappid(1238621,0,"396abee4bffdb3ce608e841904dcc3f0dfcf1b3b309209b9a2349948bfc04dd7")
