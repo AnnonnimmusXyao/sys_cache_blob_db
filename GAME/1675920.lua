@@ -1,0 +1,4 @@
+--game: Jewel Match Solitaire Summertime
+
+addappid(1675920)
+addappid(1675921,0,"e98119c24845ce1e126fe797c87ceba5a90e69e40221ef587f6ba79a1095ada1")
