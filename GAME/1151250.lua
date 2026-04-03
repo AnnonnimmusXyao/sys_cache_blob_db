@@ -1,0 +1,4 @@
+--game: Horror Story: Hallowseed
+
+addappid(1151250)
+addappid(1151251,0,"55892b5dee52c0a03551550d89bcbb67c26ac3dd88ff14b60798c1c2404be33d")
