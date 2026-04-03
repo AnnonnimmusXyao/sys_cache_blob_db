@@ -1,0 +1,4 @@
+--game: Handy Dandy
+
+addappid(1234400)
+addappid(1234401,0,"811b1d521a17444a57e9fee1944362e2556080830712d1dbbd3cf5a400e83123")
