@@ -1,0 +1,4 @@
+--game: Summoner Apprentice
+
+addappid(1450240)
+addappid(1450241,0,"9dcb8991dd61afa1103e11efac9656ab702be351bbf20ee51a985a79ff4f589a")
