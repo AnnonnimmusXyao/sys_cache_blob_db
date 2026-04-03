@@ -1,0 +1,4 @@
+--game: Crystalreach Islands
+
+addappid(1683870)
+addappid(1683871,0,"580c0e0209c925548f7b9a0b0387210acf0ee0161f3eceec3a6d5f98ab6b013a")
