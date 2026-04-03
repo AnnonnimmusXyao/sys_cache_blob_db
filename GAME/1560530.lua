@@ -1,0 +1,4 @@
+--game: VR BOXING MASTER
+
+addappid(1560530)
+addappid(1560531,0,"75c9ccdb83569b9902012facb1d58fd4e3e0377b5428f8f5bb0f10c1f332226a")
