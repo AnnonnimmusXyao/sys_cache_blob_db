@@ -1,0 +1,4 @@
+--game: Starlight: Defence Command
+
+addappid(1528470)
+addappid(1528471,0,"e80121a3ee7babe098ced68ee8ef89ebc23cf533cef56d29bab6b53f8842966d")
