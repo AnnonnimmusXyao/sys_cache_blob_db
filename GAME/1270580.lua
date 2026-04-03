@@ -1,0 +1,4 @@
+--game: Mind Over Magic
+
+addappid(1270580)
+addappid(1270581,0,"67890182f6c150a904481b542ff399526709e363f448cb001c6cb02fbf8cfe70")
