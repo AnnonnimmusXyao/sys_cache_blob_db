@@ -1,0 +1,5 @@
+--game: Bonfire Peaks
+
+addappid(1147890)
+addappid(1147891,0,"464133c8d6074b0339f91632029811374c11e66fa99697ac89418d8be78af260")
+addappid(2008250)
