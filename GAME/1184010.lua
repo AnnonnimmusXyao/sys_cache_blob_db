@@ -1,0 +1,4 @@
+--game: Monsters Mall
+
+addappid(1184010)
+addappid(1184011,0,"f35e9723372891d9ba75ce302a19752d3c6a618617ac52dadffad4c3fb4559a1")
