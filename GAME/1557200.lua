@@ -1,0 +1,4 @@
+--game: My Eyes
+
+addappid(1557200)
+addappid(1557201,0,"e60807d67aac623e10daf5e10e6d3f1f25cbd57afc430e9a996e2c5524bf081d")
