@@ -1,0 +1,4 @@
+--game: Two Brain Sides
+
+addappid(1511450)
+addappid(1511451,0,"c27a56b103386b1eac9601d43ae8450406ee6ba880b4149c8f43a63c260f8149")
