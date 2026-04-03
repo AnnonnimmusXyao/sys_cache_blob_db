@@ -1,0 +1,6 @@
+--game: Hell Road VR
+
+addappid(229004)
+addappid(1389610)
+addappid(1389611,0,"8d313e1cc90bf3d76b4362c99b6ee43d594c2f1f4720b7ef040f5724a612a0d1")
+addappid(1784850)
