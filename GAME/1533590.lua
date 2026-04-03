@@ -1,0 +1,4 @@
+--game: 三妖精のぴょこぴょこ討伐大作戦！
+
+addappid(1533590)
+addappid(1533593,0,"94b0bc67d00a32214219bf801ab2ef3b01a23a7003d1f0457d18f4a7b8cc0c11")
