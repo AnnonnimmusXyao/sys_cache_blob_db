@@ -1,0 +1,4 @@
+--game: My Haunted Doll
+
+addappid(1181470)
+addappid(1181471,0,"07bef5360c4040aedcb6b6b0ba05a43ad472c40a91e72b4fd9b9f4e1a0a18195")
