@@ -1,0 +1,4 @@
+--game: Rockytown
+
+addappid(1299220)
+addappid(1299221,0,"fb7f3ccab75b3ef5936258000b53204ca77371a1d2b96feac6caff61612c34f3")
