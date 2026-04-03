@@ -1,0 +1,4 @@
+--game: Hyper-Casual Hentai
+
+addappid(1178690)
+addappid(1178691,0,"d870b3aca2e2599cc122c7bbf6368a43458b216d0c45ee8cb1029a4b6bdfcdbe")
