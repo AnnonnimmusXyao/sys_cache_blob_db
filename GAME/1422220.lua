@@ -1,0 +1,4 @@
+--game: Cardinal Chains
+
+addappid(1422220)
+addappid(1422221,0,"dde89d86ee78ca376b218b4f32ed50509b74c4f739dbac4f9f2c851180bbe58b")
