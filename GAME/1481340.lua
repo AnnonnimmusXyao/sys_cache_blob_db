@@ -1,0 +1,4 @@
+--game: 飄流幻境M
+
+addappid(1481340)
+addappid(1481341,0,"e6cd4b255458ae0b16843eaa4a79af3795b3aedcc98ad8d806d287dc989e5b60")
