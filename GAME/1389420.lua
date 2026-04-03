@@ -1,0 +1,5 @@
+--game: Luise and Secret Basement Rooms
+
+addappid(1389420)
+addappid(1389421,0,"d4ecd3d715c929a4e33e61b6f07de1c8c883c697a204d417b4c0b841d485a988")
+addappid(1389422,0,"4f5e333c5a7fb6fb4a40a298f144e16c1c0618ade53b90531a5ba73113e8ad94")
