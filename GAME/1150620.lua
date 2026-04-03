@@ -1,0 +1,10 @@
+--game: Bed Lying Simulator 2020
+
+addappid(228985)
+addappid(228987)
+addappid(229003)
+addappid(229004)
+addappid(229033)
+addappid(1150620)
+addappid(1150621,0,"c83bd5397394fec6878a3ebed5dd73e07a89ce1466e8c693bd176b0f00e7d08b")
+addappid(1220610)
