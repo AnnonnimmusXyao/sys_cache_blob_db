@@ -1,0 +1,12 @@
+--game: Coridden
+
+addappid(1656930)
+addappid(1656931,0,"b376bdb0502d1e99844e5c84dd2cd9b178186f17f4ec21d2b4a4c7cc5fff47cf")
+addappid(3283710)
+addappid(3290720)
+addappid(3290730)
+addappid(3290740)
+addappid(3290750)
+addappid(3290760)
+addappid(3290770)
+addappid(3623610)
