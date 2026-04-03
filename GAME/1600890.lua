@@ -1,0 +1,4 @@
+--game: 恶灵退散 Go Back to Hell
+
+addappid(1600890)
+addappid(1600891,0,"c1d165296ca7dbb03591c6ccaff9c8982b0cce03a38dd7d287e4a5a432723118")
