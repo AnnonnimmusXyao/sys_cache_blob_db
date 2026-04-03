@@ -1,0 +1,5 @@
+--game: SUPERゆきおんなちゃん
+
+addappid(1667920)
+addappid(1667921,0,"9c725940fda44792a886dcfc3f77bca732f96d24ae9676d555d2b162ccb1a82a")
+addappid(1667922,0,"b635954ab6b53aaabebde5057cb5f1f53e1e29ee62cabaff6a130ee33d415c18")
