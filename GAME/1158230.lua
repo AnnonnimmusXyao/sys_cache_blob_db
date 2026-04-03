@@ -1,0 +1,4 @@
+--game: Hunter's Soul
+
+addappid(1158230)
+addappid(1158231,0,"e2a4b55b9874ddd5a002a2492d80ff50e91b6005feaa627086fa248a60cc2986")
