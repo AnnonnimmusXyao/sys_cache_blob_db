@@ -1,0 +1,4 @@
+--game: 群星战纪: 遗失的星辰 - STARS ERA: LOST STARS
+
+addappid(1175120)
+addappid(1175121,0,"a5d052e92864f2a1ccb05a2390c2cfed91008ec29e740609cca0763ae405c540")
