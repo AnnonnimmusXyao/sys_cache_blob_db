@@ -1,0 +1,4 @@
+--game: Operation: Tango
+
+addappid(1335790)
+addappid(1335791,0,"754dc13328edd44c8b6f8618bbd72a482059001a695a5fd8dd98ab5e0938cafb")
