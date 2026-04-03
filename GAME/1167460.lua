@@ -1,0 +1,4 @@
+--game: Hero Hours Contract
+
+addappid(1167460)
+addappid(1167461,0,"61d29cb8832a88657782a1f6e96c1380e7fcd2844640b715a1c424ffd2c1559a")
