@@ -1,0 +1,4 @@
+--game: Starry Knight
+
+addappid(1714460)
+addappid(1714461,0,"f0596fc525aada890a746b5608bca3f13f2b303a9562bc7821d7b04f285b61ff")
