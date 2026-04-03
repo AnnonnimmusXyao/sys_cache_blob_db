@@ -1,0 +1,4 @@
+--game: Endurium
+
+addappid(1236620)
+addappid(1236621,0,"ad3b3054537fda35b2d38b5bf016cce96889a8d195da46ca6ded979ca0d2b2d2")
