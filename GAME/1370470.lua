@@ -1,0 +1,4 @@
+--game: Paralax Vr Aim Trainer
+
+addappid(1370470)
+addappid(1370471,0,"5253a65e76cd3f98c912a290153565789874e234939480668eabaf21f43164fc")
