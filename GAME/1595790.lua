@@ -1,0 +1,4 @@
+--game: Astral Cube
+
+addappid(1595790)
+addappid(1595791,0,"9f1b88a0285a31934715b4bf5a72b03501cbdac09fcec166c343b5c60381cb5b")
