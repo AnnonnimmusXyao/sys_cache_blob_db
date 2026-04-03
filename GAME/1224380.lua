@@ -1,0 +1,4 @@
+--game: Somewhere: Sect of Relic
+
+addappid(1224380)
+addappid(1224381,0,"1cdd1994cfdbf72ec9649937ae25d8797b881cd52bc2abc30bb949250c99ef74")
