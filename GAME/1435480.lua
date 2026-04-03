@@ -1,0 +1,4 @@
+--game: 10mg: Sealed Estate
+
+addappid(1435480)
+addappid(1435481,0,"024a06400bb0dfd81c59b05705b5864a95dc2daff41409131af0fe8d1be74798")
