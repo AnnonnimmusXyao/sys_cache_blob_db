@@ -1,0 +1,4 @@
+--game: Habroxia 2
+
+addappid(1473550)
+addappid(1473551,0,"4ab2c18bb2fe5daad33f0d6f342292a4b4334615076d803c5dc685911c8b3a9e")
