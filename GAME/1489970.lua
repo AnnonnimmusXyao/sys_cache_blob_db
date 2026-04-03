@@ -1,0 +1,4 @@
+--game: Highrise City
+
+addappid(1489970)
+addappid(2024160,0,"23ebabdd6d0b2bf5f89cfab951b3abc5a77e40632b394b0839706ecbdbcc39b9")
