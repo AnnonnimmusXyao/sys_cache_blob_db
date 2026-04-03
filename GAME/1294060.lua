@@ -1,0 +1,4 @@
+--game: 铁道少女:梦想轨迹 2.0 Railway To Dream
+
+addappid(1294060)
+addappid(1294062,0,"a0893ea120341e8540f30c5c12d589279fb025a553948a7e57bca58945080cc0")
