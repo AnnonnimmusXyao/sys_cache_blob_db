@@ -1,0 +1,4 @@
+--game: MIYAMOTO S
+
+addappid(1768530)
+addappid(1768531,0,"16ff96d6844c19cb5d5e41dbccfbc818db1c740c8481677c8318e7c745d6a08b")
