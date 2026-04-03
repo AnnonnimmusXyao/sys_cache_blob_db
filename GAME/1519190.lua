@@ -1,0 +1,4 @@
+--game: Duck Flight Simulator 2021
+
+addappid(1519190)
+addappid(1519191,0,"2861cd7522f401a9b8321e9a4beafc9cf2be4176a0ed2237357a437e766f6e07")
