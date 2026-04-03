@@ -1,0 +1,4 @@
+--game: Final Profit: A Shop RPG
+
+addappid(1705140)
+addappid(1705141,0,"afb305db330270d907c74460a27360f0d865966bf18adfb6223be735106b7832")
