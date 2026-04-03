@@ -1,0 +1,4 @@
+--game: Royal Frontier
+
+addappid(1734270)
+addappid(1734271,0,"1ca8c0e449fff0123543f75e5d17c7b35b27ccbec82725f0f1e66b24ac10706a")
