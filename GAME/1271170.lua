@@ -1,0 +1,4 @@
+--game: The Wizard and The Slug
+
+addappid(1271170)
+addappid(1271171,0,"9093539e0b8e45d5afaba634338d8b9c9b14516314c6c2455a1f2069784f0c03")
