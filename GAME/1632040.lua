@@ -1,0 +1,4 @@
+--game: Magic defense
+
+addappid(1632040)
+addappid(1632041,0,"ce47cdb2b65f23fcdb90433344f7488ce503e314f1682b37efce88f6b1542566")
