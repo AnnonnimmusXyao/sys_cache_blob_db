@@ -1,0 +1,4 @@
+--game: Lorn's Lure
+
+addappid(1417930)
+addappid(1417931,0,"5b76612a1259cbc965a2eceef7a1d4d160d6b2e65c2b4fc5681e750fbb003bfe")
