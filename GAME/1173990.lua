@@ -1,0 +1,4 @@
+--game: Monsters of Kanji 2
+
+addappid(1173990)
+addappid(1173991,0,"e118fed05bf7bbeaffe492fb20852826e45ff1775f4a809059a235da749278a1")
