@@ -1,0 +1,7 @@
+--game: 巴哈姆特2-龍之新娘(Bahamut2-Dragon's Bride)
+
+addappid(1673190)
+addappid(1673191,0,"75c6d5f7828956c11fa41dbb3c0f5c53eb5622154bbaf623766aee436c7292f3")
+addappid(1673192,0,"048158686aa59345e50a63b01de625e02430e59d533a9491a88dca5fa4236a82")
+addappid(1920900)
+addappid(2069130)
