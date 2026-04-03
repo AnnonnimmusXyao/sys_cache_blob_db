@@ -1,0 +1,4 @@
+--game: Chubmen's Strange Case File~Chapter Of Corridor~
+
+addappid(1703620)
+addappid(1703621,0,"c9efad449b019f63dd792cfa9bf756d6141c6ae93c3152b1f623e71328d07389")
