@@ -1,0 +1,4 @@
+--game: Holiday Jigsaw Thanksgiving Day 2
+
+addappid(1716260)
+addappid(1716264,0,"c2ec811789ea08990016c607b2906177e92d09b57982cac5367a2db3d93d767b")
