@@ -1,0 +1,4 @@
+--game: Curling On Line
+
+addappid(1372840)
+addappid(1372841,0,"41332866148c20055cbcb7acaf541d2bb054a06eb9550ec369a9e9f0f0ff67f0")
