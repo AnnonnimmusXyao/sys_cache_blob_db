@@ -1,0 +1,10 @@
+--game: GigaBash
+
+addappid(1546400)
+addappid(1546401,0,"204960045ed3c99ef55795d7304c0d2fb3b2c548b70fabf87559565b88696b18")
+addappid(2161720)
+addappid(2574860)
+addappid(2920450)
+addappid(3063700)
+addappid(3279990)
+addappid(3516760)
