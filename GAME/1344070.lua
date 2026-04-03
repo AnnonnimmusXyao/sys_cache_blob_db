@@ -1,0 +1,4 @@
+--game: Trollhunters: Defenders of Arcadia
+
+addappid(1344070)
+addappid(1344071,0,"7fa7bbfa577ed4202f021c157a122567e3a61859f36927a1da7601d296210349")
