@@ -1,0 +1,4 @@
+--game: EXOTIUM - Episode 2
+
+addappid(1444760)
+addappid(1444761,0,"695f14d9310473e2f2b02b92dc4e8aed50ff260daabb355040591f2e93c39bcf")
