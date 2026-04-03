@@ -1,0 +1,4 @@
+--game: 死寂（Deathly Stillness）
+
+addappid(1727650)
+addappid(1727651,0,"bc8ab7b5b3063d5620446c75d05611a8c3a92584d35351293a7dbca3d8608c63")
