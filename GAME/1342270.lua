@@ -1,0 +1,4 @@
+--game: Nofrills Solitaire
+
+addappid(1342270)
+addappid(1342271,0,"8a2e3466cc7e597c5345d32376e311b16f6cba625627a4f0549c219289eae8bb")
