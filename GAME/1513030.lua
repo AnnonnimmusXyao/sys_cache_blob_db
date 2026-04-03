@@ -1,0 +1,4 @@
+--game: Soar: Pillars of Tasneem
+
+addappid(1513030)
+addappid(1513032,0,"17cb26fd207678129ed3610538c4b404213ba4aa9318b2f852e85ebaaf7f559c")
