@@ -1,0 +1,4 @@
+--game: Looking for Aliens
+
+addappid(1733500)
+addappid(1733501,0,"5cb049d2e891b8012df07d0d339bc72e746a488753edec0272aac1a5cefe53af")
