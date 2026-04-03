@@ -1,0 +1,4 @@
+--game: Naughty Puzzles
+
+addappid(1745140)
+addappid(1745141,0,"56cf2e8bb827a457be01db1b3fa0e2ce040c6659885752da48861f5ffb0c96e9")
