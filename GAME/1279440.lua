@@ -1,0 +1,4 @@
+--game: Realm of Heroes
+
+addappid(1279440)
+addappid(1279441,0,"64284672ec2cde4649be41f4e28c98044032a72414de44a9e59e594adc082b2a")
