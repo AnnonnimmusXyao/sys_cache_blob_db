@@ -1,0 +1,4 @@
+--game: Mini Words - minimalist puzzle
+
+addappid(1158290)
+addappid(1158291,0,"eb6ee3f0c612547b3cfd95147f3175f47ac05767f29d496d0ed0ad276cf5fda9")
