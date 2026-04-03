@@ -1,0 +1,4 @@
+--game: Hentai Thigh
+
+addappid(1237220)
+addappid(1237222,0,"2e834d5d97dff405164ef1ca3048ee93f5449604091dff39c73261ae02d98f6e")
