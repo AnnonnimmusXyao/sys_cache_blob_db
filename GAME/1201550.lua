@@ -1,0 +1,8 @@
+--game: Mad Experiments: Escape Room
+
+addappid(1201550)
+addappid(1201551,0,"d7a1901dfb50b304fa1ef45cc743b495b83b1ad2a6c2ae78fdfa6c3a85cc7dcc")
+addappid(1201552,0,"ff6ae32e6eee7f4890d57829e97353de11e9cf51c26af75d909e878da7503554")
+addappid(1472800)
+addappid(1472801,0,"3dbb61a6ab92add03af4feb736bacc4dd8c11da497a31f5d528035f6412f5a4f")
+addappid(3290800)
