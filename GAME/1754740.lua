@@ -1,0 +1,4 @@
+--game: Gems of Magic: Father's Day
+
+addappid(1754740)
+addappid(1754741,0,"44b59f47e035bc825ed0897317942be1037c026eafaa91b89e8859fe0b3a8ea4")
