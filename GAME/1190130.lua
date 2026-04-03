@@ -1,0 +1,4 @@
+--game: Araha : Curse of Yieun Island
+
+addappid(1190130)
+addappid(1190131,0,"45762472550bc416e068aaa75dad380697a4ee1481941ca6c2b384396df9db1f")
