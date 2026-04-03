@@ -1,0 +1,4 @@
+--game: Hentai Boy
+
+addappid(1620890)
+addappid(1620891,0,"96660b8e186fb32d93f816ec155fe928a51dd2cf0a80fff274fce21a9658e814")
