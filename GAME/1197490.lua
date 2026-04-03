@@ -1,0 +1,4 @@
+--game: Sliding Puzzle Collection
+
+addappid(1197490)
+addappid(1197491,0,"1c9b4bfd5e9f76e276eed04068f0286f750b74fd34ed00969618632d251e2a7e")
