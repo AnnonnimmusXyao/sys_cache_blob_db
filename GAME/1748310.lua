@@ -1,0 +1,4 @@
+--game: Octofight Escape
+
+addappid(1748310)
+addappid(1748311,0,"978ebc9c164e105809500697ee7bfe655b19d91caae09f1cb67e994f6768a7a6")
