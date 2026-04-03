@@ -1,0 +1,4 @@
+--game: Asterix & Obelix: Slap them All!
+
+addappid(1492310)
+addappid(1492311,0,"3ea03d51b8f021ee1e6d523c490249ea975b2236e7aac5d04f160174e683f979")
