@@ -1,0 +1,5 @@
+--game: Sweet and Cute
+
+addappid(1374500)
+addappid(1374501,0,"b97b3f68291e9c3653b02b700168e360394722406988525acd1695cae30c46b2")
+addappid(1377750)
