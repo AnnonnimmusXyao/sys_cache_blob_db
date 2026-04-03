@@ -1,0 +1,4 @@
+--game: Emma Adventure
+
+addappid(1441130)
+addappid(1441131,0,"799ef2f1416969950282fdbe9c437d25c6abfb8a234aabaedc4abaec991074a2")
