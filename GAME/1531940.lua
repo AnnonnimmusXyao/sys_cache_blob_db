@@ -1,0 +1,4 @@
+--game: CONNECT
+
+addappid(1531940)
+addappid(1531941,0,"18758b3892d7761025a8d54fcde091439f76c498a1e8b609fbc7ec9957100a37")
