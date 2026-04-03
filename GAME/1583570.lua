@@ -1,0 +1,4 @@
+--game: СИМУЛЯТОР ОДИНОЧЕСТВА В РУССКОЙ ДЕРЕВНЕ
+
+addappid(1583570)
+addappid(1583571,0,"0e28dc411befc5cf2a9db4bb219ff889abe39f15392abc85cb69e8d707965ee8")
