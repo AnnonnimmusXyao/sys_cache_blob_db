@@ -1,0 +1,4 @@
+--game: Survive after hell
+
+addappid(1524990)
+addappid(1524991,0,"c2729aa43cef67a496b6d3c5f5537b76ca1cfb4319f4b4b3f90d595cfbef44f7")
