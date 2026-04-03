@@ -1,0 +1,4 @@
+--game: Taur
+
+addappid(1227780)
+addappid(1227781,0,"f28b6fe7393eb9c7b888b832198bb3ce17bffe51394dda2dbeb85e2967fc3a41")
