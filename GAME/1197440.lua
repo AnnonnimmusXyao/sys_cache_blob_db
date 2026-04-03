@@ -1,0 +1,4 @@
+--game: 驱魔道人2 BROKEN SPELL
+
+addappid(1197440)
+addappid(1197441,0,"47bc0ac447dea6b9cb6a9628b9ee4851099cbee4ba7a40e1ae74933225a204b6")
