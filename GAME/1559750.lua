@@ -1,0 +1,4 @@
+--game: Dracula VS The Ninja On The Moon
+
+addappid(1559750)
+addappid(1559751,0,"7c94bf120c5f6dcde2829f643984a0928548e24e694829d29ec7532e496e8108")
