@@ -1,0 +1,5 @@
+--game: The Star Named EOS
+
+addappid(1619230)
+addappid(1619232,0,"04b46f04b6d5546e73a2bbe8090fad727e319f7d9a012a14414782c925835a38")
+addappid(2959500)
