@@ -1,0 +1,5 @@
+--game: Street Outlaws 2: Winner Takes All
+
+addappid(1451950)
+addappid(1451951,0,"fd5375d7f84a16bbf89f440c28a457c7885189bbba39dc0ab432a7e7f55513ce")
+addappid(1812470,0,"285963cbd26f8f106c6ed47a6c055d5ccc2ffd38ddfb07d1eee7db1cc5668958")
