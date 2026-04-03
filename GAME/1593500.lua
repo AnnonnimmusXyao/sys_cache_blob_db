@@ -1,0 +1,4 @@
+--game: God of War
+
+addappid(1593500)
+addappid(1593501,0,"77f7390a115063bccc41240f71e0bf27d42c6a7c0424657756fe3f99f26a287a")
