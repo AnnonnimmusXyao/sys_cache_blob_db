@@ -1,0 +1,4 @@
+--game: The Making of Karateka
+
+addappid(1163060)
+addappid(1163061,0,"aa154704abb89172443eb03d3fd97e7d8e907f4a0f8e4cb10e423e0726001720")
