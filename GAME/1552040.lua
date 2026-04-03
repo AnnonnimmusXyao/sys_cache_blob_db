@@ -1,0 +1,4 @@
+--game: Dominant Mind
+
+addappid(1552040)
+addappid(1552042,0,"8379a65d32adff388dfd245dd7b0a8c514f34758aa2ee94eeb4836dcff052293")
