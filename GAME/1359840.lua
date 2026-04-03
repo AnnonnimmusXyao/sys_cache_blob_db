@@ -1,0 +1,4 @@
+--game: Lockdown Hero
+
+addappid(1359840)
+addappid(1359841,0,"1cd9f7e3536f7b9d136da271a13995e62893dc6ab76dd4d7a395391dee3edd73")
