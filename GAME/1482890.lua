@@ -1,0 +1,4 @@
+--game: Sputnik
+
+addappid(1482890)
+addappid(1482891,0,"c0ec9b8845068c79345a736153ded20e454a62009e00b2db82cb6cfb3fdf323b")
