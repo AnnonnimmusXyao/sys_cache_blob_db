@@ -1,0 +1,4 @@
+--game: 瀚辰书院
+
+addappid(1700010)
+addappid(1700011,0,"7ab6fe2f11587d2f890fd39701465a0fc51783f5b26bc443f91532d3bfd1c724")
