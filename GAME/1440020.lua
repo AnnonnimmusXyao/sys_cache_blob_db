@@ -1,0 +1,4 @@
+--game: Artifact Hunter
+
+addappid(1440020)
+addappid(1440021,0,"420ec1af2c6fe845a3ab714f4fc5b5f589b03700fb07154e0eaf835481e364a8")
