@@ -1,0 +1,4 @@
+--game: Dark Heart Mansion
+
+addappid(1324320)
+addappid(1324321,0,"0356668e992d03912cd7a08d5a75e78c51a88dc4ad5789e2f01295844044e260")
