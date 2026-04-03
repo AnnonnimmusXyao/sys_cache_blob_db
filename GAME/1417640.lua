@@ -1,0 +1,4 @@
+--game: Stella Voyager
+
+addappid(1417640)
+addappid(1417641,0,"3246c56c5e9d0effe00cd209fc73abceac3a35152257d30f0c2332af824cc436")
