@@ -1,0 +1,4 @@
+--game: FoxVoltex
+
+addappid(1367130)
+addappid(1367131,0,"ccb32e69db6353760944dbe8b82b732f3332952a93ad954e24fdfe4bf1324800")
