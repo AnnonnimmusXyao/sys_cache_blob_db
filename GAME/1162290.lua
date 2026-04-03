@@ -1,0 +1,4 @@
+--game: Easy hentai puzzle 2
+
+addappid(1162290)
+addappid(1162291,0,"9b82aee7b8d8ad19c9e43f99a4556740906f55bd556f7a2219fb5a70d13275f3")
