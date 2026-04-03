@@ -1,0 +1,4 @@
+--game: The Lone Blade
+
+addappid(1724980)
+addappid(1724982,0,"2ef8f742f248b82ae878fbcdc446529d2f2cfa5ce12cf97e7f53f3a14947ecc8")
