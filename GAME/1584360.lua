@@ -1,0 +1,4 @@
+--game: Labyrinth Hearts
+
+addappid(1584360)
+addappid(1584361,0,"361c278247322853f305365015df7010e84a2eebec3e00c0a695a658845546bb")
