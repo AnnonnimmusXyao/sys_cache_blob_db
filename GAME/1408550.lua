@@ -1,0 +1,4 @@
+--game: Spooky Speedrun
+
+addappid(1408550)
+addappid(1408551,0,"cbeb13057b6ab47d5d04b2cd844a6330c7ce4e74935da4e2a19f3ac258030fae")
