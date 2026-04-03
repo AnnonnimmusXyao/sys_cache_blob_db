@@ -1,0 +1,4 @@
+--game: Candy land
+
+addappid(1666430)
+addappid(1666431,0,"f11ff3851986447096303a1ec4812bb8ebfc5941846d4a86b1085d3efb30f920")
