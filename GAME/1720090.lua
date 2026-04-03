@@ -1,0 +1,4 @@
+--game: Aspire: Ina's Tale
+
+addappid(1720090)
+addappid(1720091,0,"760062f244b6c9e9b8fbaaf412e186244d12f04caedaf9c41ff15a960967ce2b")
