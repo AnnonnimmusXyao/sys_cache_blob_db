@@ -1,0 +1,4 @@
+--game: Droid Guier
+
+addappid(1335910)
+addappid(1335911,0,"7354c12eda2378f5f6de2fb23a61fe0726e56b11c08bf80d39ad7e6810d6a18a")
