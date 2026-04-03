@@ -1,0 +1,4 @@
+--game: Blurple Food Wars
+
+addappid(1431020)
+addappid(1431021,0,"4375b103f71c6536d7fb7d56bcc5ac0169c7f590f68fb9c4ed5c9bf2f6c4b3c9")
