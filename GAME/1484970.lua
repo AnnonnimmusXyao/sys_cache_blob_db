@@ -1,0 +1,4 @@
+--game: Shoot Your Friends
+
+addappid(1484970)
+addappid(1484971,0,"21a5e863c7ee004995ed0da060293bc6931d53b606c4b15fa0ffc570c9ce052a")
