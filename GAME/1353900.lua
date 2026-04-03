@@ -1,0 +1,6 @@
+--game: Lockdown Lewd UP! ❤ New Hope Edition
+
+addappid(1353900)
+addappid(1353901,0,"dab2018c9a2adf9d313a6eff259a8e95f7a1df196842a5e57dd4900d53e2019f")
+addappid(1422160)
+addappid(1521420)
