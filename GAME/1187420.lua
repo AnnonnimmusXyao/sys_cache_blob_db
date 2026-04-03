@@ -1,0 +1,5 @@
+--game: Hasfax
+
+addappid(228987)
+addappid(1187420)
+addappid(1187421,0,"f68d1a4cd8391095e25686aa0cd28841d9eca752f93ab41633ccb08d47341330")
