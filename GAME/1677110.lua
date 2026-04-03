@@ -1,0 +1,6 @@
+--game: Lightyear Frontier
+
+addappid(229033)
+addappid(1677110)
+addappid(1677111,0,"5867f4cfbcf22c9f91f80049ace8660657651cbd62163e7e690b3644dbd98d8b")
+addappid(2655090)
