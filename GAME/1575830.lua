@@ -1,0 +1,5 @@
+--game: ArcRunner
+
+addappid(1575830)
+addappid(229007)
+addappid(1575832,0,"83810b68c2bd3cfdfbc9c717594e9e931b67e34110eef3fd8b7d7c3cd0146d0c")
