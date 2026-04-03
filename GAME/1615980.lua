@@ -1,0 +1,4 @@
+--game: Elite Fighter
+
+addappid(1615980)
+addappid(1615981,0,"5be88a29af99850aa334ce6a93f92248a65a105db4c70dbbf165bcb32ec604bc")
