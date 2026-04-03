@@ -1,0 +1,4 @@
+--game: Nonogram Animals
+
+addappid(1786820)
+addappid(1786821,0,"9ba898a805ea59f73f0c5dcab372c28387672b7ba7e2bd7a3aa6a5821448de52")
