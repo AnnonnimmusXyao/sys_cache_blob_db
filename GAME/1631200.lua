@@ -1,0 +1,4 @@
+--game: Hi Poker 3D:Texas Holdem
+
+addappid(1631200)
+addappid(1631201,0,"076598489f489653058babcffe7332ecd57f09ffb6a44d59faa748f8a138c97c")
