@@ -1,0 +1,4 @@
+--game: Cine Tracer 2
+
+addappid(1774380)
+addappid(1774382,0,"86dda64bcccea17a85c1f9ba8fc73707a6d2da1f100d5581c0603d605d257cd8")
