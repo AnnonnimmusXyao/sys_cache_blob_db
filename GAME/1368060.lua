@@ -1,0 +1,4 @@
+--game: dead run
+
+addappid(1368060)
+addappid(1368061,0,"d4e17059c5cde73e96874ee3574ef96587f9811f3a779c62d5b5e67458b1e6dd")
