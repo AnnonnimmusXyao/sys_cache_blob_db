@@ -1,0 +1,4 @@
+--game: Duil
+
+addappid(1462030)
+addappid(1462031,0,"2024b065f970b66929b31f1edfdadcbfda7d84e7c6e8b03591bbdb0633eb8755")
