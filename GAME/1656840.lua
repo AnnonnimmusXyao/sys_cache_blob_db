@@ -1,0 +1,6 @@
+--game: Mystery Of Dust
+
+addappid(229006)
+addappid(229033)
+addappid(1656840)
+addappid(1656842,0,"1a05e7f9d644f35baa391a75363747ce029d5a6db2a8b59f0b7ab5c9d7aef6a5")
