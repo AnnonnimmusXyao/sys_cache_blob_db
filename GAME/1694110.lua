@@ -1,0 +1,4 @@
+--game: Jigsaw Frame: Hot Anime
+
+addappid(1694110)
+addappid(1694111,0,"83df1b36e2710a0066958f7a6c4142467485014be8f219848c9b2de675e19945")
