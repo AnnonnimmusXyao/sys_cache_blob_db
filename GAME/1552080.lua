@@ -1,0 +1,5 @@
+--game: Deepest Chamber: Resurrection
+
+addappid(229020)
+addappid(1552080)
+addappid(1552081,0,"f09a27a36d2d419a1c972ecd02c36e9e3d13dd9ae80d9b4281293f2e5a669d43")
