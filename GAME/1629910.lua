@@ -1,0 +1,6 @@
+--game: Souls of Chronos
+
+addappid(1629910)
+addappid(1629911,0,"a520d95aac236f70a68664a8b2ea06dda12bd444d216492108c646946738b3ff")
+addappid(2322740)
+addappid(2589680)
