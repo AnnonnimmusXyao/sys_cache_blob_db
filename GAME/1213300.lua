@@ -1,0 +1,9 @@
+--game: 叛逆神魂GODSOUL🔥
+
+addappid(1213300)
+addappid(1213302,0,"a237589c759350160f6eaa4255cfbb51b778235d41e60ca9b6b5ce7936dcca04")
+addappid(3573830)
+addappid(3573840)
+addappid(3573850)
+addappid(3573860,0,"daa9c7677c0363903f504ee940a4451f70777b4b28ffb5ccd0175fbc7bff3a34")
+addappid(3573870)
