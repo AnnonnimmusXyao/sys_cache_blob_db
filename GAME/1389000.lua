@@ -1,0 +1,4 @@
+--game: Boom Dojo
+
+addappid(1389000)
+addappid(1389001,0,"4c24252f39ee793ddde4f8660b1eef4b3d7c087c979fbb14d2f65169135c61d5")
