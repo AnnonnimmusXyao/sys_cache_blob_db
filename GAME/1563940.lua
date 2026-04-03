@@ -1,0 +1,4 @@
+--game: Atlantica Europe
+
+addappid(1563940)
+addappid(1563941,0,"b295bd3a65c78376405945331cba068823a12b2ab87d70096eaed3a534428cb4")
