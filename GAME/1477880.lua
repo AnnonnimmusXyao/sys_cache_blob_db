@@ -1,0 +1,4 @@
+--game: Super tanks RPG
+
+addappid(1477880)
+addappid(1477881,0,"1d1785f2e3140de9de391edc52772824ee30ec9d91f04173be10aca291e8f2fa")
