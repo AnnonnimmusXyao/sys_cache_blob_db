@@ -1,0 +1,4 @@
+--game: Idle TD: Heroes vs Zombies
+
+addappid(1647440)
+addappid(1647441,0,"84f543f6fc0e2b8c9869022c46dc321d751d8686b9d6de2b739575411d520ff6")
