@@ -1,0 +1,4 @@
+--game: A House of Thieves
+
+addappid(1506760)
+addappid(1506761,0,"9c1ea0111eca1c16666126676785c3915c79e8615b3a21856d9fb66cfdbc8ceb")
