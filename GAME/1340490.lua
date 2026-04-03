@@ -1,0 +1,4 @@
+--game: Demon Tamer
+
+addappid(1340490)
+addappid(1340491,0,"a5e25f66f9eed96be79f24b1773bdc86d4919f9ec7a410f54d5da9343137a308")
