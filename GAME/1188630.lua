@@ -1,0 +1,4 @@
+--game: Twitchoos RUN: Socks & Stream
+
+addappid(1188630)
+addappid(1188631,0,"79444b20307900d61943ed4931bb20b46bb8a0c9a17277a9f1858719440f333e")
