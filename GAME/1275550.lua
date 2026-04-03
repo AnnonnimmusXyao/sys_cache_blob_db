@@ -1,0 +1,4 @@
+--game: Arctic Awakening
+
+addappid(1275550)
+addappid(1275551,0,"f773df1b51c9a07762b286ccb245ac7bfeeae6938a32daa8dfdd16c54d63c58a")
