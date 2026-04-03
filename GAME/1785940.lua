@@ -1,0 +1,4 @@
+--game: COVEN
+
+addappid(1785940)
+addappid(1785941,0,"9c74b529485aef198cd1061ffc89618d9f9dbdc29f6a70123d883fa2bcf7b686")
