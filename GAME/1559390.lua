@@ -1,0 +1,4 @@
+--game: 天命奇御二 Fate Seeker II
+
+addappid(1559390)
+addappid(1559391,0,"58119c93ebe4b940d4b167bb3a1c7a17f5ca47e7202b3eff66071d19368d0648")
