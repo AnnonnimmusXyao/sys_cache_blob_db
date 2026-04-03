@@ -1,0 +1,4 @@
+--game: Tactical Force
+
+addappid(1423450)
+addappid(1423452,0,"3cafede6c140fd0d84bee527bfe6d7c1a492414f48eb767e2b713ab7276bd2b9")
