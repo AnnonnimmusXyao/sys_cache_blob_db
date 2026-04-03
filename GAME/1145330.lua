@@ -1,0 +1,5 @@
+--game: Skeleton Crew
+
+addappid(1145330)
+addappid(1145331,0,"bf67d840b19b93baa740266f1a49e184219c48bdb312a6568f8319c02e0b8579")
+addappid(2052530)
