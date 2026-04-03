@@ -1,0 +1,4 @@
+--game: Jump To Die 2 - Bloody Soul
+
+addappid(1224640)
+addappid(1224641,0,"d0546eeabc78c67c72e22154cc71e6dd2de86c630ebff67261cf46d8ab50bc4b")
