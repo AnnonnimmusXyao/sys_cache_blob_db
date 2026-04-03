@@ -1,0 +1,4 @@
+--game: Betelgeuse
+
+addappid(1244530)
+addappid(1244531,0,"383ffaf4cb98952859401b14d7a68c26592e60cf679ca996f3dd6cf572674d23")
