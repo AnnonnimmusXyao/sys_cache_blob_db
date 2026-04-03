@@ -1,0 +1,4 @@
+--game: Hot Tiles
+
+addappid(1365540)
+addappid(1365541,0,"e9d573dc90a6005b59016eb55594901b96b97414fc955a643b7e8734020ef19c")
