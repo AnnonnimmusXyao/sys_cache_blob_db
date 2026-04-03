@@ -1,0 +1,4 @@
+--game: 人魔境共生譚
+
+addappid(1179910)
+addappid(1179911,0,"7cd725f5ff5fb44d396e3b65d900b3d0703384d63c1051f3f2372f8f2ffd2f04")
