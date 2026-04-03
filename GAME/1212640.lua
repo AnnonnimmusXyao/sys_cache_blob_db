@@ -1,0 +1,4 @@
+--game: A Lanterns Glow
+
+addappid(1212640)
+addappid(1212641,0,"a36e3495901ebcb076b52a3bed1abc768c9667046bbc44efe938dceec930e35a")
