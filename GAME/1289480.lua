@@ -1,0 +1,4 @@
+--game: The Hero with a Thousand Arms / 千手英雄
+
+addappid(1289480)
+addappid(1289481,0,"d782a83a405abc02d68d6f9bf213d5d4cde86acd318553fbe7387392a9239917")
