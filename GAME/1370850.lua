@@ -1,0 +1,4 @@
+--game: Elasto Mania II
+
+addappid(1370850)
+addappid(1290222,0,"150de84d86370e58f991de7dc98551101d744e5aec69083b45a639753bbb4685")
