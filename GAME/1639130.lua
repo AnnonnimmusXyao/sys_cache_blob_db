@@ -1,0 +1,4 @@
+--game: 异世界打工人
+
+addappid(1639130)
+addappid(1639131,0,"9eb91b8ebff381bf4b2a467806c9833fc9b9a1e56c92145588053c959b3046eb")
