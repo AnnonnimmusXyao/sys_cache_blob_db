@@ -1,0 +1,4 @@
+--game: 群鹰之岛
+
+addappid(1345400)
+addappid(1345401,0,"8c863cf40fb978b7eb517f58725506b14ca27a9ebcde46749a3de2c87ca10068")
