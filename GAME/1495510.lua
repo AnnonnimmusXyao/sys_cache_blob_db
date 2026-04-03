@@ -1,0 +1,4 @@
+--game: Mey Rescuer
+
+addappid(1495510)
+addappid(1495511,0,"6a4b86fffa2b9bbdf1137a2cecf3876ada8805b6db39f075ddc29d669ff00bc0")
