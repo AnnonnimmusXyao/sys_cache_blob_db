@@ -1,0 +1,4 @@
+--game: 怪物传奇/Monster Legend
+
+addappid(1408310)
+addappid(1408311,0,"95135a6154ca9288f2decf47c11da9906e482fbf8fa069ac46e01253ff5b9652")
