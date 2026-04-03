@@ -1,0 +1,4 @@
+--game: Colorful 3D II
+
+addappid(1251760)
+addappid(1251761,0,"170ce2a113e3413deaa5244fff3493971c603c9c03ff958e0af1caea86286459")
