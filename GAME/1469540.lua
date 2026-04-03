@@ -1,0 +1,4 @@
+--game: Maximus 2: Street Gladiators
+
+addappid(1469540)
+addappid(1469542,0,"04298d84e54fa5e9d01149d5c58b91504f74965b76c61dd1d355fc08a99028de")
