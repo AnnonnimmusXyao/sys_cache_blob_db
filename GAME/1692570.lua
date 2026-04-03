@@ -1,0 +1,4 @@
+--game: Fm45's Sprite Man Adventures
+
+addappid(1692570)
+addappid(1692571,0,"44b40f733c94794dd2f4f8ed05f952cf54414e60f4e175fac7bf68f43cf87849")
