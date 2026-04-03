@@ -1,0 +1,4 @@
+--game: Quickly, Quackley!
+
+addappid(1585830)
+addappid(1585831,0,"9484712ebef944ef67673b9131a18c83e21f41c901f85d89774d987b0f13a367")
