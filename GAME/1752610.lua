@@ -1,0 +1,4 @@
+--game: Give Me More Pills
+
+addappid(1752610)
+addappid(1752611,0,"d02d9e36133cae589aeef6951c51d385f466c60f2ebec21057b4048c0e71009a")
