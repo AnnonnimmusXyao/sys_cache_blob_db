@@ -1,0 +1,4 @@
+--game: Sucker for Love: First Date
+
+addappid(1574270)
+addappid(1574271,0,"8b2656d36390cfdbee7e42259c483e3146055db775c14687286baed5c00551ab")
