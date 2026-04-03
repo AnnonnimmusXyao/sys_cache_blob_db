@@ -1,0 +1,4 @@
+--game: Wingsuit Dream
+
+addappid(1755250)
+addappid(1755251,0,"431dcda4f9d6d546f3cea60c4b24f97c179322c11f613f71492434a2b01f5af8")
