@@ -1,0 +1,4 @@
+--game: Cowboy Life Simulator
+
+addappid(1151380)
+addappid(1151381,0,"10aeaa1e1ecb242e8f577ff9aabcba54ba4f68c13cb2649cca5c6eeef53a822a")
