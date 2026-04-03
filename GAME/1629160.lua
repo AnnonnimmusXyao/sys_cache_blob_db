@@ -1,0 +1,4 @@
+--game: Peg Solitaire
+
+addappid(1629160)
+addappid(1629161,0,"2ffe5a240a208a6980a691fd398c2088f55e7f8c9b8dc7cef7a71d3a349aa208")
