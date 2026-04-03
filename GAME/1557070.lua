@@ -1,0 +1,6 @@
+--game: Cut Them Up
+
+addappid(1557070)
+addappid(1557071,0,"72b46528ebc884762090437f46c16c70fef95d3c3e18113fc3ceba4c55d949da")
+addappid(1619950)
+addappid(1619951)
