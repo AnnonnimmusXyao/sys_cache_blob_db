@@ -1,0 +1,4 @@
+--game: Metaphobia
+
+addappid(1220930)
+addappid(1220932,0,"9bc59fe4421250fdd72acad22e0278373e6bfe7127e3d0eecb797944ac5c30a4")
