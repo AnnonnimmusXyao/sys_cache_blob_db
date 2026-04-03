@@ -1,0 +1,6 @@
+--game: Dominus Galaxia: KS Edition
+
+addappid(1173590)
+addappid(1173591,0,"961f208d7a9cbb7f82a9eb974eda63f177e70c1dda65fb3bb4bfc92bb90e57d4")
+addappid(1173592,0,"c4202cc9cc51a7e2843433692d6291fb60100c06cf7cd0bf36dae700f3a0bd39")
+addappid(1173593,0,"2000eef011db2095b8dc64a910ce1e550201293839c7ab4cdd63d1101c66b3aa")
