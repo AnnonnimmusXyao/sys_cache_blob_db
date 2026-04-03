@@ -1,0 +1,4 @@
+--game: Filthy Animals | Heist Simulator
+
+addappid(1195420)
+addappid(1195421,0,"986fbd3ee13199848d927aa99d007d5336651f9adcdb0981ac24458b7b527e9d")
