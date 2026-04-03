@@ -1,0 +1,4 @@
+--game: Winter War 1939
+
+addappid(1352680)
+addappid(1352681,0,"2ff1396e81ae50f3ef52806e73dfeeb45049c9a7db7929d1a258cae1af72d3ac")
