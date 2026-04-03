@@ -1,0 +1,4 @@
+--game: Detective Jackie - Mystic Case
+
+addappid(1148450)
+addappid(1148451,0,"1fa1458e3682a6c5c099f7b89611b1e68a7aae4f2501da16b6f3f1bb82847042")
