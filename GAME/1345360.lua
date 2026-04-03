@@ -1,0 +1,4 @@
+--game: Strip Black Jack - Hot Gym
+
+addappid(1345360)
+addappid(1345361,0,"f04590df5190c3406e866c4939b6e3b6013c92810fc317f3bb81c22134191e05")
