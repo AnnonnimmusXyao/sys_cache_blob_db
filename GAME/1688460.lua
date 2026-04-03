@@ -1,0 +1,4 @@
+--game: Battlegrounds : First Blast
+
+addappid(1688460)
+addappid(1688461,0,"9babb90cb2134ac021858212173291524d2436df787d0554ccc378e0dfce8d3d")
