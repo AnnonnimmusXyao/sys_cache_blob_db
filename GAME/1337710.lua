@@ -1,0 +1,6 @@
+--game: Sanae Toumaden X / 早苗討魔伝X
+
+addappid(228983)
+addappid(228985)
+addappid(1337710)
+addappid(1337711,0,"4a7f92a18b9fc4c40295e2fd95b24849d3cce2a87c1e4b71c3143794911f25ae")
