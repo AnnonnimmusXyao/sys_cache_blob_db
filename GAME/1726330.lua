@@ -1,0 +1,4 @@
+--game: Game Developer Simulator
+
+addappid(1726330)
+addappid(1726331,0,"202dd3d4470853bc66eb149d521b397d52ad0ff555f82c4efaba6475cce7f268")
