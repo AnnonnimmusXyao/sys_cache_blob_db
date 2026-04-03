@@ -1,0 +1,5 @@
+--game: It's Only Money
+
+addappid(1415220)
+addappid(1415221,0,"7bcfc6534e16f9029eb0195388fb1984a1644727d944b4a6eb9e94cae153228b")
+addappid(2139120)
