@@ -1,0 +1,4 @@
+--game: Treasure of Barracuda
+
+addappid(1583630)
+addappid(1583631,0,"81dc0de213cb6cbaa3f3e896262578b5cdf4354f597ce8b16b507a8378a973e8")
