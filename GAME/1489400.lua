@@ -1,0 +1,4 @@
+--game: Fortuito: Lost History
+
+addappid(1489400)
+addappid(1489402,0,"27cc64b88c7321f1fcdfc644acc020233c8a3a7f2326008918c32bd7afbf4de5")
