@@ -1,0 +1,5 @@
+--game: Two Weeks in Painland
+
+addappid(1139950)
+addappid(1139958,0,"142ed1f6492ec150b9a51a7cfc5b75630011ccc07cd5379d6e7fc7d0ad8fe4b4")
+addappid(1139959,0,"2b26c32e1de9617db967c58bde9c57e6b4b1fcd417f23094d3ca7355bff6ad02")
