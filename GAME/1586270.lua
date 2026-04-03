@@ -1,0 +1,4 @@
+--game: Katja's Abyss: Tactics
+
+addappid(1586270)
+addappid(1586271,0,"4fc6c3aaa1920f6d8eb4c455be4869aee14519651b575202d8fb788a110d0775")
