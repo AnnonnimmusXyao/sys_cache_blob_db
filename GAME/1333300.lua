@@ -1,0 +1,4 @@
+--game: 黑帮推币机
+
+addappid(1333300)
+addappid(1333303,0,"f9b40ceeb05d9905c192732b6d7cab35fb8c579f43cfc8d87df4ee1b7fb27d86")
