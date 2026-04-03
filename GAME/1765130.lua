@@ -1,0 +1,4 @@
+--game: Monster Dice
+
+addappid(1765130)
+addappid(1765131,0,"606f6d38e9c52ea4d6ac301a1f546986ac5e488f4ea2960f814d96fa86127253")
