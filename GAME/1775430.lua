@@ -1,0 +1,4 @@
+--game: Asteroid Force
+
+addappid(1775430)
+addappid(1775431,0,"aa416fdb3e3477b93487406700fc7cb46b6594f8a906dcd9e13155e8e98cbb74")
