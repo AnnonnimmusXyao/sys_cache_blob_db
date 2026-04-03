@@ -1,0 +1,4 @@
+--game: FEVER: FIGHT THE FEVER
+
+addappid(1418610)
+addappid(1418611,0,"3e39d8737c6b62e5544f618aa6f49ff6be9bec50cbdec3937ff844fd06266eff")
