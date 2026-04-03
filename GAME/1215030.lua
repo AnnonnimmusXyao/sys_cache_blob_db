@@ -1,0 +1,4 @@
+--game: Memeow & Comodore: Reloaded
+
+addappid(1215030)
+addappid(1215031,0,"6d7b19694b44fda3435bc35259f49ffe179676ba5373dff5bcbb2ace7c22a8a1")
