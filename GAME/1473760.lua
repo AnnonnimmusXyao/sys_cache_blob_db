@@ -1,0 +1,4 @@
+--game: Beyond the Storm
+
+addappid(1473760)
+addappid(1473761,0,"70a0ce07e2ede64764f241e97c4814e714d78eae62261bcf59853bb89c7f4b14")
