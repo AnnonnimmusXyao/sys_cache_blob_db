@@ -1,0 +1,4 @@
+--game: 109 Remastered
+
+addappid(1418520)
+addappid(1418521,0,"2445bfd3359921bcc4b8a78eeef6de5892c8c6ba8433389f3edde1ea3b343408")
