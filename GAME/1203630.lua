@@ -1,0 +1,6 @@
+--game: Record of Lodoss War: Deedlit in Wonder Labyrinth
+
+addappid(228983)
+addappid(228985)
+addappid(1203630)
+addappid(1203631,0,"ba99be4ace76a1d6ff34257014a3657facf14b365807a9c6209ade4851a4fc57")
