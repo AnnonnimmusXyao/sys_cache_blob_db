@@ -1,0 +1,12 @@
+--game: Ozymandias: Bronze Age Empire Sim
+
+addappid(1768280)
+addappid(1768281,0,"65311719320baaa218623ce4c897ea6ebe89a0031a33aff30e97a77305bf29ce")
+addappid(1768282,0,"0a70958722cf06622ff0dcd532e66869924626ee2145f8350bc27ef4d1d7c4a1")
+addappid(2057780)
+addappid(2057781)
+addappid(2057782)
+addappid(2057783)
+addappid(2057784)
+addappid(2057785)
+addappid(2226120)
