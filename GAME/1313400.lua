@@ -1,0 +1,4 @@
+--game: Einsteins Riddle
+
+addappid(1313400)
+addappid(1313401,0,"4f5a58633e5d8f79fe7240d3dfc010128bd55b766a462636bd3c1a1cb0aee064")
