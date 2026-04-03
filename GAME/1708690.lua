@@ -1,0 +1,4 @@
+--game: The adventures of Sisharpic
+
+addappid(1708690)
+addappid(1708691,0,"c314f50838e9325fa2b6cbf6c7406df5f679cb8ca891219c2754a5ca6a513a85")
