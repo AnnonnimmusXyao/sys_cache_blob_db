@@ -1,0 +1,4 @@
+--game: All For Nought - Tic Tac Toe
+
+addappid(1396490)
+addappid(1396491,0,"1c8c8a01e4249553174afbc7fc416c022cd6b908e0f3e7af7a0879861123659c")
