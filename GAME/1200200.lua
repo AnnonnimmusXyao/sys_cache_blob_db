@@ -1,0 +1,4 @@
+--game: Sin Chess
+
+addappid(1200200)
+addappid(1200201,0,"ded61e5b7f21a075901468644d37bded4de732066484174d1cad69c28b2ee679")
