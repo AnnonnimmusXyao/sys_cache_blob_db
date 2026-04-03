@@ -1,0 +1,4 @@
+--game: Dungeons of Aether
+
+addappid(1668290)
+addappid(1668291,0,"d0f5559bd225642657f8cfc39b1698c8f6f78e955bb419ef4532382834159a0d")
