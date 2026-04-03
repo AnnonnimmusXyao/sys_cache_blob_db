@@ -1,0 +1,4 @@
+--game: The lost Labyrinth
+
+addappid(1322540)
+addappid(1322541,0,"d6ae455b5f8eecfcf7a6b02a829f2d44d711670cc61778aef6222fa198535691")
