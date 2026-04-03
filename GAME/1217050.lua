@@ -1,0 +1,4 @@
+--game: Shaolin vs Wutang 2
+
+addappid(1217050)
+addappid(1217051,0,"256b0e3d0c58c82bc7bd03d267216246af37aea3e5fb889d8ccf599f942d59ee")
