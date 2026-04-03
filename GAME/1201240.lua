@@ -1,0 +1,12 @@
+--game: BLEACH Brave Souls
+
+addappid(1201240)
+addappid(228985)
+addappid(228986)
+addappid(228987)
+addappid(228988)
+addappid(228990)
+addappid(229004)
+addappid(229005)
+addappid(229006)
+addappid(1201241,0,"85566eaa31209ac31dde217a058f58e810356a8df255c9a7c4c8b31749858248")
