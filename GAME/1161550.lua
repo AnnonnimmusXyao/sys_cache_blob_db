@@ -1,0 +1,4 @@
+--game: Dungeon Chest
+
+addappid(1161550)
+addappid(1161551,0,"6c20b5f6df81366e325eb9bd0121eef84d3f410801977a85d6db3a9c9dae7b77")
