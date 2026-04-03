@@ -1,0 +1,4 @@
+--game: Krystopia: A Puzzle Journey
+
+addappid(1172170)
+addappid(1172171,0,"fcc80fe4f5e028a19e11df8a61c93d5809a54d08cdeff4f9bddea0c6277d4573")
