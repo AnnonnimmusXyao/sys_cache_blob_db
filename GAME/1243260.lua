@@ -1,0 +1,4 @@
+--game: Mossen Seikkailut
+
+addappid(1243260)
+addappid(1243261,0,"04db26cc879e01c727b2594ef17ff3ae67fdbf37ef1f4de7eff453eb4658fbb6")
