@@ -1,0 +1,4 @@
+--game: 时之痕 Trace Of Time
+
+addappid(1363980)
+addappid(1363981,0,"8faf0eb2f5c2ffc67ef5ebb70178331bc74ed03c75d14b0256f5f4b534b2d2d9")
