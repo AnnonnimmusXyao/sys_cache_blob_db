@@ -1,0 +1,4 @@
+--game: Time's Up in Tiny Town
+
+addappid(1714430)
+addappid(1714432,0,"e4a3d5c9454d2dbc3de850e36d7137949007f2d021266c31fd09eb9a1f88aa67")
