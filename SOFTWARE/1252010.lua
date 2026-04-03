@@ -1,0 +1,4 @@
+--game: VEGAS Movie Studio 17 Platinum Steam Edition
+
+addappid(1252010)
+addappid(1252011,0,"71723ef89f445e42ac58b7efaea8dae6356e76212dd79ae6da5455c0b8b4b619")
