@@ -1,0 +1,10 @@
+--game: Clash: Artifacts of Chaos
+
+addappid(229004)
+addappid(229020)
+addappid(229033)
+addappid(1430680)
+addappid(1430681,0,"e23a9dbf2197c848f26cf4e1f05c56d83100c975ba5e206ba01f2ea122aa03b7")
+addappid(2186310)
+addappid(2186311)
+addappid(2277550)
