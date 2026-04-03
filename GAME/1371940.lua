@@ -1,0 +1,4 @@
+--game: Milo's Quest
+
+addappid(1371940)
+addappid(1371941,0,"ef41a2947c668ee3b3bc244a533529f071cd8de39e2950477aca5dd7d9719ca7")
