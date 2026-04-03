@@ -1,0 +1,8 @@
+--game: Harvest Moon: One World
+
+addappid(1246870)
+addappid(1246871,0,"6370da18e8218e6dd79df3c69cc65dafadacbc92c0a4c17b00a4597440ed776f")
+addappid(1423950)
+addappid(1423951)
+addappid(1423952)
+addappid(1423953)
