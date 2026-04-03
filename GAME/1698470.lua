@@ -1,0 +1,4 @@
+--game: Roady Life
+
+addappid(1698470)
+addappid(1698471,0,"7290c51e7655c21ecb5e6e7c43605291c579c41c92823f4a900efa5575adf60f")
