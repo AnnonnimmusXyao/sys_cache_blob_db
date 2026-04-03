@@ -1,0 +1,8 @@
+--game: Ship of Fools
+
+addappid(1286580)
+addappid(1286583,0,"883b29255b4c97d3e7840bebc536032840afa67a523fe14b16462d25f394f3e9")
+addappid(2342680)
+addappid(2512030)
+addappid(3547520)
+addappid(3547530)
