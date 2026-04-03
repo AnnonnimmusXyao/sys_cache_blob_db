@@ -1,0 +1,4 @@
+--game: Instant Farmer - Logic Puzzle
+
+addappid(1399670)
+addappid(1399671,0,"ea15318730a08cca49ba6a63df94575a45bdf60e4089f0ec64680d3fda84a6dc")
