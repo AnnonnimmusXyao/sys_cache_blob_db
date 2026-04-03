@@ -1,0 +1,4 @@
+--game: Exophobia
+
+addappid(1189220)
+addappid(1189221,0,"ef75ee0dc433ec62c98d68b7c76eda896ae6f6fbf32530f76511d2a902bb75ef")
