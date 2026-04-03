@@ -1,0 +1,4 @@
+--game: 我没K
+
+addappid(1661690)
+addappid(1661691,0,"cd3bccd42e3cd2636c42656d95073b776526c65ceacf768f10943140cdcf4ff0")
