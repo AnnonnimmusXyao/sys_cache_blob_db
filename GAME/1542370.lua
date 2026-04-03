@@ -1,0 +1,4 @@
+--game: Football Academy Clicker
+
+addappid(1542370)
+addappid(1542371,0,"691afb9e650a5f3487fe049232ec7d23624aa4e5036180f7a3c185f2201a8921")
