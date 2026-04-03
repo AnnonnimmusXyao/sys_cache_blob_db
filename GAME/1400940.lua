@@ -1,0 +1,4 @@
+--game: Revolution Diabolique
+
+addappid(1400940)
+addappid(1400941,0,"8de6565f04942d87a2422f0465067a61756bb77e98980cdf086cc3787f88031a")
