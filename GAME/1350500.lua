@@ -1,0 +1,4 @@
+--game: Last Memory
+
+addappid(1350500)
+addappid(1350501,0,"62906785f2aa2dd0c4083816b02af4fa585405013b32de1cff3cd175f496bb9e")
