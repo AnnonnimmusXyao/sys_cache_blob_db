@@ -1,0 +1,4 @@
+--game: Night Reverie
+
+addappid(1254670)
+addappid(1254671,0,"755da19fc01a3a96dd322998e8896c0c0a6afa51b654f35d950586d0ccaa0572")
