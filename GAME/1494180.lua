@@ -1,0 +1,4 @@
+--game: Night: Silent Killer
+
+addappid(1494180)
+addappid(1494181,0,"87f8c7c981cf7454e0bfc12d87e3d6eff8e8e49d78cdab2694cede8ca31648ea")
