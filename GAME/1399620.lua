@@ -1,0 +1,4 @@
+--game: The Caretaker
+
+addappid(1399620)
+addappid(1399621,0,"37416405e27bab9f01e6999158831d66997dc10ddc62b6665e79d739b15ddff5")
