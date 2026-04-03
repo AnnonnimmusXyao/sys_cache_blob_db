@@ -1,0 +1,5 @@
+--game: Super Minesweeper attACK
+
+addappid(1151940)
+addappid(1151941,0,"1722e74781328c75cb5120c2572e78210db14e62c7412d221e945652fef1d186")
+addappid(1165130)
