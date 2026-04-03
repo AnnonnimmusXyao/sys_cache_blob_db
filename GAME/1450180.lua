@@ -1,0 +1,5 @@
+--game: Haunt Chaser
+
+addappid(229005)
+addappid(1450180)
+addappid(1450181,0,"084b183e28e7ef9ec6a42e0acea65a7b9f4bd666100f4e6490c320a9ec4f400d")
