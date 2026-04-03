@@ -1,0 +1,4 @@
+--game: Pandora Galaxy
+
+addappid(1226610)
+addappid(1226611,0,"0f370cf5649f825c3ccd91338d11a0d404f8a9042b77137691a259f989e308ce")
