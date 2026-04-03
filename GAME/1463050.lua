@@ -1,0 +1,4 @@
+--game: The Purification
+
+addappid(1463050)
+addappid(1463052,0,"dd1834fef51bd2a50c293f0cce65105f90240c39363319d8a872a8b78e0dcbd4")
