@@ -1,0 +1,4 @@
+--game: Infinite Voyager
+
+addappid(1482400)
+addappid(1482401,0,"7d51c854a1f964d72b48952089067a921bc0cbf66ac0faa150daaa864c2cd8da")
