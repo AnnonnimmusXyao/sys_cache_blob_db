@@ -1,0 +1,4 @@
+--game: F.U.B.A.R
+
+addappid(1351880)
+addappid(1351881,0,"fd4ee894dc2d827f61d059c7be95d6912054be82d366379e2a83c8fb1ae51b8b")
