@@ -1,0 +1,4 @@
+--game: Hexterio
+
+addappid(1166790)
+addappid(1166791,0,"d2c6db6bc990fc0bb69424a155cb54792ed214299070a7afed288dd9a2cd8ff4")
