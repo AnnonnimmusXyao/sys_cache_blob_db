@@ -1,0 +1,4 @@
+--game: Alan's Attitude
+
+addappid(1158990)
+addappid(1158991,0,"d6bb7289e223a861fe8724719ed78165ffc71077320d73b10798ae6442e49a28")
