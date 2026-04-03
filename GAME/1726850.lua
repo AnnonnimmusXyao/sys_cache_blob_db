@@ -1,0 +1,4 @@
+--game: Droopy Balls Simulator 2021
+
+addappid(1726850)
+addappid(1726851,0,"87fc1d18fb50bd2daa7289eab1b6cbf9915f384c7b2f93892b674cf27ce6aea7")
