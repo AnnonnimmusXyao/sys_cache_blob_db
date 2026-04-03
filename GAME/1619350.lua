@@ -1,0 +1,4 @@
+--game: DeepStates [VR]
+
+addappid(1619350)
+addappid(1619351,0,"ec84908313d382b46b5c37689bff590d941d97fda5cccfc4625d2aff41db8f32")
