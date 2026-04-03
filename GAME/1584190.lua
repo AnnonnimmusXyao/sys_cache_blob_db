@@ -1,0 +1,4 @@
+--game: Hungry Dino
+
+addappid(1584190)
+addappid(1584191,0,"1cf210a81555520b24824a8aa0eb1c1eabc9c70d1d68fa99c779e2f9300203d4")
