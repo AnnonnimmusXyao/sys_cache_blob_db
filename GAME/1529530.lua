@@ -1,0 +1,4 @@
+--game: Into The Darkness VR
+
+addappid(1529530)
+addappid(1529531,0,"6cea202ad70863b80820fec7f6f0d09447840cc399b87a0d9aaf7a488850e188")
