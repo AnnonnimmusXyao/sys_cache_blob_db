@@ -1,0 +1,4 @@
+--game: Boss Rush: Mythology
+
+addappid(1237870)
+addappid(1237871,0,"8101ec9cd2bc88fe7bf77d5c10a9e99ed7c5564a7a05a1d4b8149dc1fdaeef9b")
