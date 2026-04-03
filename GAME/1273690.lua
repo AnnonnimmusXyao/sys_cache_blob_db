@@ -1,0 +1,4 @@
+--game: Ashwalkers
+
+addappid(1273690)
+addappid(1273692,0,"5c87d14ba49419a79cfaa0ab3e8d1dcd1a83b66696facf74fef186f8ed8abd43")
