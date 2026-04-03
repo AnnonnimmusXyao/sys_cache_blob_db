@@ -1,0 +1,4 @@
+--game: Space Adventures
+
+addappid(1731860)
+addappid(1731861,0,"3e5bfe1dba491ca4d69ebd961fbed992c7752a95adb6660ca4a1259ad2b31729")
