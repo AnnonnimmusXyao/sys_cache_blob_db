@@ -1,0 +1,4 @@
+--game: Capsule
+
+addappid(1582700)
+addappid(1582701,0,"92d92e0a3bd69c0e1cd09fe1a08e48810b727c005194e85e634585bfb9b9ab5f")
