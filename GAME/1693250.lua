@@ -1,0 +1,11 @@
+--game: Ancient Wars: Sparta Definitive Edition
+
+addappid(1693250)
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(229020)
+addappid(1693251,0,"4ca16a1bba9f1f179dc04ecad3373e120e78dbbe06700dcfdc0fe2fd3edd7f9a")
+addappid(1693253,0,"c271e6d503bdd8125a7a78ec85f7911e91698065ad6a3242a0527190b7b79b26")
+addappid(1693259,0,"bf0ab9e4effa63c727d88f2f059377aac22d1d91f5ba65a74aa02d1dc25b0768")
