@@ -1,0 +1,8 @@
+--game: Trap Legend
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(1226530)
+addappid(1226531,0,"70850b01cec43e33ec6a1f3b875809dda3d1dd240a76bfd9a873de43f7612a67")
