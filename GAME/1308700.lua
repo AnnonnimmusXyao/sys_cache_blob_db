@@ -1,0 +1,7 @@
+--game: Wizardry: The Five Ordeals
+
+addappid(1308700)
+addappid(1308701,0,"8e2cd6a1a36611d2a178edb5ddef89704391742fef5c9384d80a4c93029fc61e")
+addappid(1309770)
+addappid(1309771)
+addappid(1456541,0,"e8d7039ac5a9ff311236a91ffdd3d5fb0d23c023aeb400994c5ed8700cbf7b98")
