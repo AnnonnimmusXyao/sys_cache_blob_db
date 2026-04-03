@@ -1,0 +1,6 @@
+--game: Rise Of The White Sun - 白日升
+
+addappid(1189100)
+addappid(1189101,0,"79f24bd2f4144c72053a730936b79682e151d998834bdfc7373e345617d4c6a2")
+addappid(3024430)
+addappid(3732510)
