@@ -1,0 +1,4 @@
+--game: Haunted Hotel: The X Collector's Edition
+
+addappid(1683020)
+addappid(1683021,0,"4d131ac46c9c50c0f2ebfe9525810ffb1987bae4feef881d9e7a9ccbc30018ca")
