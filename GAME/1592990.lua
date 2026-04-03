@@ -1,0 +1,4 @@
+--game: Raccoon Arrival
+
+addappid(1592990)
+addappid(1592991,0,"30e1948f4150dab28e800a75542deccc09602d54e2010b7c25eef30c6a032f86")
