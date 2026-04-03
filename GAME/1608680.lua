@@ -1,0 +1,4 @@
+--game: Midnight Driver
+
+addappid(1608680)
+addappid(1608682,0,"152c189c02f6ac378779848f307c0add793db43cd374b17431333ea0220dfa03")
