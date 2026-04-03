@@ -1,0 +1,4 @@
+--game: Hentai Pansuto
+
+addappid(1216610)
+addappid(1216612,0,"ae1132d29d7bde139f98bffe875eea91a6b634a4304becac0d619fd5c3d12eb0")
