@@ -1,0 +1,4 @@
+--game: Pick, shoot, repeat!
+
+addappid(1220440)
+addappid(1220441,0,"8319eae5be31083a8121e70e5e20fb6b2a61442cf18494fb22066c8dd0b86881")
