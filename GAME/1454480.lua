@@ -1,0 +1,4 @@
+--game: Mystic Fate
+
+addappid(1454480)
+addappid(1454481,0,"1ed40a7cd9d5c4ddea1a988ed3d223459ab7b4b47dbc7a61b2012e5898e519be")
