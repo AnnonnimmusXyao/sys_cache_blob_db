@@ -1,0 +1,4 @@
+--game: Guess Colors
+
+addappid(1473100)
+addappid(1473101,0,"303434ee77ad7a41f63a1abecbbd5ba3dafa5214a248c6715e1d64c4ffffba6c")
