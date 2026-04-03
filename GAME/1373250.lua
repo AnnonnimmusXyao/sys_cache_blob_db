@@ -1,0 +1,5 @@
+--game: Lonely Birds
+
+addappid(1373250)
+addappid(1373251,0,"64c5d921d29330153a6f5a21e2aa45296416e7dada1382ec7207ff56ca3b42f7")
+addappid(1373252,0,"743734f5fade876bd5f12ccf7d1a139b2d6f61d0cd2a656cffe3ccfc1f613b7c")
