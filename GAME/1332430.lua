@@ -1,0 +1,4 @@
+--game: Chip ‘n Clawz vs. The Brainioids
+
+addappid(1332430)
+addappid(1332431,0,"b4b4d094b0dd7b4f5b3bba7e8ba65714ee6187786dde5088c75678183b07e3f3")
