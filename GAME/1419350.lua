@@ -1,0 +1,4 @@
+--game: Outbreak: Endless Nightmares
+
+addappid(1419350)
+addappid(1419351,0,"096a87a9df1e9f5c975953230b12a30770e32c6fbd3d10727a3b06270b9ff281")
