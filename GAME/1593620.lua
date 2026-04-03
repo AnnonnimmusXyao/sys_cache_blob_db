@@ -1,0 +1,5 @@
+--game: Trouble Inn: Jonny's Room
+
+addappid(1593620)
+addappid(1593621,0,"de24e1d0e3664216f812fabeb28c823bfe4743171a37a0891bb8e6cc9c4c2412")
+addappid(1593622,0,"fb731862f6a1a9b9f66e7706a1b90deb6c6120dcf88f18e0c1aa5be07aeb6b2d")
