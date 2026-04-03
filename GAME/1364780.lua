@@ -1,0 +1,15 @@
+--game: Street Fighter™ 6
+
+addappid(1364780)
+addappid(1364781,0,"cfec39716b5a5cae49b52b5c0e01e6db93356ee3df5a0d87590fd811ab6d06e1")
+addappid(1364782)
+addappid(1792750)
+addappid(1792751)
+addappid(2224460)
+addappid(2224461)
+addappid(2224462)
+addappid(2825190)
+addappid(2825200)
+addappid(3401790)
+addappid(3410460)
+addappid(3410470)
