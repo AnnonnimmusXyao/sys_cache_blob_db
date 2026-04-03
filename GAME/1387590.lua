@@ -1,0 +1,4 @@
+--game: 列传：革新战争
+
+addappid(1387590)
+addappid(1387591,0,"365184ed7dfb68b509def41a36ae793d56d4142d9c0a18e9e10874c2f7fe2e8a")
