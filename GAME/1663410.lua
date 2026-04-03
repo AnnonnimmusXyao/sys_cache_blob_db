@@ -1,0 +1,4 @@
+--game: Happenlance
+
+addappid(1663410)
+addappid(1663411,0,"2b623623ecda3c9989a9e3be40c1a5a421866c1631ef346126abaf0606ad424a")
