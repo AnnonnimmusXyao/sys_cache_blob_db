@@ -1,0 +1,4 @@
+--game: Bopl Battle
+
+addappid(1686940)
+addappid(1686941,0,"de23a57d97b78aaf4bbf11afcce1b6d2e96ce42e7518fb58ddf5535a51b81c65")
