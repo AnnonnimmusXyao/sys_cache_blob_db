@@ -1,0 +1,4 @@
+--game: Tinykin
+
+addappid(1599020)
+addappid(1599021,0,"ed1d445d6d24a3c073ab19161abd1201b2a4692aa3bbab64c18d68000a19f0a2")
