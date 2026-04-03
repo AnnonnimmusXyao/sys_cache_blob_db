@@ -1,0 +1,9 @@
+--game: Attack on Toys
+
+addappid(229007)
+addappid(229012)
+addappid(229020)
+addappid(229030)
+addappid(1269690)
+addappid(1269691,0,"696234cf82c6a339615e1f4a1642e0fd261a86eeb90d6420e89a0cbcd04c0676")
+addappid(1754160)
