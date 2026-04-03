@@ -1,0 +1,4 @@
+--game: Moros Protocol
+
+addappid(1605250)
+addappid(1605251,0,"561784c8d98acbc8c897b80cfb17c1bee3a71af98d60cf57068302eaa5595613")
