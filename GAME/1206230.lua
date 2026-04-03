@@ -1,0 +1,5 @@
+--game: Kart kids
+
+addappid(228983)
+addappid(1206230)
+addappid(1206231,0,"2067c97ba13f70c4da6a6dd44657df207e60f34122540138aefc966b840477cc")
