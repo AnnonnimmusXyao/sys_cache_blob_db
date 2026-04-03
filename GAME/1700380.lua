@@ -1,0 +1,4 @@
+--game: Twin Balls
+
+addappid(1700380)
+addappid(1700381,0,"7e5504bfa2cac053f7408e982f58ccc22d138713441980e7a4870f983852e138")
