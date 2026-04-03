@@ -1,0 +1,4 @@
+--game: Latex Dungeon
+
+addappid(1622780)
+addappid(1622781,0,"93c09adb726866a02fed3573147871079e5027e35a918b7db87244dd893ca758")
