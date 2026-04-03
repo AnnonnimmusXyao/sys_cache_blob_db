@@ -1,0 +1,4 @@
+--game: A Strange City
+
+addappid(1564940)
+addappid(1564941,0,"95f617bd36ba4ed42279345c0003968f8f5205bd73e6b1f9d7439a65dc6381a5")
