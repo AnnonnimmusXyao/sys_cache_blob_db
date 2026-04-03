@@ -1,0 +1,4 @@
+--game: Hope; or How We Survived
+
+addappid(1142300)
+addappid(1142301,0,"5fcde766a72173d33ddb8be1d077a330ae63a5e7e0764eb8250699ec41f37a5b")
