@@ -1,0 +1,4 @@
+--game: Runes of Avalon 2
+
+addappid(1683510)
+addappid(1683511,0,"cc94fc2f1b6d8d8b4cf5177e1acb631ec0ff24a3963ad6154cec4dbf0b6e73b6")
