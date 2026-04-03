@@ -1,0 +1,4 @@
+--game: Metal Gunner
+
+addappid(1257250)
+addappid(1257251,0,"52bdfe58feb29cb86bd0071c797ef1f7277973fa8fbaa89108a31a05be74f19c")
