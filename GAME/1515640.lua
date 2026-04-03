@@ -1,0 +1,7 @@
+--game: Arcadegeddon
+
+addappid(1515640)
+addappid(1515641,0,"7900ed37ecbfd14d823fdc731275d0ece8c1d6d9dd53634bc77de02af8715775")
+addappid(2477570)
+addappid(2477580)
+addappid(2483060)
