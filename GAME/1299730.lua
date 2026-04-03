@@ -1,0 +1,4 @@
+--game: Les Manley in: Lost in L.A.
+
+addappid(1299730)
+addappid(1299731,0,"b3ee6fb40ffe1167d87092cd530a99725943faa80d97f09197b56483665927f4")
