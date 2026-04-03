@@ -1,0 +1,4 @@
+--game: Delirium
+
+addappid(1278140)
+addappid(1278141,0,"a29fdc58098893f575d2f0850a0bbfef71de0bc980b537224080a8b9e943b9cd")
