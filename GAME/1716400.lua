@@ -1,0 +1,4 @@
+--game: Jumping Pirates
+
+addappid(1716400)
+addappid(1716401,0,"2f0f7ad84de091901c80aa4625576012a3f5e67add5fdbdba379a41328c2e0be")
