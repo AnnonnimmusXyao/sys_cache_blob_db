@@ -1,0 +1,4 @@
+--game: Errant Kingdom
+
+addappid(1148730)
+addappid(1148731,0,"0cce53310a3260442783c8dcc30b66049709f658039f36b789d87ac071b35ff0")
