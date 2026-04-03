@@ -1,0 +1,5 @@
+--game: 軒轅劍外傳楓之舞
+
+addappid(229007)
+addappid(1508750)
+addappid(1508751,0,"d785cc24156b1789f063b955b588e91dfb33ffb6e6153676066df437159b9f0d")
