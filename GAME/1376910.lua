@@ -1,0 +1,4 @@
+--game: Super Catboy
+
+addappid(1376910)
+addappid(1376911,0,"c252872b723a85962054a31a1b9ee806726632703eee0a5d46c8eeb0b633568d")
