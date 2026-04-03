@@ -1,0 +1,4 @@
+--game: Pristiq: Tash's Trilogy
+
+addappid(1433490)
+addappid(1433491,0,"eac2d74b739e01bb8ae11e250d8337f1e39e6cb7e6f41f4d4e292ebb44093740")
