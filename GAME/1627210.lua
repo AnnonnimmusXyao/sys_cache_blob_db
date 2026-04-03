@@ -1,0 +1,4 @@
+--game: Morgenstern
+
+addappid(1627210)
+addappid(1627211,0,"22aa764f2d1cd247465964cb70bbda42b75afd0a900099ccac34c01819b6027b")
