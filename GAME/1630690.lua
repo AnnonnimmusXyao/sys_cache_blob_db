@@ -1,0 +1,4 @@
+--game: Equin 2: The Warren Peace
+
+addappid(1630690)
+addappid(1630691,0,"ce324b8f45235b322800182b7faa9505153bbb1e3624cf7aa5295e0100d434f4")
