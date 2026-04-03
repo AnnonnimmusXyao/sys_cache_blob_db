@@ -1,0 +1,4 @@
+--game: Fallen Tear: The Ascension
+
+addappid(1446900)
+addappid(1446901,0,"b05889536fd66d9f79de3ab1f457a00b6759ef200d54afc807fb1699263d69ba")
