@@ -1,0 +1,4 @@
+--game: KHIO
+
+addappid(1362670)
+addappid(1362671,0,"79a871fc8beaf5a0ea7b0c4530d9098b50a3a2c5575a9a9070f371c3c4135ed2")
