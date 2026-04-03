@@ -1,0 +1,4 @@
+--game: Pendragon: Narrative Tactics
+
+addappid(1240050)
+addappid(1240051,0,"5f69aa66d181647473a225e2bc3d998b4de918df265a4d6b3c715ef4825fd7bb")
