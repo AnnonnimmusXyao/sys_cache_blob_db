@@ -1,0 +1,6 @@
+--game: Abyssus
+
+addappid(1721110)
+addappid(1721111,0,"fd31fe45269b1676240f9cabc945952eddc0eca492eed6d02938264d045af58b")
+addappid(3853680)
+addappid(3853790)
