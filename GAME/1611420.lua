@@ -1,0 +1,5 @@
+--game: Sea Horizon
+
+addappid(229005)
+addappid(1611420)
+addappid(1611421,0,"91acce8c6e6c2aeaa785ae115268ee3d6689d3384d78dcd2a2bbc5f6255a00e6")
