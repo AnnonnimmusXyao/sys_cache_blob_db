@@ -1,0 +1,4 @@
+--game: Super Wiloo Demake
+
+addappid(1373760)
+addappid(1373761,0,"41cda7df253ae57783b1522046729fe32c0503375f1a7326679387a3b562fefd")
