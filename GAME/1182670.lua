@@ -1,0 +1,4 @@
+--game: Haunted Hotel: Room 18 Collector's Edition
+
+addappid(1182670)
+addappid(1182671,0,"2d533ee13edf42c60ee7a07402aa0fbd79082977a0820f82d5489664ee70c126")
