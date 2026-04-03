@@ -1,0 +1,4 @@
+--game: Bunny Puzzle
+
+addappid(1695600)
+addappid(1695601,0,"1382d2f9aea9d61836e6ec5876edaa751d2b4184370274e7bd392e67716f7055")
