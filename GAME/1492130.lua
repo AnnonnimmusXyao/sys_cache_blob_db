@@ -1,0 +1,4 @@
+--game: NightClub 69: Bunny Girls
+
+addappid(1492130)
+addappid(1492131,0,"15a3feef33aa4d0177ed2221c03a95e11128aff31825a3ad5eed5d0ee3cfff5f")
