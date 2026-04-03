@@ -1,0 +1,4 @@
+--game: The Burnt School
+
+addappid(1615020)
+addappid(1615021,0,"d4a2a70b2c92970005420ba13eaabcf739bb857bd464d19b2a64524c850bc806")
