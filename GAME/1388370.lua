@@ -1,0 +1,6 @@
+--game: Heroic Armored Company
+
+addappid(229006)
+addappid(229033)
+addappid(1388370)
+addappid(1388371,0,"89672d5dcb4e01993c7b97110a6e9705cfd80a23494345acca13994a31ae407f")
