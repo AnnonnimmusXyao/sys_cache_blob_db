@@ -1,0 +1,4 @@
+--game: Eternal Kingdom Battle Peak
+
+addappid(1175210)
+addappid(1175211,0,"80233b77e20e3b0602987f9b7714b413b90595382e00686b3a67e7526a508fb9")
