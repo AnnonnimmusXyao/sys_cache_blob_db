@@ -1,0 +1,4 @@
+--game: 是男人就跳一万米
+
+addappid(1761250)
+addappid(1761251,0,"89af7db3623a39cf9b9b07f24649dee5fffdd8b423eecb2de7c5e17d7c18e9d2")
