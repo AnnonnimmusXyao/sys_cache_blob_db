@@ -1,0 +1,4 @@
+--game: Paladin Dream
+
+addappid(1592120)
+addappid(1592121,0,"63c578941380f3a1dd36464c73cdf28136d58b3142ba4ed9fe8921dd0f2674c7")
