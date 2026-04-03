@@ -1,0 +1,6 @@
+--game: The Elven Educator ~another ver~
+
+addappid(228983)
+addappid(229002)
+addappid(1284390)
+addappid(1284391,0,"411d8cf2001b5c5ed3b606ab792377fa5a7140f7203e871274d0e9f2584729dc")
