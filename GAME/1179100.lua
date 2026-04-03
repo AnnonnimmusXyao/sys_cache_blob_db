@@ -1,0 +1,4 @@
+--game: Oppaidius Tropical Cruise!
+
+addappid(1179100)
+addappid(1179101,0,"5bcafc685c918bf41deeedd3cb896a9edcb9fb4899105003af4d27d55ddc415f")
