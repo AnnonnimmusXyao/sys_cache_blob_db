@@ -1,0 +1,5 @@
+--game: Cursed Pantsu
+
+addappid(1733620)
+addappid(1733621,0,"8f136adfc61b0054a4b7ed0f1da17dc0d03fd0b1293424d42ca2c282ee45e0ba")
+addappid(2987700)
