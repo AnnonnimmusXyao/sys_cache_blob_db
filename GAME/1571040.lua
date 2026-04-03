@@ -1,0 +1,4 @@
+--game: 恶搞赛车 湿身吧！ Splash To Wild Kids
+
+addappid(1571040)
+addappid(1571041,0,"12e93e8d1b490d8bb3123605d5478e9206114b23baca28f0be352edeb2604a4c")
