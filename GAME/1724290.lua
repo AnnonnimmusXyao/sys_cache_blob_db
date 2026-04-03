@@ -1,0 +1,4 @@
+--game: Outergalactic Aliens Pinball
+
+addappid(1724290)
+addappid(1724291,0,"cae05c02e388d99c585eaf72a446213dfa3f37d6028a5e423f3ae1c59e8518de")
