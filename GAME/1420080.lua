@@ -1,0 +1,4 @@
+--game: Wonder Boy: Asha in Monster World
+
+addappid(1420080)
+addappid(1420081,0,"84c89f7bea7fcff461be45b60b76dcc27a5551b39dff8f718e0a52cb3523eac9")
