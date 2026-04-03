@@ -1,0 +1,4 @@
+--game: Scorched Islands
+
+addappid(1240770)
+addappid(1240773,0,"276ef1b3a789f2311cee5d27f80972203323f8d7174b0e10e9951ba0e66e4f70")
