@@ -1,0 +1,4 @@
+--game: Gigapocalypse
+
+addappid(1543240)
+addappid(1543241,0,"3ba7ea04460b9490d836b1c97ac6a327ca925e6c7721c82be0a051799f789897")
