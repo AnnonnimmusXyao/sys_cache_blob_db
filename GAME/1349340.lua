@@ -1,0 +1,4 @@
+--game: Alias
+
+addappid(1349340)
+addappid(1349341,0,"7102ba96aa5668866521cc1307c98ca7fbda85d53bc0fbf4b11e23d7489713bb")
