@@ -1,0 +1,4 @@
+--game: Gnomes & Co: The Art of the Build
+
+addappid(1253450)
+addappid(1253451,0,"e17443d5c0393652186be9d5bb5b120adc18b1b21a072e4b901a3b9746d99454")
