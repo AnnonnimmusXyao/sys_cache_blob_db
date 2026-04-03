@@ -1,0 +1,4 @@
+--game: Secret of Harrow Manor 2
+
+addappid(1421310)
+addappid(1421311,0,"c0ca38b9096be2d743db6dde5e5551d72ae0d733082396d561e9c76c42415ced")
