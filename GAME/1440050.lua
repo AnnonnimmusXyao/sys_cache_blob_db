@@ -1,0 +1,4 @@
+--game: Объемная История
+
+addappid(1440050)
+addappid(1440051,0,"aac2f7248c9b1c52f64afa106781b800ed406666b081ae08d06b212fe63fb778")
