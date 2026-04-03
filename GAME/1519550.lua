@@ -1,0 +1,4 @@
+--game: Rebellion Gaia
+
+addappid(1519550)
+addappid(1519551,0,"9a612520c557df6d866e049c72771c43ccbf5892c0a8a95e8188f9fdf37c22d6")
