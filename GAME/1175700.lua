@@ -1,0 +1,4 @@
+--game: Dark Table CCG
+
+addappid(1175700)
+addappid(1175701,0,"e3065bd4a263a18c605660bb745c196e958a3369601e88ff189d16007f33a512")
