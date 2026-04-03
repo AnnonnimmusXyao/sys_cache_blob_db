@@ -1,0 +1,4 @@
+--game: World War 2 Zombie Attack VR Coronavirus Simulator
+
+addappid(1215690)
+addappid(1215691,0,"845cc5b81c0e8de3c41e70177571ec527744d21c7d59ba9419371f03d72ad955")
