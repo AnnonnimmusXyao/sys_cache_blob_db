@@ -1,0 +1,4 @@
+--game: Cyber Battle 69
+
+addappid(1250210)
+addappid(1250211,0,"c70fcd7d6b3a3a34dd57bb5738a673f53c2ee23d7df40c4df92374c5b5bab41e")
