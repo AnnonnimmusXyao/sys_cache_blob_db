@@ -1,0 +1,4 @@
+--game: Quartet
+
+addappid(1307960)
+addappid(1307962,0,"b56f282f2d9b584317f9ddaf904bd25e0e190b712b44bf06bba8dc7d64bb408f")
