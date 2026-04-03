@@ -1,0 +1,5 @@
+--game: King Arthur: Knight's Tale
+
+addappid(1157390)
+addappid(1157391,0,"440e25a18d8a04ae7387ea9dab463d5431a037752dfc7a462eb711c2c30c142f")
+addappid(1157392,0,"e759c77e1eb84437a8d49baf98f20425253345b9fda21f133919828686bbffc3")
