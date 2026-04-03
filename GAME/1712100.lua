@@ -1,0 +1,4 @@
+--game: Carmageddon: Rogue Shift
+
+addappid(1712100)
+addappid(1712101,0,"0f5ee71fdc07136d363d44242df487ac0a5c6d831a49361c3fda646388c23f88")
