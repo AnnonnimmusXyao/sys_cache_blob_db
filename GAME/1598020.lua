@@ -1,0 +1,4 @@
+--game: Warspace
+
+addappid(1598020)
+addappid(1598022,0,"2c644b093457acb14cb32abb5f6e1ae1c77ac9975f8c1a007af10e316fa79436")
