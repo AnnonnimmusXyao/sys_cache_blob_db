@@ -1,0 +1,4 @@
+--game: 异星夺宝
+
+addappid(1736000)
+addappid(1736001,0,"22c052c509975c08de44d73fa66269ecc214ffe3ac0edbfeec6f55a54205cc34")
