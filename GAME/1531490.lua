@@ -1,0 +1,4 @@
+--game: Harmony's Odyssey
+
+addappid(1531490)
+addappid(1531491,0,"9db9c201ff126f1d10049476437a29e4f235c73e477c9c249f80d36bd5b490bd")
