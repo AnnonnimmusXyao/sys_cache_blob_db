@@ -1,0 +1,4 @@
+--game: Scoot Kaboom and the Tomb of Doom
+
+addappid(1253270)
+addappid(1253271,0,"459b9527909a423ad8f502bd4e9abfe80b2e53195ea86a9fe77084bd8f78adbf")
