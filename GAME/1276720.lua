@@ -1,0 +1,4 @@
+--game: Witching Tower: Heroes
+
+addappid(1276720)
+addappid(1276721,0,"e1a48d55a9ffde980556b3d4e89e05a55513b4345d8671469e4d34435f3a3162")
