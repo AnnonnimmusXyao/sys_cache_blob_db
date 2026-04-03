@@ -1,0 +1,4 @@
+--game: Guildmaster: Gratuitous Subtitle
+
+addappid(1362780)
+addappid(1362781,0,"9406ca33fc453f2f31d7733a146c0bad0a5d98511d67f08f476a114ab7c6ab5e")
