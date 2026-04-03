@@ -1,0 +1,4 @@
+--game: Star of Lemutia : Reborn
+
+addappid(1194890)
+addappid(1194891,0,"1dee4f3886fbae0d3e48f3db3d124164838700a648c99747c887792935981723")
