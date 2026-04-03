@@ -1,0 +1,4 @@
+--game: Dark Chess
+
+addappid(1151130)
+addappid(1151131,0,"b7cf5a86054e555ef658b03512174a4218bc2504f41613fabae3813898303cad")
