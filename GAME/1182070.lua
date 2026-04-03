@@ -1,0 +1,4 @@
+--game: Majula Frontier: The Offense
+
+addappid(1182070)
+addappid(1182071,0,"b17c9f94f88014576fbfdcbd2c7cd1d5432fc886bb91073565ee2a2b9ded2df6")
