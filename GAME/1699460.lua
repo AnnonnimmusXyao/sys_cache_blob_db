@@ -1,0 +1,4 @@
+--game: Jubilane
+
+addappid(1699460)
+addappid(1699461,0,"1cd535883d139d696214a51a7c2cb63fdd51738dc3d3136d86990ae41aaf7607")
