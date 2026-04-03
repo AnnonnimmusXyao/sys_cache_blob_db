@@ -1,0 +1,4 @@
+--game: Kaputte Kranz Chap1
+
+addappid(1429040)
+addappid(1429042,0,"f760a65cd3a0bdeff9450c780aec80dcd50453c1983377673cbdd45e911ab8e8")
