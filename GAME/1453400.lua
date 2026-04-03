@@ -1,0 +1,4 @@
+--game: TowerMancer
+
+addappid(1453400)
+addappid(1453401,0,"54b7ef6b821fd5f180a7ed9f6023c8a04c8cf95c19609165a078eb1394b128aa")
