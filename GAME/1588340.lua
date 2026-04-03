@@ -1,0 +1,4 @@
+--game: Demonlore
+
+addappid(1588340)
+addappid(1588341,0,"e9f1cf1a84a5873cf8939d10850d04b63e907fe608135479cb179e8b0573eccb")
