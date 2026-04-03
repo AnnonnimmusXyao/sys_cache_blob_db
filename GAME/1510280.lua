@@ -1,0 +1,4 @@
+--game: Isles of Cubes
+
+addappid(1510280)
+addappid(1510281,0,"172832a02a545d772e38aa0c406b52bc986ee81a35e3c08845fa46cdb3f09333")
