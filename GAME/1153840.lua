@@ -1,0 +1,4 @@
+--game: Snow Island
+
+addappid(1153840)
+addappid(1153841,0,"ff52ea06687e4411cc2e5c45071969ed88b76ffd0a4ef6a72a42c2e711aeeb71")
