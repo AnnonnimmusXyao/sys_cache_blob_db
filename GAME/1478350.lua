@@ -1,0 +1,4 @@
+--game: Game Dev Masters
+
+addappid(1478350)
+addappid(1478351,0,"7aa21dd032df65f5ec936db445a1e1be12b555491968b861d963a743a9e6416c")
