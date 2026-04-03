@@ -1,0 +1,4 @@
+--game: New King
+
+addappid(1270840)
+addappid(1270841,0,"de7e8f77ba7fb9fbdc40094be238c013dcd86742f6932010481f0ffb9c4294a0")
