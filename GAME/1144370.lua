@@ -1,0 +1,4 @@
+--game: Levi Chronicles
+
+addappid(1144370)
+addappid(1144371,0,"235bd35c44603cccb5c736bca71bcdd0d21a930fa76930a577c163a248683ae0")
