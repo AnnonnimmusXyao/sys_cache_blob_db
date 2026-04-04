@@ -1,0 +1,4 @@
+--game: The rise of Tianling Sect
+
+addappid(1791410)
+addappid(1791411,0,"9eda9ea43b3baec7a18e5bb8894a1594c8259feb3a3a3d44e29747e2a1c95fe1")
