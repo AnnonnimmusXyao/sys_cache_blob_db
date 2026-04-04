@@ -1,0 +1,4 @@
+--game: Lonely White
+
+addappid(2093020)
+addappid(2093021,0,"69a897acd661c306cfb06e3ce1ac2ec1b456bfabcf43ef649647266e259f4a46")
