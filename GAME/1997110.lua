@@ -1,0 +1,4 @@
+--game: Amalgamy
+
+addappid(1997110)
+addappid(1997112,0,"be8ebae76f0ef973d076603b88e0da2516665f0b4deab8d549299d9f578fa25c")
