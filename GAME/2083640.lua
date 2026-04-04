@@ -1,0 +1,4 @@
+--game: Maze Of The Gamja
+
+addappid(2083640)
+addappid(2083641,0,"525b74ac9477d8f5df20b386dd3257bd2b8499a60ad3042aa7ce560d67ade709")
