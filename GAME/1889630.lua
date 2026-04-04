@@ -1,0 +1,4 @@
+--game: Hyperbase
+
+addappid(1889630)
+addappid(1889631,0,"6d523b6e03e57dd63154a32e31d5f6bd22bd296061daac7a08cf7fe9db6b78a5")
