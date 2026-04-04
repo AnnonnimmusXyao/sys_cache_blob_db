@@ -1,0 +1,4 @@
+--game: Still be a Human
+
+addappid(1896810)
+addappid(1896811,0,"d90938ed694ab164e36f61ee068f507fdf6d8f77911f9e75d1933b5d07453376")
