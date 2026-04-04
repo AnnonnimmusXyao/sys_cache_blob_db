@@ -1,0 +1,4 @@
+--game: Microcivilization
+
+addappid(1822550)
+addappid(1822551,0,"5421787f055413ef0f211e428a21df76c11bc65dac24967e5d50375c786b9044")
