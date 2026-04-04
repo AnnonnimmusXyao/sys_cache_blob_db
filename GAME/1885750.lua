@@ -1,0 +1,4 @@
+--game: Betrayal At Club Low
+
+addappid(1885750)
+addappid(1885751,0,"0ea2e12757f59cf35002fee9b852c95e55bb1bd51993fd1e60aa6d878ffd667b")
