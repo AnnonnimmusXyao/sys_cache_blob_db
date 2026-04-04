@@ -1,0 +1,12 @@
+--game: DRAGON QUEST VII Reimagined
+
+addappid(2499860)
+addappid(2499861,0,"78d85bb7957e80d4fac0655a65ff9bee61dafc06c753de2713726e9860d6a860")
+addappid(3257600)
+addappid(3378680)
+addappid(3378690)
+addappid(3378700)
+addappid(3378720)
+addappid(3378760)
+addappid(3543080)
+addappid(3995580)
