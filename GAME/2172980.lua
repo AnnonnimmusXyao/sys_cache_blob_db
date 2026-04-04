@@ -1,0 +1,4 @@
+--game: Fading Light VR: Antiworld
+
+addappid(2172980)
+addappid(2172981,0,"0350ede7fb28536783fec89be02b0c4a317e74df32f846c2e18df7c02b956b88")
