@@ -1,0 +1,4 @@
+--game: Bash the Teacher! - Classroom Clicker
+
+addappid(1862840)
+addappid(1862841,0,"78f73a9429e1bfabbe702fbdffa1a5b405457bb3d805b5727327de3ea217a85c")
