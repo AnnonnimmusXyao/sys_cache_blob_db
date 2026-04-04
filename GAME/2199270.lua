@@ -1,0 +1,4 @@
+--game: Asian caprice
+
+addappid(2199270)
+addappid(2199271,0,"6fa65514bc3a6efb211e100d34462eaceef3b521438733bac1e5dc36e7f7678c")
