@@ -1,0 +1,4 @@
+--game: Arms Race 2
+
+addappid(2284800)
+addappid(2284801,0,"3abe09f85a228fc8a24039e6ef1027e4096bbca386697601542fbe65ba1bf95a")
