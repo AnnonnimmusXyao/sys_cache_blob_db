@@ -1,0 +1,4 @@
+--game: Don't Die, Collect Loot
+
+addappid(2052160)
+addappid(2052161,0,"4f7615a64b2c3787696298eccd2698c46bd2ab8753e22fbf2b3303ab70678e60")
