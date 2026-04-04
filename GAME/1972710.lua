@@ -1,0 +1,5 @@
+--game: Ever Seen A Cat? 2
+
+addappid(1972710)
+addappid(1972712,0,"d4e5077e66b22b4f3c17054162038802734eaa3e89c8ba5edf7854138370f6d0")
+addappid(2100180)
