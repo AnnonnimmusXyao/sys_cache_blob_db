@@ -1,0 +1,4 @@
+--game: Cursed Crew
+
+addappid(1839760)
+addappid(1839761,0,"3c765ce442c48741be93c321a1dace00495d087dc24957e8cbc8c766e0ce6f3c")
