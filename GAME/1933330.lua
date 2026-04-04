@@ -1,0 +1,4 @@
+--game: Tales from the Crossing: The Captain's Chair
+
+addappid(1933330)
+addappid(1933331,0,"7b0d06b8d336c80e1a2ff1f4eefc46d9197b07d15f666fec8f70dc78a8680740")
