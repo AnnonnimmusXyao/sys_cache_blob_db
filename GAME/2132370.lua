@@ -1,0 +1,4 @@
+--game: Suns of Wiraqocha
+
+addappid(2132370)
+addappid(2132371,0,"254794504c490dfe5c823410310318fef30c8e1c84f59de49f9ab1e82c43105f")
