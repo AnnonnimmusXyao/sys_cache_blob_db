@@ -1,0 +1,5 @@
+--game: Sweet Car Wash
+
+addappid(1914000)
+addappid(1914001,0,"742a99cc3f987e639ff03dd49f689d1e16127141272bc2619c6fc5b20bb47909")
+addappid(2118880)
