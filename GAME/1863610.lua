@@ -1,0 +1,4 @@
+--game: Thumb-Thump
+
+addappid(1863610)
+addappid(1863612,0,"ffaff2fcba3fee3535254d5f726230b1ceac0c333924c0238797ac9fba10a088")
