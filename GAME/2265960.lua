@@ -1,0 +1,4 @@
+--game: Stick Bros
+
+addappid(2265960)
+addappid(2265961,0,"6426e0e51f59c66abc71b9d8279ae7d0d63a680bd19b94de7f6caddee15c7769")
