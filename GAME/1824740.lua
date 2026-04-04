@@ -1,0 +1,4 @@
+--game: 黑白米：敷衍
+
+addappid(1824740)
+addappid(1824741,0,"70fad8743a9aa3fded7a8dce496cd15a2db78746ea2831e0232fd5d661840593")
