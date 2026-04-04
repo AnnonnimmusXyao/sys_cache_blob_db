@@ -1,0 +1,4 @@
+--game: Bo's Adventure: Merging Islands
+
+addappid(1860800)
+addappid(1860801,0,"2ebb74a78d5007463b561b8cef9cb7d1854cd520942d3ea0a6afcd4da1f32f19")
