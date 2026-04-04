@@ -1,0 +1,4 @@
+--game: Line's Guarder
+
+addappid(2452420)
+addappid(2452421,0,"6c82c6ed0a7c8ecd79f5e4e4a1c0d6d69d34ede7eaca4da23a2d1aac5dbac419")
