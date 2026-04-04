@@ -1,0 +1,4 @@
+--game: Emberbane
+
+addappid(2085310)
+addappid(2085314,0,"afc87ad1770890d0a5c579a7b423e5e1524ace5552011e70089fdaa6493f57a4")
