@@ -1,0 +1,4 @@
+--game: Atomic Cyclecar Racing
+
+addappid(1814150)
+addappid(1814151,0,"375696e78e33a5dcb16872c1b2ccc93d60b8ebec2b95f0a0f1b1a87570a22fb9")
