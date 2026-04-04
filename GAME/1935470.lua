@@ -1,0 +1,4 @@
+--game: The Tales of Bayun
+
+addappid(1935470)
+addappid(1935471,0,"805a73c53205586b640abcdb7af078778524d369fd31be407596ec136c9ccc9e")
