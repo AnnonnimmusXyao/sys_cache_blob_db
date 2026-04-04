@@ -1,0 +1,4 @@
+--game: Burger Cooking Simulator
+
+addappid(2427770)
+addappid(2427771,0,"b26f69fb19e9320d132500aa80b3aa5be9e75777bfa9b65558b276001876e51b")
