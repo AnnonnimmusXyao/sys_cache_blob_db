@@ -1,0 +1,4 @@
+--game: Egg Ascent
+
+addappid(1954070)
+addappid(1954071,0,"97b16dcc7b6152ce5e7829d9e5a16cebfbf0cd244dddca9e67168e157b938905")
