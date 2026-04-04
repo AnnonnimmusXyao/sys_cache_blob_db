@@ -1,0 +1,4 @@
+--game: The Medieval Sex Jigsaw
+
+addappid(1914470)
+addappid(1914471,0,"4eadcf8116daf1c95499a88e00de3352e08d32e087336faf7cecaa9ba287574a")
