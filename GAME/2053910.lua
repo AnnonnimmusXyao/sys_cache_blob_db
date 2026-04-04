@@ -1,0 +1,4 @@
+--game: Isopod: A Webbed Spin-off
+
+addappid(2053910)
+addappid(2053911,0,"2de78327859da472597bafd5a46983bda2c00520cf7eae147e234cbaf41d1b2c")
