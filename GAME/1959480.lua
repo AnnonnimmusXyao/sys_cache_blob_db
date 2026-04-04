@@ -1,0 +1,4 @@
+--game: Eternal Edge+ Prologue
+
+addappid(1959480)
+addappid(1959481,0,"e2d8224ebcc8221c50bdd105a703b6d88f2aab81cce339f31cf58d3bb2065335")
