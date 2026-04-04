@@ -1,0 +1,4 @@
+--game: Intimate Relationship
+
+addappid(1855620)
+addappid(1855622,0,"ec34148209aa75d07da1d882d053529197e51b524961c9fffccefcf3116d6a44")
