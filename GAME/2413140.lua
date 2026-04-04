@@ -1,0 +1,4 @@
+--game: Titor's Time Traveling Tale
+
+addappid(2413140)
+addappid(2413141,0,"1e946cfd331152023c0d95f9f1dceb472f705aed16cf4c7eba858730101430c0")
