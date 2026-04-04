@@ -1,0 +1,4 @@
+--game: FANTAVISION 202X
+
+addappid(2353280)
+addappid(2353281,0,"a769704bcffe1aad3d4762ac0806f756c4388b485c0a27e8bff6ec0f876ec112")
