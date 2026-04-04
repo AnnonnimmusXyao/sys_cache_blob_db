@@ -1,0 +1,4 @@
+--game: The Legend of Gandar II
+
+addappid(2128130)
+addappid(2128131,0,"6dcf85128b11b81593318e45f301901780fc91a6bec411999cf665c6d3ab5d78")
