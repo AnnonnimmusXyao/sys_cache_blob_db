@@ -1,0 +1,4 @@
+--game: Bessarabian Nightmares
+
+addappid(1855690)
+addappid(1855691,0,"90e6eaea6033a4baabfb926e45a6b7d6527cfead149c4bf70e86cc61bcc02b6f")
