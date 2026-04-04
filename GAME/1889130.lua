@@ -1,0 +1,4 @@
+--game: Escape from the 70's
+
+addappid(1889130)
+addappid(1889131,0,"42a50a53b1545bceded231c7ff4a6b34f0d006814f31454937c1917e5a2483ea")
