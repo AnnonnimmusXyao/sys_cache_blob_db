@@ -1,0 +1,4 @@
+--game: Lost Alone Ultimate
+
+addappid(2341330)
+addappid(2341331,0,"7241e82b6812d2e59c662f51d93cbb67799e5f67d403c7372f2140381a32c804")
