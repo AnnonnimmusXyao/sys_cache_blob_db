@@ -1,0 +1,4 @@
+--game: GhostCatcher
+
+addappid(2334450)
+addappid(2334451,0,"7ca368ff574a0441f206d39d259433a3ba6792b2ca00030507caa86c5d7ae3a4")
