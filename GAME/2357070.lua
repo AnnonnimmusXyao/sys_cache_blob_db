@@ -1,0 +1,5 @@
+--game: Hippy Girls
+
+addappid(2357070)
+addappid(2357071,0,"8ead0e27b92b48c38000b2e805e7c5a7904d0c2f09db5172aee2cc0b564ad761")
+addappid(2418850)
