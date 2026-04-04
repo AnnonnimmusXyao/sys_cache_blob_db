@@ -1,0 +1,5 @@
+--game: Renryuu: Ascension
+
+addappid(1809530)
+addappid(1809531,0,"c9ece1f7b875917d59c400789aa63d0e1eb1fe393357ad528bb1ddc403fab651")
+addappid(1865200,0,"cd000c961394872b14427f4aa28f829d316fe362add4dfccc6e305ba52091987")
