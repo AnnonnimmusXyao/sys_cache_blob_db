@@ -1,0 +1,4 @@
+--game: HOTEL BARCELONA
+
+addappid(2286600)
+addappid(2286601,0,"44bbec5f278faf65d38103f6f36845df491764a05fc5da38e1d7ff60a7cc8704")
