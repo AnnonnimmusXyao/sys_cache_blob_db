@@ -1,0 +1,6 @@
+--game: Stories from Sol: The Gun-Dog
+
+addappid(2118420)
+addappid(2118421,0,"ca6c947bc32d228f3036759070557ce4d3fb7aa4dd11074ddfe44680ba6e7d09")
+addappid(3471190,0,"4e0187a899fb71f3e5b1003f256da63a0d06728791ea93d08d41a88a70c009d4")
+addappid(3531500)
