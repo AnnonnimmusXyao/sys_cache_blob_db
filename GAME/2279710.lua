@@ -1,0 +1,4 @@
+--game: Logicats
+
+addappid(2279710)
+addappid(2279711,0,"e662336cd2cc95e6b9f43dfabe7ec071a6595c257018ffe380f1bd74d0cb7143")
