@@ -1,0 +1,4 @@
+--game: Citadelic
+
+addappid(2248390)
+addappid(2248391,0,"5cb1d67355d60647e7ae19e8cf54ae409aa853563254f8f38dcadf8fb7af71b6")
