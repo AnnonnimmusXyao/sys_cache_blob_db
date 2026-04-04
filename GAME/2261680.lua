@@ -1,0 +1,4 @@
+--game: Precision
+
+addappid(2261680)
+addappid(2261681,0,"9c1f541c255e7cec0f2dc4ec4250502561ee342b87cd692177fa53a3b219dafe")
