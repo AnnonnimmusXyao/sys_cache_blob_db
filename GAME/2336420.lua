@@ -1,0 +1,4 @@
+--game: School Days
+
+addappid(2336420)
+addappid(2336421,0,"32bd2692c7920befb81bab3e30c9e995597ea13a4bb4958f50ed818bdda21d8d")
