@@ -1,0 +1,5 @@
+--game: Shadows: Price For Our Sins
+
+addappid(1788940)
+addappid(1788941,0,"1a09f2ee9c0452ecddb5da95f22c9858d05aed52eb838fa0d1b218abd258ed51")
+addappid(1788947,0,"8ca50f617c297dbb0fd06d42798caa15c3a644be198de3ef4fcc4a780baeceb5")
