@@ -1,0 +1,4 @@
+--game: Kingdom Run VR
+
+addappid(2255080)
+addappid(2255081,0,"b9f88e767e1dca06297901f78d1323adaac2b027d7e5049e932143003dda724c")
