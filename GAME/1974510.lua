@@ -1,0 +1,4 @@
+--game: Beanstalk
+
+addappid(1974510)
+addappid(1974511,0,"bbb984efb27288933196f599e90067f67d9a899da98ba073bb2dd299af49d8d2")
