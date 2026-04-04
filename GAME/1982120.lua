@@ -1,0 +1,4 @@
+--game: Paper Animal Adventure
+
+addappid(1982120)
+addappid(1982121,0,"85725f8326fe931539f20a7aa8eed4758e511778bb4a139136ca159a9492ef61")
