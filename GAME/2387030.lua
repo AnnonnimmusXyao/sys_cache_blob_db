@@ -1,0 +1,4 @@
+--game: BRAVE ADVENTURER
+
+addappid(2387030)
+addappid(2387031,0,"14b081e9d74f7ecd99c41a8dbe4d79faa16cf6da0cb394f8918266596c6187eb")
