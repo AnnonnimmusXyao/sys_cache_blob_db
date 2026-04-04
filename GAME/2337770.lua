@@ -1,0 +1,4 @@
+--game: Tsetseg's Adventure
+
+addappid(2337770)
+addappid(2337772,0,"417a7084ba03cf132298ab6ebd97599cf6370eab7d9192507e50c5338b5e41fc")
