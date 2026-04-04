@@ -1,0 +1,4 @@
+--game: Cheat Day
+
+addappid(1879700)
+addappid(1879701,0,"7d7dd0454e0fbd36590af9955bb746b03f55259909e1b1d2639b0339b4c93d3b")
