@@ -1,0 +1,4 @@
+--game: AquaHero
+
+addappid(2280630)
+addappid(2280631,0,"82259c5360c1ce20e775c11f5e55e1e23138088bf9f90d5ca82c0bf7b4ce4961")
