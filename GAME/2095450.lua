@@ -1,0 +1,4 @@
+--game: Tiny Tactics
+
+addappid(2095450)
+addappid(2095451,0,"8466a2e543018497aabc7a0d9c57c9f82ff98dad268d99bb164868d9fd390233")
