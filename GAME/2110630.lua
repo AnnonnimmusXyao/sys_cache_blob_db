@@ -1,0 +1,4 @@
+--game: Chernobyl Again
+
+addappid(2110630)
+addappid(2110631,0,"22e5704a214235cf7112b92a844299e5c7b17b24c7f8bfa05396bfd39668d3fd")
