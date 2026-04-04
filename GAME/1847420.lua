@@ -1,0 +1,4 @@
+--game: Tatari
+
+addappid(1847420)
+addappid(1847421,0,"a2bbb47b338980720f069f6d6eafbe18b19b0196796151f4c6fb236bf235579f")
