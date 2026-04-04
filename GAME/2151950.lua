@@ -1,0 +1,4 @@
+--game: Voice of the Wizard by Brett Farkas
+
+addappid(2151950)
+addappid(2151951,0,"3346115ab57cfdcce3c0b2e81ae4adba90ef488bd03161f47ae95f9aedc0c0ea")
