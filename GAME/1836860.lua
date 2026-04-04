@@ -1,0 +1,4 @@
+--game: Neptunia x SENRAN KAGURA: Ninja Wars
+
+addappid(1836860)
+addappid(1836861,0,"9c3b608aeb5f9fb3d8013b02847fe12d074f1830ca08032339604741898897c6")
