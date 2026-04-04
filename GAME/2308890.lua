@@ -1,0 +1,4 @@
+--game: Sliding Swords
+
+addappid(2308890)
+addappid(2308891,0,"3f422d06380cdb58be3d87616e2c953ad6f489cde1f519b39ce97fe86058e57b")
