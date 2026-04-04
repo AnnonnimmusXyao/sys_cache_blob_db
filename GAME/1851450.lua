@@ -1,0 +1,4 @@
+--game: Bubbles shot
+
+addappid(1851450)
+addappid(1851451,0,"8b410a4ff9eaf766fdc708f029d05f8d86b5d41324332c47d3cf0f4673f02ab7")
