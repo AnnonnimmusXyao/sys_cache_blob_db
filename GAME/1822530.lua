@@ -1,0 +1,4 @@
+--game: The Missing Parts of Maria Gwozdek
+
+addappid(1822530)
+addappid(1822531,0,"7955da552fef4b390c5d8b6930e54cc73b88b4e648d8a5da829c914ee0fd85b2")
