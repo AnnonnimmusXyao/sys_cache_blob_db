@@ -1,0 +1,4 @@
+--game: HoopsFPS
+
+addappid(1935630)
+addappid(1935631,0,"2b62fd57fb78193b8e3b4deeeebac1a99d4cea167958d66d109db06aec894444")
