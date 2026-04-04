@@ -1,0 +1,4 @@
+--game: As Crônicas de Mar Céu
+
+addappid(2372880)
+addappid(2372881,0,"3c05a24fddd1cf568465b8f148c3aceedd3d5d43a90e212a70f348dc54d021b3")
