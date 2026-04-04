@@ -1,0 +1,4 @@
+--game: Twin Stick Tennis
+
+addappid(2354060)
+addappid(2354061,0,"498d1e56bf071eb1a4ca214084dbbd3d7101ecc004993434fe7787f8004f1fdf")
