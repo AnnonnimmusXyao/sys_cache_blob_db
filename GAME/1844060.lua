@@ -1,0 +1,4 @@
+--game: Holy Purge : Exorcist
+
+addappid(1844060)
+addappid(1844061,0,"8022e032e4ac641a07618df8a97425201e98202ded5221fb7a3fe859617b2522")
