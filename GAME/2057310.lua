@@ -1,0 +1,4 @@
+--game: Stardust Valkyries
+
+addappid(2057310)
+addappid(2057311,0,"6cd2b97d428b97400371bca55f1b7005799949abf9a6f9cdd33a9aebdbfb8a73")
