@@ -1,0 +1,4 @@
+--game: Voltage High Society
+
+addappid(2063480)
+addappid(2063481,0,"cd600a63a9234e1797f4c5e30d51c4b224e7f32a3636a2825e16362bb91f70a2")
