@@ -1,0 +1,4 @@
+--game: Skyformer
+
+addappid(2305210)
+addappid(2305212,0,"84c1be00070cce5dd9d85aac846412d4750945314d196efb75e9a86c3c1793ca")
