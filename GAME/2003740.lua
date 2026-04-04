@@ -1,0 +1,4 @@
+--game: 茶叶蛋大冒险
+
+addappid(2003740)
+addappid(2003741,0,"56c472594ebce701e04f9a77b31c822aeebbc70dc85b9d20fc4c4566b1404b3e")
