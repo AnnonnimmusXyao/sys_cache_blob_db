@@ -1,0 +1,4 @@
+--game: Super Block Crush-超级破坏球
+
+addappid(2128690)
+addappid(2128691,0,"3bed920c7e869ebb3ec0f6955a43a4ff3652e7ba9ebac9106890eb66e5dcefc9")
