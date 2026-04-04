@@ -1,0 +1,4 @@
+--game: Soulless
+
+addappid(1794420)
+addappid(1794421,0,"d27396b061a54333d6e767ad02c0c8bf371c28fd5ac3df5a45d8baf12aa1e463")
