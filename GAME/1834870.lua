@@ -1,0 +1,4 @@
+--game: Lily's Well
+
+addappid(1834870)
+addappid(1834871,0,"7ec363a019330792f7c38741db706e7446492c21382f3b6827bdde6c9d879324")
