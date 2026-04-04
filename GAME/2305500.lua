@@ -1,0 +1,4 @@
+--game: FAIRY TAIL: DUNGEONS
+
+addappid(2305500)
+addappid(2305501,0,"edd798b442932f1951f26f91f1a034af8e39c3b7dffa002fd016ebf8671f716c")
