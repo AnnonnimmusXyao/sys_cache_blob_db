@@ -1,0 +1,4 @@
+--game: Downhill Pro Racer
+
+addappid(2266200)
+addappid(2266201,0,"09fbc515576280ef62194d6a4de9cb0da2b57eb998606f1196d7f643fdb84624")
