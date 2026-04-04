@@ -1,0 +1,5 @@
+--game: LEGO® Party!
+
+addappid(1969370)
+addappid(1969373,0,"a4fb49e17e4db8d1b592634bb51833f4e15f19d7e205e083d1e4203d88da29bd")
+addappid(3689940)
