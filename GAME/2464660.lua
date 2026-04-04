@@ -1,0 +1,4 @@
+--game: WarBreeds
+
+addappid(2464660)
+addappid(2464661,0,"a515308ba0933d369fb6d441db34f377c74a3019a8e0e2460f6a51d5504bf774")
