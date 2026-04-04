@@ -1,0 +1,4 @@
+--game: Golfinite
+
+addappid(2133870)
+addappid(2133871,0,"1fa1ed955b3f88516003c662f17e8c87964b63d4f0c96c1c8bfd311f4ad81c86")
