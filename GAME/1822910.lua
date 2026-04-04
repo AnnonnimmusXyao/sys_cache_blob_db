@@ -1,0 +1,4 @@
+--game: Capybara Spa
+
+addappid(1822910)
+addappid(1822911,0,"f3c079c91227b9258b1c619ad8db571fcdaa8933d9cd100b9789939c7c59714b")
