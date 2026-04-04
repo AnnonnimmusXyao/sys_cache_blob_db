@@ -1,0 +1,4 @@
+--game: Apartament 1406: Horror
+
+addappid(2419900)
+addappid(2419901,0,"7667ffd9199ad04808ecd8e9afab6bea69a2a7099b6db7974a5544555bc9b76a")
