@@ -1,0 +1,5 @@
+--game: Necrosmith
+
+addappid(1949190)
+addappid(1949191,0,"2178fc0e37f409d3204faee4bc3c9aa8023f8147d013554ca4579c1e45d90225")
+addappid(2099850)
