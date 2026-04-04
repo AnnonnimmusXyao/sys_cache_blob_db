@@ -1,0 +1,4 @@
+--game: Emi - New Beginning
+
+addappid(2142710)
+addappid(2142712,0,"5332dadd8d2723de19362fffb600c871b621b44fef9196d5643b3f03467d5e79")
