@@ -1,0 +1,4 @@
+--game: The Bad Son
+
+addappid(1900300)
+addappid(1900301,0,"63cca10c49a84bbb46553129ad4ad3714147126a3ec3dd82ca45238c28e276de")
