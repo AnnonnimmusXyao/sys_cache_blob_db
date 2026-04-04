@@ -1,0 +1,4 @@
+--game: Robo Maestro
+
+addappid(1808490)
+addappid(1808491,0,"3e0a8be50689723c69f1a28f4b3e289836e285e3f34c040aa73d4940b838e8ec")
