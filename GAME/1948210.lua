@@ -1,0 +1,4 @@
+--game: Mineralis
+
+addappid(1948210)
+addappid(1948211,0,"de8d4d01d34a0ccc42943d10ebab85ed291baebafcc52e12fceb700f43d7bbfe")
