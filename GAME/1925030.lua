@@ -1,0 +1,4 @@
+--game: Kami-sama's Personal Servant
+
+addappid(1925030)
+addappid(1925031,0,"e5959523da98ccb7232e062687b46e80a6c020e45c68c9faaec4523177dd0278")
