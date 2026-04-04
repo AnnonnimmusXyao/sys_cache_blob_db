@@ -1,0 +1,4 @@
+--game: Astraea
+
+addappid(2314530)
+addappid(2314531,0,"cf6003c5edca725e586ae6454c25ef844b735266733d76f75dbec53aeef2a7dc")
