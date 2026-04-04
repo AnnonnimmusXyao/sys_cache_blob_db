@@ -1,0 +1,4 @@
+--game: Capsule Rush
+
+addappid(2138480)
+addappid(2138481,0,"3dea876c35dfedd854e1937caf7ef9221a9cb6051144b73ddb04d6e2fd2c5534")
