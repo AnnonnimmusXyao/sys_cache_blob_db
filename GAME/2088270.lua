@@ -1,0 +1,4 @@
+--game: My Sticker Book
+
+addappid(2088270)
+addappid(2088271,0,"dc3cdeb16a9eef19d63008d0e3e0a4d1257aa6289031f6e82f4d65345d8d86b9")
