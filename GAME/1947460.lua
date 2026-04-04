@@ -1,0 +1,4 @@
+--game: Angel Perversion
+
+addappid(1947460)
+addappid(1947461,0,"7bd8048f94663f80f5653d887d6a3ef3e347ef86a457ecf5857696cbd0f276b4")
