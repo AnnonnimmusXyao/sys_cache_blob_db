@@ -1,0 +1,6 @@
+--game: Worlds of Aria
+
+addappid(1866980)
+addappid(1866981,0,"d0a56afaad1bad91e9f936e956c66c7a3a100a94cbcd509efc35a35e13856411")
+addappid(2961620)
+addappid(3325450)
