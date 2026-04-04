@@ -1,0 +1,4 @@
+--game: Blue Funk
+
+addappid(2187030)
+addappid(2187031,0,"54f3aa1d7bf7467148ff2f8835724c7fd28a8005939d7fd58a357b9cf82cf6c7")
