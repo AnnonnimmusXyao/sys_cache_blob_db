@@ -1,0 +1,4 @@
+--game: Fishing Game
+
+addappid(2112150)
+addappid(2112151,0,"4cedb9c3b2530d3bfc8212f4fb0c0d95993d18652a63e611a2c832afd02e91a3")
