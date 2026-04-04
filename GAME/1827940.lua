@@ -1,0 +1,4 @@
+--game: Last Lovers 绿洲之爱
+
+addappid(1827940)
+addappid(1827941,0,"3ba861ab7ed07b0f90daf7324729b861929435453e9de0e6cf54538736110df9")
