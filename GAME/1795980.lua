@@ -1,0 +1,4 @@
+--game: Reborn Tribe
+
+addappid(1795980)
+addappid(1795981,0,"a9c7f96a2c0e3d798a001df3572f63d5af7f74db8a0fca7dda323735f9cebe8e")
