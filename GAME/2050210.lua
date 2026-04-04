@@ -1,0 +1,4 @@
+--game: Platboarder
+
+addappid(2050210)
+addappid(2050212,0,"4d888fdacd6ecb07f354d0bb8d74aa91f57c5cf28912408d365083bde2c3cb27")
