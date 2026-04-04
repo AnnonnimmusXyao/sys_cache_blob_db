@@ -1,0 +1,4 @@
+--game: The Billion Clicker
+
+addappid(2132070)
+addappid(2132071,0,"bbfc40ebe7c9bee1fb83e9aed51e4d528080bc5ec2a210ff912f91d319a50792")
