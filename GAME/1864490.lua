@@ -1,0 +1,4 @@
+--game: 3D Solar System Simulator
+
+addappid(1864490)
+addappid(1864491,0,"c8179629a5411f06186e31bd73dd864e12de3b50e28ac468092a094b9d10a3c1")
