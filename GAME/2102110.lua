@@ -1,0 +1,4 @@
+--game: Speed the Card Game
+
+addappid(2102110)
+addappid(2102111,0,"68188bcb606a303a768672c4e20051e02d9d805d1f22c231a1a228d8d256494e")
