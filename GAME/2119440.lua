@@ -1,0 +1,4 @@
+--game: World Mahjong
+
+addappid(2119440)
+addappid(2119441,0,"1e31ee884af04ac591e5be058e72d3f464eeb92756540b743871bdf072235f49")
