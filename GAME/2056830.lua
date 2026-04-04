@@ -1,0 +1,4 @@
+--game: The Lost Key
+
+addappid(2056830)
+addappid(2056831,0,"3a60b40c6c768a7c925eddb32fb5ce570f4ff933c5b54a3cacd7a3eb947bca6b")
