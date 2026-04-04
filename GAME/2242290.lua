@@ -1,0 +1,4 @@
+--game: High and Dry
+
+addappid(2242290)
+addappid(2242291,0,"0d1beb593bbb2437d5ce03e039ddcda15a4910a9cf536917215944678b6046cf")
