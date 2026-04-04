@@ -1,0 +1,4 @@
+--game: Resoraki: The racing
+
+addappid(2303180)
+addappid(2303181,0,"19776f932bbfe7ce541446998c5a30318c552975a33ed44d89fc69ff2fc168d2")
