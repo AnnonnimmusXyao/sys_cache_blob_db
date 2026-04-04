@@ -1,0 +1,4 @@
+--game: 沙盘战火调度
+
+addappid(2267480)
+addappid(2267481,0,"7ae94a78d122bf93c1cc6d6b967427ad01ea174921df712a92762cdc5a8af1e6")
