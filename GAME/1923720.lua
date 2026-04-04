@@ -1,0 +1,4 @@
+--game: Wildlife Planet: The Incremental
+
+addappid(1923720)
+addappid(1923722,0,"d3e7edde91674463300edaf8ab1d404ae8bf58363e16e040d03e0a1ffeeea1df")
