@@ -1,0 +1,4 @@
+--game: Alcyone
+
+addappid(1972230)
+addappid(1972232,0,"df2950c6048dd33b14b655473a6a166c15ad537ad41513f528c973d9278cd29b")
