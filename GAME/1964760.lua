@@ -1,0 +1,4 @@
+--game: WFO World Football Online
+
+addappid(1964760)
+addappid(1964761,0,"6e86433f65960e18c96bacd1f3cc62a53d4c3e967d261b79ef1f41cf24782ea9")
