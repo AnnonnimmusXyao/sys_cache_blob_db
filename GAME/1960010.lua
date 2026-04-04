@@ -1,0 +1,4 @@
+--game: Insanity Ice
+
+addappid(1960010)
+addappid(1960011,0,"926d81edaa7d7cfc038e55515c01529809a8adbe923ac8f186432e0f599555e6")
