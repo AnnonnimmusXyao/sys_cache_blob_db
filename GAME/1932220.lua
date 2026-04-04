@@ -1,0 +1,4 @@
+--game: EasyChemistryLab
+
+addappid(1932220)
+addappid(1932221,0,"d993a5867d20402932246976377e44f176539de007a96723abd556951fbc7a9b")
