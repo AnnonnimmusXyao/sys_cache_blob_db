@@ -1,0 +1,4 @@
+--game: AL QMRAH RESTAURANT - مطبخ القمرة
+
+addappid(2071300)
+addappid(2071301,0,"c80e0fe18f85c19465c9404484da5e92d56b4d163fcb04a71ae48b6e81abc128")
