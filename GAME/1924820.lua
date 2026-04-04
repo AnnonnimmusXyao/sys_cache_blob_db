@@ -1,0 +1,7 @@
+--game: StudioS Fighters: Climax Champions
+
+addappid(1924820)
+addappid(229000)
+addappid(229001)
+addappid(1924821,0,"c3ddb63c590901e7e79ed28b7ffb0d01ed000adca6d1d701fbffbe84608f1e21")
+addappid(1924823,0,"69a481325a3583e686142a419cd96c2ce5543453c0c94d7e9c364f2cb219037b")
