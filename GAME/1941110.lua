@@ -1,0 +1,4 @@
+--game: Higurashi When They Cry Hou - Rei
+
+addappid(1941110)
+addappid(1941111,0,"5ca0bd42a5fc7976a40740b737ee987291e62dbc0307b9a699a59f7ce22a0c58")
