@@ -1,0 +1,4 @@
+--game: SpearFrog
+
+addappid(1970750)
+addappid(1970751,0,"752e23a6fbcb441a65c85a5363c9c80de1646d348dd05227e8d6b9f179af75a8")
