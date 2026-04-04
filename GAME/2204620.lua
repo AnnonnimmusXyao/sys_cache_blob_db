@@ -1,0 +1,4 @@
+--game: King's Blade
+
+addappid(2204620)
+addappid(2204621,0,"a98197ee2e2a558417fc0891780694f91043a272b0f7a20dafff5baeb3e6132e")
