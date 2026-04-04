@@ -1,0 +1,4 @@
+--game: TERO - Terror Hour
+
+addappid(2459450)
+addappid(2459451,0,"8a6508ea53644aea3d687aff66bcc2be4ec8688d3eb1d6763dc0ca4abd9d3cef")
