@@ -1,0 +1,4 @@
+--game: VDoll
+
+addappid(2122110)
+addappid(2122111,0,"9c54e31d25daff232da2195a6509ac3fad21f2fed42eb68a4cb73f1584274636")
