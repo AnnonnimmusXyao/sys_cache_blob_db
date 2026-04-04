@@ -1,0 +1,6 @@
+--game: Cash Cleaner Simulator
+
+addappid(2488370)
+addappid(2488372,0,"977e890c85c823ca9de5001068b30e038ade55c019c6e777e357cea4c148f33b")
+addappid(3660310)
+addappid(3795660)
