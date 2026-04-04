@@ -1,0 +1,4 @@
+--game: 失与寻 ~ The Awaited ReCollection ~
+
+addappid(2311320)
+addappid(2311321,0,"90f08b7905f9916bf89f0a825e6bcd5c24464744da8d57db5393974537216395")
