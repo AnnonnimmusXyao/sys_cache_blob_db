@@ -1,0 +1,6 @@
+--game: Rhapsody II: Ballad of the Little Princess
+
+addappid(2002870)
+addappid(2002871,0,"73ad6e97d50a47a9863bd2da733bbbc7b712458d440b0b9c95fa96bc7a55987c")
+addappid(2517650)
+addappid(2517830)
