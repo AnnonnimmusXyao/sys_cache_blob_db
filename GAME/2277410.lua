@@ -1,0 +1,4 @@
+--game: Under the Sky World~Another~
+
+addappid(2277410)
+addappid(2277412,0,"93cb2b516008e9ea639587449f30f441c1c5455322362289c3914bd50c55f1d9")
