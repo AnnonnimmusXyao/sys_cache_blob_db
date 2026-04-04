@@ -1,0 +1,4 @@
+--game: Staffer Case: A Supernatural Mystery Adventure
+
+addappid(2128480)
+addappid(2128482,0,"58d50e75515b3f6a86b2046004aed5de3908c4e5b2ba2e812cbd089a0ff3cae7")
