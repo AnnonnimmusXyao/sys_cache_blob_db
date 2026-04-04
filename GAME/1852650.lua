@@ -1,0 +1,4 @@
+--game: Operation Wolf Returns: First Mission
+
+addappid(1852650)
+addappid(1852651,0,"b79fdcf382ecdd8898d6e83c77bc649629e51ee775b223279788809512da1367")
