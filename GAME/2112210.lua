@@ -1,0 +1,4 @@
+--game: Ensora
+
+addappid(2112210)
+addappid(2112211,0,"7243bc3d96fb627612a0fb0f0640240c180dfa778e324531bdac6488d598d1e0")
