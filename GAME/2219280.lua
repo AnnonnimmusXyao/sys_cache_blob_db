@@ -1,0 +1,4 @@
+--game: The Infernal Masquerade
+
+addappid(2219280)
+addappid(2219281,0,"4b0d5aae2f5b39220e67a7238df2e5d98d4f97e60a5dd2592546569684fc25e2")
