@@ -1,0 +1,4 @@
+--game: Turn on the lights carefully
+
+addappid(2303620)
+addappid(2303621,0,"0409c54d458fbb95ab36880acb78e3285b322651dba5934c80b3afc66779784d")
