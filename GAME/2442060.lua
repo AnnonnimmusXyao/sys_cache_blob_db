@@ -1,0 +1,4 @@
+--game: Nightmare Zapping
+
+addappid(2442060)
+addappid(2442061,0,"4a69f25639d66c09923dcbd0b6e2272dda2d8207fefb868a07c51770f3991540")
