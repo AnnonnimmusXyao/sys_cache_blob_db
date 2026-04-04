@@ -1,0 +1,4 @@
+--game: Wander Vyrosa
+
+addappid(2118940)
+addappid(2118941,0,"d128e1dcc6ac2b0f3ca418dfc80d905c9fe4c82aebe73650900f5db99b97decf")
