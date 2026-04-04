@@ -1,0 +1,4 @@
+--game: 无二解药
+
+addappid(1891440)
+addappid(1891441,0,"4201984f2413fb2c7d8d891cbab5749051df65939ebc11e4bbcbbf5ce956080f")
