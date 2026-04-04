@@ -1,0 +1,4 @@
+--game: Pirate's Solitaire
+
+addappid(1859140)
+addappid(1859141,0,"33f715db3e7026a7c92651afb729a57058d964e82f1e891dc408c31dab2b6fd1")
