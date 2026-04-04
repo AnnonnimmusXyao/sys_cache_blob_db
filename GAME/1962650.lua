@@ -1,0 +1,4 @@
+--game: Horrid Henry's Krazy Karts
+
+addappid(1962650)
+addappid(1962651,0,"d0bbdeaee569567a1751b168d45af45f59b467e26af5fe2c6c6a0c550d7a5598")
