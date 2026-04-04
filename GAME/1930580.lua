@@ -1,0 +1,5 @@
+--game: Devil's 5 Days Mischief Game
+
+addappid(1930580)
+addappid(1930581,0,"fb0588400b733d34ea0cd9d11d60d0922d0e6a8b80d3ffef6c826701a811253a")
+addappid(1930584,0,"8e6ba058f0bd620e4302c681c03946eb14fe0c388b6b61ef9680affc3122808d")
