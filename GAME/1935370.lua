@@ -1,0 +1,4 @@
+--game: Bard Trainer
+
+addappid(1935370)
+addappid(1935371,0,"67765b50c9e4bf670c5287d7571badf88f85e1596f088b4f230e6494b1484ba9")
