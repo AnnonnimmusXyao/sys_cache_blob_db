@@ -1,0 +1,4 @@
+--game: FEEBLE
+
+addappid(1886870)
+addappid(1886871,0,"f55c50a3f1d7843aa3fb37b5e5da549df619fcd5741ef471c51ef0bbea05d501")
