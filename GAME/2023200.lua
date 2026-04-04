@@ -1,0 +1,4 @@
+--game: Dogyuun
+
+addappid(2023200)
+addappid(2023201,0,"3bcf7fd030a44783710b833f65a6c9da40f291b7811608a3643d6faf3e84043f")
