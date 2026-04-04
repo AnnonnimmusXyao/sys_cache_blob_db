@@ -1,0 +1,5 @@
+--game: Solium Infernum
+
+addappid(1893810)
+addappid(1893811,0,"1e7029fe0f49b6198e77a38bd01242345eab2e81a7ded46b2f212defd18710c3")
+addappid(2893270)
