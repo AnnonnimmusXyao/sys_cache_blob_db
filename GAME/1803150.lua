@@ -1,0 +1,4 @@
+--game: Void Slayer
+
+addappid(1803150)
+addappid(1803151,0,"492104705016027fb6f7870f4e6d12fa367591f91e4a252c270e4bb3220b3cf1")
