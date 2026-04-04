@@ -1,0 +1,4 @@
+--game: Super Clown 3: Revenge
+
+addappid(2192650)
+addappid(2192651,0,"b0fed34a6ba5207129e249d20fa7181ac1eb218abd6f4cd0a47c572b5210c4d7")
