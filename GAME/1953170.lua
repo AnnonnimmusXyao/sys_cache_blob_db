@@ -1,0 +1,4 @@
+--game: Rose Action
+
+addappid(1953170)
+addappid(1953171,0,"4ec29be4695af920e0a7cb10b150f088b5d7d38a25308618c2d636839f07dd63")
