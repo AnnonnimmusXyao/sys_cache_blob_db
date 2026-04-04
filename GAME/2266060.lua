@@ -1,0 +1,4 @@
+--game: Psalm VR
+
+addappid(2266060)
+addappid(2266061,0,"91868d29a80201e374e73cf3a92040ace25bc669bde78fbc746b5c9bf5894cdd")
