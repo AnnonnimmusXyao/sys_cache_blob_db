@@ -1,0 +1,4 @@
+--game: Wild West Gringos
+
+addappid(1928960)
+addappid(1928961,0,"606acbb6c2bec45373a96d2921e72f43ee86a0e5c62ca948c27f8e6096edfa8c")
