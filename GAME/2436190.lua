@@ -1,0 +1,4 @@
+--game: Survivors Will 幸存者意志
+
+addappid(2436190)
+addappid(2436191,0,"6bf99673d30b261e0fad58850b959e0895d6c79f91dfbd2ad7052df1f50a4c3f")
