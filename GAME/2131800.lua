@@ -1,0 +1,4 @@
+--game: Gimmick! Special Edition
+
+addappid(2131800)
+addappid(2131801,0,"3be4e18e853386772a731c4c142aaa09de49aeb9eca4a725fd29c288d8a82b85")
