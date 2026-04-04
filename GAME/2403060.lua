@@ -1,0 +1,4 @@
+--game: Dinosaur Land Aerial Photograph
+
+addappid(2403060)
+addappid(2403061,0,"7b365d9b63425a8e9e8c84eee2a5befc8c1548760aa6f44c8b62ddce3c43e1b8")
