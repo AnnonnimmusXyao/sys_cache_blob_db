@@ -1,0 +1,4 @@
+--game: 仙道孤旅
+
+addappid(2209790)
+addappid(2209791,0,"0af2839bc5cc37a0f7dab2935bc707e44eec6e1972c3b3595b897e44083ced79")
