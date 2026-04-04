@@ -1,0 +1,4 @@
+--game: Escape Room VR: Gone Man
+
+addappid(2287950)
+addappid(2287951,0,"6599ed2f70304976e8af37e46bdfd4e1b7076fa47be6be186ab2a5f0ac32a6e7")
