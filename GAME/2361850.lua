@@ -1,0 +1,4 @@
+--game: KARTMania
+
+addappid(2361850)
+addappid(2361851,0,"8d63211be82ec49502399a9cf73bd7c7542dd2aafe92fc927d5513f3c246452b")
