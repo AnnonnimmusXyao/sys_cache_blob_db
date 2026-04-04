@@ -1,0 +1,4 @@
+--game: Little Devils
+
+addappid(2400060)
+addappid(2400061,0,"6b70cb5b15a61261d4d5e78014d94641e84182ecb1d60bad0628c0d1ce4def3e")
