@@ -1,0 +1,4 @@
+--game: FURRY CYBERSEX
+
+addappid(2012620)
+addappid(2012621,0,"dc24016b37c05f1bbd48f0bd914c86fec41db1b4eac7ae460063801f7bb7c706")
