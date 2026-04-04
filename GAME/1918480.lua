@@ -1,0 +1,4 @@
+--game: Dragon Sleuth Brittany
+
+addappid(1918480)
+addappid(1918481,0,"13654ded73aa769208dd59982159daecf9ed03aebb9454e1a237b3c852758e06")
