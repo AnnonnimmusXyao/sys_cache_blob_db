@@ -1,0 +1,4 @@
+--game: Eclipsium
+
+addappid(2419670)
+addappid(2419671,0,"c41e1728cc55c498046c15e73e08dca0970c9dbb67d95bb5231e4f1e53166437")
