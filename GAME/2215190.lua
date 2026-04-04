@@ -1,0 +1,5 @@
+--game: NanoWar: Cells VS Virus
+
+addappid(2215190)
+addappid(2215192,0,"a3134af0c3db16621b2d4c090594cc154bf03ae5ac25872c01f7ea3bada12fdb")
+addappid(2215193,0,"b2fd760b237dea99b9bb4109d8a6ade6574575cdf1dfe96981da036ca749a776")
