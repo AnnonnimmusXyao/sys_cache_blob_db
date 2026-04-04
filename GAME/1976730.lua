@@ -1,0 +1,4 @@
+--game: MugenCards
+
+addappid(1976730)
+addappid(1976731,0,"6dc1e0d65ca22dd9d839520f2c92ee54c222da3a3879b5aba34ea6ac2a11e881")
