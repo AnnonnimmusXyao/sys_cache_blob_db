@@ -1,0 +1,4 @@
+--game: Dickland: Horror Quest
+
+addappid(2436330)
+addappid(2436331,0,"e63188c0c6fcf9050c004b2fe205d4e34a4079405f981a1c2a150f87ca21867c")
