@@ -1,0 +1,4 @@
+--game: Mandala
+
+addappid(1787400)
+addappid(1787401,0,"8403604e7b2693fdd9ed4e754f211572e953e07d8921bb9bd149c5924fd9c368")
