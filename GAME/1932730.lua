@@ -1,0 +1,4 @@
+--game: 推推炸(PushPushBoom)
+
+addappid(1932730)
+addappid(1932733,0,"a47bc20bacf946667c214b4e85291afe6f891682a01ffcad8b0b29dea6415064")
