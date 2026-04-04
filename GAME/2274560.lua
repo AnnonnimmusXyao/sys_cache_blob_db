@@ -1,0 +1,4 @@
+--game: 恋してしまった星の王子 ～誓願院編～
+
+addappid(2274560)
+addappid(2274561,0,"ea057e6eb5af4c4775c5f235950abbc906c0d00bd131b3fb8a4724da7324fb35")
