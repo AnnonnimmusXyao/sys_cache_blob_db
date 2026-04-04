@@ -1,0 +1,4 @@
+--game: Pirate fishing
+
+addappid(1984400)
+addappid(1984401,0,"53a35d5e839517da8ede89cd1cf646ff72c9bbf7bbfad2446976f5208d1fa2a1")
