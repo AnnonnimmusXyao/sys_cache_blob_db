@@ -1,0 +1,4 @@
+--game: Waifu Klondike Solitaire
+
+addappid(2076950)
+addappid(2076951,0,"93c01a7fa44bdd07cfe0077899673659ad3f768ff04cacfeb4345d00cbf3c202")
