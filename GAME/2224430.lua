@@ -1,0 +1,4 @@
+--game: Satay Shop Tycoon
+
+addappid(2224430)
+addappid(2224431,0,"747fca9443df849525ac0cb69aa5d23f8724aceb25736f691965778ce6e47ff0")
