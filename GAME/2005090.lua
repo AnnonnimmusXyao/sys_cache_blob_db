@@ -1,0 +1,8 @@
+--game: EVOTINCTION
+
+addappid(2005090)
+addappid(2005091,0,"d0096bb6160560e2c1b02177fc2a21a816d772a0d005ae9fb3dc4f7a0fc7f541")
+addappid(3194250)
+addappid(3194260)
+addappid(3194270)
+addappid(3194280)
