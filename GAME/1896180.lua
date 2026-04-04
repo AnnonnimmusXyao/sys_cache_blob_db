@@ -1,0 +1,4 @@
+--game: The RPS Game Show
+
+addappid(1896180)
+addappid(1896181,0,"91ced2194794516f309dffd5c3671adb6c1d4de92f6edbdd76431824529d7210")
