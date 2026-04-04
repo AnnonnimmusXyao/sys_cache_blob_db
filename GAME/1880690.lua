@@ -1,0 +1,4 @@
+--game: Familiar
+
+addappid(1880690)
+addappid(1880691,0,"80902a8c9a21bd92014d8e23e07e4699f2c36eea5390b1351f317245ee79ebda")
