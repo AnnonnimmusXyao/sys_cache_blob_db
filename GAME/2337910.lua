@@ -1,0 +1,4 @@
+--game: Asuji: The Legend of You
+
+addappid(2337910)
+addappid(2337911,0,"64c46506ea74357bc4364fe7836f7a2b08cd2d4f269256640213c3bd15a0f6db")
