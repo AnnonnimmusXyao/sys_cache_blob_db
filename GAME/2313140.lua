@@ -1,0 +1,5 @@
+--game: OPPAI Ero App Academy Bigger, Better, Electric Boobaloo!
+
+addappid(2313140)
+addappid(2313141,0,"a3719539c04fc523597e4662b83bc76beacc03a657df11231569586d5f92eeeb")
+addappid(2998690)
