@@ -1,0 +1,4 @@
+--game: Bullet Blaze
+
+addappid(2368160)
+addappid(2368161,0,"76bafc91ac7a29f6d8dc319541d2a5c00ae5d665148347010027e48a659b918f")
