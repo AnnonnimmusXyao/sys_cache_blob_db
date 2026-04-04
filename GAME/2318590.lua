@@ -1,0 +1,4 @@
+--game: School Booster
+
+addappid(2318590)
+addappid(2318591,0,"7f96c91f470456f6ab8583dd0818363d5c6b7f87bc353e66f7f9f6c041009d36")
