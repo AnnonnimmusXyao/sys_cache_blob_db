@@ -1,0 +1,4 @@
+--game: G-MODEアーカイブス+ 探偵・癸生川凌介事件譚 Vol.1「仮面幻想殺人事件」
+
+addappid(2307050)
+addappid(2307051,0,"66fa84fcae22ab1699417d5dabb5e52abc80d4040d8e597fcb61fb8ccaaa17f8")
