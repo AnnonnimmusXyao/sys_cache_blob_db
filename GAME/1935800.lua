@@ -1,0 +1,4 @@
+--game: Absolute Tennis Manager
+
+addappid(1935800)
+addappid(1935801,0,"84d8b1f8ce81bb05ec84f69fe95647ba8f19d46cf7919a8bcc64e925f350d45c")
