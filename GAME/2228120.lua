@@ -1,0 +1,4 @@
+--game: 圣维丹物语
+
+addappid(2228120)
+addappid(2228121,0,"69a2e18976d5df31b889259dc98f6b2d463032483bda1807715ac87cae38f574")
