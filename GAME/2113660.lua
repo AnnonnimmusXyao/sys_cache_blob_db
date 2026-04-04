@@ -1,0 +1,5 @@
+--game: Hentai Furry 3
+
+addappid(2113660)
+addappid(2113661,0,"04c532514d74abc8ab9c1caffc8337b4f1d8ac9127b5795e6f6d7e0d425ccf4d")
+addappid(2129650)
