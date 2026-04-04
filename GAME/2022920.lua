@@ -1,0 +1,4 @@
+--game: Out Zone
+
+addappid(2022920)
+addappid(2022921,0,"4122f08c3cfd677274dd1d76ff4505b94f3fedf836479767a4f0a46db964a415")
