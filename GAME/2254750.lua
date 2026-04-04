@@ -1,0 +1,4 @@
+--game: 悟能大战白骨精
+
+addappid(2254750)
+addappid(2254751,0,"9e8faaf5a33720ee613a63662447f669ec90a1afc48af14bd71af09f2c203465")
