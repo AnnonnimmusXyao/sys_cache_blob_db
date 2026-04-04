@@ -1,0 +1,8 @@
+--game: Atelier Marie Remake: The Alchemist of Salburg
+
+addappid(2138090)
+addappid(2138091,0,"d6e28b10a983e0ea312f862604580bc5e9f3a9ed43c33da6ec85a2fe1f4d8396")
+addappid(2208450)
+addappid(2261010)
+addappid(2261011)
+addappid(2296600)
