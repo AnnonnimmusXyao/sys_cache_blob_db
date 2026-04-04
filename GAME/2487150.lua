@@ -1,0 +1,4 @@
+--game: Deconstruction Simulator
+
+addappid(2487150)
+addappid(2487151,0,"734bff9aed757224ce32fdd52d7ef669c41d5e8d0c6f972006e554f1b8e0bbc1")
