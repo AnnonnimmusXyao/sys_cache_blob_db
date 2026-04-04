@@ -1,0 +1,4 @@
+--game: Freak Crossing
+
+addappid(2373490)
+addappid(2373491,0,"a436edc8b6e614c2ac812685758fbda325746db4266c8e2a6b068a552b65e57d")
