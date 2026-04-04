@@ -1,0 +1,4 @@
+--game: Please Subscribe: Streamer Career
+
+addappid(1826910)
+addappid(1826911,0,"27f8a278b481d5b8e6bfdc5e6bccbae309c2253b68516015cc8dac99d97cedd8")
