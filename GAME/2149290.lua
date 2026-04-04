@@ -1,0 +1,4 @@
+--game: Havoc
+
+addappid(2149290)
+addappid(2149291,0,"82cdfce9795b11412434725eb9f2f81da97eb89b66eaf44efdd743832cd27ee0")
