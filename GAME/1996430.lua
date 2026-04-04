@@ -1,0 +1,5 @@
+--game: Dicefolk
+
+addappid(1996430)
+addappid(1996431,0,"b04355c28f36d3615484980648771c6193f3b90eef02a0a2464bee14a0ceea96")
+addappid(2945830)
