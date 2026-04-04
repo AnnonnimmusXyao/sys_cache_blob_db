@@ -1,0 +1,4 @@
+--game: Jumping Cat
+
+addappid(2147050)
+addappid(2147051,0,"bcf5013edf7052684664978777bc175bd4288da57fa14dd7004288f19f08a99c")
