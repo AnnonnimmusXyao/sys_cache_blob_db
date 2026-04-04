@@ -1,0 +1,4 @@
+--game: Memetric: Final Lifeforms
+
+addappid(1794760)
+addappid(1794761,0,"581599dff599d41f1b9b134a2bb70060d38171886d0813521961839f90b63ed2")
