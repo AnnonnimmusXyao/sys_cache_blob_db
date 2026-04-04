@@ -1,0 +1,8 @@
+--game: 毛玉大冒险 ~ Kedama's Adventure
+
+addappid(228981)
+addappid(228982)
+addappid(228983)
+addappid(228985)
+addappid(1906400)
+addappid(1906401,0,"76f5ef65f24fca581d7ff8a865880ded15538edeb9531d35bebb883e67f4cd56")
