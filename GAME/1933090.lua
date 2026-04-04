@@ -1,0 +1,4 @@
+--game: Samurai(The Rise Of Warrior)- 武士の台頭
+
+addappid(1933090)
+addappid(1933091,0,"0f6e07c030a9d5495468e6d1a9f68f07ff1a81800a2908b590d81dfda198e38c")
