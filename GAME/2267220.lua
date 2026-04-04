@@ -1,0 +1,4 @@
+--game: TAMERLANE
+
+addappid(2267220)
+addappid(2267223,0,"fe506df54887c0a7a8d0e7d3b6d0bda5df1bcdc42ba02d1b6e0aa09c933483a1")
