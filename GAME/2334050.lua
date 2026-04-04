@@ -1,0 +1,4 @@
+--game: Sword Smash
+
+addappid(2334050)
+addappid(2334051,0,"629a7dcf85a327ab2935e5d477c25e8b3ef03d12ca340bcf0544b34c8f9b04ae")
