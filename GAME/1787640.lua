@@ -1,0 +1,4 @@
+--game: Kings and Pigs Prequel
+
+addappid(1787640)
+addappid(1787641,0,"928934328e6a69666c4848b906d764f1e00a3fc9e3c644a882a31a79739cc348")
