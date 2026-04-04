@@ -1,0 +1,4 @@
+--game: Shiitake Showdown
+
+addappid(2222850)
+addappid(2222851,0,"0765c627bcbbd4989ff2e2e931a932340f8a691002cc361f13d9de9594328162")
