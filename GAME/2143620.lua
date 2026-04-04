@@ -1,0 +1,4 @@
+--game: 流離之歌
+
+addappid(2143620)
+addappid(2143623,0,"4aec84563fe0680d5d0657799247dcd09a35bfea0ee4e1396cf520e967b75c9c")
