@@ -1,0 +1,4 @@
+--game: Earth of Oryn
+
+addappid(1972450)
+addappid(1972452,0,"954c099ea96fd34a998830de3b2bc62c38faaa536a99e7752d34d97b3c634e5c")
