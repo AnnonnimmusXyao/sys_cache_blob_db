@@ -1,0 +1,4 @@
+--game: Hooked on You: A Dead by Daylight Dating Sim™
+
+addappid(1866180)
+addappid(1866181,0,"eade5f165a6945843f35c96c829e90b9a977e97ae7f81ef4e284ab9517700599")
