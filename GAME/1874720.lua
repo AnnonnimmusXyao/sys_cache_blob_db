@@ -1,0 +1,4 @@
+--game: Elf World Adventure: Part 1
+
+addappid(1874720)
+addappid(1874721,0,"4ad364148931cec642d6e421cc7ac537bb5dc88894fe614e8c73c869157f1e17")
