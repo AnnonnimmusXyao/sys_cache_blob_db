@@ -1,0 +1,6 @@
+--game: Jury - Episode 1: Before the Trial
+
+addappid(2258290)
+addappid(2258291,0,"1a498a1ba9af0cd8e2465b653d7674c5b7030f799400a9f8927d91780c40be4f")
+addappid(2874140,0,"d465196147698fc878326f9dbee48bc599aa487aa3cd05cb5451e2de4422293d")
+addappid(3734730)
