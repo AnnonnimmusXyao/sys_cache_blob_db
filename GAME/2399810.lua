@@ -1,0 +1,4 @@
+--game: Skoory Rush
+
+addappid(2399810)
+addappid(2399811,0,"4c6e949b3ab092ea0c821656b4fd8c67ac390c8d7b38955f0ab3ae0d9cd7e6ea")
