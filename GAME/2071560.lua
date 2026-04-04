@@ -1,0 +1,4 @@
+--game: Modern Fantasy - Urban Legends
+
+addappid(2071560)
+addappid(2071561,0,"8cf44551da43b7d248aefad37814a8b5936d82690b64fdde812c4edd1e7f5664")
