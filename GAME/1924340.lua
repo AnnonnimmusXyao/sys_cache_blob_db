@@ -1,0 +1,4 @@
+--game: King of the Savage Realms
+
+addappid(1924340)
+addappid(1924341,0,"188975b8fdc5f94734d552a03f1e1086871f5346c47b8d6a81df3640c8388ea0")
