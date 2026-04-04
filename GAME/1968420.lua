@@ -1,0 +1,4 @@
+--game: Catch the Yeti!
+
+addappid(1968420)
+addappid(1968421,0,"d88ac224d6c1fbf5bfd2fe74382738a99f9d325a142901aa4f73816283247584")
