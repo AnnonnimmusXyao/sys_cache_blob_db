@@ -1,0 +1,4 @@
+--game: Harmony: The Fall of Reverie
+
+addappid(1966420)
+addappid(1966421,0,"69c6eaa9483c47aa39d38d98bd14fb2e6dae61215f489bc8f603fb52029c148b")
