@@ -1,0 +1,4 @@
+--game: Your Turn To Die -Death Game By Majority-
+
+addappid(2067780)
+addappid(2067782,0,"b035394eecff1845cf9348b51745e71b0bedbbe7be661c70b4acf85963ca1c2e")
