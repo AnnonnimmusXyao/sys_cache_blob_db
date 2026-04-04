@@ -1,0 +1,5 @@
+--game: Sudoku Classic
+
+addappid(2286760)
+addappid(2286761,0,"958ad6ea416ea23ccdc1268007ffb296d4265deee2818a74a2478054aaa23960")
+addappid(2887170)
