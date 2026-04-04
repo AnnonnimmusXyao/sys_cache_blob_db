@@ -1,0 +1,4 @@
+--game: The Absolute Destroyer
+
+addappid(2104760)
+addappid(2104761,0,"7157da562dffe4a5ba86b198782e561fcdaefacdcbcd9d8f3830f2bea12c7b63")
