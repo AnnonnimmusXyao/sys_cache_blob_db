@@ -1,0 +1,4 @@
+--game: BetWin
+
+addappid(1835820)
+addappid(1835821,0,"ce4024b23859bd8682ba01dc7f94c1a78e6c52db1e9bd7300032335b4923e431")
