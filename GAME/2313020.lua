@@ -1,0 +1,8 @@
+--game: Umamusume: Pretty Derby - Party Dash
+
+addappid(2313020)
+addappid(2313021,0,"a7ea6226751ac88e77dd048b3af5cba983ea6c96f6f62bdce18b80f106f4c3b4")
+addappid(3050720)
+addappid(3050730)
+addappid(3050740)
+addappid(3050750)
