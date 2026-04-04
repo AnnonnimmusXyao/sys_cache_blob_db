@@ -1,0 +1,4 @@
+--game: STRANGER
+
+addappid(1902150)
+addappid(1902151,0,"99c8ccf16c72257db4981826cb5b79b3a1cfb70239e94e0aeb0421d27de8c229")
