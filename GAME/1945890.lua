@@ -1,0 +1,4 @@
+--game: Rocco's Inferno
+
+addappid(1945890)
+addappid(1945891,0,"5a31294c8d5864f91b9662e50d67ef917e9f7772cf89407cb8736af14b972425")
