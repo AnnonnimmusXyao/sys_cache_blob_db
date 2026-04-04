@@ -1,0 +1,4 @@
+--game: After the Inferno
+
+addappid(2027360)
+addappid(2027361,0,"a11192a5b9339e87e468f81c73522a3e96ecdb505dbffe2dbb3e78e1f7d75e64")
