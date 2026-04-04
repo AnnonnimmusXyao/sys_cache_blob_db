@@ -1,0 +1,4 @@
+--game: Microbrewery Tycoon
+
+addappid(1827700)
+addappid(1827701,0,"9e3d5da587c33349888fa8b862806daa31a521da42a5ea7fa12784ee2ebe8df7")
