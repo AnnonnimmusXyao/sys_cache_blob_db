@@ -1,0 +1,5 @@
+--game: Kris and the City of Pleasure
+
+addappid(2130680)
+addappid(2130681,0,"515e96947dfe7d11952bf85c37c6aa1c9c21378db885a66413d8777746f18f27")
+addappid(2130682,0,"b8a935f92f1820c8458e792b55260f85ef0eddee500bf8b2c023fe6382023cca")
