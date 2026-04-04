@@ -1,0 +1,4 @@
+--game: Cu-Blit
+
+addappid(1880180)
+addappid(1880181,0,"1bad889de5693e9db52aeebd5bfdc3e68612f8b63b8ca6a99c50819ddd512481")
