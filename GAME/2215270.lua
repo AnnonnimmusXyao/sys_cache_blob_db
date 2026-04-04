@@ -1,0 +1,4 @@
+--game: Army Troop
+
+addappid(2215270)
+addappid(2215271,0,"deea5e1c1b2c2cc9465e2b2021549012af5030f69e0b6a14f2d271aa71d1df96")
