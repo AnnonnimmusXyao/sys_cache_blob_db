@@ -1,0 +1,4 @@
+--game: Insane Escape
+
+addappid(2342320)
+addappid(2342321,0,"0a20dcc28b627262920e827c79e074dc0a48bb25d731cde39c787f94bcb3c19f")
