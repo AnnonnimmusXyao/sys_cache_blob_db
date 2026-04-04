@@ -1,0 +1,4 @@
+--game: Hunter A Hunter
+
+addappid(1848650)
+addappid(1848651,0,"7afbbb2f49a75752bd37b858097ffa1043d0447e5151348f61e36ff4dea06fcd")
