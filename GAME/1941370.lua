@@ -1,0 +1,4 @@
+--game: Dancin' Divas
+
+addappid(1941370)
+addappid(1941371,0,"f0a8d2d071d0a6fb5242e6fa95343c5b2dca9efd754ce97d5599182341ae5782")
