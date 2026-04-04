@@ -1,0 +1,4 @@
+--game: CosmoOdyssey:Trip to Mars
+
+addappid(2084010)
+addappid(2084011,0,"a17b0dd75bafcc900675e81c2bd8036aec038f873e26fe0034827fdedae42326")
