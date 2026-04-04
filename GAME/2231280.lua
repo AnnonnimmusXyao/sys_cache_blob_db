@@ -1,0 +1,4 @@
+--game: Spirit Slider
+
+addappid(2231280)
+addappid(2231281,0,"56d4852b16846ed421adcec10a1e0d3c78851367676d8099a8059b73c286ae82")
