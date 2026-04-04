@@ -1,0 +1,4 @@
+--game: Isolania
+
+addappid(1997920)
+addappid(1997921,0,"8a428b6c9ed184f324247070a77bea180007bf7002b58d0812a6e1df396d9879")
