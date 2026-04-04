@@ -1,0 +1,4 @@
+--game: Defenders Glory
+
+addappid(1823940)
+addappid(1823941,0,"1fb1cc10c974f9a4cc2aa437bbee5c4ab72247f4b8a084c3bf9e9393d68857cb")
