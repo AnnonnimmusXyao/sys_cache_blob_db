@@ -1,0 +1,4 @@
+--game: I Am Sakuya VR: Touhou FPS Game
+
+addappid(2375160)
+addappid(2375161,0,"02bec967efa084aeb0993a579c9ea59f2885eef7c521509993dfa5573d06b7cb")
