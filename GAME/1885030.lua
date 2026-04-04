@@ -1,0 +1,4 @@
+--game: Queen of the flies 蝇后
+
+addappid(1885030)
+addappid(1885031,0,"2091908662fcb7155b0776ec25612daa742d07dae517187b99419d9e1aa66058")
