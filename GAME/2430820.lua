@@ -1,0 +1,4 @@
+--game: Squab
+
+addappid(2430820)
+addappid(2430821,0,"d49c2ec9ea44e720572005f43892484c59fb38b8833a5a4e3d4e0ef484dfb34a")
