@@ -1,0 +1,6 @@
+--game: Garden Life: A Cozy Simulator
+
+addappid(1915380)
+addappid(1915381,0,"7a8eb0ea6b14c163b1032bc4fd042146b492d7e9f44067fe78e291058b28a9ac")
+addappid(2691100)
+addappid(2691110)
