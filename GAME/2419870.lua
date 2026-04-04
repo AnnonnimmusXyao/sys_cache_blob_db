@@ -1,0 +1,4 @@
+--game: Where is Mr Cloud
+
+addappid(2419870)
+addappid(2419871,0,"85245b26ac39bba4403701f855fc038c77e70a13b80d60e41013bd8a398c125f")
