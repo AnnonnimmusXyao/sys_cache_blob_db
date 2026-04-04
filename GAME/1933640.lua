@@ -1,0 +1,4 @@
+--game: 原灵·深海遗梦 Medusa the Origin ~ Lost Dream of the Deep
+
+addappid(1933640)
+addappid(1933641,0,"3cdb70a48e2533d4db3726b0bf3f06e931fd91f7ef5f36b3b7b11c876d071b82")
