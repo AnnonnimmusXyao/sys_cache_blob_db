@@ -1,0 +1,4 @@
+--game: 女神守护者
+
+addappid(2395620)
+addappid(2395621,0,"c430ac1535f054c1993f2e16f48157ab9f33362f1e2dbac1dea654ce6c2761f1")
