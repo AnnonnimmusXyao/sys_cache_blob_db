@@ -1,0 +1,4 @@
+--game: Split Tactics
+
+addappid(1815720)
+addappid(1815721,0,"812aeb4ae56a4a83c584877c0bdd87b915adcf74c668a1d1b0a397e83b57732c")
