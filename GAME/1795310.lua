@@ -1,0 +1,4 @@
+--game: Magic Sexyland
+
+addappid(1795310)
+addappid(1795311,0,"3eebd404ce4a05664d590d727c4d18b6db25ca4f8b7359521ff5207f590bcbe0")
