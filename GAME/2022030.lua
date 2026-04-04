@@ -1,0 +1,4 @@
+--game: 深渊看守者(Watcher Of The Abyss)
+
+addappid(2022030)
+addappid(2022031,0,"166041cf59e163405b81355f2a114f719b8da3a816177bc110d9325d000e63a8")
