@@ -1,0 +1,4 @@
+--game: Captain Kalani Definitive Edition
+
+addappid(2232770)
+addappid(2232771,0,"71d29fc65a40c07e1f10d819b13401e44aee16a6bc10b4ef9b97c896fa083191")
