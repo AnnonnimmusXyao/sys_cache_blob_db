@@ -1,0 +1,4 @@
+--game: Planetiles
+
+addappid(2447030)
+addappid(2447031,0,"f70cdf6a3ed698f73d57ba4d8ee36770b7cd7607f7b5f105ce09f52c43a7e841")
