@@ -1,0 +1,4 @@
+--game: Two Beasts Or Not To Beast!
+
+addappid(2178100)
+addappid(2178101,0,"36ef6c11deb187e6f6c0db01ab07c6a41a611673fe73d36f3c3f6002d0fe4648")
