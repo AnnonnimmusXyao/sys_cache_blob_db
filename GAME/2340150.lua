@@ -1,0 +1,4 @@
+--game: Wojak wants Hentai
+
+addappid(2340150)
+addappid(2340151,0,"7a4893691ec9a778e8d69ae91a75730ea3410730e9fd7b87ac854e16946e6160")
