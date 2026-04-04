@@ -1,0 +1,4 @@
+--game: 英雄之旅
+
+addappid(2431490)
+addappid(2431491,0,"fd7745215f5360b7a0c2d8c632e42d71dc48065032f2afbcb4933be32b8aa6f6")
