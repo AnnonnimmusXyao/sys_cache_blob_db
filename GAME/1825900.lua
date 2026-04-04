@@ -1,0 +1,4 @@
+--game: Blink Planets
+
+addappid(1825900)
+addappid(1825901,0,"bd22a5721bce8633b035a7aba784070a0fd8f48fcd9686e696786d7b6493a0b0")
