@@ -1,0 +1,4 @@
+--game: Dismantled Director's Cut
+
+addappid(1943240)
+addappid(1943243,0,"67c1e7aacd31e3ffb62df36001116aaec7f47c4a7feb8778cbbdbda961e517e5")
