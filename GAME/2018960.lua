@@ -1,0 +1,4 @@
+--game: Neolithic Dawn
+
+addappid(2018960)
+addappid(2018961,0,"eb9361d845e2578388991fccedc483282d2734c9d942fe8fa280aa2da930db93")
