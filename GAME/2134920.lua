@@ -1,0 +1,4 @@
+--game: Spirits' Creek
+
+addappid(2134920)
+addappid(2134921,0,"be4d840e569b54ed91b4f7d94509253173e81d8cd20248a852bc8e2c3c4a4ef1")
