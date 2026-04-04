@@ -1,0 +1,4 @@
+--game: Dark Rift
+
+addappid(2308120)
+addappid(2308121,0,"0d51a2d3965a72c9df3aa6e5b90e6992225d24f06b49ea9de980559dd8ca7735")
