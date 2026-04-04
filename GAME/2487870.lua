@@ -1,0 +1,4 @@
+--game: Escape Shadow Storm
+
+addappid(2487870)
+addappid(2487871,0,"2282c06e67cbbcfd93659106d07baea8bc1b6bd7069794065170372fe32dd176")
