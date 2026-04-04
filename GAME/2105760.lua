@@ -1,0 +1,4 @@
+--game: Headz Go Racing
+
+addappid(2105760)
+addappid(2105761,0,"f4dcb8e3103480f0dd72b5a71018ca3d785aae0b19cd0bf8ccf60eb059ba470c")
