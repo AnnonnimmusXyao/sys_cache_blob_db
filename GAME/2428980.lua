@@ -1,0 +1,5 @@
+--game: Bye Sweet Carole
+
+addappid(2428980)
+addappid(2428983,0,"4459aa4e531d8007450e4a278ffab68b61d229d38bc1801993ed63bd4275d455")
+addappid(3902770)
