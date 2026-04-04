@@ -1,0 +1,4 @@
+--game: Killer Frequency
+
+addappid(1903620)
+addappid(1903621,0,"0b55afed013bf6132ff06d958d0fa6b18efb361d926d932217bc3d8aa77c0c83")
