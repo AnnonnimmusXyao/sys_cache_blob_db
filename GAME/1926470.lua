@@ -1,0 +1,4 @@
+--game: Hanna Must Run
+
+addappid(1926470)
+addappid(1926471,0,"4a241edff17979bab2f26939ff3c36cb834a06d06c802f67fcc4a1dbde204a96")
