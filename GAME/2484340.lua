@@ -1,0 +1,4 @@
+--game: Jolly Putt - Mini Golf & Arcade
+
+addappid(2484340)
+addappid(2484341,0,"beec7027d84f7bb5944e88dbc87c5a3b2455ab51eed277a7968abccb93ea11ce")
