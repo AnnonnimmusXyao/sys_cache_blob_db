@@ -1,0 +1,4 @@
+--game: PunchMan Online
+
+addappid(2251850)
+addappid(2251851,0,"96b55a3d5e4c059741c23710ae3141d70fa9f110a5f216686098d17eddd58570")
