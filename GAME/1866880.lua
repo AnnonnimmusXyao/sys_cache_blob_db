@@ -1,0 +1,4 @@
+--game: 修仙故事: 轮回 Cultivation Story: Reincarnation
+
+addappid(1866880)
+addappid(1866881,0,"030d43aa16163f1360a017db00e68adaf3a1953a22de98b7ba99862192e33e04")
