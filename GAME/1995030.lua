@@ -1,0 +1,4 @@
+--game: Lord of Darkness: Prologue
+
+addappid(1995030)
+addappid(1995031,0,"53a0e11ff177ee41a69b5c03a820af1cae818f7e0df44e5d728f03a41b67258a")
