@@ -1,0 +1,4 @@
+--game: Ajax’s Trial
+
+addappid(2422080)
+addappid(2422081,0,"e84bcbc724a3ba199473809763141d174bde9866034b784a7d4484d85eb2352e")
