@@ -1,0 +1,4 @@
+--game: Yooka-Replaylee
+
+addappid(2448020)
+addappid(2448021,0,"0087364299b86dce13084a6e34fc1292ca9587691740ac9b8b93fe737b8af5b0")
