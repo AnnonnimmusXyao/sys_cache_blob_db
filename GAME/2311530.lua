@@ -1,0 +1,4 @@
+--game: Princess Maker2 Regeneration
+
+addappid(2311530)
+addappid(2311531,0,"d4d529fc561c97512b5991aeca1d3d67da87a256259b6fe382bca368ffb5aa7e")
