@@ -1,0 +1,4 @@
+--game: Rising of the Moon - Part 1
+
+addappid(1847500)
+addappid(1847501,0,"7ade974865288e0d0f80b8b22db77bd0ea24e8eef71169d8ae5ca68be8bf4140")
