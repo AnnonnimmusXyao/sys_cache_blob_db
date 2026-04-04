@@ -1,0 +1,4 @@
+--game: Demolish & Build 3: Excavator Playground
+
+addappid(2021130)
+addappid(2021131,0,"9176cc7d98b388894745117d480c6088c3458e9f1d28f4e510469222c5dfdbd7")
