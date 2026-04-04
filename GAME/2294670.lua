@@ -1,0 +1,4 @@
+--game: SHE MUST LIVE
+
+addappid(2294670)
+addappid(2294671,0,"5b8d69ca2e77143da3c17381ab418a6ce3ee7b9f2b6878c6c451797bb3898221")
