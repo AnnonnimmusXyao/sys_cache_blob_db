@@ -1,0 +1,5 @@
+--game: 降妖散记
+
+addappid(1915510)
+addappid(1915511,0,"1b7531ca6c07167e114602fbe07e1b3ad6ec33c04d54e26567b73bef30fb5376")
+addappid(3654180)
