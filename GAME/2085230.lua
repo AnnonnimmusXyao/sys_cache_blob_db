@@ -1,0 +1,4 @@
+--game: Dawn of Kagura: Maika's Story - The Dragon's Wrath
+
+addappid(2085230)
+addappid(2085233,0,"b5da304bdf9a9cee1f8461f5f9c62676e7b40c021f4b42a7cb464994c20636ce")
