@@ -1,0 +1,4 @@
+--game: Gun Knight All Day
+
+addappid(2073630)
+addappid(2073631,0,"8981c438e30d586658d160febbc7c3a15c6ccf0f46cbff24955178019661ff2c")
