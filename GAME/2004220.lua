@@ -1,0 +1,4 @@
+--game: 异世界杂货铺 skyscraper in Another world
+
+addappid(2004220)
+addappid(2004222,0,"b1cb14234c80db07a818a54618d9a07c09474b154bf4db06bf7356f00bfb0ca4")
