@@ -1,0 +1,4 @@
+--game: Happy Mining
+
+addappid(1927250)
+addappid(1927251,0,"ccafab03da98d561afa82900991dcc5f7705eed249f75eb7aea6824c2be856c9")
