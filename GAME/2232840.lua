@@ -1,0 +1,4 @@
+--game: Garten of Banban
+
+addappid(2232840)
+addappid(2232841,0,"f463c6b7a54bd7052749957d74e0f15902023349913787914128c3d16e8bdc8c")
