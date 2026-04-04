@@ -1,0 +1,4 @@
+--game: Kinkoi: Golden Time
+
+addappid(1985260)
+addappid(1985261,0,"f9a771a15d6886dfa12afffeb17d359f054566f486696ab291ce032a6c1b9ef4")
