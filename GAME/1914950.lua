@@ -1,0 +1,4 @@
+--game: Xpraize Beta for GameMaster
+
+addappid(1914950)
+addappid(1914951,0,"a35f0632b60afcf81fadbc8216416e0a55c58079d92f7f2cf09c3f7724986c85")
