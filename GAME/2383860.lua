@@ -1,0 +1,6 @@
+--game: Octodad (Student Edition)
+
+addappid(2383860)
+addappid(228983)
+addappid(228990)
+addappid(2383861,0,"301d77547524e561d525f814becce947e3cd0978cff7641c3ff32a0e16eb66fe")
