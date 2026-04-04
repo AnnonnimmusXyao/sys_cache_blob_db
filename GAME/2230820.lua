@@ -1,0 +1,4 @@
+--game: Sands
+
+addappid(2230820)
+addappid(2230821,0,"f9fd7a3af917401891d96d2ac125972e112bcff6923da88fbeaef4767cf757cb")
