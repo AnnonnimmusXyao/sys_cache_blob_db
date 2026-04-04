@@ -1,0 +1,4 @@
+--game: Daycare Descent
+
+addappid(2429260)
+addappid(2429261,0,"7dd88a26a66f4318801f1e546316ad9a1850c2948565b1baa473b9d6a40c62ea")
