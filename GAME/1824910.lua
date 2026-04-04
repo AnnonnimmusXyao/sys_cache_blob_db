@@ -1,0 +1,4 @@
+--game: Magic Disc Golf
+
+addappid(1824910)
+addappid(1824911,0,"1fa5df8de90fa2ba3342ad04322469883008a41eec8b6b64f430c49361d2fea5")
