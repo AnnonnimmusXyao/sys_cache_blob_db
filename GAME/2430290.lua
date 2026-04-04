@@ -1,0 +1,4 @@
+--game: Neon Fantasy: Furries
+
+addappid(2430290)
+addappid(2430291,0,"434280bff326174eccf5e22a4df428f3fa3538401ccc772e1f1d9704f35febe2")
