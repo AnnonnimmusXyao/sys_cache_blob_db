@@ -1,0 +1,4 @@
+--game: Puppetmaster Movie-Viewer
+
+addappid(2399590)
+addappid(2399591,0,"f624857e93026609e2346e592cd510fea69163756b3a9330d598ae3447fc443b")
