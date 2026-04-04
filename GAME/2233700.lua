@@ -1,0 +1,4 @@
+--game: Last Night in Zombie Village
+
+addappid(2233700)
+addappid(2233701,0,"bdf00a15c57de69e355a1bc96d7837ae94d754e7c02a19173b97ea77e5540783")
