@@ -1,0 +1,4 @@
+--game: Battlefield Commander WWII
+
+addappid(2361000)
+addappid(2361001,0,"f2d14281fd85ad2376f23ccad75f79aebcfe4a2446d2401db78bbeedd9d8ed92")
