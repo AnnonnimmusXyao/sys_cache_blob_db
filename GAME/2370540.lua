@@ -1,0 +1,4 @@
+--game: My Klutzy Cupid
+
+addappid(2370540)
+addappid(2370541,0,"d577b2bfeb5d72840d58ea4132e5f025519f2c28547943aacc159093cd09eb3e")
