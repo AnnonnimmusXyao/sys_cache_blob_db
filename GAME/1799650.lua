@@ -1,0 +1,7 @@
+--game: Bullet Bash
+
+addappid(1799650)
+addappid(1799652,0,"c21be2a21cb3f4d64d46d79563f3094007a58a2513f0a202ff03676a97e624be")
+addappid(2008900)
+addappid(2008901)
+addappid(2008902)
