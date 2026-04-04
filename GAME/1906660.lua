@@ -1,0 +1,4 @@
+--game: SOF - Spirits Of Freedom
+
+addappid(1906660)
+addappid(1906661,0,"b223822264f617b682a6a7966ebb62a189df4c01cf9d18ebba33b166f0a580d2")
