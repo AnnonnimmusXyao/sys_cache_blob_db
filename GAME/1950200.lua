@@ -1,0 +1,4 @@
+--game: Loathful
+
+addappid(1950200)
+addappid(1950201,0,"712c08d52fef0d06d19b824f58fed3ff5738f67886a0dfae8cdb6f5277ae6ac6")
