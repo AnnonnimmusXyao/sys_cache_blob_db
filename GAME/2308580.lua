@@ -1,0 +1,4 @@
+--game: 災難探偵サイガ～名状できない怪事件～
+
+addappid(2308580)
+addappid(2308581,0,"2901cf519b3f805b99db29bf0f95eafa731bc217797f29ccbb903f4daf70008c")
