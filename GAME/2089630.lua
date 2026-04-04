@@ -1,0 +1,4 @@
+--game: Dark Atlas: Infernum
+
+addappid(2089630)
+addappid(2089631,0,"def2446ad5022067f84d4d31d68388959aa288d7402c7886f3e9162625ebce04")
