@@ -1,0 +1,4 @@
+--game: Project CarnEvil
+
+addappid(2413080)
+addappid(2413081,0,"3e3375ac0a6162077cbfee79e797e877e87c7a569b424278c70a48ba5bfc0394")
