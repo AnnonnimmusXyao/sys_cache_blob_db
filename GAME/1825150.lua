@@ -1,0 +1,4 @@
+--game: Cells of Immunity
+
+addappid(1825150)
+addappid(1825151,0,"5318819938e39587f407fc5bc5fc6952813208a6adb73081a08dc210e5eeb056")
