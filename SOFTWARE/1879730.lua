@@ -1,0 +1,4 @@
+--game: Marine Radar Simulator - VR
+
+addappid(1879730)
+addappid(1879731,0,"b2151cd637685953581b16e6e0d4f6c61b8f2588ab64cc2edf936730af36e905")
