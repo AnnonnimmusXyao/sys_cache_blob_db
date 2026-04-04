@@ -1,0 +1,4 @@
+--game: Sex Change Contract and Molester Girl
+
+addappid(1997440)
+addappid(1997441,0,"a53ad650c50d0f9d4198980c0bf47e48f5b44f5663cd9695ef2cfe0da7be9ea7")
