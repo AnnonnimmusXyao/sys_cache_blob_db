@@ -1,0 +1,4 @@
+--game: Rasetsu Fumaden
+
+addappid(1844400)
+addappid(1844402,0,"2516ab62a7004002154a50c3902a461dcd35e5352cefa5692498dcc79446c69d")
