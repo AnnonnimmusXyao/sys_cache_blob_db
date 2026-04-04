@@ -1,0 +1,4 @@
+--game: NIDUS
+
+addappid(2372170)
+addappid(2372171,0,"0ba6d40e2e07c2962649ab305225af1854d5232ee03e691caf25cf73b2d46c31")
