@@ -1,0 +1,4 @@
+--game: Chop Goblins
+
+addappid(1935660)
+addappid(1935661,0,"a1cbc497e9379f494fdff0228c60ac13e6128ba5dedb4e7cf2c75e7411869d86")
