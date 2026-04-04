@@ -1,0 +1,4 @@
+--game: New Tanks
+
+addappid(2066960)
+addappid(2066961,0,"96b33d872551fc70353655a29aa4d6211d3c9ec6373a6b9249600c988dee965b")
