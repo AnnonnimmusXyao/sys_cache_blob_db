@@ -1,0 +1,4 @@
+--game: Beyond Polaris Guardian
+
+addappid(2340190)
+addappid(2340191,0,"6d108bf0ecff023075bc73a668276c6853666490066c5a17ca3d909f7019037b")
