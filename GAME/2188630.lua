@@ -1,0 +1,4 @@
+--game: Dear Diary
+
+addappid(2188630)
+addappid(2188631,0,"4277c097441436fba2ce6f99910f3eb0fd6ce252c91934a795bb3f59feae1ba1")
