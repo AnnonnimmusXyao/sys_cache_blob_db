@@ -1,0 +1,4 @@
+--game: Instant Artist: Puzzle Mashup
+
+addappid(1906250)
+addappid(1906251,0,"049cd2767e377275c20d4b31b992a9fac2b301c912e629fbfd1d29277e83fefb")
