@@ -1,0 +1,4 @@
+--game: The Dark Climb
+
+addappid(2431830)
+addappid(2431831,0,"ac4d273f72aef087fb5dc0f8fccca0cd1c7b1281322c74d207b029073e04acdd")
