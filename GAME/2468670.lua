@@ -1,0 +1,4 @@
+--game: Little Locked Rooms
+
+addappid(2468670)
+addappid(2468671,0,"28d4f6666ff090e9b751af1858efcfe1efedfe35b26ec7dad0c3f41b937b4b56")
