@@ -1,0 +1,4 @@
+--game: 恶魔契约者 Demon Contract Warrior
+
+addappid(2479620)
+addappid(2479621,0,"ea9829531486a5ef9c330acdee1a5d5a1a988155965309cfd287e5af728c8322")
