@@ -1,0 +1,4 @@
+--game: Chacara
+
+addappid(2147640)
+addappid(2147644,0,"65ace7fcd3863564687d6cb8e4a5af53142473c6bcb9543ce3c1e7c56a086b97")
