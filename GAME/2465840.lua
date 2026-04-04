@@ -1,0 +1,4 @@
+--game: Club Velvet Rose: Midnight Bliss
+
+addappid(2465840)
+addappid(2465841,0,"2fa3047cc136d7197638fbd84ca39b0e81ed486eee4c15d83ce14b12129fcc3a")
