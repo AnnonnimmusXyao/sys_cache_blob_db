@@ -1,0 +1,4 @@
+--game: Werewolf Pinball
+
+addappid(2395910)
+addappid(2395911,0,"6b153cc5b20d49c997a6c5bc42d564406718a03408635d154e74eb3d0bd93d63")
