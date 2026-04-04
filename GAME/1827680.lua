@@ -1,0 +1,4 @@
+--game: 枝江畔之梦
+
+addappid(1827680)
+addappid(1827681,0,"a8d625ee7cb45995ad6ca007a52ebe1354c9d765095aaf6584c8d8dc79411dc3")
