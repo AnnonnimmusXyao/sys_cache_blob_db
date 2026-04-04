@@ -1,0 +1,4 @@
+--game: Fight For Your Resurrection
+
+addappid(2335780)
+addappid(2335781,0,"1f05b48f06bb82dbfe59b2744c405cde4f1404e3e663ce454a075b82d193c729")
