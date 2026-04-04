@@ -1,0 +1,5 @@
+--game: Dungeon Dreams 2
+
+addappid(1843470)
+addappid(1843471,0,"1efec37eb49df9bf6fc2cce7b08ec6bc0b110458a9e2d93f1bf1873a368225b1")
+addappid(3364920,0,"437f03bfc5f85c8597ca5a1d6f10f369088fc893fd5e87e29694abaee5950df4")
