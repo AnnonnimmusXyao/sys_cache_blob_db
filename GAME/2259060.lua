@@ -1,0 +1,4 @@
+--game: 混沌骑士
+
+addappid(2259060)
+addappid(2259061,0,"78aeb5c8a39d75726b667f0bd5f87ad4fc7a21cbe0fac3753bf2bc779ad8c2bf")
