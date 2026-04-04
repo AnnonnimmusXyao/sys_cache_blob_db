@@ -1,0 +1,4 @@
+--game: Pilo and the Holobook
+
+addappid(2423270)
+addappid(2423272,0,"ccffea3d3a1c70e39303460b4afded0480b97015e8956aef1a3297d88d614324")
