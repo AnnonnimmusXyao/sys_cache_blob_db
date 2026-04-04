@@ -1,0 +1,4 @@
+--game: Letters to Arralla
+
+addappid(2189310)
+addappid(2189311,0,"7b7d4c10bb8f9cd6cc06b99869059fc7c296bf4dc7671f6204db5fa86b4913bd")
