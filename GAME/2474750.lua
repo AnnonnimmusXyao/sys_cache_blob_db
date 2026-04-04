@@ -1,0 +1,4 @@
+--game: 欢乐牌(Happy Poker)
+
+addappid(2474750)
+addappid(2474751,0,"cb97d565f663372feaa425d45ef0119a795dc57358b63746de6441d7b6ee9dea")
