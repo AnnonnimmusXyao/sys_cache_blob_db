@@ -1,0 +1,4 @@
+--game: Coins Collector Sport Car
+
+addappid(2101630)
+addappid(2101631,0,"d1cdb56c01896bcdd6afe7da066118d396ba7d5647902419873b50bc99778bd4")
