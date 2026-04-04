@@ -1,0 +1,4 @@
+--game: Defend Earth: Xenos Survivors
+
+addappid(2155280)
+addappid(2155281,0,"0a50ec0ef9d1c889b6d21406f0ec91c1653bb437a1bf7b1356055b95777cee6b")
