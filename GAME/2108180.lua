@@ -1,0 +1,4 @@
+--game: Swordhaven: Iron Conspiracy
+
+addappid(2108180)
+addappid(2108181,0,"a37535e60a7271c54be954c0153730a979fc027cad187830c9bd0490f3e53710")
