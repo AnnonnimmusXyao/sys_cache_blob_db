@@ -1,0 +1,4 @@
+--game: Lootun
+
+addappid(1960270)
+addappid(1960271,0,"b5d5f1bd784dea43a9d929ebcc65b50f78f389fc736a77bc6c6a3be00cda669a")
