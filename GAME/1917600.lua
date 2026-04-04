@@ -1,0 +1,4 @@
+--game: 牝喰いダンジョン - MeguiDungeon -
+
+addappid(1917600)
+addappid(1917601,0,"3e3e240e1dd44dca40638f2fc3c81218a463570fe4bbcf1a6107b2951789cbd0")
