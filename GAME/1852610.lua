@@ -1,0 +1,4 @@
+--game: Candy Match 3
+
+addappid(1852610)
+addappid(1852611,0,"a5fe751e19429ad600a92965cbc8b7f9beb3f9566d45042eec269ec0ec6a79d4")
