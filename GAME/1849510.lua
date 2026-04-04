@@ -1,0 +1,4 @@
+--game: 78
+
+addappid(1849510)
+addappid(1849511,0,"9ec6322cbe9ad3f59e77d99d1796332bbfff8db1f2bed306158f65ecce041197")
