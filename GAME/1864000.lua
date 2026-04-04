@@ -1,0 +1,4 @@
+--game: Artis Impact
+
+addappid(1864000)
+addappid(1864001,0,"9eccab235dfb23018531ba20ea2bb82f2b197494f54abad326278360bf8c8fc1")
