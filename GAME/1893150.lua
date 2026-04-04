@@ -1,0 +1,4 @@
+--game: COG Back To The 80s
+
+addappid(1893150)
+addappid(1893159,0,"47389fcf715b973e365ce1c1775b801c80a055c02a1fe009b799d3febfc81234")
