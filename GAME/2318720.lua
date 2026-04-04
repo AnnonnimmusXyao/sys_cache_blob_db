@@ -1,0 +1,4 @@
+--game: Gunshots in the barren hills
+
+addappid(2318720)
+addappid(2318721,0,"24ffb215ecb5f819e9f9d95c771dc3cf373f002ed229bb72a35bbd81fff72b39")
