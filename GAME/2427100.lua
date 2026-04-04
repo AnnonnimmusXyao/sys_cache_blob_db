@@ -1,0 +1,4 @@
+--game: Cafe Master Story
+
+addappid(2427100)
+addappid(2427101,0,"13cfa8e15334e264c30b5542536ac26aa8c0c7fd4e5e0c0c6da46d93ec2dd05e")
