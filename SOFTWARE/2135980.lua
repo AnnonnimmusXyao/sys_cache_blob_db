@@ -1,0 +1,6 @@
+--game: The Icon Battles
+
+addappid(229006)
+addappid(229007)
+addappid(2135980)
+addappid(2135981,0,"1a3b753dea973bd7269265f93816daa0ab4787fd9b4b4899be13da68a2470167")
