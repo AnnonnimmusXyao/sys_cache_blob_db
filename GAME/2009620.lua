@@ -1,0 +1,4 @@
+--game: Harvest Hunt
+
+addappid(2009620)
+addappid(2009621,0,"547fcbd645f2e5b723eae0a7510ab92197cc21d6747a6e4e79f7ac3545d97605")
