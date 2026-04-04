@@ -1,0 +1,4 @@
+--game: Heavy Hearts
+
+addappid(1920840)
+addappid(1920841,0,"5114c09a5e8ffcbffbf2264e4624badde065cf4df02c75d824d733c278c66c8a")
