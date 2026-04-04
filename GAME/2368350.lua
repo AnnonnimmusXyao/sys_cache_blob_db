@@ -1,0 +1,4 @@
+--game: Guardians Survival
+
+addappid(2368350)
+addappid(2368352,0,"a761df53112a529f1aa81db64a07980e4959a5784dbbe9b8039aac313da16658")
