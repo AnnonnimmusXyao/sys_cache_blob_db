@@ -1,0 +1,4 @@
+--game: 退魔聖女マリベル
+
+addappid(1827960)
+addappid(1827961,0,"bc67bb516ab834bdc3abd59578c7ff6e5b6fb81dc578483dc2254d5e66130052")
