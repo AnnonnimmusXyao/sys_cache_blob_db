@@ -1,0 +1,4 @@
+--game: Lords of Infinity
+
+addappid(2169120)
+addappid(2169121,0,"8e02b87f9e646bd71f25affbc71d81ac07ef2c4bb60a04edece2a0c8979267ad")
