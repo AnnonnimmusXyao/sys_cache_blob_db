@@ -1,0 +1,4 @@
+--game: Rudra: A Tale of Time
+
+addappid(2316820)
+addappid(2316821,0,"816affa60a22d394a2f0f21419fbad277e843119f7560b387a9c25597e0318db")
