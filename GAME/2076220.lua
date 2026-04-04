@@ -1,0 +1,4 @@
+--game: Akai Katana Shin
+
+addappid(2076220)
+addappid(2076221,0,"3480000ad89f5174f6e4429bee7e9f1a3e8500dcc47e4721251974b5c82a29ec")
