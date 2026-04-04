@@ -1,0 +1,4 @@
+--game: Rendezvous: Shadows of the Past
+
+addappid(1825480)
+addappid(1825481,0,"404dcacad3d1c1b19afb0e473b55f4902d39f7406cd249657cf22316002b8086")
