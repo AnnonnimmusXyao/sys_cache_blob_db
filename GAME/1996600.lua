@@ -1,0 +1,4 @@
+--game: Byte Lynx
+
+addappid(1996600)
+addappid(1996601,0,"13f1b08e53c7359e3cbf2ea32a3c38a087d7c5ef32c83d873869beff43113b9b")
