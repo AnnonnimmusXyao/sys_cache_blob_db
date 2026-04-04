@@ -1,0 +1,4 @@
+--game: Boxes: Lost Fragments
+
+addappid(2019810)
+addappid(2019811,0,"8cea3995d4cf96c6df7956209329e9da1a7a817fc1d2cd3b6a9d66833b16087a")
