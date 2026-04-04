@@ -1,0 +1,4 @@
+--game: The Invisible Man's Stealth NTR: Convincing and Inseminating the New Announcer with an Invisible Boner
+
+addappid(2003590)
+addappid(2003591,0,"80c0fd7cf8725e5c1b5dd774ce1ac2950274fc2df0512f5da167b5bdaa054678")
