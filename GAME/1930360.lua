@@ -1,0 +1,4 @@
+--game: Fever Dream
+
+addappid(1930360)
+addappid(1930362,0,"29b29fec6fc1e70c78f8410b6cf4cf13062094a8115423af1647bcc71e223af8")
