@@ -1,0 +1,5 @@
+--game: Peacemaker: Glorious Princess
+
+addappid(1977070)
+addappid(1977071,0,"460f9931bd85aa79a1e9b74ec74c227a472d39425139ffd1e449159f16302e1a")
+addappid(2963690)
