@@ -1,0 +1,5 @@
+--game: The Lewd of the Cock Rings: The Return of Doug Fooker
+
+addappid(1800860)
+addappid(1800861,0,"9b7022f736a02a158da97835a5d09811ba6776b5acb1518754d0ad01bd7bf3d2")
+addappid(1800862,0,"3b4882d62a45fbe63ccb6f82bba896994239866c32ff61ecbb7c2c7a5e4dccbd")
