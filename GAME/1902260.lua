@@ -1,0 +1,4 @@
+--game: Hidden Western
+
+addappid(1902260)
+addappid(1902261,0,"66a5d1eecd63b0cce55343762e5a8acd41d4506dfe45ba5eff372457f703a414")
