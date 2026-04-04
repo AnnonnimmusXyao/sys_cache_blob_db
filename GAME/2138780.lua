@@ -1,0 +1,4 @@
+--game: CashGrab
+
+addappid(2138780)
+addappid(2138781,0,"54ce6481e3178c5d940deef81aa4ba626ada7f5ebb9fab0c42f63724efb24db3")
