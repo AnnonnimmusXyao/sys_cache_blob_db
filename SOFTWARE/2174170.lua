@@ -1,0 +1,4 @@
+--game: VInput
+
+addappid(2174170)
+addappid(2174171,0,"daaeecf6884a5e04cbd4e3859057d9e15be723131742bdc4142d8d19cad6d702")
