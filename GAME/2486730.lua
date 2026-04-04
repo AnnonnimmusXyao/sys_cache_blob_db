@@ -1,0 +1,4 @@
+--game: ART IS RIFLE
+
+addappid(2486730)
+addappid(2486731,0,"f1ffd08c7969ddffba91d950035d7aa0906c12aafe8d02dc3eddb1a5fb5fb754")
