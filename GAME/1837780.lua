@@ -1,0 +1,4 @@
+--game: Spellcaster
+
+addappid(1837780)
+addappid(1837781,0,"e6ba4ff4113b824f0dcfb190cc781bab20967c97b317989278dd88a01c0ed75a")
