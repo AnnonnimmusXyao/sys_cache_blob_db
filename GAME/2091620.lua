@@ -1,0 +1,4 @@
+--game: Septaroad Voyager
+
+addappid(2091620)
+addappid(2091621,0,"dfcfc60bf20c312011e665832cbe173d92eab468289915ff16aba3b8bb55f712")
