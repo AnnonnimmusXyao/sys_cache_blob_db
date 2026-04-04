@@ -1,0 +1,5 @@
+--game: My Furry Maid 🐾
+
+addappid(1977050)
+addappid(1977051,0,"3d6f92730da9aa7e419cd7bef2ec84397d740dbd87cc6340afe53699508913c4")
+addappid(1984750)
