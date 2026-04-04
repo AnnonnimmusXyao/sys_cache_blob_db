@@ -1,0 +1,4 @@
+--game: Tranquil Garden: Adventurer's Edition
+
+addappid(2358910)
+addappid(2358911,0,"79deb672a1f8caa7e63428034515773ddab4e81bf21a91a4d7da90dffa6b3774")
