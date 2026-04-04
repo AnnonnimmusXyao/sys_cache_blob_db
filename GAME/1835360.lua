@@ -1,0 +1,4 @@
+--game: 灵子：重返荒野
+
+addappid(1835360)
+addappid(1835361,0,"156c3d39cafe498787294bdb5e83fd36a120578b1a81b9c36009eec6164cb3c9")
