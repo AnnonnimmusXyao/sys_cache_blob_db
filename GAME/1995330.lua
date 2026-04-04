@@ -1,0 +1,4 @@
+--game: Monos: The Endless Tower
+
+addappid(1995330)
+addappid(1995331,0,"22d16933c680933d7d630a811df989342e291d007fe773e4df9cb605f91dcd9d")
