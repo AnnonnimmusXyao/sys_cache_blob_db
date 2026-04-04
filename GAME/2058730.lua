@@ -1,0 +1,6 @@
+--game: The Darkest Files
+
+addappid(2058730)
+addappid(2058731,0,"f3c7453bcd57bbbad6ba89fc2cf37a0d69922f0fdc6393b9a4b03b6434d61657")
+addappid(2644690)
+addappid(3612880)
