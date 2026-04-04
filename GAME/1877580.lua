@@ -1,0 +1,4 @@
+--game: Panicked and Surrounded by Hot Vampires
+
+addappid(1877580)
+addappid(1877581,0,"eb4199d9ed95962fe723a011a858a5d06928d158c5d51b15b5dbfe40d7f50be5")
