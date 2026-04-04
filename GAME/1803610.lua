@@ -1,0 +1,4 @@
+--game: Sensorium Galaxy
+
+addappid(1803610)
+addappid(1803611,0,"8481c75d08b17a7dff991af75b1e62dce6a4374b7079267537f39bbafbc06730")
