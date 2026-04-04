@@ -1,0 +1,4 @@
+--game: The Masters: Survival
+
+addappid(1881210)
+addappid(1881211,0,"31ee2d7d369b0274b648179d636ce8e876a2088381d7f45356d9cbe772aed409")
