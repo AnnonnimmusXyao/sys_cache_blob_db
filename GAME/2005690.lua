@@ -1,0 +1,4 @@
+--game: The 9th Charnel
+
+addappid(2005690)
+addappid(2005691,0,"8792bc8bb4d9ead3620840a8b47771c01c9f1c466cd6adb045e07494ffbac1c2")
