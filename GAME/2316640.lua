@@ -1,0 +1,4 @@
+--game: Light On
+
+addappid(2316640)
+addappid(2316641,0,"2697f764a461de72982797fd2834131578a76cadd577ccd8e017b53a15c4e16c")
