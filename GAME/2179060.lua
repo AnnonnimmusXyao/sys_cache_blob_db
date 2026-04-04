@@ -1,0 +1,4 @@
+--game: 你微笑的一百种样子
+
+addappid(2179060)
+addappid(2179067,0,"7ce78bf0184a255c83a3beb5c51d56bfef37ce547040fb82e6517cdf6b1026a5")
