@@ -1,0 +1,4 @@
+--game: Dial-In
+
+addappid(1916090)
+addappid(1916091,0,"08808ea4e3fccd5519326f29a2d3d60c5df51bfc7291d0e8c03d9bef8ba49627")
