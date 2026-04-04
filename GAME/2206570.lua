@@ -1,0 +1,4 @@
+--game: Geolosys
+
+addappid(2206570)
+addappid(2206571,0,"33ab659fec5155c4d624d037fcaecc18915ddc3d44ce27a1bdf12925fbb71adf")
