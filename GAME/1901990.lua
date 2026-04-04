@@ -1,0 +1,4 @@
+--game: Machine Gun Fury
+
+addappid(1901990)
+addappid(1901991,0,"d898b552d7c13b4cb11dfd44f0ff92f48a13cb28a11d63998af7822f5b3ced37")
