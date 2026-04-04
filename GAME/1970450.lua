@@ -1,0 +1,4 @@
+--game: 沙漠花开 Desert Blossom
+
+addappid(1970450)
+addappid(1970451,0,"0d6e46caf81d6d332a6fd015bad3f4f86a3113f28d783b141f7b100746c5234e")
