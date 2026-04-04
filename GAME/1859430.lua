@@ -1,0 +1,7 @@
+--game: Shadow Labyrinth
+
+addappid(1859430)
+addappid(3349710)
+addappid(3349720)
+addappid(3349720,0,"4d36c89f489cdbc426e6020f4eda05eb8827a63a9688cb668819bb38cb6addbf")
+addappid(3349710,0,"7da5a6c00b768ae8d7316817e8f473b6c9aa267597c56f170e39bb08fed2d278")
