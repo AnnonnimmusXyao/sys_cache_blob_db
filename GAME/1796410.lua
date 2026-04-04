@@ -1,0 +1,4 @@
+--game: The Touryst
+
+addappid(1796410)
+addappid(1796411,0,"983251694858c98f4d57cb865eb68adeabd21bb0446471933e12591ce604fbf6")
