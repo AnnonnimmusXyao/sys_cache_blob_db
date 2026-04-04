@@ -1,0 +1,7 @@
+--game: SMITE 2
+
+addappid(2437170)
+addappid(2437171,0,"b812d1b17a2a57774d8eaf7f83f550ef62d7233a26b05d5133ad110d489f5600")
+addappid(2855200)
+addappid(2855210)
+addappid(2855220)
