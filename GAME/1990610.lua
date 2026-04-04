@@ -1,0 +1,4 @@
+--game: Nedia Hotel
+
+addappid(1990610)
+addappid(1990611,0,"d1b053686533eda4150aad778c82595ecca5866dc01fa7e9971dc61df4129f1c")
