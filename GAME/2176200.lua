@@ -1,0 +1,4 @@
+--game: Now you are the persecuted
+
+addappid(2176200)
+addappid(2176201,0,"1eb8f356cd34e20149dfaa281dba9dafab0696bc90d527cc63ddcee476d46bba")
