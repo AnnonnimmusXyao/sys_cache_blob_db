@@ -1,0 +1,4 @@
+--game: 小学生はませている。
+
+addappid(2427160)
+addappid(2427161,0,"2c7ea2c530a54f6620f4a36cfaa119e30124b913eb7788f2deaf82ed67aeafee")
