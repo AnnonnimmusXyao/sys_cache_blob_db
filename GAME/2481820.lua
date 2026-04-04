@@ -1,0 +1,4 @@
+--game: Trade City
+
+addappid(2481820)
+addappid(2481821,0,"bebdbe8bcb0060e1c7d29ba6f0ac037cf033f4a4a470e520c1c3b991ef6a13d3")
