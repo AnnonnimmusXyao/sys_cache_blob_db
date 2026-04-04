@@ -1,0 +1,4 @@
+--game: Digital Eclipse Arcade: Candy Creeps
+
+addappid(2198640)
+addappid(2198641,0,"77635145a97eafc7ee7061ac8c6309f8cbe1c5e7a3557d59aae2d9eb88d150dd")
