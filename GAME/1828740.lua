@@ -1,0 +1,5 @@
+--game: My Nemesis and Hero - Slice of Life Boys Love (BL) Visual Novel
+
+addappid(1828740)
+addappid(1828742,0,"bad473cd425fca956d1a0bd4fcb30230a8542793d6b99d5974fe40c5d0b3c472")
+addappid(2481050)
