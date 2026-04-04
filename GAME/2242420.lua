@@ -1,0 +1,5 @@
+--game: The Showdown Effect: Reloaded
+
+addappid(2242420)
+addappid(2242421,0,"e8c12c754e50d61f8762000c31790ac56235199819ce733ae7fbebaba8584e3b")
+addappid(2817220)
