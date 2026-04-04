@@ -1,0 +1,4 @@
+--game: Bogdanoff vs. Wojak Simulator
+
+addappid(1807320)
+addappid(1807321,0,"6ff03a6895fbd3371040267fd427b10ceac3e435613583028935de7a5a0c96da")
