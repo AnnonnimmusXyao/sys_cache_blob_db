@@ -1,0 +1,4 @@
+--game: Air Twister
+
+addappid(2403620)
+addappid(2403621,0,"8d029fa2e6007931f81b792ae38f5c03e460039e1d9741443cb0011d234f7c75")
