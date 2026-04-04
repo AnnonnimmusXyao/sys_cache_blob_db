@@ -1,0 +1,4 @@
+--game: DesktopMMD4:Born to Dance
+
+addappid(1968650)
+addappid(1968651,0,"a3b3fcc7a75fe202958217e583ffc257abbdafac84ccade0a005d6aa27e17264")
