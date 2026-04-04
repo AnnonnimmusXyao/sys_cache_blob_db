@@ -1,0 +1,4 @@
+--game: Railroads & Catacombs: Prologue
+
+addappid(2006990)
+addappid(2006991,0,"25fdddf61a545290731492e4dd13eaa41f7ca2d93920a5e46f2d53e0c4fb935a")
