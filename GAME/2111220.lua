@@ -1,0 +1,7 @@
+--game: The Resurrection Of Amelia : Across two worlds
+
+addappid(2111220)
+addappid(229000)
+addappid(229001)
+addappid(229002)
+addappid(2111221,0,"049ca114e365872f62b27aa232a3c26e7c2e788b25f34c1a32e381d7c6462827")
