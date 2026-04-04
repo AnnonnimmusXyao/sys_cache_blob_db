@@ -1,0 +1,4 @@
+--game: Spirits of Carter Mansion
+
+addappid(1787770)
+addappid(1787771,0,"563066c90e5f9469ff9460ddf6baa4aecc9b396baa20051131c6864c61a10d09")
