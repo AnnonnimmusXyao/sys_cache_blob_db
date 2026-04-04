@@ -1,0 +1,4 @@
+--game: The Battle of Sacred Heart
+
+addappid(1964500)
+addappid(1964501,0,"3d02c389ac844a37dc18f943f34aeac12c27b0d1ef6353727bd43953504579b8")
