@@ -1,0 +1,6 @@
+--game: Eldegarde
+
+addappid(2344320)
+addappid(2344321,0,"a080d0b573b949016080909f58b6c1efbd2c40dfd4d331560cfbbe6a6ff1c8b8")
+addappid(2923670)
+addappid(2923680)
