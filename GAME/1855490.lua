@@ -1,0 +1,4 @@
+--game: Elemental War: Dawn of the Crystals
+
+addappid(1855490)
+addappid(1855492,0,"018e2a5cf7919643325bf0faca3a35770f8d92dcf9e7ff7cac7e8b6a2a685c24")
