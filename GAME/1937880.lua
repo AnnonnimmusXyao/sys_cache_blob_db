@@ -1,0 +1,4 @@
+--game: Hank: Drowning On Dry Land
+
+addappid(1937880)
+addappid(1937881,0,"547b1b9e22b67ef41b525a7611449d4f81a8fc66c2fc04d0ed2699f02fd13fb8")
