@@ -1,0 +1,4 @@
+--game: Super Psycho Baseball
+
+addappid(2216960)
+addappid(2216962,0,"2b5084435f03b2e96326cf641269b1ca84c864b71b9517fa944cb29c0aa3d3c2")
