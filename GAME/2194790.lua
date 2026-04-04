@@ -1,0 +1,5 @@
+--game: Studio System : Guardian Angel
+
+addappid(2194790)
+addappid(2194791,0,"7525e8049d54dfe953cb4a5a2e6de140daa7b3f2eca0350422a0460a65a10a3d")
+addappid(4125260)
