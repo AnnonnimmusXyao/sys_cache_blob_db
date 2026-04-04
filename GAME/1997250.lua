@@ -1,0 +1,4 @@
+--game: Evergreen - Mountain Life Simulator
+
+addappid(1997250)
+addappid(1997251,0,"4c2fc3bc7d664372944f9d6f6c363b1198590a82bb3a825e11e2c8f2aef06462")
