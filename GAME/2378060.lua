@@ -1,0 +1,4 @@
+--game: Dino Want To Survive
+
+addappid(2378060)
+addappid(2378061,0,"5ed6981fa476712abb9eecce1e55e9ec3251c3e1bb192d24676cf9b30bf27ceb")
