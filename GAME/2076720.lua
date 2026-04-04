@@ -1,0 +1,4 @@
+--game: Prostitute Simulator
+
+addappid(2076720)
+addappid(2076721,0,"51d435f538503c8921f5a5e9fe14c9325758d79592fcee655c1bfdb0ecc3ad58")
