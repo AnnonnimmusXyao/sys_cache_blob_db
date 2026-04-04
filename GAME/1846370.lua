@@ -1,0 +1,4 @@
+--game: Yacht Dice : Global League
+
+addappid(1846370)
+addappid(1846371,0,"8a4b342efe95b63e1e4b04d11e9c60718e432b3f313fcce589be2041a494edf5")
