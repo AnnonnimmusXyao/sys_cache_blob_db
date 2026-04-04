@@ -1,0 +1,4 @@
+--game: Windmills
+
+addappid(1803760)
+addappid(1803761,0,"b03d8d9e408614f3461572df4c839cfcc09af5163510827a9fdd22f56fae107b")
