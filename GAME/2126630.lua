@@ -1,0 +1,4 @@
+--game: The Fantastic Kitty Rue
+
+addappid(2126630)
+addappid(2126631,0,"7d60230da0a03c8316aeb670c6c5222d4658469ecc4ea9aad5efcf74363dde8b")
