@@ -1,0 +1,4 @@
+--game: 我在终点线等你
+
+addappid(2215290)
+addappid(2215291,0,"7313c7aec79aca287ab103b807e4e86eafc4f55f861df92e9341bb6d924e177f")
