@@ -1,0 +1,4 @@
+--game: TAMAKAGURA: Tales of Turmoil
+
+addappid(2096400)
+addappid(2096403,0,"8dc19b1b6fd71825a22fd7493f1db32fef885ed1501515f79979688f7a2fdedb")
