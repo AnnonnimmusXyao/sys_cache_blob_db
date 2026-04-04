@@ -1,0 +1,4 @@
+--game: Outpost Defender 2-Beta
+
+addappid(1980520)
+addappid(1980521,0,"781cdfa050c42f093a4b193f552b01f5f11fab5b74ce151f802954155ac89b92")
