@@ -1,0 +1,4 @@
+--game: Cards with Personalities
+
+addappid(2147020)
+addappid(2147021,0,"e9c016254f9066e74198c5e335d277cd0fba62638a556e245d7cf3fb0ad9e2ba")
