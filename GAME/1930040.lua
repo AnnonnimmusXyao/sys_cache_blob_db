@@ -1,0 +1,4 @@
+--game: The President
+
+addappid(1930040)
+addappid(1930041,0,"2df742a577a57c1d0493dee1d569523f2b5b55cb30e251fd8a0637fe7eee436d")
