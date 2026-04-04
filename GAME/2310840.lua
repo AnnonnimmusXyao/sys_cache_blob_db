@@ -1,0 +1,4 @@
+--game: Mechafare
+
+addappid(2310840)
+addappid(2310841,0,"cc09488888d342f51c358fca14bba93af22015ea6cf475910c8ce7652f383e10")
