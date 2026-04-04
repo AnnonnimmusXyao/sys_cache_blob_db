@@ -1,0 +1,4 @@
+--game: Lustful Professor
+
+addappid(2060510)
+addappid(2060511,0,"545d171e79d88898414cd3c3f226d7379cb527f1fea0b370aa91a807336f5d0f")
