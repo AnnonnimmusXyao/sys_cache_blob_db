@@ -1,0 +1,6 @@
+--game: 天行镖客 (Sky Escort)
+
+addappid(229002)
+addappid(229004)
+addappid(2428310)
+addappid(2428311,0,"24c4d67202389f2f6c2269a384ac0684c742879760f83dfcf132347ab3ac5e29")
