@@ -1,0 +1,4 @@
+--game: Breath of the Gods
+
+addappid(2188510)
+addappid(2188511,0,"bf4197f06024b4011534821452b61f04e69566c408126a2dfca512ade56a4a69")
