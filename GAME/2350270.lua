@@ -1,0 +1,4 @@
+--game: Primal Planet
+
+addappid(2350270)
+addappid(2350271,0,"004ef13ec221dad414943780acf579600912f7b7470c6447c37cab8f6c671d47")
