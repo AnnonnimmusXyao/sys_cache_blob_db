@@ -1,0 +1,4 @@
+--game: Chinese Chess-Wargame
+
+addappid(2467210)
+addappid(2467211,0,"a9ab0de0cf3eabae29401cc5a10dd5d487d877ac05c1a03bec83c10e11f0e7f5")
