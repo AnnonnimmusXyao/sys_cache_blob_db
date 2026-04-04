@@ -1,0 +1,4 @@
+--game: 溯源之塔/Tower of Traceability
+
+addappid(2355470)
+addappid(2355471,0,"c3e0bf91b1eeb22383fe2331086d35fb6f08146f51277b8e836dbb5c55302353")
