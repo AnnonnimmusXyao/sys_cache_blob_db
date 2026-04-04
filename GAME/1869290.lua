@@ -1,0 +1,4 @@
+--game: Supraworld
+
+addappid(1869290)
+addappid(1869291,0,"dd5c65c18dd7671d1a2e2df6dd21a59c408a1f152880e563649ee7508a88f2bc")
