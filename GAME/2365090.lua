@@ -1,0 +1,6 @@
+--game: Sex Simulator - The Private Jet
+
+addappid(2365090)
+addappid(2365091,0,"4895f8f614e4f04757dc86567eabe7946c2313459c2849e9969ae18ec5be354c")
+addappid(2365092,0,"fe2dd7e69afcb2d457e571f90eefc7b9cafdc51a4fca70f075f2f6dfeb87f799")
+addappid(2365093,0,"d14f41f7ddc209aec8889087bf0b8b84b5d32713f6bf11fb90b344a538c7d826")
