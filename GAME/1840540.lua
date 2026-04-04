@@ -1,0 +1,4 @@
+--game: 街机捕鱼嘉年华
+
+addappid(1840540)
+addappid(1840541,0,"06627ffc418b55240d320007a319cafcb532ceac430c6c708959f31686e0b3a2")
