@@ -1,0 +1,4 @@
+--game: Cyber Miner
+
+addappid(2233310)
+addappid(2233311,0,"68aa95ed235e6867f4105a5ea373f30cd807331bbd22119b609020aa0f32f623")
