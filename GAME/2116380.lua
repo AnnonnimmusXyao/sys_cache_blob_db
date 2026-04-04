@@ -1,0 +1,4 @@
+--game: Forgotten Lands: Online
+
+addappid(2116380)
+addappid(2116381,0,"cbdef479ae301d89cf16cf15e5087deffc2071ad08b812c834aa13e0cacc453f")
