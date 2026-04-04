@@ -1,0 +1,5 @@
+--game: Sakura Mirror
+
+addappid(2235610)
+addappid(2235611,0,"d51bd697449cbfb094c247a1d7e2f4748447d1c3e2166f979b7b5b7f5ed6b5bb")
+addappid(2240710)
