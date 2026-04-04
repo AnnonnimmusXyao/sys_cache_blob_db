@@ -1,0 +1,5 @@
+--game: 14 Minesweeper Variants
+
+addappid(1865060)
+addappid(1865062,0,"4ae22980c89ef9c369bc1b344f2975f560de3e2878c7beb7070c5133f577e172")
+addappid(1865064,0,"37a96bda4b136fceebe0fc4debf0beabfcb17afa23ac29a28c50fcb2d9d35c1c")
