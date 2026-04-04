@@ -1,0 +1,4 @@
+--game: Yum Collector
+
+addappid(1906130)
+addappid(1906131,0,"b6afec1ce241ede28674efbba59a0c51b4eafa3efdf4ce1f2c3d9837e620cdc1")
