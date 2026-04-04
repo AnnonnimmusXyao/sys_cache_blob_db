@@ -1,0 +1,4 @@
+--game: Call Hating
+
+addappid(2008990)
+addappid(2008991,0,"9e52541bb1c556f6077b5ad04a183e2bc06f19f81f0319f7b9584e25064edf40")
