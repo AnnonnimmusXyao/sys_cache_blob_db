@@ -1,0 +1,4 @@
+--game: Santhai
+
+addappid(1812930)
+addappid(1812931,0,"325b721d9cda96676ca14dc3e28dcb2c56f93cc9b41439d752b3ae786e581091")
