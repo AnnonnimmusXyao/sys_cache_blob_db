@@ -1,0 +1,4 @@
+--game: Two Colours
+
+addappid(1979970)
+addappid(1979971,0,"602a35d1d219b4015149fee0ecd9b276d8a3a35ea44aaf919e3681c51f45eb6e")
