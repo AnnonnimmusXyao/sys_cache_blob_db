@@ -1,0 +1,4 @@
+--game: Idle Gem Quest
+
+addappid(2144290)
+addappid(2144291,0,"aea234433f732442d3d687323dacb42736e88b30178d9a3d7c711935e154c9d2")
