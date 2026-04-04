@@ -1,0 +1,5 @@
+--game: LALA Hentai
+
+addappid(2167770)
+addappid(2167771,0,"582991a03b4ebecf85b9331e5ec1acc5dfe2569cb6138d71dce5193eedcac1c6")
+addappid(2349280)
