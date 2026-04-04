@@ -1,0 +1,4 @@
+--game: Examination Chambers
+
+addappid(1820350)
+addappid(1820351,0,"f3be0ee615873373e765e57ddba2ab695c0e5bf9271e05a4b30e15930f9e28a4")
