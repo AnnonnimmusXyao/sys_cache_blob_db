@@ -1,0 +1,4 @@
+--game: Feudal Fantasy Incremental
+
+addappid(2298500)
+addappid(2298501,0,"52ae874e85369230a67e4ef533079b65486e3088eb2b2e6bad9a9b46e257c39e")
