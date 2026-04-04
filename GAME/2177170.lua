@@ -1,0 +1,4 @@
+--game: All of Us Are Dead...
+
+addappid(2177170)
+addappid(2177171,0,"6ee953cd1d73c0887e00706d564eccf384a205761daa9bd214514c7d80488588")
