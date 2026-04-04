@@ -1,0 +1,4 @@
+--game: Sex Simulator - Dirty Doctor
+
+addappid(2420590)
+addappid(2420591,0,"546839bf5dc58928e2f8536c7d7a0c2ccf1cf94f89c0ac6a984e2ccf6737bcae")
