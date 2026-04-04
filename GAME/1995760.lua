@@ -1,0 +1,4 @@
+--game: Dream magic will
+
+addappid(1995760)
+addappid(1995761,0,"bc8ec45914cd4d365e1a47897c36d0aa97359dd8479a988f49795a5eb3dda8bb")
