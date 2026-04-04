@@ -1,0 +1,4 @@
+--game: Mycosis
+
+addappid(1879040)
+addappid(1879041,0,"b293e34a1daef240ba2bae08520a807f311b7347d1783348708b57e67ba134c2")
