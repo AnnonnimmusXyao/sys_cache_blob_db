@@ -1,0 +1,4 @@
+--game: Be My Horde
+
+addappid(2499520)
+addappid(2499521,0,"bacd69c0a3b7139b1021cdbb881f516adbd0de86041bc85c742c56a5a79d585b")
