@@ -1,0 +1,4 @@
+--game: Slaughter Horse 2
+
+addappid(2076260)
+addappid(2076261,0,"ddf001a5f998c634dc2bca3474e10109d7aef01e6de4f541ff287c47060e8e4c")
