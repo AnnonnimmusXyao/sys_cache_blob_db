@@ -1,0 +1,4 @@
+--game: Umichan Sentoryu
+
+addappid(2249970)
+addappid(2249971,0,"244ec0f8886b89df199a11344e62bc5038a4171594f9eaa285985a9409d46e8c")
