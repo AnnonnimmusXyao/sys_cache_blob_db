@@ -1,0 +1,4 @@
+--game: Sqube Darkness
+
+addappid(2380720)
+addappid(2380724,0,"ce6e4a8697a4946def0cfd67496a5ad66f23116c56713954e0bd7722553009b3")
