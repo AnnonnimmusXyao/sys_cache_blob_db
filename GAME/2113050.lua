@@ -1,0 +1,4 @@
+--game: RUNGORE: Beginner Experience
+
+addappid(2113050)
+addappid(2113051,0,"bc80e90efb71349cd8d1ed7df1d7e3c0bd14e7fcac9604f8cf322d2d2c14fd4c")
