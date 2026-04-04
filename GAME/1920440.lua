@@ -1,0 +1,4 @@
+--game: Big Tower Tiny Square 2
+
+addappid(1920440)
+addappid(1920442,0,"a337b90a84790987e2ed411c52697ab9b86b9af3f8c9ef3265e71c0ec338247c")
