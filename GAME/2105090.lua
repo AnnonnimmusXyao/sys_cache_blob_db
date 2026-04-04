@@ -1,0 +1,4 @@
+--game: Speedrunners Paradise: Sky is the limit
+
+addappid(2105090)
+addappid(2105091,0,"853600ef5abb3ab6a14938eb1ed97e4743a3e0cdbdf8e2e6fc4832c51b0334a5")
