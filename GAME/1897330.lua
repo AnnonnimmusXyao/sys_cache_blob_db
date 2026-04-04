@@ -1,0 +1,4 @@
+--game: Helga the Viking Warrior
+
+addappid(1897330)
+addappid(1897331,0,"2ba88893ecd4047c84b21fe6bde2bb035fbe00cbefc08e979854e96f9936dd16")
