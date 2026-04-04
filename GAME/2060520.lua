@@ -1,0 +1,4 @@
+--game: Summer Weekend
+
+addappid(2060520)
+addappid(2060521,0,"4f66790e6e68bf981f65207d212b1ad90f38d6841f1d0a70b625888ca49ff46e")
