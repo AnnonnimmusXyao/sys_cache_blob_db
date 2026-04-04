@@ -1,0 +1,4 @@
+--game: ARTISAN
+
+addappid(1813550)
+addappid(1813551,0,"503558e1fe275e1e6097a8ec240634086cc2cf892a4c56af9ee57c1839cfcc48")
