@@ -1,0 +1,4 @@
+--game: Murder by Moonlight 2 - Crimson Night
+
+addappid(1819370)
+addappid(1819371,0,"77b833bbf43e10f95a3355602493bcf998ed60176d8104cf95b27d8555ce916d")
