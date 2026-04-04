@@ -1,0 +1,4 @@
+--game: Chase Survivors
+
+addappid(2195010)
+addappid(2195011,0,"bf72a530bb429612c89a0e4a8f5f9ab90ea69381fdd05f98271a611c4c0661e3")
