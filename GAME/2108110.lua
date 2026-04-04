@@ -1,0 +1,4 @@
+--game: 时空旅法师
+
+addappid(2108110)
+addappid(2108116,0,"bc3b26c436bbcde780067a61d51e13a9a4639ecb05acc1fc4515bcb386b11324")
