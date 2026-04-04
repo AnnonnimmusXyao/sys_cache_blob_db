@@ -1,0 +1,4 @@
+--game: Rotund Zero
+
+addappid(1888590)
+addappid(1888591,0,"1cf94b651738de4c0632c12842ca7087ab1b6814790e252c6f5dbb185d432d08")
