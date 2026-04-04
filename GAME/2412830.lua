@@ -1,0 +1,4 @@
+--game: Magic Seeker: a mimic's odyssey - chapter 1
+
+addappid(2412830)
+addappid(2412831,0,"d7c8ccea1c103fafbf0ac4165e9aabb8ca55e53edb91b9021c23ead6b0e4737c")
