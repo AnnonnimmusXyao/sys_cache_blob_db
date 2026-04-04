@@ -1,0 +1,4 @@
+--game: 8-Ball Pocket
+
+addappid(2311510)
+addappid(2311511,0,"09a570cb03f2c2f9f5447c4074d297c959b947da70d759486fcce483934001d4")
