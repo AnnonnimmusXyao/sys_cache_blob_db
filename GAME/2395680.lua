@@ -1,0 +1,4 @@
+--game: Unyielding Succubus Princess of Arrogance
+
+addappid(2395680)
+addappid(2395683,0,"e22d4e34fb0f4941348cd38c0a2865a9f996beb8d77db197339e3014235af67b")
