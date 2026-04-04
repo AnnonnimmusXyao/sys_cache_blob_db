@@ -1,0 +1,4 @@
+--game: Echo Point Nova
+
+addappid(1836730)
+addappid(1836731,0,"3cb8d34f2b9a803179612fabdc6ea345bcbc6486081c8620e8263944ba2d7824")
