@@ -1,0 +1,4 @@
+--game: Dangeresque: The Roomisode Triungulate
+
+addappid(2442020)
+addappid(2442022,0,"18f2d928930a617a91d5e9652018c2fa3b58d0c49c16ea43e876874e31caa631")
