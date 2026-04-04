@@ -1,0 +1,4 @@
+--game: Magic Research
+
+addappid(2311680)
+addappid(2311681,0,"980e5164662fe2b2bae779db7205cd34a260af2510dc5a50c0f4c5ee8d638ee0")
