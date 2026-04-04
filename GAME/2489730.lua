@@ -1,0 +1,4 @@
+--game: KARSUS
+
+addappid(2489730)
+addappid(2489731,0,"b9ff57279dbe6515a652803827f15fe2562d42b3eff666cf2cad462161ba81d4")
