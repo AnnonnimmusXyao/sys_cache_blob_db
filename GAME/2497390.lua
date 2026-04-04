@@ -1,0 +1,4 @@
+--game: Viking Hiking
+
+addappid(2497390)
+addappid(2497391,0,"1e618acef598b6632a5be53287b8145aaf535a861ffd6582b9f085c20f2f9db7")
