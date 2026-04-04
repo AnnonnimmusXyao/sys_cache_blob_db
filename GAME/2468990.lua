@@ -1,0 +1,4 @@
+--game: Idle Ultimate
+
+addappid(2468990)
+addappid(2468991,0,"cf30e3d862793797a824699330e29108f4e7348b2e429f559526fc5c506c03f9")
