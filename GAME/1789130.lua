@@ -1,0 +1,5 @@
+--game: The Monster PIMP
+
+addappid(1789130)
+addappid(1789131,0,"7890bc1daa243726e403b9d82b022c49dd7c7b97f7e1b0732501860a1c9e6e10")
+addappid(2447210)
