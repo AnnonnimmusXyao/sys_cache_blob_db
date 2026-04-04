@@ -1,0 +1,4 @@
+--game: Automon
+
+addappid(1822710)
+addappid(1822711,0,"8a492293f8b8b093f01d294c3d83945e135d795b6ef1410d7c1db52ae0cd6b25")
