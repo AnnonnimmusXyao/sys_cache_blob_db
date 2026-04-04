@@ -1,0 +1,4 @@
+--game: 棋物语 Stick Go story
+
+addappid(1987150)
+addappid(1987151,0,"fced77e3e54467977d2711aca833ee54f983e748c6f12fbebb32a08e2147b490")
