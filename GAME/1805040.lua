@@ -1,0 +1,4 @@
+--game: Implements of Hell
+
+addappid(1805040)
+addappid(1805041,0,"7831d65500f0119bb4d6fcab3c2109c5a55acec618584845b3689312539c7437")
