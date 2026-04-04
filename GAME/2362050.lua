@@ -1,0 +1,14 @@
+--game: MY HERO ACADEMIA: All’s Justice
+
+addappid(2362050)
+addappid(2362051,0,"de25173640dc896951725a366eb08a505411f96b148ad83194421ec180aeb3f7")
+addappid(3792210)
+addappid(3792270)
+addappid(3792280)
+addappid(3792290)
+addappid(3792310)
+addappid(3792320)
+addappid(3792330)
+addappid(3792340)
+addappid(3792350)
+addappid(3792370)
