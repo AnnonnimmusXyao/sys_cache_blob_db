@@ -1,0 +1,7 @@
+--game: The Symbiant Re:Union
+
+addappid(2355140)
+addappid(2355141,0,"5e65acbffbcf90bf1bd2c40cd28be0853b9d7b05ae518e81079ad5f686d4f0d2")
+addappid(2758890)
+addappid(2758900)
+addappid(2758930)
