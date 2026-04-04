@@ -1,0 +1,4 @@
+--game: Rescue To The PARALLEL
+
+addappid(2454990)
+addappid(2454991,0,"cee95002c31b4b714f81886e511dd0315a977f5d6b269a4fa14c90d3ace16d1c")
