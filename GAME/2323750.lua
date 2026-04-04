@@ -1,0 +1,4 @@
+--game: Lattice Dancer
+
+addappid(2323750)
+addappid(2323751,0,"0ae0a9961b78c5a7862fabd5277ae917cdde7139d175e588d5768c0943d24efa")
