@@ -1,0 +1,4 @@
+--game: Lord Ambermaze: Prologue
+
+addappid(2070580)
+addappid(2070581,0,"e3f82e963cfed1a1bfecd5b10ddf0d05eed944de78f6173d8f87035c7554562a")
