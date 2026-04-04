@@ -1,0 +1,4 @@
+--game: Iaijutsu
+
+addappid(2055090)
+addappid(2055091,0,"24d3c69a100a09b54a20c9446a8bb0fb7817127fd7c63a82ecbc3487d3e74190")
