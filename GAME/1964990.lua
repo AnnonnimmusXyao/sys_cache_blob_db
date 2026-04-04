@@ -1,0 +1,4 @@
+--game: Galactic Explorers
+
+addappid(1964990)
+addappid(1964991,0,"87687b36293d5b588424c2efe487f3a01124a823b9ac51e4d9948f7f75a36a4a")
