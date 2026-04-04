@@ -1,0 +1,4 @@
+--game: CyberScope
+
+addappid(1931050)
+addappid(1931051,0,"30907f4a4c37d7dc348c8164cbc352fe156ea16db5a08db161f57b8ae2637a00")
