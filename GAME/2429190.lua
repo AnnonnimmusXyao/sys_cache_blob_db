@@ -1,0 +1,5 @@
+--game: Amerzone - The Explorer's Legacy
+
+addappid(2429190)
+addappid(3544420)
+addappid(2429191,0,"795c6e2f938e195ef9d62a34c064f1df89b670d9d7c101d9680d270950684e80")
