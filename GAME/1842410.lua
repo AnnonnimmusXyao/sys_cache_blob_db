@@ -1,0 +1,4 @@
+--game: Deadly Racing Duel
+
+addappid(1842410)
+addappid(1842411,0,"1c5e369b860264a7b366285aa8b86ae235c17f735fef1391a337446edc556807")
