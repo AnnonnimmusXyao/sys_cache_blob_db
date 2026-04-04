@@ -1,0 +1,5 @@
+--game: RUBATO
+
+addappid(2244030)
+addappid(2244031,0,"5dc538f3c6521ab295b04c26f4fe27396edfb5044c02e61d6f70e9a804ad9e39")
+addappid(4513070)
