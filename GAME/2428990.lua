@@ -1,0 +1,4 @@
+--game: Brothers in Hell
+
+addappid(2428990)
+addappid(2428991,0,"d52760968880f22a074018254f13a7ed7459f695e3dd623ef87368ff2dbb3f20")
