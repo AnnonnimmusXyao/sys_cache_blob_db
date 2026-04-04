@@ -1,0 +1,4 @@
+--game: Assault On Proxima
+
+addappid(2271200)
+addappid(2271201,0,"b9aaf28f2eacf4cfbf3fc0ced0da19415576908077548999946ad72757a61416")
