@@ -1,0 +1,4 @@
+--game: Sky Settlers
+
+addappid(2494870)
+addappid(2494871,0,"64a3bdb30295b14582921abd62164eecb9e2570a5151575074274cb03967e598")
