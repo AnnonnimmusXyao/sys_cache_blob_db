@@ -1,0 +1,4 @@
+--game: Whitestone
+
+addappid(2324700)
+addappid(2324701,0,"307ab655a8be36d2de3146dabfd077371ef5dfbebdd58b24f332b764eb7733b5")
