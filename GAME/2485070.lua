@@ -1,0 +1,4 @@
+--game: Magical Girl Dash
+
+addappid(2485070)
+addappid(2485071,0,"d6d85bdf0cdd1a9277bcee06e963b5bfb25c016e4a379e63dc021941cba6eec1")
