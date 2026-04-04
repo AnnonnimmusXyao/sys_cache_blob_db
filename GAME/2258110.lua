@@ -1,0 +1,4 @@
+--game: Sphere Game Legendary
+
+addappid(2258110)
+addappid(2258111,0,"02f4f93ed51d972b2e215f06226196d66a12deeace1824472be89014b63e3fb4")
