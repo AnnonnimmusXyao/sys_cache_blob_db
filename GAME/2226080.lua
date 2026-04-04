@@ -1,0 +1,4 @@
+--game: Robbie's Tale
+
+addappid(2226080)
+addappid(2226081,0,"08ad5a724b9ec2d5f2f069d5cb9bff5c02a5008c4a8f53ce0487f317004693aa")
