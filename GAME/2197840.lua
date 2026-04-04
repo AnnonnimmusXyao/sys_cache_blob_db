@@ -1,0 +1,4 @@
+--game: EXTERMINATOR
+
+addappid(2197840)
+addappid(2197841,0,"a76c2aae1cd4a6751f1faf9ef2bc3492abd2ea74d807109898c0f3f508837195")
