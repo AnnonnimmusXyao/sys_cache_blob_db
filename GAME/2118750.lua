@@ -1,0 +1,4 @@
+--game: CrazyCaps
+
+addappid(2118750)
+addappid(2118751,0,"93731db005f2a53501aac759518e321e842cab083e6f38280c3682d10721fb68")
