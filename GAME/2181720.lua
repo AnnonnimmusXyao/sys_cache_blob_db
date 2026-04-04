@@ -1,0 +1,4 @@
+--game: Scarlet Tower
+
+addappid(2181720)
+addappid(2181721,0,"2e4f4af2d53a710d5176b01c78679fc0f082aa91ee1e66667421debc94f05081")
