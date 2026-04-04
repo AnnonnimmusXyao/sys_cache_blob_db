@@ -1,0 +1,4 @@
+--game: Second Sun
+
+addappid(2085620)
+addappid(2085621,0,"b57033923bfa0202ca821a49f8fd8fc1ab9590ce4d9112d837f6784de7261eb6")
