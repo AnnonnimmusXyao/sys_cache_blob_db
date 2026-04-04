@@ -1,0 +1,4 @@
+--game: Chores of Corruption
+
+addappid(2438770)
+addappid(2438771,0,"de502a9fae6a6cc08581778ef6df6641e224f71b868e647f9b24f2348971b68c")
