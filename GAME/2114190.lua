@@ -1,0 +1,4 @@
+--game: 星际王八传奇
+
+addappid(2114190)
+addappid(2114191,0,"9ef37bf19028c8721a062e63b6b84e04553d49f7573f8775e475ecfc6c44d62a")
