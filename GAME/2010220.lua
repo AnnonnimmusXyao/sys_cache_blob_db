@@ -1,0 +1,4 @@
+--game: Slime Jumper Adventure
+
+addappid(2010220)
+addappid(2010221,0,"499e29ec9479a290e806524d0a2f6259d965ef6de03602168026cd07a9c78361")
