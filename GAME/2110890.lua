@@ -1,0 +1,4 @@
+--game: CRASH-SAN
+
+addappid(2110890)
+addappid(2110891,0,"581a37da9bdbf85e449244625ec64fe1c5d07bfbb9ca73826fd5e5d38f2747c5")
