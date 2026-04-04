@@ -1,0 +1,4 @@
+--game: Endless Fucker
+
+addappid(2404530)
+addappid(2404531,0,"a427403482954cad3af312376977d928952ebaedc83c6a7c436d8b69b1c64d8e")
