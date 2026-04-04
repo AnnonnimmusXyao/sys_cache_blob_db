@@ -1,0 +1,4 @@
+--game: Crop Rotation
+
+addappid(2348090)
+addappid(2348092,0,"c0e25b81db2853448631a071c5171340fd5ac1dd04516c84176c53853b64342c")
