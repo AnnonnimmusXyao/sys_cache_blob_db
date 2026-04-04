@@ -1,0 +1,5 @@
+--game: Tactical Assault VR
+
+addappid(2314160)
+addappid(3812850)
+addappid(2314161,0,"5be7927a7b9161b7c4faa65d50810e4337a6ec964921f4cc0d37d8003e72bed0")
