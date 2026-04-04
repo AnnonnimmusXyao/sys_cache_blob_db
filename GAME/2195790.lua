@@ -1,0 +1,4 @@
+--game: Class of Heroes 2G: Remaster Edition
+
+addappid(2195790)
+addappid(2195791,0,"d2725b22e50e8e90b78391f0d232002b2748c888fd6df2b5f50fc80a61c500ef")
