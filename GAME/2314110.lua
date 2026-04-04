@@ -1,0 +1,4 @@
+--game: Shutter
+
+addappid(2314110)
+addappid(2314111,0,"2fe20d1102446bf96c5e0d5ec605a1a1b5651dc6e6eec296ff842b36f3f730d6")
