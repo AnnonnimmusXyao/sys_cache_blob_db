@@ -1,0 +1,4 @@
+--game: Civil War: Atlanta 1864
+
+addappid(1843100)
+addappid(1843101,0,"eb6e7b0a5302e7e0ce6563536b17c215893285aa81a6999e201bc4ef6b4c1aff")
