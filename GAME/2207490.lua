@@ -1,0 +1,4 @@
+--game: Factory Town Idle
+
+addappid(2207490)
+addappid(2207491,0,"897860484f7d9751e73184572b646fb0bf9aa699d0dc8530ed0f740a07984560")
