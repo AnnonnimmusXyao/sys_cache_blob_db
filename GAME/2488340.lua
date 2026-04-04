@@ -1,0 +1,4 @@
+--game: Dream Town Island
+
+addappid(2488340)
+addappid(2488341,0,"df206280d42766c2c38debd8dc5dbf06ce3f149362a4f6a83f06a711ad95a3c8")
