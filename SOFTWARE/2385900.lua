@@ -1,0 +1,4 @@
+--game: Crosshair Magic - in game overlay
+
+addappid(2385900)
+addappid(2385901,0,"ec3431e61740fbe61982ac5c5a2a9a45f002e56f1fb4bb1578839ef2d887442d")
