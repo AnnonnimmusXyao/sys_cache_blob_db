@@ -1,0 +1,4 @@
+--game: Phonetic
+
+addappid(1881270)
+addappid(1881271,0,"6dd87ffb58c4a800b573110c739d5e8cecdeff4043212117e0322df88f56ae11")
