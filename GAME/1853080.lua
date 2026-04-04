@@ -1,0 +1,4 @@
+--game: Cyber Runner
+
+addappid(1853080)
+addappid(1853081,0,"8be940a33180242849a0f6573b3e43496e102b47da06b0860cadec1fa3432400")
