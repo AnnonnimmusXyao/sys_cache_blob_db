@@ -1,0 +1,4 @@
+--game: Digital Eclipse Arcade: Jollyball
+
+addappid(2237440)
+addappid(2237441,0,"ee673e435ba792c240ae1cd7fba055774a9262d796ecc2534bfc44ab32a4c269")
