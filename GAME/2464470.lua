@@ -1,0 +1,4 @@
+--game: Bingo Pets - Save the Pets
+
+addappid(2464470)
+addappid(2464471,0,"9b1ce1cf695e9301e30270beb31c2d5f86af7bf04a8ea1347849586a9cd45823")
