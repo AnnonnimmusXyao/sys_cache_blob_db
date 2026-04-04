@@ -1,0 +1,4 @@
+--game: Escape from Cronos X
+
+addappid(1824970)
+addappid(1824971,0,"403abc11e7758e20be0c66da9fc9a4651c300ab5c2b3335cd412973abeee1302")
