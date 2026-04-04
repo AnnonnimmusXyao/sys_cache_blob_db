@@ -1,0 +1,4 @@
+--game: Astro Mission: Moon
+
+addappid(1901940)
+addappid(1901941,0,"3067a47aee017984c26eb75da9a70bdf7fd3ecc1938fe3c8067f0f37dfb45008")
