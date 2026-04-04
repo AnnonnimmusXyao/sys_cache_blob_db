@@ -1,0 +1,5 @@
+--game: X-Angels
+
+addappid(2090810)
+addappid(2090811,0,"22672f138aa165aef26a8747bad2a73635d635fdff91c8d042861b1f1e5026c4")
+addappid(2985830)
