@@ -1,0 +1,4 @@
+--game: The Unsettled
+
+addappid(1957170)
+addappid(1957171,0,"cafa789f9aa64180941f34470c6512b08b71ef4b6546cc064ec8dc6ef647e1d5")
