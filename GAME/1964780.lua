@@ -1,0 +1,4 @@
+--game: The Revenge of Mr.Samuel
+
+addappid(1964780)
+addappid(1964784,0,"a3dc9b85e0f5271bc9e3de8d1b9f7dd4d636e54e07e6e331f25ad9b2013036de")
