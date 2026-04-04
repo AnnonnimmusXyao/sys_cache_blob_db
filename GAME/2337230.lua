@@ -1,0 +1,4 @@
+--game: Survivors of the Mare Vitalis
+
+addappid(2337230)
+addappid(2337231,0,"9b35f78c12744eacbf3a72869cd66bc41b0ea6f21f50c09a9ff4621b9c011286")
