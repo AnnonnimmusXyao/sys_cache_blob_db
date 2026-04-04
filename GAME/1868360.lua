@@ -1,0 +1,4 @@
+--game: Deep Sleep: Labyrinth of the Forsaken
+
+addappid(1868360)
+addappid(1868361,0,"476e88999422b6c16a0379f884ed245676027c9304bf640cec5ece5b582e6c9e")
