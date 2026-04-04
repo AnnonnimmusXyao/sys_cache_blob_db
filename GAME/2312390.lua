@@ -1,0 +1,4 @@
+--game: Ghosts from the House of Flesh
+
+addappid(2312390)
+addappid(2312391,0,"51651ef447b7445ca45eb3ba286d9e2ffc205d3a3d40963379087c335378b0a4")
