@@ -1,0 +1,4 @@
+--game: Monster Girl's Labyrinth
+
+addappid(1789470)
+addappid(1789471,0,"4147e6435a64bef28d7bf86528f65617e7ba8f9f9666c77371f3d4ed9a3d6c09")
