@@ -1,0 +1,4 @@
+--game: Hentai BodySuit
+
+addappid(2184610)
+addappid(2184611,0,"94a7801a240b41a96e247b24143f45773e121f6d8c30824d7c73b98c319c1b8f")
