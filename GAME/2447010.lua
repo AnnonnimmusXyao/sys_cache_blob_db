@@ -1,0 +1,4 @@
+--game: The Hunted Witch
+
+addappid(2447010)
+addappid(2447011,0,"9f80be54bf6cfe13e184e30c8a7c75de040fbaad5c2363dd958706cc8ad2e9d8")
