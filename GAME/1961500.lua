@@ -1,0 +1,4 @@
+--game: Nosy Little Fly
+
+addappid(1961500)
+addappid(1961501,0,"31c62bd6501b4c883cdffcd1c8a1951cd8a9c52eaf18735a731f70bd63301142")
