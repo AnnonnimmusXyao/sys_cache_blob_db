@@ -1,0 +1,4 @@
+--game: An Outcry
+
+addappid(1817470)
+addappid(1817471,0,"14fa6a0130d8e3011ef4e461767583c7f0b470a774f3be459e290e6078e31d2d")
