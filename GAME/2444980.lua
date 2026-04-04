@@ -1,0 +1,4 @@
+--game: Chasing rabbits in snow
+
+addappid(2444980)
+addappid(2444981,0,"2b0e3a252f1978765cfd67506bb21f4000fe094857e8a0c6cdcc611c513ac982")
