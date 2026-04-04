@@ -1,0 +1,4 @@
+--game: Late photographer 3
+
+addappid(1912970)
+addappid(1912971,0,"c954a000684c7db67809a407e0165095988956b98b99a3d5aafe874f779826ed")
