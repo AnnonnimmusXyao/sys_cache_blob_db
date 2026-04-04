@@ -1,0 +1,4 @@
+--game: Vaccine Rebirth
+
+addappid(2252790)
+addappid(2252791,0,"901469fbf49ef58bddeb864de703973854f6f227a25d50f7faaa6d69b17198bb")
