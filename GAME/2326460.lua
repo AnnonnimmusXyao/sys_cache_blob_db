@@ -1,0 +1,4 @@
+--game: The Magical Land of Canada
+
+addappid(2326460)
+addappid(2326461,0,"a96f4d53503a9f62d402e1368187bdd6c0031d3db1daa883f3a8f6bea0fb7dfa")
