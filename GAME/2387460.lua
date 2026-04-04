@@ -1,0 +1,4 @@
+--game: Aureole - Wings of Hope
+
+addappid(2387460)
+addappid(2387461,0,"b699dd5626147545af86d21feee36c26f23f6bd0f1525abc80207e560f26425e")
