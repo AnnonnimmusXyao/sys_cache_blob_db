@@ -1,0 +1,6 @@
+--game: VALKYRIE ELYSIUM
+
+addappid(1963210)
+addappid(1963211,0,"bec635b62e3e6444839005dad7627c6bda98ef0250e9c7fdc9293fdf944b1643")
+addappid(2054990)
+addappid(2055030)
