@@ -1,0 +1,4 @@
+--game: Shores of Loci
+
+addappid(1846890)
+addappid(1846891,0,"8e80fedeeaf385218f9970eae5fd16ff21c9e0aa545e7e55d6f5e69457d8cbfa")
