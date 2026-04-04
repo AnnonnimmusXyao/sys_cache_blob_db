@@ -1,0 +1,4 @@
+--game: Terminate: Study X
+
+addappid(1984040)
+addappid(1984041,0,"37956b850d8fd3e0d5d4748f061349cf3faff514976db9b3a1c66087a701b876")
