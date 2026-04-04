@@ -1,0 +1,4 @@
+--game: Backroom Warfare II
+
+addappid(2246350)
+addappid(2246351,0,"56171c150cba9c9d5ba209a02040d822948c721c9ce8dfe67900ead1eab05b61")
