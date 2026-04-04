@@ -1,0 +1,4 @@
+--game: Par for the Dungeon
+
+addappid(2479970)
+addappid(2479971,0,"29d17ddaacef34eede3f65c1026b616c10efa74ed35375e977f2ff2c756218f5")
