@@ -1,0 +1,4 @@
+--game: Half Hour Hexagon
+
+addappid(2144080)
+addappid(2144081,0,"f49f9758b26fbf84786df855e9803c1aeb27fe2cf2c1e52041012fefec5190bd")
