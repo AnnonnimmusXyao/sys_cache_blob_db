@@ -1,0 +1,4 @@
+--game: Net 24h: Quán Nét Bất Ổn
+
+addappid(2253980)
+addappid(2253982,0,"52a6be0b80d352037d3a0ab8c2989d155ace77662f749979f911f8db8076ca97")
