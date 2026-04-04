@@ -1,0 +1,18 @@
+--game: Cuties Hacked: Oh no someone stole my photos!
+
+addappid(1970160)
+addappid(1970161,0,"56d7d1f89ad9561354bb1fd8f455ec7f880a63c0f440c3d445dae842d2cf267b")
+addappid(1970162,0,"d224105ad4dcbb9859750185ef4a69ee1c7c8d7d880aad8d22fe9681e075e86d")
+addappid(1970163,0,"ea82cc6969fa7df094ef99bc2924d0f410e1269b2d52df57edffaeeb4632f311")
+addappid(2054080)
+addappid(2213150)
+addappid(2213151)
+addappid(2213152)
+addappid(2213153)
+addappid(2213154)
+addappid(2213155)
+addappid(2213156)
+addappid(2213170)
+addappid(2213171)
+addappid(2213172)
+addappid(2213173)
