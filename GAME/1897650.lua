@@ -1,0 +1,4 @@
+--game: Dream Tactics
+
+addappid(1897650)
+addappid(1897651,0,"2d34a192d0e836eb4493f7aecedba5bb303bf366544e25dd3c1c3cf3705220b5")
