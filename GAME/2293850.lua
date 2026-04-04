@@ -1,0 +1,4 @@
+--game: Hole Dweller
+
+addappid(2293850)
+addappid(2293851,0,"f9e679dca57cb24f70292b1dae8927e8e131a584308446c21aaa09f2ee27330a")
