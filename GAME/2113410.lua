@@ -1,0 +1,4 @@
+--game: Wicked West
+
+addappid(2113410)
+addappid(2113411,0,"1cec6fac1fcae8942cc1547992fead3a0c72ce35bf6d3da710bfe3a144f63085")
