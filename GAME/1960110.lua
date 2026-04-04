@@ -1,0 +1,13 @@
+--game: Silent Hope
+
+addappid(1960110)
+addappid(1960111,0,"b947f010773890393ffbdc50519d6b487a787b0f78d078ad27864f71f1df3105")
+addappid(2279950)
+addappid(2285170)
+addappid(2285171)
+addappid(2285172)
+addappid(2285173)
+addappid(2285174)
+addappid(2285175)
+addappid(2285176)
+addappid(2603660)
