@@ -1,0 +1,4 @@
+--game: Phantom Tides
+
+addappid(2170410)
+addappid(2170411,0,"11d9e29038775aabfc14a10e1b40261730620414141d9a68b723ca5522e88203")
