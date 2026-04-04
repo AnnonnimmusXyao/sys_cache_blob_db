@@ -1,0 +1,4 @@
+--game: キミもvtuberにならないか？
+
+addappid(2159720)
+addappid(2159721,0,"a001250bc20d78ae6c7e7eb44ef34b9ef1718ff26356b64b74358cf1015d1e96")
