@@ -1,0 +1,4 @@
+--game: Spin Quest: A Slot Adventure
+
+addappid(2161900)
+addappid(2161901,0,"74cec4f05ff79d5a3a7a0bdbaf3a985439813bd57c6b8722cb833c0345e48c63")
