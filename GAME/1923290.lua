@@ -1,0 +1,4 @@
+--game: DreamPusherメダルゲーム
+
+addappid(1923290)
+addappid(1923291,0,"362a203462b5a197004b1cf1f392c39f9ca555251ccd601f43ef8ac93b06f396")
