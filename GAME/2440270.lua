@@ -1,0 +1,4 @@
+--game: Sex Simulator - BDSM Girls
+
+addappid(2440270)
+addappid(2440271,0,"dd032cc89523b67386b8f9c3eee496e1b6dedbf58d4ade15593e1b0f2fb9bbf4")
