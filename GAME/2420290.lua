@@ -1,0 +1,4 @@
+--game: UniVerso
+
+addappid(2420290)
+addappid(2420291,0,"65312a611bcbef345122eeb1996d43ab75946d830b3ca851ef170df7b6492660")
