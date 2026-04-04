@@ -1,0 +1,4 @@
+--game: 末世天醒
+
+addappid(1828140)
+addappid(1828141,0,"7098f398c0a560d1cee30e55588c45bdd4bdbf88b46ed438407a3427ba46497f")
