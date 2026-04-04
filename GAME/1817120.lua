@@ -1,0 +1,4 @@
+--game: Combat Troops VR
+
+addappid(1817120)
+addappid(1817121,0,"14175d23fb5038c691e05ced71725059587243125c2acf353728a9f0a2ac8463")
