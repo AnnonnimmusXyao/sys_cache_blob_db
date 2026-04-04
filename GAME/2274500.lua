@@ -1,0 +1,4 @@
+--game: Love Too Easily
+
+addappid(2274500)
+addappid(2274501,0,"b986dc20992f9850433597ff9a2f0999bfa8fa141f946625d7d63f31c7fff801")
