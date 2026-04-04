@@ -1,0 +1,4 @@
+--game: Zombie Shotgun Rampage
+
+addappid(1882520)
+addappid(1882521,0,"f9f987c6e395f78b08388b821850d2728c43d826b28937d10037cbcec0e40bca")
