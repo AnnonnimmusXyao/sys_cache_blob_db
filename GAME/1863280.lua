@@ -1,0 +1,4 @@
+--game: Dnaxcat vr
+
+addappid(1863280)
+addappid(1863281,0,"9625b87c38a2fbcb3172eff603802b075c55fdbae6fcdfc1098818f5711c41eb")
