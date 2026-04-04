@@ -1,0 +1,4 @@
+--game: Loot and Shoot
+
+addappid(2397260)
+addappid(2397261,0,"f8cdf315244b30dc1ae695f28e0d959b86851c551c4b0a541622c60c30c93f22")
