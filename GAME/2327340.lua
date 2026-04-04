@@ -1,0 +1,4 @@
+--game: Sleigh Strikers
+
+addappid(2327340)
+addappid(2327342,0,"19ca1317d805dd5704c85ccd2e4da6e64ce34bf6da413d45b05c6caff21f24a4")
