@@ -1,0 +1,4 @@
+--game: OtterQuest
+
+addappid(1857220)
+addappid(1857221,0,"3ed542fecfca7ffa3e3bd0960a1f8e8940a888b2131d7e53a9eb8d0a4032c9f7")
