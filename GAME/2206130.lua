@@ -1,0 +1,4 @@
+--game: Tomb 盜墓
+
+addappid(2206130)
+addappid(2206131,0,"181f0eb16378ead181cb84428c53326ad71029c55f97777fa87cb4f7eae54030")
