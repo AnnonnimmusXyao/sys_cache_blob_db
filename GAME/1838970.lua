@@ -1,0 +1,4 @@
+--game: Crush the Castle Legacy Collection
+
+addappid(1838970)
+addappid(1838971,0,"edb62a7a71389bec1d1501f8e16c9c0fa3b11c811e6940fcd905e5fc04b1119f")
