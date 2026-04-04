@@ -1,0 +1,4 @@
+--game: STARSHIP
+
+addappid(2019110)
+addappid(2019112,0,"711a46eaea793a7ce46881f39577bb0ed9f9befaacc9ec910b67c95a561304ef")
