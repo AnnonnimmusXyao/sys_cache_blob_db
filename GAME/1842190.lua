@@ -1,0 +1,4 @@
+--game: jingor 2048
+
+addappid(1842190)
+addappid(1842191,0,"d100ce8504e9cc678c31353a1dd49094fb4eba9a4df5a6baba211afe1b71dcb8")
