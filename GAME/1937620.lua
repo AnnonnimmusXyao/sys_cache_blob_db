@@ -1,0 +1,4 @@
+--game: Tennis Manager 2022
+
+addappid(1937620)
+addappid(1937621,0,"0542f95132634466a9bc963a57c86beaa7b8c8e9ccfb025d51cfab0a6c879fd0")
