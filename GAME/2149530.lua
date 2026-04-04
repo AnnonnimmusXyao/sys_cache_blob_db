@@ -1,0 +1,4 @@
+--game: Horror Hotel
+
+addappid(2149530)
+addappid(2149531,0,"8b3d6e784b4f97ed98cae73c3b339840f42523e97482b7076f249aa45f39c94e")
