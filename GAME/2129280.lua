@@ -1,0 +1,4 @@
+--game: 蛇香之夜 ～Allure of MUSK～第一夜欧洲篇
+
+addappid(2129280)
+addappid(2129281,0,"aa5cdc32410fc36ac304d2aa7f2019b4ce79704be24727fcf57ff368b6295850")
