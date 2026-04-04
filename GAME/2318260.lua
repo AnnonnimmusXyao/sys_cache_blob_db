@@ -1,0 +1,4 @@
+--game: HeliVR Simulator
+
+addappid(2318260)
+addappid(2318261,0,"803dbcb26f3d46a188e81dd28035771a5f685dceae28a1b0da8882f36df7c684")
