@@ -1,0 +1,4 @@
+--game: Chords Enchanter
+
+addappid(1977360)
+addappid(1977361,0,"f94ffc2971fd77932cb997861b99d52c5ef8a1d9fd50756e812d3f2ee2df7ae9")
