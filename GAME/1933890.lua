@@ -1,0 +1,4 @@
+--game: Manor of Shadows
+
+addappid(1933890)
+addappid(1933891,0,"34de4ed7f653f710bdd78fcc233fd4df21fde1e8bfb8ea6100a406d92ec91253")
