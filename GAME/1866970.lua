@@ -1,0 +1,4 @@
+--game: When I Die
+
+addappid(1866970)
+addappid(1866971,0,"5cb5f097370c481be7410ed66a5384f94e2829267ae3500f00d9f9b26ab0e0bd")
