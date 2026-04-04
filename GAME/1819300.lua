@@ -1,0 +1,4 @@
+--game: Re:Survivor
+
+addappid(1819300)
+addappid(1819301,0,"0417ffb67e16c02e831a13f1adc66dec9603eb9e58453a06ecf2146953010bbf")
