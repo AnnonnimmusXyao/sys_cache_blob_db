@@ -1,0 +1,4 @@
+--game: Hentai Military
+
+addappid(2302510)
+addappid(2302511,0,"a639df139f76419a54affeb92101b25dd9b5f79e705d9d3009f37dd915151ea0")
