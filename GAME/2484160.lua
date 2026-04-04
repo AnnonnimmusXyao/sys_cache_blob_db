@@ -1,0 +1,4 @@
+--game: It was a human.
+
+addappid(2484160)
+addappid(2484162,0,"7dfcd9d8c72b4a18abcb49dce02dea896020fad1862cac0cc5e0eb47e540cf84")
