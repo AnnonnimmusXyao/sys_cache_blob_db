@@ -1,0 +1,4 @@
+--game: A LONEY
+
+addappid(2050490)
+addappid(2050491,0,"00a123740155c10dbeedac3adf99333fcf76df62748906489d507815b63138fb")
