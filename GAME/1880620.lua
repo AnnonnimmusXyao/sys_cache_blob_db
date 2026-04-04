@@ -1,0 +1,8 @@
+--game: Once Upon A KATAMARI
+
+addappid(1880620)
+addappid(1880621,0,"e351457ac3bc22e5b454e7133ef92c44559e17d035c95fc5ec7932096ddcf6fe")
+addappid(3644570,0,"7a35a460962fe6f322e7a9546cae9a65dfff5419a3e4be13cc611cf2d9fef1c8")
+addappid(3644580,0,"94e7021bf30c2352766358ab14a4a74dcbbf0e5d18ae5aba217c939c0d3ae621")
+addappid(3728480)
+addappid(3839670)
