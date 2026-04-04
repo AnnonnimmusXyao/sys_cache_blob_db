@@ -1,0 +1,4 @@
+--game: Gods Against Machines
+
+addappid(2207470)
+addappid(2207471,0,"f0bda50535d56cc5301a46cd0ace3e066087e98ee877bc8685416c48992dc63b")
