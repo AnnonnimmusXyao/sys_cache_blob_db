@@ -1,0 +1,4 @@
+--game: Inspector Gadget - MAD Time Party
+
+addappid(2409500)
+addappid(2409501,0,"b7ad4993b3f1bb36218cbaf4cf707771059b1941a7f19dc6eafeef9896697889")
