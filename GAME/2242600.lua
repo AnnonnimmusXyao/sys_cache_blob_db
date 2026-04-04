@@ -1,0 +1,4 @@
+--game: Orphus - A Hentai CCG
+
+addappid(2242600)
+addappid(2242601,0,"89f30424e8e47ab93c22be6371a536a8ecf72103f80738e66bb77b8b6eea9e6a")
