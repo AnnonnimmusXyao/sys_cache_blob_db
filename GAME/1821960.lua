@@ -1,0 +1,4 @@
+--game: The Psychoduck
+
+addappid(1821960)
+addappid(1821961,0,"255f520ccc5bef2fdbb7eec7eb20fe8e1a705e63af7d4da426882fb93e45c270")
