@@ -1,0 +1,4 @@
+--game: KeyHero
+
+addappid(1807150)
+addappid(1807151,0,"1f2d9d6c1f37892bd2059ff449ffb169242aa5c5dd766efd536208010d23baa9")
