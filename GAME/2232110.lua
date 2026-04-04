@@ -1,0 +1,5 @@
+--game: ForRest Paper Doll
+
+addappid(2232110)
+addappid(2232111,0,"893f9383a057e7467e4bef8d5762ab5ce3ee3f6d3b1cdff3222b683b99d053a2")
+addappid(2232112,0,"377ce2bfda3d6bb3d1f6bd8a8900bd00f0cd65e01d98b9ba4fb52af03b40f0df")
