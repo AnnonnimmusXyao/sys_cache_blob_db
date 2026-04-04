@@ -1,0 +1,4 @@
+--game: Spy Bros. (Pipi & Bibi's DX)
+
+addappid(2106860)
+addappid(2106861,0,"26318b907ca06abd5ce1da0b769b013a143baf0c8147110db5e8ab07ed4a5850")
