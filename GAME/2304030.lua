@@ -1,0 +1,4 @@
+--game: 天下霸圖
+
+addappid(2304030)
+addappid(2304031,0,"5b358c40e6d4e37c1e65d02a0429b05f1e94dccdb5eb10d48825b329f97a34de")
