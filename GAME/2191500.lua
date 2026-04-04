@@ -1,0 +1,5 @@
+--game: Vampires: Bloodlord Rising
+
+addappid(2191500)
+addappid(2191501,0,"1a3132ade605f9a5ce9f053528523ffbba52bd0d2d18b081c8b5d5e976848cc9")
+addappid(4234790)
