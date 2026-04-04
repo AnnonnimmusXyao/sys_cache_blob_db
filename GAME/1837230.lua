@@ -1,0 +1,5 @@
+--game: Jerez's Arena Ⅱ
+
+addappid(1837230)
+addappid(1837231,0,"03b812d685ba86031cb79bc0599a47ea3d411a70579bfad74d191ed0bafe54a9")
+addappid(1951280)
