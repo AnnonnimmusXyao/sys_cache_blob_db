@@ -1,0 +1,4 @@
+--game: Echo Storm
+
+addappid(2282200)
+addappid(2282201,0,"6015496d356c2a97dd6052fca21b97e7227074dba9d31f53a83d1893c83a8a97")
