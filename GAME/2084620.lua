@@ -1,0 +1,7 @@
+--game: All Hallows Evie
+
+addappid(2084620)
+addappid(2084621,0,"e107bdd348139f075403289b405f99cab0e32c187393495655229e4e7ae28cc0")
+addappid(2084630)
+addappid(2084631)
+addappid(2084632)
