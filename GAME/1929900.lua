@@ -1,0 +1,4 @@
+--game: 东方梦无境 ～ Dreamland of Infinity
+
+addappid(1929900)
+addappid(1929901,0,"c9eef4afda7fa5e0aff9a73afd7671d81faa6054a4364e657b827254d87ac80a")
