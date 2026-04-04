@@ -1,0 +1,4 @@
+--game: Sex Adventures - Hot Sauna
+
+addappid(2244930)
+addappid(2244931,0,"94230851898aade367cc80f7bde4aab468df00b9fbeae918f89b8f9496339d63")
