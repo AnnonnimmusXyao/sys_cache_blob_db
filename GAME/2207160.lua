@@ -1,0 +1,4 @@
+--game: Fallen Stars
+
+addappid(2207160)
+addappid(2207161,0,"68b0bcb71da4af21f1f00e8ad7700990643fcf7c12a57614b4e12ec3e8b55341")
