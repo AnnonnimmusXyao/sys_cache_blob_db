@@ -1,0 +1,4 @@
+--game: Seven Cities
+
+addappid(1832780)
+addappid(1832781,0,"554bc1716159e34e28b0152f83ec0eff4d2e9429928400f2a639fa234521a7a0")
