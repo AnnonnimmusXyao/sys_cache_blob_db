@@ -1,0 +1,5 @@
+--game: Dungeon Defenders: Going Rogue
+
+addappid(229005)
+addappid(1815530)
+addappid(1815531,0,"b1be1001f79652095dfbc597f9ba43ad9719f94f4170b6b1a7282a795a736c67")
