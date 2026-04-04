@@ -1,0 +1,4 @@
+--game: Bitlands
+
+addappid(1881710)
+addappid(1881711,0,"40d703e72a8ce252ca323d50d47b3736da39410800bf569d33d29562b63a98bc")
