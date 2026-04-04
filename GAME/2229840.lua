@@ -1,0 +1,5 @@
+--game: Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™
+
+addappid(2229840)
+addappid(2229841,0,"26ec78cd68550fe930fb06bc779f42b58a6b52e5defa7a918f2e17aaf178f8b0")
+addappid(2229842,0,"f4839d4738635cfbdfb74408dc4360920171975654fa6976e504896aa95d5a24")
