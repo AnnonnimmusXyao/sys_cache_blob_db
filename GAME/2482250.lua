@@ -1,0 +1,4 @@
+--game: Goblin Buster: Incremental Tower Defense
+
+addappid(2482250)
+addappid(2482251,0,"78296d8209fa35915f3acf627dd34120501845078626d1e52ea6226c3d486c1d")
