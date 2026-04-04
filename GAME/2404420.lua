@@ -1,0 +1,4 @@
+--game: 七楼幸存者
+
+addappid(2404420)
+addappid(2404421,0,"af168fbdadfa7405d27f127f11d77e07ae47a6a4a1ccb441d75a26d1d2a4e9fe")
