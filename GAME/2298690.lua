@@ -1,0 +1,4 @@
+--game: Realpolitiks 3: Earth and Beyond
+
+addappid(2298690)
+addappid(2298692,0,"e1e82ee5481299a0b1db7ad4c379798020669a521f5a1d2a3c288387eb031765")
