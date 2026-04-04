@@ -1,0 +1,4 @@
+--game: Monsters Domain: Prologue
+
+addappid(2003060)
+addappid(2003061,0,"13a3e677172b3d9eb19210783a8617ad677733a320326fdbff2c7322fc4219f3")
