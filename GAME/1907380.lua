@@ -1,0 +1,4 @@
+--game: Arcane Vale
+
+addappid(1907380)
+addappid(1907381,0,"6e449b002e7a20c8902d27bc58200dea451cc6387703e0c46258e7115b248119")
