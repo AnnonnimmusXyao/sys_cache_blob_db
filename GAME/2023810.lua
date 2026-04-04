@@ -1,0 +1,4 @@
+--game: Island Idle RPG
+
+addappid(2023810)
+addappid(2023811,0,"559946566e7dbef9a103beb5951ee835c03a4c930e9753b0bb18a0877ff4e53e")
