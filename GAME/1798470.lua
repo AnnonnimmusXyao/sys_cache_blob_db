@@ -1,0 +1,4 @@
+--game: Toy Kingdom 3
+
+addappid(1798470)
+addappid(1798471,0,"7bd98347da284976cae47fd8fef4979e4f395634eb0670b75ab716dc182cb66c")
