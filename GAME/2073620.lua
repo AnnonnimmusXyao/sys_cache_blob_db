@@ -1,0 +1,4 @@
+--game: Arena Breakout: Infinite
+
+addappid(2073620)
+addappid(2073622,0,"154ad2895e0508329860b5e2cdf50583b1708ce1a37767731393bf2f62bf5560")
