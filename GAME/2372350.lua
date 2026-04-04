@@ -1,0 +1,6 @@
+--game: 巴哈姆特2外傳-來戰吧(Bahamut2-Come on,Fight)
+
+addappid(2372350)
+addappid(2372351,0,"de337a8343356025d39d48862c82ef03164344c8168ee60359f9211c6bec0c1d")
+addappid(2372352,0,"98cca52b818d1b51fa88cb3d6e64eee70c03b835f4d31018993790f5c60e603a")
+addappid(2650420)
