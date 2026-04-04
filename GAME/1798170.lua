@@ -1,0 +1,4 @@
+--game: Tether
+
+addappid(1798170)
+addappid(1798171,0,"e5367fd0510e42d4e9b8893810d7ddb04016beca6391d75556bdd027429b3dda")
