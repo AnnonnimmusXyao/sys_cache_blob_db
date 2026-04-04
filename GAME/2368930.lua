@@ -1,0 +1,5 @@
+--game: ISLANDERS: New Shores
+
+addappid(2368930)
+addappid(2368931,0,"924f9db27c7400a1185ba793bbd54719c53dd4c3e1e55aaeb340ab7a34bfd73f")
+addappid(3508640)
