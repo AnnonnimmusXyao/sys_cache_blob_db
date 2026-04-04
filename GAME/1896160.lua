@@ -1,0 +1,5 @@
+--game: Warplan Pacific
+
+addappid(1896160)
+addappid(229006)
+addappid(1896162,0,"bfa47df3cae8df9ae45d28e016283cc236f38c36c624e2bebfa340250b5d6d21")
