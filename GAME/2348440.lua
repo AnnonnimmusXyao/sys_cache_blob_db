@@ -1,0 +1,4 @@
+--game: Dangerous Land
+
+addappid(2348440)
+addappid(2348441,0,"3d4e30d1537ede3312e50eac294cfde8ddb5e5dccb84e5ab23cb607aaae36360")
