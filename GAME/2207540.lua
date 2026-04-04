@@ -1,0 +1,4 @@
+--game: 时间切片：序章 Pages of Time: Prologue
+
+addappid(2207540)
+addappid(2207541,0,"152550418462087eba99f3e8557729e1cf40074724a2f8c4ec26a9c3de9557d6")
