@@ -1,0 +1,4 @@
+--game: SenS
+
+addappid(1966170)
+addappid(1966172,0,"db744f594ab61b8875b922c739d9b17b81f93059b8ad6c82b5e01bb85991faf2")
