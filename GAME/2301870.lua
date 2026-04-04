@@ -1,0 +1,4 @@
+--game: 星空骑士
+
+addappid(2301870)
+addappid(2301871,0,"78b32e2f288af6561d0aeed5cae0900ac32b34edc640f48ccbe891b55cbd2779")
