@@ -1,0 +1,4 @@
+--game: Hentai Pussy 5
+
+addappid(2226890)
+addappid(2226891,0,"169a48734c9e23a64a935fcdd6b144d654926709b3036bfa8ea168ffe511d752")
