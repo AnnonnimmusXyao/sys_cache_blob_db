@@ -1,0 +1,4 @@
+--game: LastOneStanding
+
+addappid(2499950)
+addappid(2499951,0,"bc87fd39505faf2e23b9a6f0d3bea83c34bed629c1a6d1483e554aea10f88f62")
