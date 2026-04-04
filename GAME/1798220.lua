@@ -1,0 +1,4 @@
+--game: Adult Puzzles - Hentai Halloween
+
+addappid(1798220)
+addappid(1798221,0,"f9ab0cfadb2b753000a3d42e65da6435666536e08376e19d5cb9283a6a78e3d7")
