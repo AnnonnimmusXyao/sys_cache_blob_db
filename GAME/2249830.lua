@@ -1,0 +1,4 @@
+--game: 《奇门遁甲》
+
+addappid(2249830)
+addappid(2249831,0,"b3ddb5c0af434b9606f9a3803af38e2a20755e95d1e4748963cabaedb7e10e65")
