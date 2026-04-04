@@ -1,0 +1,4 @@
+--game: Dice Gambit
+
+addappid(1812860)
+addappid(1812861,0,"1393a9315219fb54f458be142d3a265a536bca12a182a6c9f700708302e27bd5")
