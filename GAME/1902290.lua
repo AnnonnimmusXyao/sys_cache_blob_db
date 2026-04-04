@@ -1,0 +1,4 @@
+--game: Run Away SkyDancer
+
+addappid(1902290)
+addappid(1902291,0,"3eb52f712d56b4dd59dea23c9275a36bee86d5fea600af9c2f4f4f191eeae75d")
