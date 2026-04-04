@@ -1,0 +1,4 @@
+--game: 虚空架构 Void Frame
+
+addappid(1808350)
+addappid(1808351,0,"93cc34da2c8fba559bb73097633328dffe4c9dd2c6c727ff370c6eb069341588")
