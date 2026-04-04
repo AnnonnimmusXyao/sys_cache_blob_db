@@ -1,0 +1,4 @@
+--game: Bubblegum Bandit
+
+addappid(2460680)
+addappid(2460681,0,"c8818a1055329108b5f4d044365a03093f2b1d35d43282e0eb340036cb6745b9")
