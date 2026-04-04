@@ -1,0 +1,4 @@
+--game: FAS: Fight Action Sandbox
+
+addappid(2302820)
+addappid(2302821,0,"3638e23c80071f23999d3ba0b7c317deb05567765d14a6944903fc877921f43f")
