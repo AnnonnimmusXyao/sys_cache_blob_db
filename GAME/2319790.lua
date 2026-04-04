@@ -1,0 +1,5 @@
+--game: Captain Wayne - Vacation Desperation
+
+addappid(2319790)
+addappid(2319791,0,"3a1f69fd013ffc978c79810d64ff3cc67ea729388a870c63f55b2c63268c4488")
+addappid(4212320)
