@@ -1,0 +1,4 @@
+--game: PolyFight
+
+addappid(2343170)
+addappid(2343171,0,"ce96684a40d79a502158061393c7ddf47adf536482c634eb5067b5386cf4c6d3")
