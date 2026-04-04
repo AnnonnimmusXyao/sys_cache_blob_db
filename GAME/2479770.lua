@@ -1,0 +1,4 @@
+--game: Troublemaker 2: Beyond Dream
+
+addappid(2479770)
+addappid(2479771,0,"dc4cb2dfc50d303eed0a391a75e4f7151e5d6e0f0469f5c77ce93edb27fc797e")
