@@ -1,0 +1,4 @@
+--game: 超级公司
+
+addappid(1830280)
+addappid(1830281,0,"c034125212ee83e75d414a8e27ac2420cf5ef4df4ca419974998dc0e3243f0c3")
