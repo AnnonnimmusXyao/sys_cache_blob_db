@@ -1,0 +1,4 @@
+--game: Cybertrash STATYX
+
+addappid(2469130)
+addappid(2469131,0,"289d764fb0b939f20b539b7e113731287eeb85c3bd06605abe0cc911fd84bba1")
