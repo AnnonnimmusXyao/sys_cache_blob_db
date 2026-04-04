@@ -1,0 +1,4 @@
+--game: Fadry
+
+addappid(1848840)
+addappid(1848841,0,"1ab0b8371186321914fda9e8af453bc57387b7623f11ebd8e70297c1b5deb565")
