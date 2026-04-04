@@ -1,0 +1,4 @@
+--game: Doggo Garden Defense
+
+addappid(2368390)
+addappid(2368391,0,"55f888654f010cd394f1bcfd016cbf0e3915e07c3427e436b235c65fa5352d21")
