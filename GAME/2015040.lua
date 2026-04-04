@@ -1,0 +1,4 @@
+--game: Ignited Steel: Prologue
+
+addappid(2015040)
+addappid(2015041,0,"48dd770019427f6967a441f33a097770f266bdd4c33fca88ffbcc72c422767e6")
