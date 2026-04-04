@@ -1,0 +1,6 @@
+--game: WANDERER: Broken Bed
+
+addappid(2485860)
+addappid(2485861,0,"66b12e9f1260ad7cd3176fc37b1a2446c8a41cb94f29fbdbb857818df9151d53")
+addappid(2814140)
+addappid(2814150)
