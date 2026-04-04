@@ -1,0 +1,4 @@
+--game: PSI Masquerade
+
+addappid(2003240)
+addappid(2003241,0,"fa6acd3334764b4c1f3321098048c8dc067bbb12c11ec22ebb3d7848fcebf9c8")
