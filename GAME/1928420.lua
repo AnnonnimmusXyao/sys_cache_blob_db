@@ -1,0 +1,4 @@
+--game: Farlight 84
+
+addappid(1928420)
+addappid(1928421,0,"1b831225fde5b44f7f354180183f732b4feb59c016faa3362e792bf9d455b294")
