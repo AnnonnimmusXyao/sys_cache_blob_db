@@ -1,0 +1,4 @@
+--game: Stickit
+
+addappid(1828900)
+addappid(1828901,0,"900ffb2c009eec83619e9a9848161f1f9f97f1a06a2503cd016d9f5cdd5e11a7")
