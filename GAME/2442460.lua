@@ -1,0 +1,5 @@
+--game: Citizen Sleeper 2: Starward Vector
+
+addappid(2442460)
+addappid(2442462,0,"d7edcb7820b1b5c1dd8d0e432df52666f204fd961ee1df803cc12ec644b176c0")
+addappid(3415120,0,"09fc88ea87d3aec72c058ead2fd779aa0bd24c736b29f183356488b7eee17fce")
