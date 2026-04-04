@@ -1,0 +1,4 @@
+--game: Vaccine Delivery Adventure
+
+addappid(1855750)
+addappid(1855751,0,"88f84d29a9dbda8bf9ff5f05e89d7b8ae411ac5e3e5c7f943b48fc978846c0ed")
