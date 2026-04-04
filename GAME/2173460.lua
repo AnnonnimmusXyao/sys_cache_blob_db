@@ -1,0 +1,4 @@
+--game: Echoes of the Living
+
+addappid(2173460)
+addappid(2173463,0,"12c1c726e7809567efad86b441ad93c58f64a159ecfb67748f301f11b29a00f2")
