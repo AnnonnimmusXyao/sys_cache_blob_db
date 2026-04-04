@@ -1,0 +1,4 @@
+--game: House Builder VR
+
+addappid(2052760)
+addappid(2052761,0,"ef5f15d91ba6f04e12d405f6e4e6a5dace9b9bdc6abe30b6c21d3d30c1e8bc52")
