@@ -1,0 +1,4 @@
+--game: Death Scourges
+
+addappid(2198250)
+addappid(2198251,0,"12deaf57e92e0a0169662c2a1dda39e6bdf7edc5b83e968a0e2890c0db46606e")
