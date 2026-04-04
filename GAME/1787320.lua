@@ -1,0 +1,4 @@
+--game: The Atlas Mystery: A VR Puzzle Game
+
+addappid(1787320)
+addappid(1787321,0,"d9dd7cf9446c9dcd568521b0f213c28346a1f0ab3680a2b876da97ceed50d05d")
