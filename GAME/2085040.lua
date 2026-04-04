@@ -1,0 +1,4 @@
+--game: ToriDori
+
+addappid(2085040)
+addappid(2085041,0,"8045fb8fa00df8d70a2b3de8c829a1e8a20cc22a4f9e9035bae6b24a6296d1ed")
