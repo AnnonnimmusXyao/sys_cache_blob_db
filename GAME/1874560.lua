@@ -1,0 +1,4 @@
+--game: Infinadeck Medieval Maze
+
+addappid(1874560)
+addappid(1874561,0,"531cced9777e1306ea0c7946a1f72850d3e4facf30af01757ae9ab1f58db9cc0")
