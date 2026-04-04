@@ -1,0 +1,4 @@
+--game: Civilization Simulator
+
+addappid(1887190)
+addappid(1887191,0,"5b1bc09a7fd69a47fb41db534c376341d316d4bd9cb660bf1cbed3168e296f5b")
