@@ -1,0 +1,4 @@
+--game: Tiny Robo Puzzles
+
+addappid(2005150)
+addappid(2005151,0,"57fa6d3f019252352aeef37cbcacd53d24ba6b46d3683dd09d57aea5fa13556b")
