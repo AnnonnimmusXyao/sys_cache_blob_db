@@ -1,0 +1,4 @@
+--game: Ars Notoria
+
+addappid(2074620)
+addappid(2074621,0,"529c2a7535d30c37a589b2450ee0007e41ac5b8ac66f44a3cbeadff73f37db2f")
