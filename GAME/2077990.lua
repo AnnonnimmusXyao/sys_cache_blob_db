@@ -1,0 +1,4 @@
+--game: Junkyard Fury 2
+
+addappid(2077990)
+addappid(2077991,0,"e6c8102fc0556e325128fe578208e439444b7d82f4db75680dc4f2c45bd69d9b")
