@@ -1,0 +1,4 @@
+--game: Bubble hunt
+
+addappid(1790860)
+addappid(1790861,0,"8faaaf3363baa3016d7ae030e933902891daca1ac92cb46bc0cef471142f6ebc")
