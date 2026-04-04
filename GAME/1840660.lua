@@ -1,0 +1,4 @@
+--game: Mad Adventures
+
+addappid(1840660)
+addappid(1840661,0,"ae6ac9b3fe8d55d5cddb2d67206808bb126ccaa4289f5058a4057e41fad723ea")
