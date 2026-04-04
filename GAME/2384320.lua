@@ -1,0 +1,4 @@
+--game: The Goblins are Coming
+
+addappid(2384320)
+addappid(2384321,0,"457f3ff9944e549d14ac6967099f48e0a3e6a76b17a57c632f6480c255667135")
