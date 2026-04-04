@@ -1,0 +1,4 @@
+--game: Mana Chess
+
+addappid(1911640)
+addappid(1911641,0,"216544496ffb36e50cb065e89d6eed66165698372621e011dabbbe692b84bc62")
