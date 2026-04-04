@@ -1,0 +1,4 @@
+--game: Jigsaw Puzzle Best Places
+
+addappid(2208070)
+addappid(2208071,0,"d52f942c6887325c22f3f719185a81853b201c1b265785cce3eadf04d83442a7")
