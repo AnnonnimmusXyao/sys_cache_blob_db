@@ -1,0 +1,4 @@
+--game: Umichan Two Scoops
+
+addappid(2247550)
+addappid(2247551,0,"228b04e0db34cb1de12fb8f6c6c4242cd4a8841e6712fb5efff97c33a43a23e8")
