@@ -1,0 +1,4 @@
+--game: Momo Mother Bird: Final Story
+
+addappid(2067000)
+addappid(2067001,0,"ea71c0c6e6296b07415813d16d10bc1123d0a9861ea879b897a715b7ec6832d9")
