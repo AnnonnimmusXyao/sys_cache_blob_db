@@ -1,0 +1,11 @@
+--game: Combat Mission Battle for Normandy
+
+addappid(229006)
+addappid(2297010)
+addappid(2297011,0,"30c3306f3cecd67e224dfa07d80db0e263ecbb2b639728c43a5f108e4e657896")
+addappid(2297012,0,"6c028f4d6aef4e86f22ec33d4b831d084dce349a1fd623f364f572838a791082")
+addappid(2298410)
+addappid(2298411)
+addappid(2298412)
+addappid(2298413)
+addappid(2971350)
