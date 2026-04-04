@@ -1,0 +1,5 @@
+--game: Escape the Unknown: Awaken the Realm
+
+addappid(2327710)
+addappid(2327711,0,"b680277ed01a766d8c487e5af921536f067000acb87cc2d0108bcf23fa7783e1")
+addappid(2327712,0,"654ab5714dc21ce1e563ffd73501650ad498f403a7a6d91c3db1ea02613e99da")
