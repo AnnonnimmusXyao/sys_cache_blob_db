@@ -1,0 +1,5 @@
+--game: J-Jump Arena
+
+addappid(1949970)
+addappid(1949971,0,"cc0d36f870e4d2843dba34e2128bc6debebd0801fd2b43a401dea60bdc1a8aa4")
+addappid(2401760)
