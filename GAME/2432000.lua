@@ -1,0 +1,4 @@
+--game: Inside the Labs
+
+addappid(2432000)
+addappid(2432001,0,"8ce2fb839191aba193a6ee10513e8245ac4e08140822990268167ef78cd1cdd4")
