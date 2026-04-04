@@ -1,0 +1,4 @@
+--game: Lost In The Space
+
+addappid(1924050)
+addappid(1924051,0,"65a79d6e3416c4967d8bb0ff2a7e232c0e9951a7e93ed8007acbeae810e5a0b6")
