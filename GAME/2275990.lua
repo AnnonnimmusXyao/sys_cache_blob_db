@@ -1,0 +1,4 @@
+--game: Midnight彌奈
+
+addappid(2275990)
+addappid(2275991,0,"a5c05cab9bcd61b2cad3df44551c7bec293217854ec7daaa525f6d16577370be")
