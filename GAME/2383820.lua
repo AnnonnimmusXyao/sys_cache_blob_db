@@ -1,0 +1,4 @@
+--game: Super 10 Pin
+
+addappid(2383820)
+addappid(2383821,0,"458464cbb4ab7d68fb76cf017ccdf129971a04402c95447de1775a521eaace2e")
