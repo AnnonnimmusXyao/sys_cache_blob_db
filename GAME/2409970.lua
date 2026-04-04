@@ -1,0 +1,4 @@
+--game: Sex Simulator - The Beach House
+
+addappid(2409970)
+addappid(2409971,0,"e9c4417bae20070b4cbacd8f9c203fd9a30f5d149a561a65672b891358cf30c0")
