@@ -1,0 +1,5 @@
+--game: Boxed Tower: Actual Tower Defense
+
+addappid(2396830)
+addappid(2396831,0,"90ee722c7c5c647028bf648969534aa2e194118a91aa58ea0b3fa27358aa429b")
+addappid(2396832,0,"4aca4ab38b857d0f8f870116deb7ed17a57d3061cd8f2a20722e601a5ed07ca2")
