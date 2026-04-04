@@ -1,0 +1,4 @@
+--game: Monster Souls: Chains of Chimera
+
+addappid(2432930)
+addappid(2432931,0,"f4d09423c9715e1af1d733d8b7c11400bc513fea4671410abf8ea783423e4fb3")
