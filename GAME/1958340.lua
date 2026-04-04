@@ -1,0 +1,4 @@
+--game: Cube Chaos
+
+addappid(1958340)
+addappid(1958341,0,"fe299ec04331e8d79d96236840bdfb7f68d5bfdcd56f294d95277db13b3bbd08")
