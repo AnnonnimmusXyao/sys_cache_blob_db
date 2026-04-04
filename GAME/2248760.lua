@@ -1,0 +1,6 @@
+--game: Car For Sale Simulator 2023
+
+addappid(2248760)
+addappid(2248761,0,"7e322b4c38775f33754204b8cb08844982412cd9d4b140906cfff0047a9b2843")
+addappid(2679810)
+addappid(3400430)
