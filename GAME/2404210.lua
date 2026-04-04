@@ -1,0 +1,4 @@
+--game: RedRaptor
+
+addappid(2404210)
+addappid(2404211,0,"59d02f48911a6ef05482ea3f4ebbef39897acb53ee808067605cc8f4d614ca8f")
