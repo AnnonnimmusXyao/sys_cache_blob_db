@@ -1,0 +1,4 @@
+--game: Tiny Lands 2
+
+addappid(2213330)
+addappid(2213331,0,"37c15dc8f4ff6a84bd8f49dbcdb9bbc75251110e6cebd25c741fc1a93532de43")
