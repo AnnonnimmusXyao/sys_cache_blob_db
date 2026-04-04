@@ -1,0 +1,4 @@
+--game: Inner Call
+
+addappid(2167840)
+addappid(2167841,0,"f8d0a75403c4fcda50bc3fb73f4570fd734251929b2ad791b375ac6f52ab8c97")
