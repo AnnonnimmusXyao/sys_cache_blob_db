@@ -1,0 +1,4 @@
+--game: Futanari Sex - Naughty Visit
+
+addappid(2232790)
+addappid(2232791,0,"34f88b465093246754a113d9b82e83e54545f9e67c48026cd676d1c42207028b")
