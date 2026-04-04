@@ -1,0 +1,4 @@
+--game: Mysterious Place
+
+addappid(2458840)
+addappid(2458841,0,"30f0aab74f38595a605906229538ba245da3870fa68b7d5283f2321e98b123cd")
