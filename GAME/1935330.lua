@@ -1,0 +1,4 @@
+--game: SOPA - Tale of the Stolen Potato
+
+addappid(1935330)
+addappid(1935331,0,"22e384213a619f10645da6428c611dd5a8d2893dc4763df24ee44f6bad051a87")
