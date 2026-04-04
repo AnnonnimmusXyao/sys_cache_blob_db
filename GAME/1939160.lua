@@ -1,0 +1,4 @@
+--game: Shadows Over Loathing
+
+addappid(1939160)
+addappid(1939162,0,"87b35d1851cb833a062b542380412362da7d34c0a0506c5490bd5426b1b8f870")
