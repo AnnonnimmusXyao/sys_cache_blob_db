@@ -1,0 +1,4 @@
+--game: Trials Of Randoom
+
+addappid(2435410)
+addappid(2435411,0,"f029e46c0798591387ab0bf2228c8b2c0a63fadd0a52bb2f437b48903da210a7")
