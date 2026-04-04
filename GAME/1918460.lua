@@ -1,0 +1,4 @@
+--game: Nagori Rokudo Striving to be her ideal self -The inexperienced love life of a hard-to-get psychology lecturer-
+
+addappid(1918460)
+addappid(1918461,0,"1C415F85F24A423F4E62BC58A4335416850430C49A5303DAE7284C3B5370DD40")
