@@ -1,0 +1,4 @@
+--game: Alien worm
+
+addappid(1790700)
+addappid(1790701,0,"8c4951119312b20edefa7cd2da5fa14a74d19321b8b7ebec6d8583f6d49b19c7")
