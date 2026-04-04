@@ -1,0 +1,4 @@
+--game: Adventure Submarine Uss 101
+
+addappid(2011110)
+addappid(2011111,0,"147e4b82b71378d9666d1eae67ac04050b1be90e6674ba04dd2354b0f933a8d5")
