@@ -1,0 +1,4 @@
+--game: Tanky Tanks 2
+
+addappid(2241980)
+addappid(2241981,0,"4a639e652430fd4098db40535c64e5c42a0f3799c3804c888c45c0a8bee9f7a2")
