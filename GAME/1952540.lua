@@ -1,0 +1,4 @@
+--game: Voltaire: The Vegan Vampire
+
+addappid(1952540)
+addappid(1952541,0,"f40b2d0992432c41b00b90000130c94e8ca4962e36bd36864d2cb16dbc5dcb70")
