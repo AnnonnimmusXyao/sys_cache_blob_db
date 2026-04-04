@@ -1,0 +1,4 @@
+--game: Kitchen Crisis
+
+addappid(2118250)
+addappid(2118251,0,"79c941cb151b42630e085922176a1fa981ba1eda17ec406b4813f077c93facb5")
