@@ -1,0 +1,4 @@
+--game: SCP: Abhorrent
+
+addappid(1884750)
+addappid(1884751,0,"a78fe58413c3d94e96d604de4a5a4a92956fdf06c8156ad3c232a1d383420f8b")
