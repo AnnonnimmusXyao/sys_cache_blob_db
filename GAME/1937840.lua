@@ -1,0 +1,4 @@
+--game: Stargazing: Genesis
+
+addappid(1937840)
+addappid(1937841,0,"5a076f55d885c4e767dc4828c9eba6784d7efb22db3a940994977bd68f4245b7")
