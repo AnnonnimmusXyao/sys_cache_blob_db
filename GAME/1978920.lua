@@ -1,0 +1,4 @@
+--game: Bean Story
+
+addappid(1978920)
+addappid(1978921,0,"11d65a22309cdbbefc496a760be5a4e2e85ddc71dfd8a7f267a05388ebec4926")
