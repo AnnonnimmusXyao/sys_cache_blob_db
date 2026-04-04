@@ -1,0 +1,4 @@
+--game: Pet Vet 3D Animal hospital Down Under
+
+addappid(1921500)
+addappid(1921501,0,"839be20c280684452a19356a760c7fafa4f7c2579ec595e1d91fcf64dc266211")
