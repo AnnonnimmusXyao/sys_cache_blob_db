@@ -1,0 +1,4 @@
+--game: Traveler
+
+addappid(2184270)
+addappid(2184273,0,"e73227fc562b8a0e919debb8552014188dc3eaae7b83af1c1571858254264854")
