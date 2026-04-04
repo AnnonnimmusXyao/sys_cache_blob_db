@@ -1,0 +1,9 @@
+--game: Let's Play! Oink Games
+
+addappid(1933490)
+addappid(1933491,0,"c9585fd63e83c035e240df83f62e282c4568b4770802932f7fceec83c4d632c8")
+addappid(2095240)
+addappid(2259010)
+addappid(2373820)
+addappid(2391220)
+addappid(2472980)
