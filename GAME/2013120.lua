@@ -1,0 +1,4 @@
+--game: 1997
+
+addappid(2013120)
+addappid(2013121,0,"49821699aa95693a715960e6c0f1e1dd70fa4b8fce48f260dc958fcfe73cd003")
