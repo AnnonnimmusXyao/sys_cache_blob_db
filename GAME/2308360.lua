@@ -1,0 +1,4 @@
+--game: Sun Down Survivors
+
+addappid(2308360)
+addappid(2308361,0,"af2432fdad2952362f14d1886ea39fcf5b8d9a7c5d8c2c52ba6cf61ffcc5d770")
