@@ -1,0 +1,4 @@
+--game: 哀哭竜のメモリア
+
+addappid(2499210)
+addappid(2499211,0,"29ae41e0e106466569f5a84b5e22086b8f70fbddb2c809dcdbebe2e88683100d")
