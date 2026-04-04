@@ -1,0 +1,4 @@
+--game: LIP! Lewd Idol Project Vol. 2 - Hot Springs and Beach Episodes
+
+addappid(2325570)
+addappid(2325571,0,"e07c324e18f8d5e884fabf9b1e975bcb0bc05675cade2c0a256afba507057574")
