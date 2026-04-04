@@ -1,0 +1,4 @@
+--game: Hidden Dungeon Top-Down 3D
+
+addappid(2182850)
+addappid(2182851,0,"de38c0612d46ee8132b181b2bd6844403882091ccc9d58e91385a856e1fb1923")
