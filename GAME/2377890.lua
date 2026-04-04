@@ -1,0 +1,4 @@
+--game: Windwalker
+
+addappid(2377890)
+addappid(2377891,0,"e600bb26e0caee6d18bb093e54eb89846cdabbc78df87a59872325ad5b14dcdd")
