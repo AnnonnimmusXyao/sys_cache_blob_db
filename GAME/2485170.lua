@@ -1,0 +1,4 @@
+--game: 凶星：歼灭 (Vicious Star : Kill All)
+
+addappid(2485170)
+addappid(2485171,0,"9dece275644c4d74b2ccf1256fa08160f7faaad36bf56f2999ae5affecf08cb5")
