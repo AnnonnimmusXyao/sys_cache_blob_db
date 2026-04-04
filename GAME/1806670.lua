@@ -1,0 +1,4 @@
+--game: Haunted House Escape: A VR Experience
+
+addappid(1806670)
+addappid(1806671,0,"54f2aced9dd3db88006bd18927f5906923aae4807de2f94f978acd6f259c811e")
