@@ -1,0 +1,4 @@
+--game: 禁忌星域
+
+addappid(2360100)
+addappid(2360101,0,"99c56b1c8ad5eb34524c74d5886292fb63557052a5f9a03a69bc372b82d3b353")
