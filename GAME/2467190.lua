@@ -1,0 +1,6 @@
+--game: 三國立志傳3
+
+addappid(2467190)
+addappid(2467191,0,"5e8d3bc7394e531aeb2c231aaf081322ddbd6590ea0dbcd316dbe7e4644c3d9a")
+addappid(2467192,0,"567559decfaa48fed030313ce6d80c8b95e3624e38ad505c52efa231348298e4")
+addappid(2477880)
