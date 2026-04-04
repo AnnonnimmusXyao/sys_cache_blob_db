@@ -1,0 +1,4 @@
+--game: Divine Adventure RPG
+
+addappid(2155750)
+addappid(2155751,0,"93e812b4c1856bb07e41abd7cb30aed62bda173cb0ffeb565072356594ffe03c")
