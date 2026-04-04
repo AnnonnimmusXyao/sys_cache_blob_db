@@ -1,0 +1,4 @@
+--game: Refraction: Beyond the Mirror
+
+addappid(1846480)
+addappid(1846482,0,"2c904c17999a1ee313f9f1dcca808429eae2d563241dbfdedc32d353f116963c")
