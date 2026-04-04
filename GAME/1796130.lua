@@ -1,0 +1,4 @@
+--game: Scare: Project of Fear
+
+addappid(1796130)
+addappid(1796131,0,"560c0a6bbed9133f46befe8a29bc0e3749f87367e99adefc0acab67b98b046bf")
