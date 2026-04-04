@@ -1,0 +1,5 @@
+--game: 修理行 Dullpain
+
+addappid(1954520)
+addappid(1954521,0,"15cda46e2b100be63ec195d3fd25b1a9d3ccf04679c1b0e78e089a2d7222ce56")
+addappid(2513390)
