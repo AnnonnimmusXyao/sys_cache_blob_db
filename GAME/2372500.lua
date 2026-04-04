@@ -1,0 +1,4 @@
+--game: Trolley Delayma
+
+addappid(2372500)
+addappid(2372502,0,"68104ee2d4d662d722ce5960454ec5712346589d14b62dd71c09919de99cbad6")
