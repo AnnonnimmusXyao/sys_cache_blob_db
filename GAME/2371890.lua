@@ -1,0 +1,4 @@
+--game: Chronicles of the Wolf
+
+addappid(2371890)
+addappid(2371891,0,"6c815221d8d9cfee2f7049bb20c038fa503207a88f68e512ff829f0fc052bbaa")
