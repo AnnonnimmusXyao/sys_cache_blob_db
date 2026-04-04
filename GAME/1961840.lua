@@ -1,0 +1,4 @@
+--game: Lunatia Covenant -Pale White Agent-
+
+addappid(1961840)
+addappid(1961841,0,"9f2df94ce8cc2708a6702f35c9ff3b0e8e7486e318e02469865d654efe09f234")
