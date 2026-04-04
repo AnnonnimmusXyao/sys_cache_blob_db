@@ -1,0 +1,4 @@
+--game: Dogs Day
+
+addappid(2306480)
+addappid(2306481,0,"48efd0fa7739290808537ba1759285cb175763a351d928abbfd64f0774cf533b")
