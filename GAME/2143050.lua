@@ -1,0 +1,4 @@
+--game: 交界线 Red Line
+
+addappid(2143050)
+addappid(2143051,0,"006d5e324d2494285a556f0a57d9d61469d47328bcafeb8a2af41e1d5189f2ff")
