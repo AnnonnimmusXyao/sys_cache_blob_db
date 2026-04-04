@@ -1,0 +1,5 @@
+--game: Trapped with Jester
+
+addappid(2160000)
+addappid(2160002,0,"48637eabb49f2e0ebafe4d4a13cd243f045fcd2b6b5d60a72f8f8aca404b80af")
+addappid(2171990)
