@@ -1,0 +1,5 @@
+--game: Ninza
+
+addappid(2187320)
+addappid(2187321,0,"8e77cc24a078c9c8bf2b26450c25421e3e3ef4c793ec67c36f7ad4cb330dc2b5")
+addappid(2996870)
