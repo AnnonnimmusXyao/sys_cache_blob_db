@@ -1,0 +1,4 @@
+--game: Sugarcane Empire
+
+addappid(1859030)
+addappid(1859031,0,"2e77e3f46f6285b9bc85a0a24681ff19bcbb81edb8580da6620f19d189993e43")
