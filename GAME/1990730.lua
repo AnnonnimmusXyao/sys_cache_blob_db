@@ -1,0 +1,4 @@
+--game: Pylorus - Footsteps of Greed
+
+addappid(1990730)
+addappid(1990731,0,"d387d87bdda800194db3ec53498f4c173f0132838909c3b1dc64bbf8e3eabcab")
