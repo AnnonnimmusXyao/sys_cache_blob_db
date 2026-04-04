@@ -1,0 +1,4 @@
+--game: The Golden Eyed Ghosts
+
+addappid(1950930)
+addappid(1950931,0,"892f647aa21cec56baafde34458ce4e5c2f5a448e75596cef1a1145236215f0a")
