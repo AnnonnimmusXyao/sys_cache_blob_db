@@ -1,0 +1,4 @@
+--game: Foster: Ghost Child | 養小鬼
+
+addappid(2072890)
+addappid(2072891,0,"96f9dfc236e855f658ec1e171d53e6df11b24fbfde99db16dfe1877fb11351e2")
