@@ -1,0 +1,5 @@
+--game: Golden Axe Idol
+
+addappid(1827950)
+addappid(1827955,0,"fb8fdece2f77b0d69b7aa7eaaf147c6457ede4308c29f1bf768cb7da9b453e44")
+addappid(1827953,0,"fd02369feea476506b053d2bec39c02ddf72260914940831f8da225ae341d303")
