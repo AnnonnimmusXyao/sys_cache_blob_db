@@ -1,0 +1,4 @@
+--game: 血色病院 | Blood Hospital
+
+addappid(2015610)
+addappid(2015611,0,"44507ad15f132d1cf75249bf60072c6a28275656c372a2ec2d9e3cc2a79ae388")
