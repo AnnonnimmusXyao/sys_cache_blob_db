@@ -1,0 +1,4 @@
+--game: 航海紛爭
+
+addappid(2186000)
+addappid(2186001,0,"ccb5d0e3ae5f2269a04fcc19c785e276cb434a058fe08088582e11fa91332158")
