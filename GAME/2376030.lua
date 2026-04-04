@@ -1,0 +1,4 @@
+--game: Minor Scale
+
+addappid(2376030)
+addappid(2376031,0,"0875b42b58a76bbe08d70d7d21c0dee49240823726ba0607656678530d366c5c")
