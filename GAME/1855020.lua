@@ -1,0 +1,4 @@
+--game: Freeze the time
+
+addappid(1855020)
+addappid(1855021,0,"d559a6afb468c1fcd6737e5964644537cfbdf0810894c35b325dce0979f94f1e")
