@@ -1,0 +1,4 @@
+--game: Forbidden City Journey
+
+addappid(2201880)
+addappid(2201882,0,"03f7da5476d8b4035f914d568b93cd22ac9389ff4757ecc4e02f4a206e4f3ec6")
