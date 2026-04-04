@@ -1,0 +1,4 @@
+--game: Hands Of Gold
+
+addappid(2304710)
+addappid(2304711,0,"5a69eb950f70d1fbf17e615995e74f09c2b9357ee946ef6b44dd4d02bbb03b24")
