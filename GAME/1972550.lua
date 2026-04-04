@@ -1,0 +1,4 @@
+--game: 欲望乐园
+
+addappid(1972550)
+addappid(1972551,0,"b05a906f56fdb18a7c720416bb76096bf296fc509c6ad5d650701b27ed90eb3d")
