@@ -1,0 +1,4 @@
+--game: Slap Fight
+
+addappid(2022980)
+addappid(2022981,0,"9613575fd4847a878447be0690d8133add5235a313f625c8384f0bf0b5a623ae")
