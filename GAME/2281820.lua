@@ -1,0 +1,4 @@
+--game: Evolings
+
+addappid(2281820)
+addappid(2281821,0,"d54347e07c562c7ba1b5cef0e354a68dce04e3148630dc64d2a804ab50111450")
