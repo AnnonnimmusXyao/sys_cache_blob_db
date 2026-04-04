@@ -1,0 +1,5 @@
+--game: Journey to the Rift
+
+addappid(2301400)
+addappid(2301401,0,"cf5e6b5ce37251445f21a4b521125f7df984bea496585db6c11f679fb08a0b1d")
+addappid(2301402,0,"b958e4bc0eca98b804bcdb5e8e28da5949cc882ab9f543878399e93dd7f7da63")
