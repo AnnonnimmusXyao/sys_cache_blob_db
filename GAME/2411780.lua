@@ -1,0 +1,4 @@
+--game: Blood On The Dusty Trail
+
+addappid(2411780)
+addappid(2411781,0,"30b88b83b88173455a831e446e2e4d309ff59ec3a66df485a6317204bc2842d0")
