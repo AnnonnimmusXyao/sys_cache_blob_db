@@ -1,0 +1,5 @@
+--game: Neon Blood
+
+addappid(2067310)
+addappid(2067311,0,"250ca541652dc67026fe0060efa93ad7cafce6a026c62aca851a85902771c927")
+addappid(3576480)
