@@ -1,0 +1,4 @@
+--game: Citizens: Far Lands - Prologue
+
+addappid(2182110)
+addappid(2182111,0,"2b4beffc2ec324f3f03d06f40cfcae69a626a20e45678ab2dab48be6201498eb")
