@@ -1,0 +1,6 @@
+--game: 索罗灵魂之戒
+
+addappid(1917630)
+addappid(1917631,0,"3c0369f0bd428fa34988259a396b23d2c3aa9973bc07c0fa7d10d79acfb96950")
+addappid(1923950)
+addappid(1930820)
