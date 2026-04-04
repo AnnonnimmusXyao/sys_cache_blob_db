@@ -1,0 +1,4 @@
+--game: AI Roguelite
+
+addappid(1889620)
+addappid(1889621,0,"e2d9736a341777e7b0a4b59f907560a5af408413627f921d1ac8c02b9c3b2eb4")
