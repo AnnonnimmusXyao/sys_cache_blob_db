@@ -1,0 +1,4 @@
+--game: The Castle Burns!
+
+addappid(2302960)
+addappid(2302961,0,"71cee0c1272a88d7ef33f19ae8ce8bf36f522ebd1c2714b92f275b5a1d485d22")
