@@ -1,0 +1,4 @@
+--game: Rain Ruin
+
+addappid(1988030)
+addappid(1988031,0,"dff6a2b6dd8318fbe60e625853160de2c5d7fd3240aafbdf223b338ce3891f0b")
