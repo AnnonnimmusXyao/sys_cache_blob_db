@@ -1,0 +1,4 @@
+--game: NFL Pro Era II
+
+addappid(2313930)
+addappid(2313931,0,"c28f8169b9278c23f3c84c5d3f48067f6529729a1d4fece8aca59fca9efd57bb")
