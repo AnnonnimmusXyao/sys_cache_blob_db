@@ -1,0 +1,5 @@
+--game: A NOT Troll Game
+
+addappid(2487640)
+addappid(2487641,0,"a6ab0882d124a3a03efe7df089fd3b12e315d36e14ca04b0a84f18842dbd39b2")
+addappid(2487642,0,"3b120ae2e8dbd58067c266e013bfe6352f961a817cfb76ae4f42fb24a4d36fdc")
