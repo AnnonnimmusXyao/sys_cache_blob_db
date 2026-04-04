@@ -1,0 +1,4 @@
+--game: Backrooms: The Hunt
+
+addappid(2409100)
+addappid(2409101,0,"0f03e91ccdc8077c44e9c35549aba64217eb633afb3b6e80d8d7367d2fcf4451")
