@@ -1,0 +1,4 @@
+--game: Long
+
+addappid(2426370)
+addappid(2426371,0,"5e3210b3a317fff35bfa0efbaba0e1d738dff82884f1f2ca191100aa1bb47a0a")
