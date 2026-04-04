@@ -1,0 +1,4 @@
+--game: 先端恐怖症
+
+addappid(2394740)
+addappid(2394741,0,"95d3cef263f8f07bbf8c9fd847331b2ce6ae24622f262b69372e11626b7fc19d")
