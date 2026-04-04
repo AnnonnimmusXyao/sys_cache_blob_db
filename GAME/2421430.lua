@@ -1,0 +1,4 @@
+--game: War For Galaxy: New Era
+
+addappid(2421430)
+addappid(2421431,0,"f2a3a9d64b881b1e5272b2c5978852862f7fda506957a773bce538f92ff6c92e")
