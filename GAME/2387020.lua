@@ -1,0 +1,4 @@
+--game: Winter Stealth
+
+addappid(2387020)
+addappid(2387021,0,"dfd7c6e7488d84dfe5c573b4cfd99f67610ba8d4bc1050b2e9b2389fe4308dab")
