@@ -1,0 +1,4 @@
+--game: Barold: Inferno
+
+addappid(2213430)
+addappid(2213431,0,"31d253492e939fc3118c611cdafe29114ea6550dcb5ce01ae843f7a7b338359f")
