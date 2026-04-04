@@ -1,0 +1,4 @@
+--game: Nelson and the Magic Cauldron: The Journey
+
+addappid(1816650)
+addappid(1816651,0,"5853e53bbaa141e59cc7d581f5cf9ebe189daedd9af432949481f50737bd01db")
