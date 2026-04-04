@@ -1,0 +1,4 @@
+--game: Savage Turret
+
+addappid(2146050)
+addappid(2146052,0,"9d50d372755dcb0422a49802e1f75412cc95dc623e8cdaa803ea5c83ffdbde64")
