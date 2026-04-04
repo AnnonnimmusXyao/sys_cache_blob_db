@@ -1,0 +1,5 @@
+--game: Toilet Chronicles
+
+addappid(1946550)
+addappid(1946551,0,"902669332361615d69899c1cc9e97a10b0a0c43491205cd2ed671b48bced4a81")
+addappid(2202610)
