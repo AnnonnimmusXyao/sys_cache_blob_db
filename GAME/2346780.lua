@@ -1,0 +1,4 @@
+--game: ALL IN THE GAME: Crime Strategy
+
+addappid(2346780)
+addappid(2346781,0,"b608be8a073d4d9b7cafd5037c60df9732ae92c5343315cff15e60eafdc0d82c")
