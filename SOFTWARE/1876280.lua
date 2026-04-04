@@ -1,0 +1,4 @@
+--game: PAIcom (furry computer assistant)
+
+addappid(1876280)
+addappid(1876281,0,"9f621b72ec9acd8e4b4b90c758f29616fc233c781ea46d175a3672c41c65147a")
