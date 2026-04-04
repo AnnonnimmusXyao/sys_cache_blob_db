@@ -1,0 +1,4 @@
+--game: Sugar Tanks
+
+addappid(2241970)
+addappid(2241971,0,"ac44ed3cac938a955d080899c591caa259ea79404612d465d4caf28c5825f8ff")
