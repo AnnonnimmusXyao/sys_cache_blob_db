@@ -1,0 +1,6 @@
+--game: 恋~一些小清新的猎奇故事~
+
+addappid(1849570)
+addappid(1849572,0,"2495c1a42b50376c637f370a1abcb3b0c891bf6cad365b3b7d38dd0ec4ab7b30")
+addappid(1909920)
+addappid(1909921)
