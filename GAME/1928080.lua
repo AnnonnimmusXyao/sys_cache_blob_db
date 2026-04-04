@@ -1,0 +1,5 @@
+--game: Prospector
+
+addappid(1928080)
+addappid(1928082,0,"69801bcc38926135f052c49ed4d230f0e3283790bbc4427a5327406e1386f551")
+addappid(3812350)
