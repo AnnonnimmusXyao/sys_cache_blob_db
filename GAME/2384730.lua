@@ -1,0 +1,4 @@
+--game: Beyond the Ice Palace 2
+
+addappid(2384730)
+addappid(2384732,0,"b2d1cccdc286021b1329be0374318889746aea5760d749ee71e991857e24abfe")
