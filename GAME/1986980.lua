@@ -1,0 +1,4 @@
+--game: The Legend of Chibi Ninja
+
+addappid(1986980)
+addappid(1986981,0,"6a7cadb34ad13cd403df0ca8e04b00857986a42cb19cbb349ab213d132212b89")
