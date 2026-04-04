@@ -1,0 +1,4 @@
+--game: Polygone
+
+addappid(2281200)
+addappid(2281201,0,"3171a1f4263f08da0d127605a0f5fcb84790828fad6c0e32bb6ac347b7772edf")
