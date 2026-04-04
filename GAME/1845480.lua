@@ -1,0 +1,5 @@
+--game: Connected Hearts: The Full Moon Curse Collector's Edition
+
+addappid(1845480)
+addappid(1845481,0,"1fbce50d3203836ffce353a77d4edd9ea8b88bf61d4990d0512ec2d19f030147")
+addappid(1845485,0,"8dafff02bda5814682c6b4aac6e99440bd8b2ebac821ac95d24bd5956a244703")
