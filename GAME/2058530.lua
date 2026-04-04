@@ -1,0 +1,4 @@
+--game: St. Yariman's Little Black Book ~Complete~
+
+addappid(2058530)
+addappid(2058531,0,"9fe5eae2f846b6b53829d8aa1c6dcae916566c15d364328c78c7bf3f1b3aae0e")
