@@ -1,0 +1,5 @@
+--game: Ultimate Anime Jigsaw Puzzle
+
+addappid(2319370)
+addappid(2319371,0,"b2797778b432df9477d64841d4b29004a227b07e96d584f2f9cce8d0eb051057")
+addappid(2342120)
