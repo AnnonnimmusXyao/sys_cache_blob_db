@@ -1,0 +1,4 @@
+--game: EBOLA VILLAGE
+
+addappid(2306030)
+addappid(2306031,0,"b717b1927d90220e4e426ec6f87854f67e2b94fa99b29aafbab8568e0eacb1db")
