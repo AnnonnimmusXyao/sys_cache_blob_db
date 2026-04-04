@@ -1,0 +1,4 @@
+--game: Solar Nations 2
+
+addappid(2275440)
+addappid(2275441,0,"c76f9699c8ad4dde1f50b1b6fbbc0b4b4593b6dfd2d086d34f4e95e6bd3ecdf7")
