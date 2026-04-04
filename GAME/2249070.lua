@@ -1,0 +1,7 @@
+--game: Strip Fighter ZERO
+
+addappid(2249070)
+addappid(229000)
+addappid(229001)
+addappid(2249071,0,"cf61e41e500cdd4f845e8a641dccb8f7cba21f788e5950e6f85f5aa928bb96c3")
+addappid(2249073,0,"ec52e7b31e295d1e933a1516ac1b8cd4e388a890dc242162f78b556e8b99e58c")
