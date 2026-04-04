@@ -1,0 +1,4 @@
+--game: Redaxium 2
+
+addappid(2023250)
+addappid(2023252,0,"dd6578ea1809c039560b95b7587a6dd9c0942562ef9b77df61662cbad43a2fd8")
