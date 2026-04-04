@@ -1,0 +1,4 @@
+--game: Radiant: Guardians of Light
+
+addappid(2383180)
+addappid(2383181,0,"9251b66881b33eaff0c91ab0d021b210d524cfb1d2d47744870ec1e1870e377f")
