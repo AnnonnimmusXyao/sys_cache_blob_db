@@ -1,0 +1,4 @@
+--game: CUBEMATRIX
+
+addappid(2158600)
+addappid(2158601,0,"1ed454dff665b037578eee557961fe1422cdf97d2dfb94d4e07769bb388df0ff")
