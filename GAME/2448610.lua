@@ -1,0 +1,4 @@
+--game: Beast Slayer
+
+addappid(2448610)
+addappid(2448611,0,"779cd6cffb28ad646a367f2f46070225a1dbf257c58b4e40159f8dcfa1bd0d4f")
