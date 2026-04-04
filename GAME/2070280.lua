@@ -1,0 +1,5 @@
+--game: Ghosts over the Water: Changing the Tides of Japan's Future
+
+addappid(2070280)
+addappid(2070283,0,"0bc222c406b63681c24a0dbbf9909d994f4ec1888b37557f3ae38a5fbc86d882")
+addappid(2070284,0,"a0c9f448bc9c59fd5b52189817124ad630f004279b5ceb60fa31a4e6f3c7248d")
