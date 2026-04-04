@@ -1,0 +1,4 @@
+--game: Creature Discomfort
+
+addappid(1955500)
+addappid(1955501,0,"20935fe37f9ffeb67830ba3801362cb7b4b2e063dc067d903ecf078a9e8ac758")
