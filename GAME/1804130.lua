@@ -1,0 +1,4 @@
+--game: Ghoul Castle 3D: Gold Edition
+
+addappid(1804130)
+addappid(1804132,0,"180f713d64b824d263fdb4cd2fd333a4b4d402db10dec9e80d16294b379f33e7")
