@@ -1,0 +1,4 @@
+--game: Hoop Fighters: Party Basketball
+
+addappid(2244520)
+addappid(2244521,0,"c7b17e74564c1a075bd9fb639512dd11eca23f0cd13d4b59cef582f5110d455e")
