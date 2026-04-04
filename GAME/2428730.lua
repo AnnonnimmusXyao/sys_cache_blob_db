@@ -1,0 +1,4 @@
+--game: SWAT Commander: Prologue
+
+addappid(2428730)
+addappid(2428732,0,"14d0abd7dd469fda052173e4dd65723c9407e73d66fcb1c033cc51af95d051bb")
