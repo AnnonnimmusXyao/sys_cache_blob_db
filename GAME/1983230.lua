@@ -1,0 +1,4 @@
+--game: Vallen
+
+addappid(1983230)
+addappid(1983231,0,"b3e7afe68b16005ea2bac843c8fa5392bc9705cccacec4e6d4ce23687fdd274c")
