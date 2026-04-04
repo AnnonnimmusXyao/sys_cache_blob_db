@@ -1,0 +1,6 @@
+--game: Barro T23
+
+addappid(2379030)
+addappid(2379032,0,"d01b261496d4a6bb21d979e10a141cbf5fb73bb1f5d347d85492f80ba5b88faf")
+addappid(2944320)
+addappid(3061670)
