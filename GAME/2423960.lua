@@ -1,0 +1,4 @@
+--game: Lord of the Click: Interstellar Wars
+
+addappid(2423960)
+addappid(2423961,0,"a48caa2d76f6691aad23db3359afa4ba020a314bea9dfc07ebea0d853a259f01")
