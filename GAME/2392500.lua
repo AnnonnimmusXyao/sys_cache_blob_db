@@ -1,0 +1,4 @@
+--game: Ever 17 - The Out of Infinity
+
+addappid(2392500)
+addappid(2392501,0,"2c5fc59275ad44981947a41574e33c7eae97db7a03d72e2bd056f3f8abe352d4")
