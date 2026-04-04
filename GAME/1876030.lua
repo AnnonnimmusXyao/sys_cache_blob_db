@@ -1,0 +1,4 @@
+--game: Dark Past
+
+addappid(1876030)
+addappid(1876031,0,"85401f73206ca7cf55a7df6443e2305902ceb5ae5aa0226de92ac23c6dbd1823")
