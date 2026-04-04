@@ -1,0 +1,4 @@
+--game: Conquistadorio
+
+addappid(2472550)
+addappid(2472551,0,"3c7f8a2a6cb285695313cc45e45e07c1d124b8bf84caf575fe5f571f0dabd603")
