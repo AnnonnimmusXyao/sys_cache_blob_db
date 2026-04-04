@@ -1,0 +1,4 @@
+--game: Babel of Ystilia
+
+addappid(2056180)
+addappid(2056182,0,"9e3f28d94e2f45f22d8b6b78a7c70d4bfbf51822c617a37a7c39cd9e1de42e96")
