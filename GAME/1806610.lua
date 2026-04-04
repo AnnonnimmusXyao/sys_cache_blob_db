@@ -1,0 +1,4 @@
+--game: Tep The Destroyer TD
+
+addappid(1806610)
+addappid(1806611,0,"4d0737ea9439e3f91e5ca489801378b94ba0e47340642ba663d0efc643f4053e")
