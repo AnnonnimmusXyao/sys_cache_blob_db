@@ -1,0 +1,4 @@
+--game: วีรบุรุษปรุงยา กะเพรา (Apothecary Hero)
+
+addappid(2299450)
+addappid(2299451,0,"06e280cd03e5f0e31beb01c05b3f6bf5c7b5fd5052f4333b2614595ae1b8adab")
