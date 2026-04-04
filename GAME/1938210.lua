@@ -1,0 +1,4 @@
+--game: The Pendant of Prosperity
+
+addappid(1938210)
+addappid(1938211,0,"5bc493f026b98f8b1c0de05e5d4e522ff1ea50cd35d90e611cd9b0f0b97e865f")
