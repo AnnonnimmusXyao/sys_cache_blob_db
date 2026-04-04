@@ -1,0 +1,4 @@
+--game: Communist Clicker
+
+addappid(1843920)
+addappid(1843923,0,"85607dc9581c53fcdc124dbf92f5d7b57af0c56416db1d2866b6e4041912a65b")
