@@ -1,0 +1,4 @@
+--game: 迷之战果
+
+addappid(2316010)
+addappid(2316012,0,"5a80cb72bd0827e05dc3a3474fe93d716e12c2a4e3391d97f00dc62610a9829d")
