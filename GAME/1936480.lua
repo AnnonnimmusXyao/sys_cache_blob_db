@@ -1,0 +1,4 @@
+--game: Dickie A Cumming: The Prequel (Part I)
+
+addappid(1936480)
+addappid(1936481,0,"92be421d099fa0ad74c78457cc8286d4d8902eed78d6793b9a11d1b60d2edbf5")
