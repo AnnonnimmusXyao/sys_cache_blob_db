@@ -1,0 +1,5 @@
+--game: CrossHud - Crosshair Overlay
+
+addappid(229007)
+addappid(2095190)
+addappid(2095191,0,"0ccd5788960ec0d430bdabec66325c1e1cb0195d5fa1ebd9956f8b9870f52e02")
