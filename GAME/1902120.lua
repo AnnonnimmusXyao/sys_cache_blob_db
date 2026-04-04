@@ -1,0 +1,4 @@
+--game: Bigfield 2042
+
+addappid(1902120)
+addappid(1902121,0,"76b1f3d449f17d6cf481eef6be5afb8db9960afa49b1c9f725209f40ec578f85")
