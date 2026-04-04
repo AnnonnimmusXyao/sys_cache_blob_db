@@ -1,0 +1,4 @@
+--game: Streamers' Secret Life
+
+addappid(2064090)
+addappid(2064091,0,"a8533c23498136f728a0daa3835074d290472ad4563d8886097971c18a6ec38a")
