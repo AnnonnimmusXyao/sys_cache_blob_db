@@ -1,0 +1,5 @@
+--game: Glamor & Girls
+
+addappid(1844270)
+addappid(1844271,0,"e9af58ec323df06435926c226c1fa6b7fc441175bbabea02e6047212b92b6be8")
+addappid(1909160)
