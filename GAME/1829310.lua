@@ -1,0 +1,4 @@
+--game: Corsair`s Madness
+
+addappid(1829310)
+addappid(1829311,0,"84a7d1a48ceb0e9bb4ae0b2d059884db7df3fb418dd193b4ed4ebc23ecd26908")
