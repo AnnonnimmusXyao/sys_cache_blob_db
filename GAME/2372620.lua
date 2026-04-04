@@ -1,0 +1,4 @@
+--game: o7
+
+addappid(2372620)
+addappid(2372621,0,"a2f3034f07b5f60d140780bfca29f312f3f6e7d0efe91d1bb57a524e616a7db8")
