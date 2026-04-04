@@ -1,0 +1,4 @@
+--game: Pick The Lock
+
+addappid(1893460)
+addappid(1893461,0,"7484f74201d829376eb3f582105de275cded5740f2ce49857289d56a85370d60")
