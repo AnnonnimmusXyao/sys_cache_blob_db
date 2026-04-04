@@ -1,0 +1,4 @@
+--game: Claire a la Mode
+
+addappid(2292860)
+addappid(2292861,0,"93e09686723b49cd617bfe22db172900466d03ad4710fdb63bde286a24fb1535")
