@@ -1,0 +1,4 @@
+--game: 盗墓密探
+
+addappid(2178310)
+addappid(2178311,0,"7df3a6799c8d114d64e97debc84ff71be9ffec5a68d2b5c39761135d2404482c")
