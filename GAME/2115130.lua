@@ -1,0 +1,4 @@
+--game: Parkour Legends
+
+addappid(2115130)
+addappid(2115133,0,"0e5e1bd4f6a185204128fe74a930b7ebe5d82e14e6eca4f92405919ad7724706")
