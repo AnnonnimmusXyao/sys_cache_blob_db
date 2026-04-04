@@ -1,0 +1,4 @@
+--game: 雀姬的異想世界
+
+addappid(1912340)
+addappid(1912341,0,"a5b6114a6aa109926ce762bd68809991b9fca762013cfb8cc17071bb3ece5792")
