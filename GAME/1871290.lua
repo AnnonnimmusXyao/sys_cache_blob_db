@@ -1,0 +1,4 @@
+--game: Finger Football
+
+addappid(1871290)
+addappid(1871291,0,"e93d0e846497f54aa51aa5202a35dc7ec1bdabe486b39c7a74f60cecccb4371c")
