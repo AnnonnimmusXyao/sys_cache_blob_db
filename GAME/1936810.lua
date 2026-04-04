@@ -1,0 +1,4 @@
+--game: Miami Hotel Simulator
+
+addappid(1936810)
+addappid(1936811,0,"14c1e53684dbb9a15e062882e8e194a49822e691f92b5f9eff3e4123d9675984")
