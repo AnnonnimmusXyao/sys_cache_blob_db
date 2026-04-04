@@ -1,0 +1,4 @@
+--game: Sex Adventures - Swingers Gym
+
+addappid(2111520)
+addappid(2111521,0,"5fd14bbab06647a29d1d24dec02384dbbf00fffddbc8bb61f35094112aff52b7")
