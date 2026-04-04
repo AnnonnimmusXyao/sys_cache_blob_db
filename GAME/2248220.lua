@@ -1,0 +1,4 @@
+--game: BOSSES
+
+addappid(2248220)
+addappid(2248221,0,"35293922298a4889b1cf3ed74fc55627a33cae84f225cafcbc495a6bff4938c2")
