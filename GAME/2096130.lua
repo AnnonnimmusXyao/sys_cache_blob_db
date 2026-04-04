@@ -1,0 +1,5 @@
+--game: Adventure's Calling
+
+addappid(2096130)
+addappid(2096131,0,"31e97c215bfc8f8650a7f7b2e1fd0052cfc7be8b18a76c8bebcbd89dfde99714")
+addappid(2096132,0,"934dfc160bee73948fd5ab8a930b2451dbe845689e631b3eea7bf750e1364b72")
