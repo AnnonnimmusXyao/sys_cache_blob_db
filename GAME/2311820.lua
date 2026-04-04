@@ -1,0 +1,6 @@
+--game: Special Operations Unit - SIGNAL FORCES
+
+addappid(2311820)
+addappid(2311822,0,"3b9aecbc89cda01da611442489515c717cee722e88ed29dcd92e9ed04b5f2106")
+addappid(2311823,0,"5d764696bc2b4b5492c341e900d1df5f3ea52f081ba4cc2f86c461a2d49ab21e")
+addappid(2844640)
