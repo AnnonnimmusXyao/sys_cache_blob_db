@@ -1,0 +1,4 @@
+--game: Super Cave Boy
+
+addappid(2102440)
+addappid(2102441,0,"781b0b5e2671a2711def4d2cea2b85b72291773cf0ce8ac66f1f5416ee50088b")
