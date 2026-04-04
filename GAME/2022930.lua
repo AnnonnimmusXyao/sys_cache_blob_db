@@ -1,0 +1,7 @@
+--game: WARCANA
+
+addappid(2022930)
+addappid(2022931,0,"d229c5081f104f5986426a1ca355121a5c09c23c0e90058b743c86b849a2cb6b")
+addappid(3073620)
+addappid(3073630)
+addappid(3073640)
