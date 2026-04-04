@@ -1,0 +1,4 @@
+--game: Risky Woods
+
+addappid(1920520)
+addappid(1920521,0,"f7b4979d8c6a6c60e278813ff3dc4d1df0df7d433dcd0e7ffe685ea53061905b")
