@@ -1,0 +1,4 @@
+--game: Police Stories: The Academy
+
+addappid(1986760)
+addappid(1986761,0,"67ec06871064be8a95f522a4b07021dc2380b6a2cb49719e85d44631e493b5d7")
