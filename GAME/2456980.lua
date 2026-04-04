@@ -1,0 +1,4 @@
+--game: Scare: Fatal Picture
+
+addappid(2456980)
+addappid(2456981,0,"e63b70cc5edccca5d12d1084039dca482492f1f2debed6e9ccdff72672e184c0")
