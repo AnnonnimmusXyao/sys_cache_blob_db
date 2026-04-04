@@ -1,0 +1,4 @@
+--game: TV Thief
+
+addappid(1878220)
+addappid(1878221,0,"a1658a20a352b8d3271de333cd1ca83eed09848482936ff2d5b56d704fea5851")
