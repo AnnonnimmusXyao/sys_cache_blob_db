@@ -1,0 +1,4 @@
+--game: DeathOmen
+
+addappid(1842470)
+addappid(1842471,0,"a60e9952bade3c781d18d6a24e15584dd6b8cf792db0ac22d22df1566f4c7905")
