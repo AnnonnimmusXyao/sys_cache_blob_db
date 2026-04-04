@@ -1,0 +1,4 @@
+--game: Odd One Out
+
+addappid(2054680)
+addappid(2054681,0,"688c8c5ae02a2a1152b85e2c6f5f882272767e7d5feda70b377cbe67c5823a8d")
