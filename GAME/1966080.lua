@@ -1,0 +1,4 @@
+--game: rododendron
+
+addappid(1966080)
+addappid(1966081,0,"f9c66cd60fc12828cb26f537decf2c27ba4b3a560129545a338ed0712d214540")
