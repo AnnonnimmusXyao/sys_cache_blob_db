@@ -1,0 +1,5 @@
+--game: Mystery Solitaire. Grimm's Tales 4
+
+addappid(1900680)
+addappid(1900683,0,"a6ede214aba492f94d180e108f3a3fc5c27a5e4daf8a865d7cb40ffaeb6c99b0")
+addappid(1900685,0,"6a0f873c57daaeca5981238187c9013aafd9f2c5087a2ae7fcc8f1028860042c")
