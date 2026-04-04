@@ -1,0 +1,4 @@
+--game: Bullet Runner: The First Slaughter
+
+addappid(2343570)
+addappid(2343571,0,"1ca183fe12fa999025f94608d8e0e85dd4c6914842f9fb5efba579ccd6590e70")
