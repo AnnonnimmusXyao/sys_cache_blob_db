@@ -1,0 +1,5 @@
+--game: The Creature of Chaos
+
+addappid(1912460)
+addappid(1912461,0,"1f72118fc9a582ada6a9900b671a2c43a3c9e8deec7b375e8590eada7afdf289")
+addappid(1912462,0,"2fd382862f37d410090c0c80f0a6ab3e3ec35d620ce92646460087147a32d0ef")
