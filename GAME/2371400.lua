@@ -1,0 +1,4 @@
+--game: Tuttle: Star Flower Harvest
+
+addappid(2371400)
+addappid(2371401,0,"53de1299495ce00dbc1538a6b56bfc104940202a69823c3d103e3e71494e72f3")
