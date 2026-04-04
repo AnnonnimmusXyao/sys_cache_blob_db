@@ -1,0 +1,4 @@
+--game: Dash & Swing
+
+addappid(2363780)
+addappid(2363781,0,"b27e8aea78a7d3590370b492041b93cdb4b057580736609c43a62ca33246d5bc")
