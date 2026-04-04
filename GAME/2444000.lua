@@ -1,0 +1,4 @@
+--game: ラーメンあぶら集め
+
+addappid(2444000)
+addappid(2444001,0,"a45bf3bea676a9f42bcb91921bcead199419c0eec8f9e9ba9776543944c26d4b")
