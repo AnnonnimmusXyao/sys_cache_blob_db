@@ -1,0 +1,4 @@
+--game: Fruit Salad
+
+addappid(1848520)
+addappid(1848522,0,"033eed26d3321491ca17de4b222984810a06eb478b9a89bd85ea5861bd42f392")
