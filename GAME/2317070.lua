@@ -1,0 +1,4 @@
+--game: MASKA
+
+addappid(2317070)
+addappid(2317071,0,"3108c7ad7d4488a890dd271abe74dc548c44bcd41860c434300d95cb367a69d8")
