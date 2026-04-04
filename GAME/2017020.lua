@@ -1,0 +1,4 @@
+--game: Cowboy Girl
+
+addappid(2017020)
+addappid(2017021,0,"71f4f1b6e8aaef27127adb799aeb44e21ad41d306808141c30849311779e0a29")
