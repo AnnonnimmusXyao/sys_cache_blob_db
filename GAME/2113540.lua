@@ -1,0 +1,4 @@
+--game: 梦魇：无归 Nightmare without return
+
+addappid(2113540)
+addappid(2113541,0,"d5d9269c745787240db9c1794410ac7967652657346bd21257b1fefe955efdab")
