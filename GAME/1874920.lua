@@ -1,0 +1,4 @@
+--game: 100 Days without delays
+
+addappid(1874920)
+addappid(1874921,0,"564675969882843810123d1a3e2bfcaa6c507003b44ecf317ab821cf66d79cac")
