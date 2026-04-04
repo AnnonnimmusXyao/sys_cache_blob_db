@@ -1,0 +1,4 @@
+--game: Queen's Loyalty
+
+addappid(1841360)
+addappid(1841361,0,"e280586d6f36d6dc6a6e42a6c504f8d955abf20ff4b6ee5ba79c950b5a699ee2")
