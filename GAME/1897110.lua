@@ -1,0 +1,5 @@
+--game: Edge of Sanity
+
+addappid(1897110)
+addappid(2983820,0,"37272024a20bca4cf016479a1e188916851d43903513a70e968614356e8ebaff")
+addappid(3142350)
