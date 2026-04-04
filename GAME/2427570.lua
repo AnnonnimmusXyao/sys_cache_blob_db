@@ -1,0 +1,4 @@
+--game: Block Tower TD
+
+addappid(2427570)
+addappid(2427571,0,"76ca07b10084cc724a8dfcb97d2b0e2a8c16bdfd9f8c563780d072537775ea3d")
