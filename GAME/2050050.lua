@@ -1,0 +1,6 @@
+--game: Rift Loopers
+
+addappid(2050050)
+addappid(2050051,0,"090139d70d82ef15136f66a2088654ccb9bfe23a404799329f1585558ab96c6a")
+addappid(2376900)
+addappid(2435420)
