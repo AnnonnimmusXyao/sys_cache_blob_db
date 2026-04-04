@@ -1,0 +1,4 @@
+--game: Poosh XL
+
+addappid(2055910)
+addappid(2055911,0,"2e2f41ad205d4cef73e92f7fb729445e3e32ee08dec2452d955b779244f9e9b2")
