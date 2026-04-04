@@ -1,0 +1,5 @@
+--game: The Naughty Vampire and the Moaning Forest
+
+addappid(2458480)
+addappid(2458481,0,"a513279241cf1407bacd2effb0cbf44ccc78e0f29cc9d4632548197c72f924fe")
+addappid(2458484,0,"0f8a31dd559aea002b405d7358d51ba05e539dc4053b98892353b052ac8831e4")
