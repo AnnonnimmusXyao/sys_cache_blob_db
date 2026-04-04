@@ -1,0 +1,5 @@
+--game: Invector: Rhythm Galaxy
+
+addappid(2009450)
+addappid(2009451,0,"ca1c7feb6bf278dda6fcd952032f4bdbdcc79757b9399868e1c34f56c920c5c4")
+addappid(2617860,0,"7f6d81f1bf2cceaf5f306321a687d99421552082b36b19b3057b6538c1b6f8df")
