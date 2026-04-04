@@ -1,0 +1,4 @@
+--game: Not A Thief Simulator
+
+addappid(2233720)
+addappid(2233721,0,"c42ca45ad755bef9e9602c487afcf3246852f3535f608eb899791bfa6960bfab")
