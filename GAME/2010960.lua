@@ -1,0 +1,4 @@
+--game: Downtown Jam
+
+addappid(2010960)
+addappid(2010961,0,"ec4ae81290d659640c523664ae7a140d409ce317652b9864989a37dac2919ec4")
