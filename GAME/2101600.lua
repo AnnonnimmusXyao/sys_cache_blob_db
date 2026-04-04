@@ -1,0 +1,4 @@
+--game: Cult Of Babel : Prologue
+
+addappid(2101600)
+addappid(2101601,0,"6671b79620c9d4ccd8545a763c4466abdb312d269b89e62876f8aaac4a5d0f82")
