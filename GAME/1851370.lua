@@ -1,0 +1,4 @@
+--game: The Living Handra
+
+addappid(1851370)
+addappid(1851371,0,"f6dc0fb1d2b58ea77abfe2b132b4d9a3d1462ba176a4e463143e3b823d381379")
