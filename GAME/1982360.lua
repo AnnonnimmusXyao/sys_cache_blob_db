@@ -1,0 +1,4 @@
+--game: The Bird's Realm 3
+
+addappid(1982360)
+addappid(1982361,0,"6256293e82443a0277c022ac99148552a3ff52c2ef21ab2a7a3aed944f987810")
