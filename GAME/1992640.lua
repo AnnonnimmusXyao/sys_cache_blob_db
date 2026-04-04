@@ -1,0 +1,5 @@
+--game: Anime vs Evil: Apocalypse
+
+addappid(1992640)
+addappid(1992641,0,"2e206f156d52565d9065ae1a8be4d682c34b93b360c5c4899591ef2b4b4aea5c")
+addappid(1999010)
