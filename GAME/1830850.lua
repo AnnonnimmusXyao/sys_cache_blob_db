@@ -1,0 +1,4 @@
+--game: Bethany's Talishop
+
+addappid(1830850)
+addappid(1830851,0,"ba28ef3c29c077945ba4329d56eeeee4b2bf1a1437d13413ae1be4c204f0aa10")
