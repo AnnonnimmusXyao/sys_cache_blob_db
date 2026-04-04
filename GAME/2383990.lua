@@ -1,0 +1,5 @@
+--game: Ghostbusters: Spirits Unleashed Ecto Edition
+
+addappid(2383990)
+addappid(2383991,0,"7859749405f0254218686a9d95a6b301216c512b3dd29f4eca423e8d0f18d534")
+addappid(2624240)
