@@ -1,0 +1,4 @@
+--game: HAITENAI RPG
+
+addappid(1975340)
+addappid(1975342,0,"3d58d47fe47630007b23b09bb0ff7f3c3343cdafe77b3ef0097013e6da380923")
