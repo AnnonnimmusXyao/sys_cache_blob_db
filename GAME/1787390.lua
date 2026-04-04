@@ -1,0 +1,4 @@
+--game: Remy Raccoon and the Lost Temple - Festive Frolics (Volume 1)
+
+addappid(1787390)
+addappid(1787391,0,"316b986636d4444c9bc046a214a82dc9c8af7d31b9a537b9606b8078837c62bb")
