@@ -1,0 +1,4 @@
+--game: Wordle 5
+
+addappid(1867190)
+addappid(1867191,0,"cc4a1a8957d68985849093842694972822a6fed89d9932a7603ebbdfaba7d60c")
