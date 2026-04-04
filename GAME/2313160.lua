@@ -1,0 +1,6 @@
+--game: 闇鍋人狼
+
+addappid(2313160)
+addappid(2313161,0,"3c274771914696c53d8909f775dd2917f399ae9ad4a206a06d0c8407a12b5949")
+addappid(2865310)
+addappid(3235900)
