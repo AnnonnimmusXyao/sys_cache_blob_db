@@ -1,0 +1,5 @@
+--game: 7 Days Blood Moons
+
+addappid(2312280)
+addappid(2312281,0,"ec637d21119539d87fadcb92e38ba432636740e16a7638997488f0d1bb116434")
+addappid(4191540)
