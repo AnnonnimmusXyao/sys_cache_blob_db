@@ -1,0 +1,4 @@
+--game: 4D Golf
+
+addappid(2147950)
+addappid(2147952,0,"645c684d240b17e2c544d67be198b29df89b3c76ef49ec5633b3b08462ae1578")
