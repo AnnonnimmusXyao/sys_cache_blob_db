@@ -1,0 +1,4 @@
+--game: Digital Eclipse Arcade: Q.P.I.D.
+
+addappid(2309240)
+addappid(2309241,0,"78a1cc7982c1d342b647eeeeb068a1e141121ce986f39ef97100bc7d49b301a2")
