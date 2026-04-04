@@ -1,0 +1,4 @@
+--game: Fast Fruit
+
+addappid(1824800)
+addappid(1824801,0,"21ae8c982b0f69094415e37a75ec90cfa30ee0ba27d734cc93f8e3305d275e61")
