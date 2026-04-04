@@ -1,0 +1,4 @@
+--game: Legends of Immortality
+
+addappid(2078010)
+addappid(2078011,0,"c44034b75d0239e305b6ddb8bf80ddd4cf25adb6df44333088a6a559c40b68a2")
