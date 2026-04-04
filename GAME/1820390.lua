@@ -1,0 +1,4 @@
+--game: Solitaire Harmony
+
+addappid(1820390)
+addappid(1820392,0,"91199edd8d8aa180daab1d08932ec12a593d3b74cdf334957a2a5966f519339e")
