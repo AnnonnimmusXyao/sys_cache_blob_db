@@ -1,0 +1,4 @@
+--game: ImpossiBubble
+
+addappid(1837700)
+addappid(1837703,0,"6b455d48061deb8ff10b00ca45e2ba388e2bfcd2e0c3091ca890f26e945133cd")
