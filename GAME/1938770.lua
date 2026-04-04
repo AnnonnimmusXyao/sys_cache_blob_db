@@ -1,0 +1,4 @@
+--game: Whispers of the village
+
+addappid(1938770)
+addappid(1938771,0,"f579d699ca1b28290f843a251c2faa3a2175fc4ad309e7504ad928610a87b840")
