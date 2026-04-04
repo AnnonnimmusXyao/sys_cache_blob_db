@@ -1,0 +1,4 @@
+--game: My Little Puppy
+
+addappid(2102040)
+addappid(2102041,0,"681b6ba43154004b17ec5874c59cb5ca74047ca28cb83a1ef2cd2c41b9b036bf")
