@@ -1,0 +1,4 @@
+--game: The Hermit Chronicles
+
+addappid(2151790)
+addappid(2151791,0,"a6dc46d11315be0d759afe61ddb289b69aff04b7c35bb7b110932d5170351192")
