@@ -1,0 +1,4 @@
+--game: The Planet Crafter: Prologue
+
+addappid(1830840)
+addappid(1830841,0,"e6bab0f804ab4154b02177c022ab32c4adff4c481ba43fd5f358f1f69dcf8682")
