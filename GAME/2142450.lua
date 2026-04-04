@@ -1,0 +1,4 @@
+--game: Z.O.N.A Project X VR
+
+addappid(2142450)
+addappid(2142451,0,"ea78067971d1bf38d128300f3044e07505d61ba0ef1efb08d6267a02b6efc4b5")
