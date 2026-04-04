@@ -1,0 +1,4 @@
+--game: Dangerous Road
+
+addappid(2296960)
+addappid(2296961,0,"42a16c1d7099161b7dfc89a6084dd41a4aaba58bc8b75644e3d6fe6ceb0372be")
