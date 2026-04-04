@@ -1,0 +1,4 @@
+--game: The Outer Worlds: Spacer's Choice Edition
+
+addappid(1920490)
+addappid(1920491,0,"27a2f143dfdef7f57d92c95cd6fc0682e767921c962694a6c4efa9fc5054fab4")
