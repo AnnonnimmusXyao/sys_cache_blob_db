@@ -1,0 +1,4 @@
+--game: Let Chat Guess
+
+addappid(2102200)
+addappid(2102201,0,"5f4acb5993e4bd3d45418d98639a3edcce0899cf3229422f6444f35e1498069e")
