@@ -1,0 +1,4 @@
+--game: Winds Of Arcana: Ruination
+
+addappid(2201910)
+addappid(2201911,0,"fe5ce6cc9048703605a9986fbd19f21d1d4e5ff1913334284b9ef29b4478b8d3")
