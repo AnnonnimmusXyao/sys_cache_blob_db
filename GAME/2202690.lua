@@ -1,0 +1,4 @@
+--game: Gladiators and Glory
+
+addappid(2202690)
+addappid(2202691,0,"0a64710fa7d61c73fc2ca126237f26511d891b7be556f5d68e9f061a82805c1b")
