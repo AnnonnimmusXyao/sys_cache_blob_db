@@ -1,0 +1,5 @@
+--game: 純愛貓娘的同居生活
+
+addappid(1953780)
+addappid(1953781,0,"1ae516ef0c808e8570f31c775c6020dd2a1626676c2e4a7508ae83c795262e22")
+addappid(2174630)
