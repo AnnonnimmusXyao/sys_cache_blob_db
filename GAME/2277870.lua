@@ -1,0 +1,4 @@
+--game: The Midnight Crimes
+
+addappid(2277870)
+addappid(2277871,0,"b9e1daa05727f7cd1c2460c666ca5322ed4e4aac1497c53e3d6fd750cb9ab0b5")
