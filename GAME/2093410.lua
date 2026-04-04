@@ -1,0 +1,4 @@
+--game: Supreme Ruler 2030
+
+addappid(2093410)
+addappid(2093411,0,"7e018bfc03085dc2017cc87ba2fab9dbe5960c906e62588ac5b44b2301a9cb8f")
