@@ -1,0 +1,4 @@
+--game: Soccer Story
+
+addappid(1912380)
+addappid(1912381,0,"c43fd7642b6f488b26d968eb6a1acd7892d0ce9bbe597dc1f9a043de849f2ce2")
