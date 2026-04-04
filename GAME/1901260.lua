@@ -1,0 +1,4 @@
+--game: 幸运宝石
+
+addappid(1901260)
+addappid(1901261,0,"26db1949833b858157c681779031cba96eef286459c9565abaf84552beba4ead")
