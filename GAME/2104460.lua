@@ -1,0 +1,4 @@
+--game: Mala Petaka
+
+addappid(2104460)
+addappid(2104461,0,"c24f267beaf53f87e00d4370136e557fbcfed319c37334f9971fb11b582b56b3")
