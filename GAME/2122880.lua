@@ -1,0 +1,4 @@
+--game: All Hands on Deck
+
+addappid(2122880)
+addappid(2122881,0,"f67a20aa75fceab1589883f8406e75e17e8ccdd1cdef4d6e21b1457169160c07")
