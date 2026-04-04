@@ -1,0 +1,4 @@
+--game: Backrooms: Lost Place
+
+addappid(2420040)
+addappid(2420041,0,"cb58aa3691425fed3b0e57cbd722019b6c76c68561c2876476572a091ec72ada")
