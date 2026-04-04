@@ -1,0 +1,4 @@
+--game: Speakeasy
+
+addappid(2423070)
+addappid(2423077,0,"f6eae9ae03e558befa678982498ac3bd84bc71ab2d03f13980011c60febf19a1")
