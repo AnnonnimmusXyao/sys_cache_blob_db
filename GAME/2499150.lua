@@ -1,0 +1,4 @@
+--game: Aonar
+
+addappid(2499150)
+addappid(2499151,0,"a968b7b6a39ae428af82e9af68e515a9a82b98745c44cd23e813495d1462ceea")
