@@ -1,0 +1,4 @@
+--game: Hentai Lagoon
+
+addappid(1883200)
+addappid(1883201,0,"c0acb419a3cb1fda8d1e0ef2574b99db157999a676b0fd279759eb88c62b4002")
