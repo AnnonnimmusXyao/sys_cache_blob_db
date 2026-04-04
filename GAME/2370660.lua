@@ -1,0 +1,4 @@
+--game: Börd Killer
+
+addappid(2370660)
+addappid(2370661,0,"b3a141f368e988867dcc0e17533d7afd17882115eb8b225b1f689e4f07f9ee12")
