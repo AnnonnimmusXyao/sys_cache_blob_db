@@ -1,0 +1,4 @@
+--game: The lost adventure
+
+addappid(2439660)
+addappid(2439661,0,"a76ebf2e0e421da0b7bd899b6a91351168503222e9c90717093afca1e4d1466f")
