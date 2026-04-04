@@ -1,0 +1,6 @@
+--game: Hero of Fate
+
+addappid(2332410)
+addappid(2332411,0,"2d2194993a80d7430f43158ae4c4b5ceb8b426a5d6765e4c905617eff71d0903")
+addappid(2662320)
+addappid(2699720)
