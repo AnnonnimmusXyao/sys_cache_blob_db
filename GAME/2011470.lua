@@ -1,0 +1,4 @@
+--game: 大侠请重来
+
+addappid(2011470)
+addappid(2011471,0,"e94ebdd0860086371453dc9a74cd97b135a516eaf68b58729f5d92bf484d40e0")
