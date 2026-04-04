@@ -1,0 +1,4 @@
+--game: adventure_with_firefly
+
+addappid(2115820)
+addappid(2115821,0,"0d64245a4e96dcac071cc9a08b3b9b1062635699b297b801cdb8d14b7a6b4d95")
