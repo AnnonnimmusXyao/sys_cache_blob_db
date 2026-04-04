@@ -1,0 +1,4 @@
+--game: Super Ate in Wonderland
+
+addappid(1910080)
+addappid(1910082,0,"65a41da07fcaec97ad55817599a4212609cf11c525de329c7d87df6bc1012cb7")
