@@ -1,0 +1,4 @@
+--game: 3D Whac-A-Mole
+
+addappid(2290280)
+addappid(2290281,0,"98bbdc30b91121862e68379592c03f5c8f1f209d5f9b4b242ed52a961c66b7e5")
