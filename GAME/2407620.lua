@@ -1,0 +1,4 @@
+--game: Hexagon Survivors
+
+addappid(2407620)
+addappid(2407621,0,"d6d75a338d984d75b818bc7174fb64ceb012a5d1ce4326167a75a0be6b02f646")
