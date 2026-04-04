@@ -1,0 +1,4 @@
+--game: KITBASHERS UNITED
+
+addappid(1982240)
+addappid(1982241,0,"f436a847cecc337e218d63bd1b68775968e54c63ef6cd7f377261e8f0c89b9b3")
