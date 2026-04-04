@@ -1,0 +1,4 @@
+--game: Dummy Pirates: Ocean Tales
+
+addappid(2261610)
+addappid(2261611,0,"46ff3ec79f4a08815c827671c067b67529b6805a576237a766bce9ebb824acb1")
