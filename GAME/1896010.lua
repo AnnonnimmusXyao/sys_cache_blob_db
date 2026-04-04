@@ -1,0 +1,4 @@
+--game: It's Hasegawa-san!?
+
+addappid(1896010)
+addappid(1896011,0,"a46eb460fd9974d247c5f550771b39ed7872a181b10ffd52444a23c6eb569277")
