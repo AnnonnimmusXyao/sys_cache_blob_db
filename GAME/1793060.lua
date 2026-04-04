@@ -1,0 +1,4 @@
+--game: PlanetDrop - A Tiny Space Adventure
+
+addappid(1793060)
+addappid(1793061,0,"9c21802c959ef1f91c60c3fb611a61938164ec839f4fa8157c513b6943ec0976")
