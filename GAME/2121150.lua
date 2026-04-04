@@ -1,0 +1,5 @@
+--game: Chess for idiots
+
+addappid(2121150)
+addappid(2121151,0,"41a52aaef552571a1272f44792680f6adbcfc2fab2a9cdd1c0a8d97f6b115543")
+addappid(2779820)
