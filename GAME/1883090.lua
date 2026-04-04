@@ -1,0 +1,4 @@
+--game: The Symbiant
+
+addappid(1883090)
+addappid(1883091,0,"2ed3e6e43f9e58ad0b7f6f43d7f62b9e4dcce79030941d7c3a64d945412d254e")
