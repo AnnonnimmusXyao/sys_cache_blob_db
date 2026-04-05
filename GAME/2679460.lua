@@ -1,0 +1,18 @@
+--game: Metaphor: ReFantazio
+
+addappid(2679460)
+addappid(2679461,0,"0a945c91ddfaaca28d19da03981f783f8eb23a6dcc1121fb8c0936bb17fe0adb")
+addappid(2924400)
+addappid(2924410)
+addappid(2924420)
+addappid(2924430)
+addappid(2924440)
+addappid(2924450)
+addappid(2924460)
+addappid(2924470)
+addappid(2924480)
+addappid(2924490)
+addappid(2999630)
+addappid(2999640)
+addappid(2999650)
+addappid(2999660)
