@@ -1,0 +1,4 @@
+--game: Hiddenverse: Kingdom Fall
+
+addappid(2757480)
+addappid(2757481,0,"a4ad3df58d34cb2f199de7ba55840e96598d22e31657b0742f6c7937d8d48c88")
