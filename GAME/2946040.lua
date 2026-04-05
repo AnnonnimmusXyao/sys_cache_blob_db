@@ -1,0 +1,4 @@
+--game: Jade Guardian
+
+addappid(2946040)
+addappid(2946041,0,"682e4fc8bbc243888b1daffeab38f03a28ffb8e7872cfbad767f50c761f0eb36")
