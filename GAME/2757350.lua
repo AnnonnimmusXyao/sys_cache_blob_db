@@ -1,0 +1,4 @@
+--game: 谍影成双
+
+addappid(2757350)
+addappid(2757352,0,"38e244dc1688dc67ceadea8615918fc6c4600455a45c1b9954eabff2e43395c5")
