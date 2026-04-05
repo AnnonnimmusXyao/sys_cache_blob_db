@@ -1,0 +1,4 @@
+--game: Hell Dive
+
+addappid(3250020)
+addappid(3250021,0,"53a4953b7bd5a861d8ae1559b9c5f1ccbe9a990a1736125cbf531ddc612256ad")
