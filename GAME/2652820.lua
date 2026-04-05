@@ -1,0 +1,6 @@
+--game: 机械陷阱 Mechanical Trap
+
+addappid(228983)
+addappid(228985)
+addappid(2652820)
+addappid(2652821,0,"545951eb7e95c3f85293d04d82c8278653db1719d04df3bae4069f7d7bcd4c47")
