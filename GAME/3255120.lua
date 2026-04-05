@@ -1,0 +1,4 @@
+--game: Miner Hoversurf 2 Multiplayer Madness
+
+addappid(3255120)
+addappid(3255121,0,"9d799fdb29c760a44114de2657824bc974eeafb80dca1a81f66a6b7b578c31dd")
