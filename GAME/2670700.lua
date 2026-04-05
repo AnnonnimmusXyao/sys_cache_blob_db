@@ -1,0 +1,4 @@
+--game: Whispers of the Citadel
+
+addappid(2670700)
+addappid(2670701,0,"7fa6ce5765231c6cbae189decbdfb4bd23b90e5436a8466b804aae6c616cce8b")
