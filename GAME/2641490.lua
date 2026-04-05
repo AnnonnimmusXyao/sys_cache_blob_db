@@ -1,0 +1,4 @@
+--game: Blood Running
+
+addappid(2641490)
+addappid(2641491,0,"43ecebb96b5ec703b426313e74d89074771dff28f98bc5cca174f8d42d6a6fd8")
