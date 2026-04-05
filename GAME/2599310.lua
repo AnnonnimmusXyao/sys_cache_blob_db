@@ -1,0 +1,4 @@
+--game: Wildlands Resurgence
+
+addappid(2599310)
+addappid(2599311,0,"779c9e03915b058f67b69ee0201e3f13ee245c1629b96f31a57fb566139e5cae")
