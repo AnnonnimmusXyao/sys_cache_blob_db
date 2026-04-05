@@ -1,0 +1,4 @@
+--game: Look or Die
+
+addappid(3145520)
+addappid(3145521,0,"a5904b4821ed99aabff42c504bcc57a2229d9a70c95c87f183c30c12f61abe5e")
