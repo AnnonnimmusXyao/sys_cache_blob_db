@@ -1,0 +1,6 @@
+--game: BLADECHIMERA
+
+addappid(228983)
+addappid(228985)
+addappid(2671230)
+addappid(2671231,0,"83393dbe4d646f58e4904203ccee9e147af7a942cdec79617be2e13061f0f3ea")
