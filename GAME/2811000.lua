@@ -1,0 +1,4 @@
+--game: 幽都酒馆
+
+addappid(2811000)
+addappid(2811001,0,"f4c679958abae30629ca196629f1279f087c5eca4f1fc8e38bcee2180fcc4d5f")
