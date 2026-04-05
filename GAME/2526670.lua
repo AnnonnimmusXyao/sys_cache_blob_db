@@ -1,0 +1,4 @@
+--game: Chemical Sort
+
+addappid(2526670)
+addappid(2526671,0,"705841b8c503d9c57945a628a12a4e21ebbfa7467b6f198e966dc3d44fa12d64")
