@@ -1,0 +1,4 @@
+--game: Sky Conquest
+
+addappid(2562810)
+addappid(2562811,0,"1d0ba10f41538f1e1bdee0c2fe01092dd767431638c16b9994adc9bcece7cdb2")
