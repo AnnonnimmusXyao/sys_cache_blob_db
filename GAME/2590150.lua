@@ -1,0 +1,4 @@
+--game: Faaast Penguin
+
+addappid(2590150)
+addappid(2590151,0,"75e0eb6fab22c5a9fa28b9f274ccfb82a8e17da395a8231fe42e8ccb2e8b8aab")
