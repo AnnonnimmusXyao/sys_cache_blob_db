@@ -1,0 +1,5 @@
+--game: Wild Ones Battle Stadium
+
+addappid(3258480)
+addappid(3258481,0,"ad493923bb8ad1d621ab656cd9733a44630406523a7d2e470cc7927f49fcd888")
+addappid(3258482,0,"fca802ca3daee6455a0cf8f4e6f195b2bcced9336d3bfe482344f9d3490b1345")
