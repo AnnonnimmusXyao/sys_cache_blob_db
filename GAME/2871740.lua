@@ -1,0 +1,4 @@
+--game: 须臾·时光之道
+
+addappid(2871740)
+addappid(2871741,0,"0b2fa6ba20d6a71a9126084f5f91cddb6c2f5e8f0e29ad756416cb2941c119dd")
