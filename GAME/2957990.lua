@@ -1,0 +1,4 @@
+--game: ハーレムなんか望んでない！ - Undesired Harem -
+
+addappid(2957990)
+addappid(2957991,0,"239086651d338efcb0ecd686f1f779b6c3b0e7e38ae465c50f85a4c755e45422")
