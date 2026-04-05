@@ -1,0 +1,4 @@
+--game: Safelight
+
+addappid(2828740)
+addappid(2828741,0,"52ce6e457d867dca63f3f1f6704c5589e2329c31ef546494461df163b50d7d20")
