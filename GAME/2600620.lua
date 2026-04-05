@@ -1,0 +1,5 @@
+--game: Lost Princess
+
+addappid(229000)
+addappid(2600620)
+addappid(2600621,0,"620a38ef7f0ad5eb51d8ef316873313da483302012f6bd0c8d3d41ac96e3afc7")
