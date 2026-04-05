@@ -1,0 +1,4 @@
+--game: 明治東亰恋伽 Full Moon
+
+addappid(2779890)
+addappid(2779891,0,"da09acc9a01580964465d6ef76255c1ab19737ac5e22421c29a86be8746e3def")
