@@ -1,0 +1,4 @@
+--game: Autotag
+
+addappid(2806140)
+addappid(2806141,0,"26d8240f4702713daeb1b99ac377b24ad0963cd63ed1ac30bafb2896650097a5")
