@@ -1,0 +1,4 @@
+--game: My Monsters
+
+addappid(3247910)
+addappid(3247911,0,"a512b8bcc0e121e3062bc6e8725bca97a39f1ce51575001b28ba492602c7e0c6")
