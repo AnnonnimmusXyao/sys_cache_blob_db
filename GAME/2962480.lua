@@ -1,0 +1,5 @@
+--game: Isekai Sex Boutique
+
+addappid(2962480)
+addappid(2962481,0,"d9345f83134c749ad77cdb18ce1544ee36df1df3b93db011fdd4e9fa5236874c")
+addappid(3699310)
