@@ -1,0 +1,4 @@
+--game: Senpai and the Mysterious Island
+
+addappid(3070600)
+addappid(3070603,0,"929f289de26cc1a85c304c22091e37905571d60a95938020e80e33e5fff126d1")
