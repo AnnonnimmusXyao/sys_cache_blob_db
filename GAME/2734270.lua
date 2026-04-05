@@ -1,0 +1,4 @@
+--game: Sector Unknown
+
+addappid(2734270)
+addappid(2734271,0,"79d61c23eaa630981f6e6763fec3c31e6d19a319caf177ec0afb665110e6ae88")
