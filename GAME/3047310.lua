@@ -1,0 +1,4 @@
+--game: Aim Assault
+
+addappid(3047310)
+addappid(3047311,0,"d76c4e8367725007a1b444cb87dc9016d90619b9140ee2213ed9d70c1f672df0")
