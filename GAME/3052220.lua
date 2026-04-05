@@ -1,0 +1,4 @@
+--game: Red Door Ylw Door
+
+addappid(3052220)
+addappid(3052221,0,"374921759ef47eddf1afad2973c6c88122384e380be38c05e4be261cd71e66e9")
