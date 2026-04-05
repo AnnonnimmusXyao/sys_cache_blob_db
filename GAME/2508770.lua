@@ -1,0 +1,15 @@
+--game: Farmagia
+
+addappid(229005)
+addappid(2508770)
+addappid(2508771,0,"a96c4c1f716a0801a418470a96fa94121f5f3ae8716a4139bc2b96303784b888")
+addappid(2858070)
+addappid(3031480)
+addappid(3031490)
+addappid(3031500)
+addappid(3031510)
+addappid(3031520)
+addappid(3031530)
+addappid(3031540)
+addappid(3031550)
+addappid(3031560)
