@@ -1,0 +1,4 @@
+--game: Quacker Bros : First Heist
+
+addappid(3103830)
+addappid(3103831,0,"9d8f8b5348993d36ae632e7eba2950af7a2200123dcce554d449a3ba7c8dbb10")
