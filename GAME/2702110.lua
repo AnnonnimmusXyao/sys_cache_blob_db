@@ -1,0 +1,4 @@
+--game: Prophecy of the Shadow
+
+addappid(2702110)
+addappid(2702111,0,"dcf21923e626047c05cb97ed604dfee4b88a12b7dacb7df8548c678037246e26")
