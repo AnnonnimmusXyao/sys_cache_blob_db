@@ -1,0 +1,4 @@
+--game: Survivor Strain - Season 1
+
+addappid(2568390)
+addappid(2568391,0,"01ea13a22ee4052b60f3b41d9df0821b618b45377f9d87c82e1930d21daaaa5d")
