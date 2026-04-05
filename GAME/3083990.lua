@@ -1,0 +1,5 @@
+--game: Imaginary Friend Institution
+
+addappid(3083990)
+addappid(3083991,0,"7554fe386a4cfb6bc1c46d73b3034f9415777e08b32d12c66324a00236af2785")
+addappid(4150550)
