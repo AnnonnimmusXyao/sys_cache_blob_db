@@ -1,0 +1,4 @@
+--game: The Last Sight
+
+addappid(3093370)
+addappid(3093371,0,"2e23aac3b9bf9877119c2811af2a8b855757803bb611a3362d35597155387bf6")
