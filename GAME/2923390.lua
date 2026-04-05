@@ -1,0 +1,4 @@
+--game: Clothing Store Simulator
+
+addappid(2923390)
+addappid(2923391,0,"d9a7fde689395bd32548f53725ff825360147ba02295ff58d9e021b10b458cbb")
