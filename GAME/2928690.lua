@@ -1,0 +1,4 @@
+--game: Wandness: WandCraft Survivor
+
+addappid(2928690)
+addappid(2928691,0,"771735755698588c23a7387152c7e52ff344d10e96b081eb334895cdbb9df79e")
