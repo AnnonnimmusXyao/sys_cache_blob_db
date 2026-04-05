@@ -1,0 +1,4 @@
+--game: Zector 7
+
+addappid(2935280)
+addappid(2935283,0,"8637fc0ea396c9b71a825e127b31c3eda141ffe786fa536787e1553fbe29640f")
