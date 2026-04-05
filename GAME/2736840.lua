@@ -1,0 +1,4 @@
+--game: The August Before
+
+addappid(2736840)
+addappid(2736841,0,"889ef88340418226427214d40388e63d973f5f006d5c43a044b9ef44be56c62f")
