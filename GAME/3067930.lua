@@ -1,0 +1,4 @@
+--game: Labyrinth of Touhou Tri -The Dreaming Girls & The Mysterious Orbs-
+
+addappid(3067930)
+addappid(3067931,0,"d51838228b6837025cc0b5d11a1b27f71400ffe89bd28efa52111578809126c7")
