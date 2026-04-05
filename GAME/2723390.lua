@@ -1,0 +1,4 @@
+--game: Tiny Hero Idle
+
+addappid(2723390)
+addappid(2723391,0,"0b2cdcfef32a1a2b61811dffee721ce72b47604bafe5ba72efa42ff647707de7")
