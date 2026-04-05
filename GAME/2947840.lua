@@ -1,0 +1,4 @@
+--game: Dead Blue Rose
+
+addappid(2947840)
+addappid(2947841,0,"026c0511ed6e4880012fc0ae73e283cd2c564101343405d3b8c4c0c607008187")
