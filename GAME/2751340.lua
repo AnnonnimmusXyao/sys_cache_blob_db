@@ -1,0 +1,7 @@
+--game: Astro Miner
+
+addappid(229006)
+addappid(2751340)
+addappid(2751341,0,"2abf20530bb91ecffd240ffb795bb4b0f367fbd2064f5d43c9077f542816ec8f")
+addappid(2854860)
+addappid(2854870)
