@@ -1,0 +1,4 @@
+--game: Spicy Fruit
+
+addappid(2814660)
+addappid(2814661,0,"dae07a1d1cf910ff238d1ba7f88b19ad7524a7c6afc038a905c1e20e0f5c4625")
