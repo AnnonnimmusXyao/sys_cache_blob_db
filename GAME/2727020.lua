@@ -1,0 +1,4 @@
+--game: Orc's Bride
+
+addappid(2727020)
+addappid(2727021,0,"2886a98eb4a19d158e6a14fc5c98d2604af8ab9a1bcb87b28d4f93c02e8eb0c0")
