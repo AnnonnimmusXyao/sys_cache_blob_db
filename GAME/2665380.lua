@@ -1,0 +1,4 @@
+--game: Camping Vlog Simulator 2024
+
+addappid(2665380)
+addappid(2665381,0,"5196f92211bf72c70802853cd1951c11e76ae8cdb7428c0d77fea36d130b26c1")
