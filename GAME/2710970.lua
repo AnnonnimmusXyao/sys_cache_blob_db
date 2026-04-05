@@ -1,0 +1,4 @@
+--game: Dungeon Vixens: A Tale of Temptation
+
+addappid(2710970)
+addappid(2710971,0,"2c8b065e8cd2a975240611a403227a535294e035b796655095499a9d3316fde3")
