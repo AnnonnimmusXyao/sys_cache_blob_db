@@ -1,0 +1,4 @@
+--game: Bio Goddess: Doomsday Begins
+
+addappid(2806120)
+addappid(2806121,0,"b2fdbde8cee12f9bfa492ac7083e3b922b06eb750d4ed3133a2ec34d67381ccb")
