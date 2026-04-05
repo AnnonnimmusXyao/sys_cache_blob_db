@@ -1,0 +1,4 @@
+--game: Uncharted Lands: Beginning
+
+addappid(2666020)
+addappid(2666021,0,"4760252fa21fda8e95121e1c2359f0d888abbb82dea2442ac8cf5fab8501283c")
