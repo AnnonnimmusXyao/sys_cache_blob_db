@@ -1,0 +1,5 @@
+--game: RollScape
+
+addappid(2904290)
+addappid(2904291,0,"a36e3fd357a0b1a84f45f6b89a96fcf17f7ab5c2147f93ff9a462bcfe57608a7")
+addappid(3026890)
