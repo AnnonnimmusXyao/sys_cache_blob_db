@@ -1,0 +1,4 @@
+--game: Platform
+
+addappid(3206240)
+addappid(3206241,0,"9295c379075098543b08e4fbe2bf80eda1c1d677f3044b935ef99085fef27a1d")
