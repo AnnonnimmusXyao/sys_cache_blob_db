@@ -1,0 +1,5 @@
+--game: The Hungry Lamb: Traveling in the Late Ming Dynasty
+
+addappid(2593370)
+addappid(2593371,0,"3a32693a517d6940addf30cdf6b363972c3afe91347938f7faee0d73014055d0")
+addappid(3424250)
