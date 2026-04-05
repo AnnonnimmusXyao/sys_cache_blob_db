@@ -1,0 +1,4 @@
+--game: MOON THIRST
+
+addappid(2943390)
+addappid(2943391,0,"af80da7449baa4401136c5daab151e8b9f1dea0399f1ac2716c4757ae007e58b")
