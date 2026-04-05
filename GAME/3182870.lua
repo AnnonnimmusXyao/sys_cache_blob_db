@@ -1,0 +1,4 @@
+--game: Slugterra All-Stars
+
+addappid(3182870)
+addappid(3182871,0,"b1d42b9a3f218c74a4f0caa47d4fb3fa3e0c6b5e90ae08f401a8734c3df9a712")
