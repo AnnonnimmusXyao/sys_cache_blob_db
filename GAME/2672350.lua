@@ -1,0 +1,4 @@
+--game: Jewel Legends: Tree of Life
+
+addappid(2672350)
+addappid(2672351,0,"167237e2f10765f7f2abae2ca358f5caaca99e29a9a7de05e4d72b1e42da7c86")
