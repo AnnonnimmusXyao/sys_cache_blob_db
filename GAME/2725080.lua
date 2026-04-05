@@ -1,0 +1,4 @@
+--game: SUPER LIFTPIA
+
+addappid(2725080)
+addappid(2725081,0,"4bca66cdf0c8024dec9ef156f8f296fbf4c74d03003a726dde8a2461e3bcd6aa")
