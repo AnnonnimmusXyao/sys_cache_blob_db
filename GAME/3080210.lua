@@ -1,0 +1,4 @@
+--game: I got PINNED by a FUTANARI
+
+addappid(3080210)
+addappid(3080211,0,"38ffe9dc78feef153c36bd0e0f63eef6ed575e5f21cad53b09a0db469fc658fa")
