@@ -1,0 +1,4 @@
+--game: Crazy People
+
+addappid(2663830)
+addappid(2663831,0,"5b4fb1cc39220122f41bdcc230195d1e1f7aadab9f3bc29561ab7e89302bf224")
