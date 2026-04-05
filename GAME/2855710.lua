@@ -1,0 +1,4 @@
+--game: Scrambler
+
+addappid(2855710)
+addappid(2855712,0,"0d64e9e35ca202039186f98287839887875edacf55ba402832bf980cb5fc40b9")
