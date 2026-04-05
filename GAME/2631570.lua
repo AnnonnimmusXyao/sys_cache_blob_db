@@ -1,0 +1,4 @@
+--game: Hentai Swapy Puzzle
+
+addappid(2631570)
+addappid(2631571,0,"62513fbce11494145d358ef16356ff1496e83ca861fe1eaa0bbf12716abdcd3c")
