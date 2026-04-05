@@ -1,0 +1,4 @@
+--game: Milky Way Idle
+
+addappid(3224420)
+addappid(3224421,0,"2287926337f22648afc97eae12db6aef1ce06d3034e63667f515b4cf8ff1f99c")
