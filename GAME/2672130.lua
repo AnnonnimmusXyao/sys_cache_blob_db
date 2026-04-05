@@ -1,0 +1,4 @@
+--game: Bloodshots
+
+addappid(2672130)
+addappid(2672131,0,"d2fcc54c865d9800d6ca587968ea54b195f356cc11bc6de28ad16804c3bd737b")
