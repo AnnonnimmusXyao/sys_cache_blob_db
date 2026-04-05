@@ -1,0 +1,4 @@
+--game: Super Drift Blade
+
+addappid(2847740)
+addappid(2847741,0,"3e531277dd2830846befcd4ab248449c0f7c0d5328a2cfce333a0c1784dc80c2")
