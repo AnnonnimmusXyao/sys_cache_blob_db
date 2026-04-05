@@ -1,0 +1,5 @@
+--game: Generation Exile
+
+addappid(2963240)
+addappid(2963241,0,"69535bd9b7633fd497a79774794a080e7f7c9025a12e29ba6c4db3d3229c62ec")
+addappid(4092580)
