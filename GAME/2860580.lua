@@ -1,0 +1,4 @@
+--game: Otto's Escape
+
+addappid(2860580)
+addappid(2860581,0,"a28bd9ee6ccfef33b7c074c4950df0c092ac5f606eb930838f2315da1749b79b")
