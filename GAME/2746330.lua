@@ -1,0 +1,4 @@
+--game: Big Adventure: Trip to Europe 6 - Collector's Edition
+
+addappid(2746330)
+addappid(2746331,0,"0ec11219ce35789d9c78f30506062b42524ed1253a52eec855e69972f40b0b9a")
