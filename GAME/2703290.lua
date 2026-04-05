@@ -1,0 +1,4 @@
+--game: Bondman Of Traps
+
+addappid(2703290)
+addappid(2703291,0,"d66d03ed3a361c47df31b316a5a2d141de963e2e33b2487cc4c56a6022684f41")
