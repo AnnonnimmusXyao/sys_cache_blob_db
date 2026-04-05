@@ -1,0 +1,4 @@
+--game: Pretty Sweet! Healing Guardian
+
+addappid(3120000)
+addappid(3120001,0,"1d3667c26bdaf4ea5172c0dcdac3f498e5910ff9920d94f6dc1750f4a07a8a76")
