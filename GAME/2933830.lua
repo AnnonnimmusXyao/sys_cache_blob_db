@@ -1,0 +1,4 @@
+--game: Project: Stellar Girls
+
+addappid(2933830)
+addappid(2933831,0,"f7d5545342d172511ae46ca84228cc757b016972a30bc6b4aa1a2c354feab7cc")
