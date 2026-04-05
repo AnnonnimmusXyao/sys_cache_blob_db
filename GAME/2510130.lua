@@ -1,0 +1,6 @@
+--game: Auto Sale Life
+
+addappid(228983)
+addappid(229007)
+addappid(2510130)
+addappid(2510131,0,"d83765616f5bff23acae750c77801250ac76370bd2f32e4201544b7ec0da3178")
