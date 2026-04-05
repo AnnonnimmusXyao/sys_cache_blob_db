@@ -1,0 +1,4 @@
+--game: Days with My Lonely Teacher
+
+addappid(3153770)
+addappid(3153771,0,"5cab9fdc0de97c87081041859fc715c5f390c78a5ea26620c6190da6b15b6da9")
