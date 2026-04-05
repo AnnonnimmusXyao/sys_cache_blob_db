@@ -1,0 +1,4 @@
+--game: Bingle Bingle
+
+addappid(2789810)
+addappid(2789811,0,"002724066244a2381b8b12443996109cedc61069d1d31d8af57e1bf3edd10139")
