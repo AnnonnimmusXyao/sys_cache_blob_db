@@ -1,0 +1,5 @@
+--game: E-Girl RoomMate
+
+addappid(2783560)
+addappid(2783561,0,"33795240e11a05d5cc67f26955f39d6cfc7f3205d51c235d4d2b8870069e643e")
+addappid(2882510)
