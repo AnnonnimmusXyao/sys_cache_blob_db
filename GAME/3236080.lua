@@ -1,0 +1,4 @@
+--game: 老虎机少女 Slot Girls
+
+addappid(3236080)
+addappid(3236081,0,"7d02c80e82448a6a159409f64fcd615a21b68498a0e2998dce38045544569d5f")
