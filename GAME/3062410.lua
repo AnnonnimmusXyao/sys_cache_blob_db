@@ -1,0 +1,4 @@
+--game: Pizzeria
+
+addappid(3062410)
+addappid(3062411,0,"23c65516ce51bad29387225fc4904f15b84900def8f8bb9890bc6bfa5bb22c5d")
