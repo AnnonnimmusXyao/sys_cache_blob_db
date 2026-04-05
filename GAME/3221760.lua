@@ -1,0 +1,4 @@
+--game: 古道卿卿
+
+addappid(3221760)
+addappid(3221761,0,"85fa7eb4c1660ebaf77a737b8bac59171fe90c08f0a8ef174cfe27f7969a7c39")
