@@ -1,0 +1,4 @@
+--game: RISKY CHRONICLES and the curse of destiny
+
+addappid(2918570)
+addappid(2918571,0,"2bc22eb745417043ad3ddcaa7b8d1edf2d37de6c345baf07188d576eb8563feb")
