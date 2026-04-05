@@ -1,0 +1,4 @@
+--game: Djikstra's Enigmatic Puzzle Cube
+
+addappid(2697640)
+addappid(2697641,0,"134f7afd30cef4900af48e6718fc8dcf297d4df2fbd9639c5773e1f2e3904e49")
