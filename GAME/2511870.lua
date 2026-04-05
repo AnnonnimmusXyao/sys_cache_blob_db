@@ -1,0 +1,4 @@
+--game: Hot Beaver Camp
+
+addappid(2511870)
+addappid(2511871,0,"82464c49b47c67aa3f878cf0722f8b413f2ce91d331beb15edfd90731a114e5c")
