@@ -1,0 +1,4 @@
+--game: Abyssal
+
+addappid(2983040)
+addappid(2983041,0,"92c150cb136f2bb5442c6175c5ff377144c900c2b1c46d495808a785b3f89eb1")
