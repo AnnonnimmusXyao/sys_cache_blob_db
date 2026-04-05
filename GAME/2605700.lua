@@ -1,0 +1,4 @@
+--game: Rhythm Journey
+
+addappid(2605700)
+addappid(2605701,0,"4daa90cc9fdd57083d0e35759ca1ca70bb4de45ab0bd937ba1fd8107da9f2607")
