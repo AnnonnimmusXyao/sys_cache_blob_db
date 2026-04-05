@@ -1,0 +1,4 @@
+--game: 未知守则
+
+addappid(2909140)
+addappid(2909141,0,"9a020b57261bfa6931f9c44953e257b83b76fc419f80dbe44233d6ecbfb50741")
