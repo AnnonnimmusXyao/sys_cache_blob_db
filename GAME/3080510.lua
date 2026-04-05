@@ -1,0 +1,5 @@
+--game: Goosebumps: Terror in Little Creek
+
+addappid(3080510)
+addappid(3080511,0,"1ecdba6b36097ecaa8f06ed4b98c33f8a65687c3b9b7084a3bb023201ddeb8bc")
+addappid(3610330)
