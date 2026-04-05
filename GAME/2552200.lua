@@ -1,0 +1,4 @@
+--game: Apothecary
+
+addappid(2552200)
+addappid(2552201,0,"4778ea8bf3a8a590922ed8a681be866e6cc8ded64e000814af5c5bda9265fc53")
