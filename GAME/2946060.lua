@@ -1,0 +1,4 @@
+--game: The Pirate's Quest
+
+addappid(2946060)
+addappid(2946061,0,"b803bf8d1b31e12c8b6263ca8452595c9538c02146e020f074381481f1906c07")
