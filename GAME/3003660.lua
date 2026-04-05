@@ -1,0 +1,4 @@
+--game: Galactic Striker
+
+addappid(3003660)
+addappid(3003661,0,"37e1b3584bfd571f251334e4cce3c06fd3b829dc0db9483b972b0809c17fdd2d")
