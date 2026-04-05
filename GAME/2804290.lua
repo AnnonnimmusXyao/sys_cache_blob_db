@@ -1,0 +1,4 @@
+--game: 英雄竞起:三国
+
+addappid(2804290)
+addappid(2804291,0,"f777557998e132385ad8d1cb998c357ed7f79972acb63336e321f0fcdd1b2b44")
