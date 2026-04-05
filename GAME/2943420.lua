@@ -1,0 +1,7 @@
+--game: Amelie falls over and over again ~ An endless week in Magic Academy
+
+addappid(2943420)
+addappid(2943421,0,"de71f6ee2ee4d74eed30891676d1e89ec4be4656b52bf44d3ad8a257cab725c5")
+addappid(2943422,0,"adc68335fa50b432ced9d66b3f113adb7d18cb8427776846df18944aa8956a41")
+addappid(2943423,0,"8e2b38e2e7c2143349d0512d110e3f8198443323faca851960f07df52f912149")
+addappid(2943424,0,"774fb8b4e2cffff7349380b5204fcf09fb506db3ffadbc24db8872a5abcb3d6d")
