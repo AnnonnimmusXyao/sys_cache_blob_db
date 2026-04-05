@@ -1,0 +1,4 @@
+--game: Seeing Red
+
+addappid(3127240)
+addappid(3127241,0,"72104ecee2f3481c44963894a92ec7187db62e2a27116f59432e43c8652180cd")
