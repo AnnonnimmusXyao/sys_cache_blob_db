@@ -1,0 +1,4 @@
+--game: Scam Line
+
+addappid(2794590)
+addappid(2794591,0,"51f8d8cb073b66732142b3b3a3effe4a35611fd37f066ac010cce82e62edd0ef")
