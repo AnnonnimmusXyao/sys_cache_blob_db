@@ -1,0 +1,4 @@
+--game: Emergency in Space
+
+addappid(2921760)
+addappid(2921761,0,"e26d738a0d73bf2cf750f1ece781c2a85bcfdea069a9f00cda9540b87cfb815c")
