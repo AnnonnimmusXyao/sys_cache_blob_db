@@ -1,0 +1,4 @@
+--game: VR Dinosaur Village
+
+addappid(2516750)
+addappid(2516751,0,"f10a371f59ca3c85829c8708160b528aee20a25c23d807dcc2989de7b36efe40")
