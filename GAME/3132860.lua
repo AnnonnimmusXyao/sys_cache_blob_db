@@ -1,0 +1,4 @@
+--game: 天月麻雀 (Amatsuki Mahjong)
+
+addappid(3132860)
+addappid(3132861,0,"82ade88c139ef6185275ef907929696910b5220a88871db66dbc9379e0e9583f")
