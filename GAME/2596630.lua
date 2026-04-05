@@ -1,0 +1,4 @@
+--game: Freestyle Ice Skater
+
+addappid(2596630)
+addappid(2596631,0,"0d293c6f3d5a7e505a42caf493b0836be89e385282302bbf2987f66943c71d84")
