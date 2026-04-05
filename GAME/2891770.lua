@@ -1,0 +1,4 @@
+--game: Tarlis World
+
+addappid(2891770)
+addappid(2891771,0,"66f2b3f37939b2edefe885a5eb0a03b88467f59a4d93e96661dae8121f38335c")
