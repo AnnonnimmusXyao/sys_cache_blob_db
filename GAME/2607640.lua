@@ -1,0 +1,5 @@
+--game: Rolling Toolman 2 Deathly Traps
+
+addappid(229000)
+addappid(2607640)
+addappid(2607641,0,"ee7ad9bf45b0facb76e70c643ddcf28ec54d6a464b826b223d08a5c04243b73e")
