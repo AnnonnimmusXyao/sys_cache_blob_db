@@ -1,0 +1,4 @@
+--game: Hot Rod Mayhem
+
+addappid(3062040)
+addappid(3062041,0,"f378edcc05013583ac19759119af5f6cccf9e13198b40900d661509e6ec7729e")
