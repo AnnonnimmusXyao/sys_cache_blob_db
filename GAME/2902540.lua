@@ -1,0 +1,4 @@
+--game: KUNKUN Defender
+
+addappid(2902540)
+addappid(2902541,0,"20e9c83c2bc09d030c9f70e344bf022bd38b993faab7f6f32ebe688ec88e24b7")
