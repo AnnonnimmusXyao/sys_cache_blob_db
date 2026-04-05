@@ -1,0 +1,4 @@
+--game: Shooting Range Simulator
+
+addappid(2967850)
+addappid(2967851,0,"bcd016eb613993225fb990529a187d558be463312580de47e56a7095a48e3c91")
