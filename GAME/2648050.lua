@@ -1,0 +1,4 @@
+--game: Sam & Max: The Devil's Playhouse
+
+addappid(2648050)
+addappid(2648052,0,"19d40578faab545e248a07945688c4b8652911fa745ced31364303a471c93ff7")
