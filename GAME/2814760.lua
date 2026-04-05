@@ -1,0 +1,4 @@
+--game: Immortals Must Die
+
+addappid(2814760)
+addappid(2814761,0,"4cf5f171eadd4210c50206203d57bf04b9ab217bfa385c2c5f4fc079bf316827")
