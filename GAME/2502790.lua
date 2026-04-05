@@ -1,0 +1,4 @@
+--game: love story
+
+addappid(2502790)
+addappid(2502791,0,"8dd68ddacb9d01bb629cec71e014d6e48aad47b726967e49f235025865c973f3")
