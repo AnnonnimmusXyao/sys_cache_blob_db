@@ -1,0 +1,8 @@
+--game: Jotunnslayer: Hordes of Hel
+
+addappid(2820820)
+addappid(2820821,0,"6c3ca2723bed87cab9ee1a573779e7cd92ddfaa4f61727af0e5f5219c736611d")
+addappid(3400400)
+addappid(3431390,0,"aa6311cfc779ff46fdbcde4dc361ae59e77a942ab4ec0431eb5d1f560793426f")
+addappid(3883640)
+addappid(3921120)
