@@ -1,0 +1,4 @@
+--game: Papercut Art Gallery-Nature
+
+addappid(2782400)
+addappid(2782401,0,"56f86300566f6c48263aecd227efe6d840df45f3e7c867ec597bc2f4e73fa301")
