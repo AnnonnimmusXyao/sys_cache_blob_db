@@ -1,0 +1,4 @@
+--game: UFO Taxi
+
+addappid(2886240)
+addappid(2886241,0,"756812ebf06a227d079c870c85bdd424dcd37884f931bcdfd2323897977190ab")
