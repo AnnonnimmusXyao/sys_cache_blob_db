@@ -1,0 +1,4 @@
+--game: Kagura Genesis: Kuon's Story
+
+addappid(2668840)
+addappid(2668841,0,"366ea31bc03bd1f1e750f709038b62830aec53750f9b3fd2ea04db6fe1408653")
