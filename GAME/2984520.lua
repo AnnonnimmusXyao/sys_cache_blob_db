@@ -1,0 +1,6 @@
+--game: Digbeat: Godot Deeper
+
+addappid(2984520)
+addappid(2984521,0,"ca87779475badf891924f8de1336ee4407cfa077e32c95d5c909bb7127a1aaef")
+addappid(2984522,0,"9c1ea63d6b1d16caacd864c686a6ffe1e175ae5219bca781224c1e90292ec1c2")
+addappid(2984523,0,"65c1e86f69bbdbc8df58c7257789328e6df6042de57f1bc477830bb68bcdee71")
