@@ -1,0 +1,5 @@
+--game: Servonauts
+
+addappid(2514400)
+addappid(2514401,0,"441ca6a02de94a3c36fd3e196edc3abfb9803bf46b031de7b0e423bc5a13dac0")
+addappid(3352700)
