@@ -1,0 +1,7 @@
+--game: Eroblast: Waifu Dating Sim
+
+addappid(2631630)
+addappid(2631631,0,"5df7800dc215c10589348f96b12cd1aff60fb09e46c94f7f8ae56b0a794a3871")
+addappid(2633370)
+addappid(2633380)
+addappid(2633390)
