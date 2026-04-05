@@ -1,0 +1,4 @@
+--game: Square City Builder
+
+addappid(2561770)
+addappid(2561771,0,"f38851a975863915ef1836effbd645b4ab294cdbb1c4f71d98a124495d1b4c23")
