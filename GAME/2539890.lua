@@ -1,0 +1,4 @@
+--game: VR Dinosaur Island Paradise
+
+addappid(2539890)
+addappid(2539891,0,"d931ef557aaab3612a498e7c09edc0e8299ca14904472379835ff3c0cce08cee")
