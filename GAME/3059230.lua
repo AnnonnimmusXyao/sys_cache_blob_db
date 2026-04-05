@@ -1,0 +1,4 @@
+--game: Ragdoll Rumble
+
+addappid(3059230)
+addappid(3059231,0,"a3d8d4ac87dda588ced1c65202b76bc22025c7921e0fea22755808db086e9c3c")
