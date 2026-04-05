@@ -1,0 +1,4 @@
+--game: Wargame Construction Set
+
+addappid(2707260)
+addappid(2707261,0,"6890fd362d91eae9fd1b3bcd0b2f6bc0306a3227d08fa66730d6ae08da410feb")
