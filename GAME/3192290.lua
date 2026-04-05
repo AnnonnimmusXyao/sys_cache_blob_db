@@ -1,0 +1,4 @@
+--game: Midnight Exhibitionist
+
+addappid(3192290)
+addappid(3192292,0,"4ee9728fbd15d082eb82125297726761f5dc38f1b7475af0ba97ff416bc876b4")
