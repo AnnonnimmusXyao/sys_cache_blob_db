@@ -1,0 +1,4 @@
+--game: Nero AI Image Upscaler Pro
+
+addappid(2812930)
+addappid(2812931,0,"93661bd911b270147ad9aa176e8a6c469cef0559ec95341400ec583546f0db95")
