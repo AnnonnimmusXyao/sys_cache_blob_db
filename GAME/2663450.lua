@@ -1,0 +1,4 @@
+--game: RC Revolution: High Voltage - 免费玩
+
+addappid(2663450)
+addappid(2663451,0,"fe4b1e18f5f3b6f26fb9266008800a8f969cbdddc39484a7e970edd97975735c")
