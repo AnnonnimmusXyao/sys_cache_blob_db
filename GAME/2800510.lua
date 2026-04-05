@@ -1,0 +1,4 @@
+--game: Job Joust
+
+addappid(2800510)
+addappid(2800511,0,"44e7e6696d65c016f1c34ed5b06d8c97b17969ae8a0642bc90d7d3dc2696ebea")
