@@ -1,0 +1,4 @@
+--game: Tactical Warfare: Siege Survival
+
+addappid(2769580)
+addappid(2769581,0,"7c389c155571ed73256e185acd7debfad40eeb235eaafaa0b95af1641a4081c8")
