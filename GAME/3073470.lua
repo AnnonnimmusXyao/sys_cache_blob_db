@@ -1,0 +1,4 @@
+--game: 那一天，我的输出7万亿（MY DIRECT DAMAGE 7 TRILLION）
+
+addappid(3073470)
+addappid(3073471,0,"c719f32fef339539e4051c2f79bfd6e4c527e12da904f0f2b162f47bd97bc776")
