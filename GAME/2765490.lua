@@ -1,0 +1,4 @@
+--game: Healed To Death
+
+addappid(2765490)
+addappid(2765491,0,"f6258392de21366fa09030a6f25bd7e38ea81439a330e3e5070f909f159bed95")
