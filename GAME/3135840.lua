@@ -1,0 +1,4 @@
+--game: Hirogami
+
+addappid(3135840)
+addappid(3135841,0,"33cfd586fbc494197f3819b255cd3d8dc976af6447db5160395d23d95c704b30")
