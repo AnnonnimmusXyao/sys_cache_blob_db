@@ -1,0 +1,4 @@
+--game: Remission
+
+addappid(3004110)
+addappid(3004111,0,"5dda21450c644d26e280aafb2d13e0832cd0d2846c9d204a1fdce70363ffbc9a")
