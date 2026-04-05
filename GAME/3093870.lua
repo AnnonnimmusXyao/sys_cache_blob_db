@@ -1,0 +1,4 @@
+--game: One Long Night with the Circleheads
+
+addappid(3093870)
+addappid(3093871,0,"0e1315223c1529dd6d81da9225453c0a9160e2872a07c98d1291446fd249437f")
