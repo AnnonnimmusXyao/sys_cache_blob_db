@@ -1,0 +1,4 @@
+--game: シシテナオ-Even in Death-
+
+addappid(3132770)
+addappid(3132772,0,"f845d439e6f26d67cc3434e8607266108acbf48c4829582ac5f1c86a48272d64")
