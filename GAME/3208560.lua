@@ -1,0 +1,4 @@
+--game: Trainatic
+
+addappid(3208560)
+addappid(3208561,0,"a489068d42cdc161802726031ef1d30cbb50ae56e4c677768cd6c13a7cf6cea0")
