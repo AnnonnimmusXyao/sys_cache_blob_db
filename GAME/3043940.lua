@@ -1,0 +1,4 @@
+--game: Croc Legend of the Gobbos
+
+addappid(3043940)
+addappid(3043941,0,"2f3c1c83e578c3ac053e2097dd66a5d8e8a8dcc22822995e3c1746b4659ebae2")
