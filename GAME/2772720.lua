@@ -1,0 +1,6 @@
+--game: Veiled Tales
+
+addappid(2772720)
+addappid(228989)
+addappid(228990)
+addappid(2772721,0,"e0f23f00e34b9d179b15c993e698f6ee61550892dabc8a35eab7d2c236852807")
