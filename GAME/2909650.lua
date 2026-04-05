@@ -1,0 +1,4 @@
+--game: Aliens and Asteroids
+
+addappid(2909650)
+addappid(2909651,0,"1d04abdb75b60d91cd885e5f770e5939cb0e67027eb24d7fcb74a904fa21c968")
