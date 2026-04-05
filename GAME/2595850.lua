@@ -1,0 +1,4 @@
+--game: Stronghold Siege
+
+addappid(2595850)
+addappid(2595851,0,"341f81126f54ce15c560b8eab49ad49a820f9c6d34a5fd21a9008ac2cff21446")
