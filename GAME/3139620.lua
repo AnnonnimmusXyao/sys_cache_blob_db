@@ -1,0 +1,4 @@
+--game: Frontline Crisis
+
+addappid(3139620)
+addappid(3139621,0,"46d86bf656eb76bd5604ede6bf0862749ba3450e8b42b1204457f512257bc826")
