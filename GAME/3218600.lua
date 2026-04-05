@@ -1,0 +1,6 @@
+--game: 命运游戏2：百年之约
+
+addappid(3218600)
+addappid(3218601,0,"a9056353de36f2ccfb10c1b66ad52bba28d64db535fb19c5540bbf759b0a6ec7")
+addappid(3241590)
+addappid(3357830)
