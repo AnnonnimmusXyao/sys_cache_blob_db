@@ -1,0 +1,4 @@
+--game: Elohim Eternal: Exodus
+
+addappid(3240300)
+addappid(3240301,0,"ab9e189058bc3ecf4ee7c5e87d3d48b0fd813fb2a542ba7fd066fe3ff4a50f7c")
