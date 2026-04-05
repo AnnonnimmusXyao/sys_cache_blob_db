@@ -1,0 +1,4 @@
+--game: Titans of the Past
+
+addappid(3098170)
+addappid(3098171,0,"147357316b0a33faa40705314e4b2c12939e7a2d5f2b6ab341d9eea28d4768d0")
