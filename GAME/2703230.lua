@@ -1,0 +1,4 @@
+--game: 3D PUZZLE - Hangar
+
+addappid(2703230)
+addappid(2703231,0,"e28cdd1760b18fab00d84068a26e91f270fb2bd13f8be8e86b6fcb5a7ee480da")
