@@ -1,0 +1,4 @@
+--game: Color Splash: Predators
+
+addappid(2846340)
+addappid(2846341,0,"12a1ad2f2f91791b2f4293942c63f60fff44248a8949034264988568465f49bf")
