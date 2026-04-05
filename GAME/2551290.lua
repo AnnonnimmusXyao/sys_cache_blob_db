@@ -1,0 +1,5 @@
+--game: Hilda and the tower of Lust
+
+addappid(2551290)
+addappid(2551292,0,"64a60888b63fe8540f1fc22ff0c7153ce93207a24079c7bafe015e80e40c4a9f")
+addappid(2551293,0,"1e01defccd4dcf87d104642a48be975d5a81d668b3eddf9f4bfe26b931ade976")
