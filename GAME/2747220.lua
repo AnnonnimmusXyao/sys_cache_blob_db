@@ -1,0 +1,4 @@
+--game: Blood Domination
+
+addappid(2747220)
+addappid(2747221,0,"e3c8c3734b36cb8a80894506ce985d3d5cd5e0198b5919592e32dabbe597a52f")
