@@ -1,0 +1,4 @@
+--game: Dizital ImageClub - Neo -
+
+addappid(2839120)
+addappid(2839121,0,"4279c125cfb9083b8821ffc4d13a5d683412311b1b835b0e7b9f05566120f008")
