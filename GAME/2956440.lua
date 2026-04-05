@@ -1,0 +1,4 @@
+--game: Atomic Exile
+
+addappid(2956440)
+addappid(2956441,0,"0f8932a54e75fb9c5b7bc18c595ff3b6f872b97b5380e937cd25054a35529ef2")
