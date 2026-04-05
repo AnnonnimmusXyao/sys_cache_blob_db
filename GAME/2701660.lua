@@ -1,0 +1,7 @@
+--game: DRAGON QUEST III HD-2D Remake
+
+addappid(2701660)
+addappid(2701661,0,"8c4c389019c5d2e6c25110711a77cb18558175e329aab3f13151b5ba67f25a79")
+addappid(2875360)
+addappid(2915510)
+addappid(2915520)
