@@ -1,0 +1,5 @@
+--game: 黑枸杞：悟净
+
+addappid(229000)
+addappid(2809640)
+addappid(2809644,0,"588650ca8e0e6730599f4c8b69a9d5b9edec154f92a11ad6a0012bf9b584ffbc")
