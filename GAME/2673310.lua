@@ -1,0 +1,4 @@
+--game: Gacha Fever
+
+addappid(2673310)
+addappid(2673311,0,"e6938321944f79b35d746a6d2dc06346b10cd88fbd09e4ad9e1a03e7fc2531ea")
