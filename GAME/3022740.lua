@@ -1,0 +1,4 @@
+--game: Heart Clicker
+
+addappid(3022740)
+addappid(3022741,0,"61f4b5553173e9c192897c62477efec94e514b31130fcef25e93f927923b2021")
