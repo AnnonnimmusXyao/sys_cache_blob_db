@@ -1,0 +1,4 @@
+--game: Croissant
+
+addappid(3070330)
+addappid(3070331,0,"51c632a9cd43c2c023c3ab4390c5eb52860135fb18bcd06aeb56858cd4bd37c9")
