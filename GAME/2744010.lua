@@ -1,0 +1,4 @@
+--game: Urban Jungle
+
+addappid(2744010)
+addappid(2744011,0,"e9485680f74b921003e502e7360fe17360400e4c16d3e0c5c0d93be67dbd83d2")
