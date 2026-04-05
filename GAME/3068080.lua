@@ -1,0 +1,4 @@
+--game: Hentai Senpai: Thicc Fairies of Forest Lake
+
+addappid(3068080)
+addappid(3068081,0,"56d623b5006778e464bc1960aea25a969d4daabb38a78c319404f7a449952499")
