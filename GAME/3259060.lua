@@ -1,0 +1,4 @@
+--game: Seductive Blackjack
+
+addappid(3259060)
+addappid(3259061,0,"1b9953bbbbace2a84b6f931225f74e65ae0d78fd0d59aac03a494d70e8ba5509")
