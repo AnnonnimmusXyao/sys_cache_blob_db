@@ -1,0 +1,4 @@
+--game: Boing Bang Adventure
+
+addappid(2568710)
+addappid(2568711,0,"8e614f3134f09df82fe2235cfeb5f516aa5b96595e105947bd6002a9c690c889")
