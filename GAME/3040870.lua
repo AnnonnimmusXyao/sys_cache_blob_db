@@ -1,0 +1,4 @@
+--game: Dragon's Valkyrie: Wings of Fire
+
+addappid(3040870)
+addappid(3040871,0,"4390c5dfd61fc66c95203c48e17e3c3b573d6d48ec43d0635d3c0943ce99b269")
