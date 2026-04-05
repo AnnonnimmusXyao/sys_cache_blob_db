@@ -1,0 +1,4 @@
+--game: Bomber Royale
+
+addappid(2930660)
+addappid(2930661,0,"2828a9171b9a38a30afdb9e0e83f34a30414fb021cb1109403836d8c47dc88dd")
