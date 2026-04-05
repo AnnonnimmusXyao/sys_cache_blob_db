@@ -1,0 +1,4 @@
+--game: Forgotten Memories
+
+addappid(3113260)
+addappid(3113261,0,"7918af7524cbc1ef9960e350686a02315d8a1853f0f19e79066d0b76bd6e1f92")
