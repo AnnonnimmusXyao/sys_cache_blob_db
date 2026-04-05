@@ -1,0 +1,4 @@
+--game: TV Show Tycoon
+
+addappid(2974050)
+addappid(2974051,0,"d05c35cecc3c410b87b5aab83e12d9582805dcc79697835380eb086ae376ba1b")
