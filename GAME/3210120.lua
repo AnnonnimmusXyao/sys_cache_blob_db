@@ -1,0 +1,4 @@
+--game: The Elf on the Shelf®: Christmas Heroes
+
+addappid(3210120)
+addappid(3210121,0,"0ff7d80ae9054f4a14d29707c17f648f8679901b546d33d09c43cc2747c42ebb")
