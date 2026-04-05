@@ -1,0 +1,5 @@
+--game: Cool Lady
+
+addappid(2507890)
+addappid(2507891,0,"71f5ddbade2111722dd89dda3d7e597935de41d6623b80d090a00bdde0b2355c")
+addappid(2510530)
