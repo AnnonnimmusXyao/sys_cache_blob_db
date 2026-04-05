@@ -1,0 +1,4 @@
+--game: Trident's Tale
+
+addappid(2541780)
+addappid(2541781,0,"4cbf0f299add2bda4fa9d245a949dbeca87ee67081f1a11fbce9b436602608c9")
