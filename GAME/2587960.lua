@@ -1,0 +1,4 @@
+--game: Boing Odyssey
+
+addappid(2587960)
+addappid(2587961,0,"9d5a124f5c6af59cd76e2cae363ff399e634e276ffa75aa590a1fbba74a591cd")
