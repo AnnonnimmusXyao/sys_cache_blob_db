@@ -1,0 +1,4 @@
+--game: Idle Fairy Fantasy
+
+addappid(2875090)
+addappid(2875091,0,"c051701a858846806c82952c98a460889646028b8b0bf65abe6354f7b2b9541e")
