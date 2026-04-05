@@ -1,0 +1,5 @@
+--game: TheJoker'sGame
+
+addappid(2983660)
+addappid(2983661,0,"e2dd149ca721a2e204bd61e1b47a9a809f7ca74145d2bcadb3441d89ba93b9fc")
+addappid(2983662,0,"22b108881965d0d4fa23ecce560f471f7aac763a78b4e5e6fc7c6a791db96b77")
