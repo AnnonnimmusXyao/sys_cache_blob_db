@@ -1,0 +1,4 @@
+--game: Find 100 Ducks and Blast Them!
+
+addappid(3222970)
+addappid(3222971,0,"00538d68e29de58a186067a7d9b101931d8810bf9e78adbda6a304edf31ea3e1")
