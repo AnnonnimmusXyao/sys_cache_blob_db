@@ -1,0 +1,4 @@
+--game: Hidden Storehouse Top-Down 3D
+
+addappid(3230900)
+addappid(3230901,0,"f923185a3215f4d89d5b59b468ff0b989027eb1ec352087b635f8216eb3ec58a")
