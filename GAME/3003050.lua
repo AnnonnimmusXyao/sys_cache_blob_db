@@ -1,0 +1,4 @@
+--game: Robert on Earth
+
+addappid(3003050)
+addappid(3003051,0,"5043da89a908e45e4901dd4617a2a296e48f2a45dcbbd3a6591d69a1ee7ee4f6")
