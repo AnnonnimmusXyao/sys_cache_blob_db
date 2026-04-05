@@ -1,0 +1,4 @@
+--game: Moaisland
+
+addappid(2861280)
+addappid(2861281,0,"ac085a0df244a8353857e925575e105c98175003d9698c5b0d0bb33b4870b2c5")
