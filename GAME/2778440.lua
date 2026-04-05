@@ -1,0 +1,4 @@
+--game: Trainer Eyes VR
+
+addappid(2778440)
+addappid(2778441,0,"5acee93a25f1f3e1b589b9e3cbe5d43fa200a9533595dddd10776174856559a8")
