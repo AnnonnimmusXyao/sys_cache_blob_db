@@ -1,0 +1,4 @@
+--game: Anomalous Crossing ~Shibuya~ | 異変交差点 ～渋谷～
+
+addappid(3032980)
+addappid(3032981,0,"e835a5e368880a49d11a93d27619e3153029d9c7872f2a0c6792a4c4314a664c")
