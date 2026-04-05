@@ -1,0 +1,4 @@
+--game: Tale of Time: Bagua
+
+addappid(2611590)
+addappid(2611591,0,"e4f836ba46546f71fd9b57287dcf85d81d1036811958167cfbfd2929a74888e3")
