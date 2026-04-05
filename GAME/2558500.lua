@@ -1,0 +1,4 @@
+--game: The Hangman
+
+addappid(2558500)
+addappid(2558501,0,"ab56ac663221163954c8e871c72c5b1d233f85ff7b8c63406c56beee56d6ffee")
