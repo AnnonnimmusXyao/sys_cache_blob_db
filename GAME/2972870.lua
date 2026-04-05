@@ -1,0 +1,4 @@
+--game: Red Ruins: Asymmetric VR vs. PC
+
+addappid(2972870)
+addappid(2972871,0,"6c4ddd3a7f50e151c74f8fb954fcc35de96a31de703a8dbfd09e131ac17dca25")
