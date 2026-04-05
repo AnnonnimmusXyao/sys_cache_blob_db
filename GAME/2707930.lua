@@ -1,0 +1,8 @@
+--game: Palia
+
+addappid(2707930)
+addappid(228989)
+addappid(228990)
+addappid(2707931,0,"8dcbc3190b4df9e486fd1898b13fdbbd8549da218b0719a813b3f6d771a8e6f3")
+addappid(3708940)
+addappid(3720190)
