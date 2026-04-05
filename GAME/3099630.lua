@@ -1,0 +1,4 @@
+--game: Academy Love Saga: Tennis Angels
+
+addappid(3099630)
+addappid(3099631,0,"805dd006150157f547de0146792f4feafd5d07c33de223f862783483e367edf4")
