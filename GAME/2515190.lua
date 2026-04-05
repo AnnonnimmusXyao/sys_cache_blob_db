@@ -1,0 +1,4 @@
+--game: blocxlide
+
+addappid(2515190)
+addappid(2515191,0,"772156a06d6d49a82ec20aae01f5f320a23d5faf069d42134ff85521a3398c18")
