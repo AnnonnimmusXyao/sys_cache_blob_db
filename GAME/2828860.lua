@@ -1,0 +1,6 @@
+--game: The Forever Winter
+
+addappid(2828860)
+addappid(2828861,0,"e333c16789028087fd8925929beb0a6117f7fdb30559fa9f02677adfd32b076c")
+addappid(3651820)
+addappid(3977550)
