@@ -1,0 +1,5 @@
+--game: Girls Hobby in LOVE
+
+addappid(2715960)
+addappid(2715961,0,"a23ef5d0e3e7cd05e1730c2050dc403d5bff82b36e790e334608ad4bde200ecb")
+addappid(2723530)
