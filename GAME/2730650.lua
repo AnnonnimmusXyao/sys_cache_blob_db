@@ -1,0 +1,4 @@
+--game: 逆乱封神之武王伐纣
+
+addappid(2730650)
+addappid(2730651,0,"e17fe8e4825a9437e8b821f1df24ddb1f5a8b4c88320efd922d79794e53aa73f")
