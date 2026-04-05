@@ -1,0 +1,4 @@
+--game: Esports History: Prologue
+
+addappid(3217120)
+addappid(3217121,0,"afe9f27e8acd4c185a110b9e37047f99e166dbb874b15f758df2dad8b435d067")
