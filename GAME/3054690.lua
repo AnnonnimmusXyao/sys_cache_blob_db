@@ -1,0 +1,6 @@
+--game: NORSE: Oath of Blood
+
+addappid(3054690)
+addappid(3054692,0,"195608a3107ceb558bf95bdba29ff7227cbee788ba72ca4a5ea28ee920a92125")
+addappid(4248320)
+addappid(4248330)
