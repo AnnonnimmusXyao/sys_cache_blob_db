@@ -1,0 +1,4 @@
+--game: Another Hope
+
+addappid(3118520)
+addappid(3118521,0,"883632752634dbb5b7f83e594192dc3915a2fbec057bfe7e94ce666f5873563a")
