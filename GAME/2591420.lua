@@ -1,0 +1,4 @@
+--game: Rogue City: Casual Top Down Shooter
+
+addappid(2591420)
+addappid(2591421,0,"e1d16ec53ed8528fb92d9f367e5d71cf35acb8dce6e00c7218e81857a887d451")
