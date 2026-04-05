@@ -1,0 +1,4 @@
+--game: BubbleBeast DigiDungeon
+
+addappid(3071280)
+addappid(3071281,0,"46946ccbac28498bcff24282f066b7db9fb68b7358ba6a3fcb194a42db80d8a8")
