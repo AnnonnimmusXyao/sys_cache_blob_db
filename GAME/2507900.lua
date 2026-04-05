@@ -1,0 +1,5 @@
+--game: Girls in Pajamas
+
+addappid(2507900)
+addappid(2507901,0,"2c7623c90c059c63d8301ada5850baab43669c2f019d143486d28ac549fe9326")
+addappid(2510230)
