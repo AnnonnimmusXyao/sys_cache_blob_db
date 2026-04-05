@@ -1,0 +1,5 @@
+--game: Harbinger
+
+addappid(2859800)
+addappid(2859801,0,"d3e41f8b207808e62aaa112a10a82db9d658915653b32a3ab2d11b3dda05f289")
+addappid(3235280)
