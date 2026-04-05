@@ -1,0 +1,4 @@
+--game: INFECTED - Super Soldier Project
+
+addappid(2619120)
+addappid(2619121,0,"426e8927c0d8911ae2679c723f086b719a64d8b989209e79925757517471e3f9")
