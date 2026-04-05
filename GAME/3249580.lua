@@ -1,0 +1,4 @@
+--game: Yakiniku Party Survival
+
+addappid(3249580)
+addappid(3249581,0,"0e7949444295451a7fe36c9753620e95a64cd5cf5885a3f4d768e3d5e127f2ec")
