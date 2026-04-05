@@ -1,0 +1,4 @@
+--game: Bad Mineral
+
+addappid(2609750)
+addappid(2609751,0,"c6208ca6f5d21b0a3580fde086e8afcd85655094b7a4da2ccd5c34d84447dc76")
