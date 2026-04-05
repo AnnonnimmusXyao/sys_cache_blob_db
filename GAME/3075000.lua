@@ -1,0 +1,4 @@
+--game: Neffy-Moonlight Labyrinth-
+
+addappid(3075000)
+addappid(3075001,0,"f6fa11d0d73f68da4d1b4b256a2a1fdf523425d10f2c75e4df9d92c55289272b")
