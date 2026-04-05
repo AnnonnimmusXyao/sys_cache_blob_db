@@ -1,0 +1,4 @@
+--game: Frontball Planet
+
+addappid(2515290)
+addappid(2515291,0,"aa93eb043d294a29e83e12d1361a4d1b4372b2539446a459cbd054a3f6501dcf")
