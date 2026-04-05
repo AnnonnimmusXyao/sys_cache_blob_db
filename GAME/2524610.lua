@@ -1,0 +1,4 @@
+--game: Кукуево / Kukuevo
+
+addappid(2524610)
+addappid(2524611,0,"dfb92651ba775ab14a1e448e1df0d901c7a257039affbaa38c0e838dd178834e")
