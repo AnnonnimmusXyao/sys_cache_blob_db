@@ -1,0 +1,4 @@
+--game: Parasomnum
+
+addappid(2624020)
+addappid(2624021,0,"c1738af3572d6ea3896dfc522f4ea19e44e51757010039d4f626613fcc22763a")
