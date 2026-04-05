@@ -1,0 +1,4 @@
+--game: 一人仙道传
+
+addappid(2890970)
+addappid(2890971,0,"c01bdc939ac8d3ccd29d491b2f79735a615f879fec84563f65744eb15c9d0ba8")
