@@ -1,0 +1,4 @@
+--game: SUIKAWA LEAD
+
+addappid(2848970)
+addappid(2848971,0,"d1d5511164cf1abb5029ab958db54b2e39ae27f1752208eb7480fb542867a9e2")
