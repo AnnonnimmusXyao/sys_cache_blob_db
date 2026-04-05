@@ -1,0 +1,4 @@
+--game: Anomalum
+
+addappid(3050480)
+addappid(3050481,0,"dd3655260aaa22274093030f329e3cf80b946b1268fcebf14fc311ae8dfdf779")
