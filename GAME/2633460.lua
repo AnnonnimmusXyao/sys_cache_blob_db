@@ -1,0 +1,4 @@
+--game: Black Mountain Kings
+
+addappid(2633460)
+addappid(2633461,0,"79a4c45673ff2b57820843859f38f277fbfdd20508c7ab27d82f270c164e86b4")
