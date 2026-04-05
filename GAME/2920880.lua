@@ -1,0 +1,4 @@
+--game: Truth Universally Acknowledged
+
+addappid(2920880)
+addappid(2920881,0,"ea69c4600d135b9ca21fde5728d6caa8353854b899887f83e9ae14b9d42225e4")
