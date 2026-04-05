@@ -1,0 +1,4 @@
+--game: Pickup Trash Simulator Remastered
+
+addappid(3062710)
+addappid(3062711,0,"5fc8eadb9fa398cb8fdcd9fbd0638d9e878377e535840303d198aab1ab4ab7af")
