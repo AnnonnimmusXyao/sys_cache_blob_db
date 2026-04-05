@@ -1,0 +1,4 @@
+--game: VRな彼女
+
+addappid(2954880)
+addappid(2954881,0,"0e0fd245c24e73b77f90071292cc1a0dff3a9352a4e1b565da232a1ed2931733")
