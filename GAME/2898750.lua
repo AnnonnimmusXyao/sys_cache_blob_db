@@ -1,0 +1,4 @@
+--game: BobasQuest
+
+addappid(2898750)
+addappid(2898751,0,"35d298e3c83a603280d2646e414d129eda50e058ba07980ffca6c7632a11ee15")
