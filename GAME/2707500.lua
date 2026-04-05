@@ -1,0 +1,4 @@
+--game: ROKO'S BASILISK
+
+addappid(2707500)
+addappid(2707501,0,"ea3e221099d5a20013daa318d7bc08a3625b09107eb0d5637352476cc9bb0f95")
