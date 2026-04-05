@@ -1,0 +1,4 @@
+--game: Kitchen Quest
+
+addappid(2585840)
+addappid(2585841,0,"bba0af1e89c72fd5feec984dfe777ef5cb8c91afcf96e2af6481b074dc15137e")
