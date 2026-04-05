@@ -1,0 +1,4 @@
+--game: EarthKart: Google Maps Driving Simulator
+
+addappid(2599450)
+addappid(2599451,0,"3821e04b68249991b76d71a5f5a8ca70a3b1f6d66713d33a2d32ccea1bb166de")
