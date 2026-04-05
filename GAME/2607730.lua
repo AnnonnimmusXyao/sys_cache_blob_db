@@ -1,0 +1,4 @@
+--game: Leave Panda Away
+
+addappid(2607730)
+addappid(2607731,0,"b730df732bdc48ffba05cace5ff205b6dd38fe84a5bd40bb58ba23dfb5b089b9")
