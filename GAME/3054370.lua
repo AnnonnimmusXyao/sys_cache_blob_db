@@ -1,0 +1,4 @@
+--game: Luna and the Wasted City of Sin
+
+addappid(3054370)
+addappid(3054372,0,"7c01108b691d5d17e9fad58cf32a2bbe02e21e1f8d00642b5fedaf60dd3e95c4")
