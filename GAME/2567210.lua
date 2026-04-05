@@ -1,0 +1,4 @@
+--game: Real Boxing: Steel Champions VR
+
+addappid(2567210)
+addappid(2567211,0,"629a93fe4e314a7604092d370586eb0cebbba1e66490a0bae829567fc20dd4ca")
