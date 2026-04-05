@@ -1,0 +1,4 @@
+--game: Chicken Defense War - Tower Defense
+
+addappid(3149250)
+addappid(3149251,0,"58b15eeb56ab31f490438fe7baa63052039ab03467904b48ca94f4744b3a1c46")
