@@ -1,0 +1,4 @@
+--game: Yoru ga Kuru! -Square of the Moon- Remastered
+
+addappid(2901150)
+addappid(2901151,0,"cb43458be9a2350c3c69a5c22130a4d6208c1ae3f6981aa2e4022cdd480801f5")
