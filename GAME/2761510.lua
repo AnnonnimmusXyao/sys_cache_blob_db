@@ -1,0 +1,4 @@
+--game: 帅气的我与100个女友！
+
+addappid(2761510)
+addappid(2761511,0,"16d6a26d0dcbb97c1ff66bd132b37cdb531eb109b2caf4e4cefb37539dac44d6")
