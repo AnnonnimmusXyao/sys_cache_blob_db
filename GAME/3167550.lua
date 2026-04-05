@@ -1,0 +1,8 @@
+--game: Tiny Pasture
+
+addappid(3167550)
+addappid(3167551,0,"2eb36141e330220bd89c47de8cca1c780182686771b6f5e9251eeef811774d14")
+addappid(3467780)
+addappid(3592330)
+addappid(3687640)
+addappid(3734130)
