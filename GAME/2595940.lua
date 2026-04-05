@@ -1,0 +1,5 @@
+--game: Magical Bakery
+
+addappid(2595940)
+addappid(2595941,0,"ea7028796adb4b8c3ec8308c5b16b9f311e42817fddf44855ec727b981cc41a8")
+addappid(3049310)
