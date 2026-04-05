@@ -1,0 +1,4 @@
+--game: Stock Stack
+
+addappid(3114780)
+addappid(3114781,0,"7ecf90620649b5814d6d46af110d4b99b2f942f6bbf16cbd2abe61e867210b9f")
