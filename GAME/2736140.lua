@@ -1,0 +1,4 @@
+--game: Black Prophecy
+
+addappid(2736140)
+addappid(2736141,0,"867765ab0514a44fc039f2ed18ef8d3d8a2ea706adcd96ba80bf56b185614107")
