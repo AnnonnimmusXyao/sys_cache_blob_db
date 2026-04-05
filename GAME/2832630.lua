@@ -1,0 +1,4 @@
+--game: Interstellar Plunderer
+
+addappid(2832630)
+addappid(2832632,0,"adcccbba174249914fe9e9b3576de256a8ebd1a3d7f42ea7f0c3721b0e0e9110")
