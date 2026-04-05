@@ -1,0 +1,4 @@
+--game: 8minSurvival
+
+addappid(2926890)
+addappid(2926892,0,"6595b9fcad26c23c0bd0754f9a0ff562ca2688bd40622ab9f3c9d22433832063")
