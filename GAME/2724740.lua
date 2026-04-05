@@ -1,0 +1,4 @@
+--game: Psychiatrist Simulator 2
+
+addappid(2724740)
+addappid(2724741,0,"2aeef29afb8d5084a8a563f309886388580c122e954ee4f229042841c8c5ad28")
