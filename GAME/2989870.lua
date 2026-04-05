@@ -1,0 +1,4 @@
+--game: WAIFU IMPACT 2
+
+addappid(2989870)
+addappid(2989871,0,"50fcce3732e1403e2225e1e2c2ffba0fc3ef325f88a87c1a6502e61835b4d6f5")
