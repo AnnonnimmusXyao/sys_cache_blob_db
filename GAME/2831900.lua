@@ -1,0 +1,4 @@
+--game: Crab Attack
+
+addappid(2831900)
+addappid(2831901,0,"f42de373ce8a31787587c3279f5dd0cd3c566913bc625ec6f814b5c4cae61ccc")
