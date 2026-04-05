@@ -1,0 +1,4 @@
+--game: 赛博杀手 Cyberkiller2049
+
+addappid(3047340)
+addappid(3047341,0,"cdec19219ee31f3a760e627d8e9ef85b266ff4fc0a98590a0a9fcb2ad2db7392")
