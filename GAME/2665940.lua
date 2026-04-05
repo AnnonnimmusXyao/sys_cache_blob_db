@@ -1,0 +1,4 @@
+--game: Ninja Resurrection: A tale of Kuro
+
+addappid(2665940)
+addappid(2665941,0,"85189b81e90588b2a142b1f943bbb6b63e40c576d4246f75b44914e7087ee459")
