@@ -1,0 +1,4 @@
+--game: Tapple - Idle Clicker
+
+addappid(3047030)
+addappid(3047031,0,"1bcfa72500588fcb7e719de5ed0db1f1e5aa67ebb2e3803345608ac7e928e0dd")
