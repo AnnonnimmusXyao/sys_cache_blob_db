@@ -1,0 +1,4 @@
+--game: 诸神战纪
+
+addappid(2510760)
+addappid(2510761,0,"3c09948685c0430ab0028f0dbe407aaa046486a7fdaaafddf7f820c4d419f26a")
