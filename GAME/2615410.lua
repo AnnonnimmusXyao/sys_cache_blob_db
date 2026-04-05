@@ -1,0 +1,4 @@
+--game: 迷宮のドールポリス
+
+addappid(2615410)
+addappid(2615412,0,"ad1c7ae622b5bb376b6ac9d96f4ceb991aefdbe0b9fbff521df962215292071a")
