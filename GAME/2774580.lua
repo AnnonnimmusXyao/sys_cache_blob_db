@@ -1,0 +1,4 @@
+--game: Vikings: Sex and Blood
+
+addappid(2774580)
+addappid(2774581,0,"a95f1a5b0efa0da4a03ca28d6a8bb4e4dd6aa6172b7849bae4fae95bb5ddc5db")
