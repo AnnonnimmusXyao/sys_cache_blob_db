@@ -1,0 +1,4 @@
+--game: Nested Lands
+
+addappid(2553040)
+addappid(2553041,0,"f218e3a1f8ac36dfce6b45bc9faafda810050dfe1c14de69a984a268888c3d1f")
