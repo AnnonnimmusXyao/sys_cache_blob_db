@@ -1,0 +1,6 @@
+--game: Security: The Horrible Nights
+
+addappid(2911390)
+addappid(2911391,0,"c54fe80dbc1f0aadce30925544bc1c32f7bec72c25d37d8154d0711447e12446")
+addappid(3338870)
+addappid(3462400)
