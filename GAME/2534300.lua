@@ -1,0 +1,4 @@
+--game: ZomWick
+
+addappid(2534300)
+addappid(2534301,0,"176549e423302a17738e036dc1987d4a93713a7bc6abeeb35d9ad96cc3aa8670")
