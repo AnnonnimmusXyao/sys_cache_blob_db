@@ -1,0 +1,7 @@
+--game: Metro Awakening
+
+addappid(2669410)
+addappid(2669411,0,"e66acc7d1c34d04e8258937dc45248f754652968f377d3bb4447273880f07363")
+addappid(2841920)
+addappid(2841930)
+addappid(2841940)
