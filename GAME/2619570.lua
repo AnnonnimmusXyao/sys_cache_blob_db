@@ -1,0 +1,5 @@
+--game: Fallen Ninja
+
+addappid(229000)
+addappid(2619570)
+addappid(2619571,0,"340eaf235767cb363715d38ad39e894f587d5dfc3092653bb159e62ac5513886")
