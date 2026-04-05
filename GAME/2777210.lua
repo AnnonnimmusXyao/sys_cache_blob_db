@@ -1,0 +1,4 @@
+--game: Man of Steal (Nymphs)
+
+addappid(2777210)
+addappid(2777211,0,"e295b2a3944737854d23ce6fd74cc851e4e398917d61072f5bb010b93203f9be")
