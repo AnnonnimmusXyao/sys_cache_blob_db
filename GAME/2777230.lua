@@ -1,0 +1,4 @@
+--game: ALAA-MOGUS MUST DIE
+
+addappid(2777230)
+addappid(2777231,0,"86f73296af8f539bc354098fd06400ffddaed92de23dd5c856748d11e2bb9c70")
