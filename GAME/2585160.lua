@@ -1,0 +1,4 @@
+--game: Our Little Secret! Heart-Pounding Idol Sex! Forbidden Lessons with the Manager
+
+addappid(2585160)
+addappid(2585161,0,"bd0438acc8133051952e4830b8cd7f8e1c7534459a26eeaf8a0abc1860c8346d")
