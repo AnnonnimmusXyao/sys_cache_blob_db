@@ -1,0 +1,5 @@
+--game: Star Trek: Voyager - Across the Unknown
+
+addappid(2643390)
+addappid(2643391,0,"57b4c2d3d8f47f323a4f445bfc28db843a6b33bc85212f2abf0cf6ee1456760e")
+addappid(4063520)
