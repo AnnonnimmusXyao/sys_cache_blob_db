@@ -1,0 +1,4 @@
+--game: Yatagarasu Enter the Eastward
+
+addappid(2630350)
+addappid(2630351,0,"237734e930c8c837417a3f523ae386911751bb52c00c178d8ac8a9a2602ede06")
