@@ -1,0 +1,4 @@
+--game: Koppun-50
+
+addappid(3071290)
+addappid(3071291,0,"4831b48f433c4abba28934b5f5a193dc0cf94f5f45f005487aa2a691d52c3011")
