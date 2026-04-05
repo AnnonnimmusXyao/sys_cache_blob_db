@@ -1,0 +1,4 @@
+--game: Puzzlemazed
+
+addappid(2987610)
+addappid(2987611,0,"0428684e4e0130927f3e6b2d59f69869c97d85373acdebcd83b52db2f8e0b45e")
