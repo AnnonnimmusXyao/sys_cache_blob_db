@@ -1,0 +1,4 @@
+--game: Idle Blocks
+
+addappid(2608250)
+addappid(2608251,0,"dcd251b946aa4e2c5123707bcaba1ebf92cd28da1a0a436ca1a14ca396e8fabd")
