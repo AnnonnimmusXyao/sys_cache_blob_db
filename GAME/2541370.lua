@@ -1,0 +1,4 @@
+--game: Hentai Direct-Her
+
+addappid(2541370)
+addappid(2541371,0,"1e46529eeae0590383e37f9048fd46fc31fb4b49147c5c094b9565341aa1face")
