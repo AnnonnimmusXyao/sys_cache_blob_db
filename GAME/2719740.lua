@@ -1,0 +1,4 @@
+--game: Zero Caliber 2 Remastered
+
+addappid(2719740)
+addappid(2719741,0,"e968be510dce7b2ea93808d515951b6b9f447b29ea5417a92e08d0efe4f22b82")
