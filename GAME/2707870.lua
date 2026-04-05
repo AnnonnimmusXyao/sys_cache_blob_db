@@ -1,0 +1,4 @@
+--game: Streetdog BMX
+
+addappid(2707870)
+addappid(2707871,0,"270cb2f5955c3d358632970ab54e85661e8fdd172fab898a1041d9bbbfa594c2")
