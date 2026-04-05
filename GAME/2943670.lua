@@ -1,0 +1,4 @@
+--game: Night Club Simulator
+
+addappid(2943670)
+addappid(2943671,0,"49d630f434157fdf347fa1dcb14b59e22bf2ba0ef79c9c7766145bd6d4f04c09")
