@@ -1,0 +1,4 @@
+--game: Super Mega Awesome Typing
+
+addappid(2568690)
+addappid(2568691,0,"be53ab6c2f5dcc2c37ece153f2fc1bee925c4a2327f53502823187e9b8cbb420")
