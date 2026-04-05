@@ -1,0 +1,4 @@
+--game: Long Drive North: Co-Op RV Simulator
+
+addappid(3179350)
+addappid(3179351,0,"2cce8c2c19a27072f890b94b34692bdf66c9791c38871cf65cf06d5d4dcdce34")
