@@ -1,0 +1,4 @@
+--game: Grandfather Simulator
+
+addappid(2690770)
+addappid(2690771,0,"8ab6977d922dcc8dcb37bef795857c43c57fb4b570e85216830df6b50b3464aa")
