@@ -1,0 +1,4 @@
+--game: Ancestral
+
+addappid(3234740)
+addappid(3234741,0,"56f219ead0310ac9bf75310781883ac38acdf7bd1079c29423985bd79887f1e7")
