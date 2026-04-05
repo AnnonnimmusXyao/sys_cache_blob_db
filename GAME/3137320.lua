@@ -1,0 +1,5 @@
+--game: Big Adventure: Trip to Europe 8 - Collector's Edition
+
+addappid(3137320)
+addappid(3137321,0,"c625be9c44de3a0150c71a92196acec8756b9085ce7b28a806df5f61fae39d92")
+addappid(3137322,0,"7900ed51509cec666e79ad91c9e087809bb9f9d8827ad897436eb1a35f557ec2")
