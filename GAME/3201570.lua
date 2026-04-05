@@ -1,0 +1,4 @@
+--game: VR Sailing
+
+addappid(3201570)
+addappid(3201571,0,"86dfd0bc7ba56cabc47474c595ea02f426ce169fed136602d8822cc9dfd10bbe")
