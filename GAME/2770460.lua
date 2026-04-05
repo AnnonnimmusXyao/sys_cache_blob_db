@@ -1,0 +1,7 @@
+--game: Lunavania
+
+addappid(229000)
+addappid(229007)
+addappid(229033)
+addappid(2770460)
+addappid(2770461,0,"be35ac65accd70d2e44e754a534eb3e3874fd495ed433f235564b172feee3a6b")
