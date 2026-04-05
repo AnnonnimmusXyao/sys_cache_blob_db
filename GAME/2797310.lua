@@ -1,0 +1,4 @@
+--game: Hypnotic Idol
+
+addappid(2797310)
+addappid(2797311,0,"2fee0d3ceb47f07db76153736bebdd92eb1e44b9fe6d731c8f237d37a05ce7db")
