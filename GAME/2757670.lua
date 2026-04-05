@@ -1,0 +1,4 @@
+--game: NODE: The Last Favor of the Antarii
+
+addappid(2757670)
+addappid(2757671,0,"6c40834bc551e4b2beb5d47a4eb3b8ae8798de257c0e93d567c900ca1aacd027")
