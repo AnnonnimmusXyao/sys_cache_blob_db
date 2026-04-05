@@ -1,0 +1,4 @@
+--game: GLASS Zero
+
+addappid(3046800)
+addappid(3046801,0,"30fdbbcd6edb75aeb69b2c8a2a43c9d9197dcabfe6bed6e6d665731869d80b1a")
