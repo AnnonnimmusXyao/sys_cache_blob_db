@@ -1,0 +1,4 @@
+--game: The Johnny Papa
+
+addappid(2550460)
+addappid(2550462,0,"c185ed15c68c5d48f48ceb89ecf01a6f2c2884b7a0060dbd5d348ebeceabe764")
