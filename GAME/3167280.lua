@@ -1,0 +1,4 @@
+--game: Ikarus Parkour
+
+addappid(3167280)
+addappid(3167281,0,"1b1929846ec645ef5eb073427b69f02c9876da76886a8e07b53365296d852d77")
