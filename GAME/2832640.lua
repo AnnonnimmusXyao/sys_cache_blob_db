@@ -1,0 +1,4 @@
+--game: DEAD GET REKT
+
+addappid(2832640)
+addappid(2832641,0,"6c80534bd1e28668655193dc717687fc71bab53d1edfb22e1614042df83ee80a")
