@@ -1,0 +1,4 @@
+--game: Traveler's Refrain
+
+addappid(2679660)
+addappid(2679661,0,"5f675672b3edd7e898ef7b87caefb74b291fe5d420fe302331c18731614e1174")
