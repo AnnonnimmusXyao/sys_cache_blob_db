@@ -1,0 +1,4 @@
+--game: Lil'Johnny Watermelon Smash
+
+addappid(2958250)
+addappid(2958251,0,"de5ba594867ee99029e32722e93d0702d76ebbac993dd7063a6187d3e4c1a40c")
