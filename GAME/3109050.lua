@@ -1,0 +1,5 @@
+--game: Waifu
+
+addappid(3109050)
+addappid(3109051,0,"ac8350cec66d95ce0f8925bc4eb8cc7d3a2921aac2a3d50edc87e1f40f11806d")
+addappid(3370810)
