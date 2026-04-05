@@ -1,0 +1,4 @@
+--game: Poly Backrooms
+
+addappid(2533430)
+addappid(2533431,0,"c7fd3c4daeee0b9d93fa3ce5c3726e77cd728c0d1cf7130034b725855913342d")
