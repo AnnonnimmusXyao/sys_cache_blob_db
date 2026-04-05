@@ -1,0 +1,4 @@
+--game: Croak Crusader: Spawn of the Spore Spectre
+
+addappid(2997920)
+addappid(2997921,0,"43c1b1ac99e2f96686cadcb8fa1c8784761e7415245e642affaad18a31b3fc08")
