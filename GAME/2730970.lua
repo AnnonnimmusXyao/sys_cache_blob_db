@@ -1,0 +1,7 @@
+--game: Westland Survival
+
+addappid(2730970)
+addappid(2730971,0,"433e4ef61057fe766c002e41555b34b53605073dfc1352daf6ed35bc27f8925f")
+addappid(3897400)
+addappid(3897410)
+addappid(3897420)
