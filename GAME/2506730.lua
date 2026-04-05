@@ -1,0 +1,4 @@
+--game: i feel very lonely and i don't remember myself
+
+addappid(2506730)
+addappid(2506731,0,"83ce05e7889dcd81d364b365cff7517a4b8ca62bd322072c2d12a16bec32cd22")
