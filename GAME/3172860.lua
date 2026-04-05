@@ -1,0 +1,4 @@
+--game: Lust Epidemic 18+
+
+addappid(3172860)
+addappid(3172861,0,"623f99b45d8afab9c117ac6ec68ad5adafe7e1199fbc8da49c0ef666b474ce5a")
