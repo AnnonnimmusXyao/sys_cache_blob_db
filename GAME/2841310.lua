@@ -1,0 +1,4 @@
+--game: フルーツゲーム
+
+addappid(2841310)
+addappid(2841311,0,"28aec877ef29626231476c2d54b65baefd3745f32b5f1226a280a9d4d768ea2d")
