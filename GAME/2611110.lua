@@ -1,0 +1,4 @@
+--game: Atomic Hazard
+
+addappid(2611110)
+addappid(2611112,0,"690aaf3505bf43080f5c2450bb456083980bb19a183c78c1d2ccd2b6e715ef69")
