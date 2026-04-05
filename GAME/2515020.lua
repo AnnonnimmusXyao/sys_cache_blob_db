@@ -1,0 +1,11 @@
+--game: FINAL FANTASY XVI
+
+addappid(2515020)
+addappid(2515021,0,"a1bc4011c581932ab613727be50494068bd3d57d59fa0f60bef081401902a046")
+addappid(2515022,0,"3bf28fa5738f1732e7e31ca3de269b6690be6a325d2ce76da6f924ddf812b90b")
+addappid(2744050)
+addappid(2744060)
+addappid(2886900)
+addappid(3142080)
+addappid(3142090)
+addappid(3142100)
