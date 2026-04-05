@@ -1,0 +1,4 @@
+--game: Speak of the Devil I: A Deathly Proposition
+
+addappid(2686590)
+addappid(2686591,0,"cdb80c63a2bd5221d6d031e1dcb65dc1117f8107603576a7582405723f7045a1")
