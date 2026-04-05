@@ -1,0 +1,4 @@
+--game: Storage Anomaly
+
+addappid(3206660)
+addappid(3206661,0,"2ffa93137ff3850aca90847bc28206e9cd137c6b6e4934d3fd20dfd9f8ff533f")
