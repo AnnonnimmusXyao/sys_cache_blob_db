@@ -1,0 +1,7 @@
+--game: Harry Potter: Quidditch Champions
+
+addappid(229007)
+addappid(2878600)
+addappid(2878601,0,"1f592e4f58b2197dbdc21348883475d72796385505b5ee13ae0e5cd7fc4142a4")
+addappid(2922880)
+addappid(3105320)
