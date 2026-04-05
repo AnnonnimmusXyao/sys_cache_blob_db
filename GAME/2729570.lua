@@ -1,0 +1,4 @@
+--game: 七个背叛者 Seven betrayers
+
+addappid(2729570)
+addappid(2729571,0,"f6fad46b6220d92d3e1512f6ba29a734d6cd418462a1db8141fa55b682cc009d")
