@@ -1,0 +1,4 @@
+--game: Crate Escape
+
+addappid(2613640)
+addappid(2613641,0,"53a97f8fb2e9fa5456526ee10d7408c2fdd98d4eaa4c2687fc4695fe6933cd3d")
