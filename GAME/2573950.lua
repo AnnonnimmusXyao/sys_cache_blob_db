@@ -1,0 +1,4 @@
+--game: Sun Breed
+
+addappid(2573950)
+addappid(2573951,0,"7a27472f7da5aa3c877836a3de8f98332018b729b054ef31a773597128103b6d")
