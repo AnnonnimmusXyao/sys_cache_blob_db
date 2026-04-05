@@ -1,0 +1,4 @@
+--game: UFO ENEMY KNOWN
+
+addappid(2883670)
+addappid(2883671,0,"253abeeccaaea1639807163e7b83c60d03071b203df98a56dd56c4333edad60d")
