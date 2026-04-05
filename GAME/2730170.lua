@@ -1,0 +1,4 @@
+--game: They Can Hear Us
+
+addappid(2730170)
+addappid(2730171,0,"24ef198b8186990bb075753026b397874b5d6eca3bbd78dda18132050c138060")
