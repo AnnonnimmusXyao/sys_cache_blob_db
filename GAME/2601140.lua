@@ -1,0 +1,4 @@
+--game: Internet Cafe Mini Games 10 in 1
+
+addappid(2601140)
+addappid(2601141,0,"252faa1fa4ce85431ad7628817496f0e5e87971be3bbfb5f402d37e421f650f1")
