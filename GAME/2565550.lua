@@ -1,0 +1,4 @@
+--game: Beyond Hanwell
+
+addappid(2565550)
+addappid(2565551,0,"97e08dc9c8a92304c49389b9890893ffa3dace77807e9ff785390076133b4dc0")
