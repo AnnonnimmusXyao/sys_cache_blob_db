@@ -1,0 +1,6 @@
+--game: INAZUMA ELEVEN: Victory Road
+
+addappid(2799860)
+addappid(2799861,0,"da70d57902dfb9488ab7546791fe906d239062bb3b209db909eda0a17e4745c3")
+addappid(3550790)
+addappid(3801700)
