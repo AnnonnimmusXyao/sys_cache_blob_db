@@ -1,0 +1,4 @@
+--game: Sex Simulator - Vampires
+
+addappid(2690800)
+addappid(2690801,0,"e0cbede47040c62e25d80c4ae87ec9a6cd4463a5b3c07f5ad3fa0196c8a4c647")
