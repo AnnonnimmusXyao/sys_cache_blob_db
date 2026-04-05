@@ -1,0 +1,4 @@
+--game: Necrosis: Dawn of Dread
+
+addappid(3155010)
+addappid(3155011,0,"ad74babd1dab5af339e5476d79b3c18f8f4897f44b0558f8067edd067246fdb1")
