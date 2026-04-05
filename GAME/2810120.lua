@@ -1,0 +1,4 @@
+--game: Traveler Eternal Night
+
+addappid(2810120)
+addappid(2810121,0,"531807286a7a079ad45ad9ad3e9253e32642b39d8cf9bce7295e7d4690ca3aa9")
