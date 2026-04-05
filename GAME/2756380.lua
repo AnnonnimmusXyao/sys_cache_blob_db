@@ -1,0 +1,4 @@
+--game: Dead-End City Blues OD Edition
+
+addappid(2756380)
+addappid(2756381,0,"f556477d2d52f0967d05b9a9bc8fe4f10ed29415b745c4642ae7000778d07a19")
