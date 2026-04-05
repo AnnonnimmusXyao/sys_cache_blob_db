@@ -1,0 +1,4 @@
+--game: Super Algebrawl
+
+addappid(2688900)
+addappid(2688901,0,"af3bdc55ceadb64dab94346bdf46c89df1fef2af3ba5813a262b4299d418c6de")
