@@ -1,0 +1,4 @@
+--game: 异世界放置
+
+addappid(3260930)
+addappid(3260931,0,"dfb07fb48e05d516f144044766fd4f136a3ae1b744c26a10398ce73e53495a1b")
