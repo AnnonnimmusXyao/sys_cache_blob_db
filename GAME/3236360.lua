@@ -1,0 +1,4 @@
+--game: Loveland's Leap
+
+addappid(3236360)
+addappid(3236362,0,"55e1bad53e283b67c83f04a8ecace3163cad471a6b07c686ef1b8b76b17909ab")
