@@ -1,0 +1,4 @@
+--game: Supernormal
+
+addappid(2532430)
+addappid(2532431,0,"5e04f302a2021e890ded0718ad7e60326b21923867f97b427193fec229623ff2")
