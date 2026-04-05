@@ -1,0 +1,4 @@
+--game: TattooVR
+
+addappid(3236890)
+addappid(3236891,0,"d2a84699afc39dcc9e4520d4d4430aaad2fe5d706914141d326330db0134826b")
