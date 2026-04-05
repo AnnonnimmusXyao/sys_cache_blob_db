@@ -1,0 +1,11 @@
+--game: GUNVOLT RECORDS Cychronicle
+
+addappid(2585040)
+addappid(2585041,0,"b47a5bcb7c4aaab416933ee01739b197c6a9cc01d25e748383f46dbf2486bd42")
+addappid(2720460)
+addappid(2720470)
+addappid(2720480)
+addappid(2720500)
+addappid(2720510)
+addappid(2776310)
+addappid(2776320)
