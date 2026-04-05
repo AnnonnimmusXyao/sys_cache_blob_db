@@ -1,0 +1,4 @@
+--game: 迷走:二律背反
+
+addappid(2521180)
+addappid(2521181,0,"0d08c1a541dc361816efb1d2aee187fd512befa60d7d838d31220110ac24d7ce")
