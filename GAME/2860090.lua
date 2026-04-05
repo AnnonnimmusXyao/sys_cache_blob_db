@@ -1,0 +1,4 @@
+--game: Himantolo
+
+addappid(2860090)
+addappid(2860091,0,"95f2de6134633702fbf1118085af39ffcd57e8a236a24d8d9a2dc7d2d41adf06")
