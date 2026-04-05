@@ -1,0 +1,4 @@
+--game: JJJ
+
+addappid(2595370)
+addappid(2595371,0,"22da140f0dade93e5bf88afe4c004babc89ef59c95da74c3d1195158ca9a631d")
