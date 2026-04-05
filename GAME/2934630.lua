@@ -1,0 +1,4 @@
+--game: Harvest Hustlers
+
+addappid(2934630)
+addappid(2934631,0,"7366b1bc858df96064d2740d1cbe4c055625e3699f2e7b437b0fb47a75196936")
