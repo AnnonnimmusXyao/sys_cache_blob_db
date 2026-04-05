@@ -1,0 +1,4 @@
+--game: Rocket Rats
+
+addappid(3069810)
+addappid(3069811,0,"5d18432dd898d169016599b76cea321680cbafbbfcba19269e304b566ccdd754")
