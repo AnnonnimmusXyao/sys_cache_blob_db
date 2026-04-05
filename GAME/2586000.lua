@@ -1,0 +1,4 @@
+--game: Endless RPG - Untold Tales
+
+addappid(2586000)
+addappid(2586001,0,"d7078da8e8a58fa0840da3f87aed3ee84d8be20146c2c82bde70989189eae289")
