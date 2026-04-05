@@ -1,0 +1,4 @@
+--game: Midnight Furry
+
+addappid(2602700)
+addappid(2602701,0,"40ebb1c2d672a908350a6498001c27944f4dfdb3ad1a77f10ddd343800389298")
