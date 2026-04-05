@@ -1,0 +1,4 @@
+--game: Bad Granny Little Thief
+
+addappid(3214680)
+addappid(3214681,0,"73bddb089a8c6d5b29f2345a846606d5227a4265532260a7188f5acf421364af")
