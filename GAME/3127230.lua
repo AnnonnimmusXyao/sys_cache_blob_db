@@ -1,0 +1,4 @@
+--game: PBA Pro Bowling 2026
+
+addappid(3127230)
+addappid(3127231,0,"29afb63b5b341254321d6c7dbb6f8ac0ec5681da22b790ca89b9122e601f0c02")
