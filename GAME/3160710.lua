@@ -1,0 +1,4 @@
+--game: Loot Stack - Relics Hunter
+
+addappid(3160710)
+addappid(3160711,0,"f9502930290d9763a1cb005ae3e220572bde2299ad1e2e85dc05752ddaff6f30")
