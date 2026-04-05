@@ -1,0 +1,4 @@
+--game: Sex Story - Cuckold Life - Episode 2
+
+addappid(2547980)
+addappid(2547981,0,"2a7ed623864376fb640f5dad21b04e367fdbeebac80d79989580edbfb45249b5")
