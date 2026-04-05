@@ -1,0 +1,4 @@
+--game: Hymer 2000
+
+addappid(3255860)
+addappid(3255861,0,"83e7f024f171ebca72bc9243b94b00467f989c1ed2fcf773fd130e2793706dd9")
