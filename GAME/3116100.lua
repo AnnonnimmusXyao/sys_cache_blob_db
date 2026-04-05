@@ -1,0 +1,4 @@
+--game: Horror at the Harpers
+
+addappid(3116100)
+addappid(3116101,0,"c3525a24ba94fb5b53578ba04e964b3b445123772e3a39de348c882d68c60204")
