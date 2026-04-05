@@ -1,0 +1,4 @@
+--game: DJLand
+
+addappid(2589810)
+addappid(2589811,0,"b68d1cb8047c4573b9971a7ce18306cfe8fa86f6f442c2d0b1df98bf50ca2b9d")
