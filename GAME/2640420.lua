@@ -1,0 +1,4 @@
+--game: Retro Blaster : Mech Madness #1
+
+addappid(2640420)
+addappid(2640421,0,"1f957145b799204b2f919516e4a6b0dbdd2092f6975ece17b2479f6313670d1c")
