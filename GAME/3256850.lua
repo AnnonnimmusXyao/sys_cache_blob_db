@@ -1,0 +1,4 @@
+--game: Tic Tactic
+
+addappid(3256850)
+addappid(3256851,0,"539dc25568d54fc7a263033292b19e6658e9da76763fc037412061fb57abd570")
