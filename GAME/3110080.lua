@@ -1,0 +1,4 @@
+--game: 欧比3011-序章
+
+addappid(3110080)
+addappid(3110081,0,"ce1d89656cdfe910da4d6812cd9d7a4ca537bcc63ea40f9e300da4e234efb1eb")
