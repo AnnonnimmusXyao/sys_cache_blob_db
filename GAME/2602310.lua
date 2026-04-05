@@ -1,0 +1,4 @@
+--game: 铲屎官兼侦探-Cat Detective
+
+addappid(2602310)
+addappid(2602311,0,"1844bd3456399e42a1159c9cb524ef5efff51d90b65ed37195a8ac934d2dc1bc")
