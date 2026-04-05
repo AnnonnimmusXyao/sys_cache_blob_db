@@ -1,0 +1,4 @@
+--game: Light the Candles in Hell
+
+addappid(3224480)
+addappid(3224481,0,"32bc8d28b89af41a474c7933d79e14928c46f742ae08397df59b892f769b10fb")
