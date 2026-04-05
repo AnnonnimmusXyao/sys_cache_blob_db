@@ -1,0 +1,4 @@
+--game: Whimsical Wizardry
+
+addappid(2910500)
+addappid(2910501,0,"a3599de3f9632ef7539673c1b2bfe2fe5b57712357311e814e8b4cb7757e0eb1")
