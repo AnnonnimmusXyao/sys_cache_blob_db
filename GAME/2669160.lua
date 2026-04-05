@@ -1,0 +1,4 @@
+--game: Strange world
+
+addappid(2669160)
+addappid(2669161,0,"f1368fd1899ed8dc6b43a91de3d712b94dbf48289d6da0e1100747504df64986")
