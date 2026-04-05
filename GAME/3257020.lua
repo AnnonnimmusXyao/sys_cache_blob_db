@@ -1,0 +1,4 @@
+--game: Alarion
+
+addappid(3257020)
+addappid(3257021,0,"d2bc09764e6d097e3b4250f052656c7d6f421cd48417c4a30057beb56e20a7a2")
