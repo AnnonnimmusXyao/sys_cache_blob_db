@@ -1,0 +1,4 @@
+--game: 寿司王 -sushi ou-
+
+addappid(3078290)
+addappid(3078291,0,"d570590c651defc7ae5f7d13b1b9cc9f866113cc431b314ebeb41269679ac3d7")
