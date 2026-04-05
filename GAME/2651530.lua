@@ -1,0 +1,4 @@
+--game: 穿越黃油開後宮
+
+addappid(2651530)
+addappid(2651531,0,"d7596ff5ad3ce043041d79adabb84af953eaed760e20e205f14ed2bc3f95dd4d")
