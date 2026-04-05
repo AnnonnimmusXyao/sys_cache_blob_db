@@ -1,0 +1,4 @@
+--game: Minami Lane
+
+addappid(2678990)
+addappid(2678991,0,"d84a738140bbcd05ee16bf3e5e225082b6d30b792da04df9be5ceef9245e886c")
