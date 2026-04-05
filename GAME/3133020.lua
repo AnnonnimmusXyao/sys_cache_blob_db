@@ -1,0 +1,4 @@
+--game: Cozyrama
+
+addappid(3133020)
+addappid(3133021,0,"0d242af4d28344827fe4fb72c772985bae99eb45392a11def067e7c3c9fb0765")
