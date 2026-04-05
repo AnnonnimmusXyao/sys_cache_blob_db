@@ -1,0 +1,5 @@
+--game: Solo leeching~35-Year-Old Magician Journey
+
+addappid(2696070)
+addappid(2696073,0,"22999f2bfefdbcaec9c4e6044cd9bb1b1d28bc803349d957be7d3071f4c42de6")
+addappid(2696074,0,"8c8af14318fc3756f5e9e4ee80713325c2a578c4204098b7127dd20fa17c39c1")
