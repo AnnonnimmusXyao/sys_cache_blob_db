@@ -1,0 +1,4 @@
+--game: Stump Simulator
+
+addappid(2642460)
+addappid(2642461,0,"ccafba769732f982c3366f09b2cc54dfc417251552efcbf24abc162f87df59dd")
