@@ -1,0 +1,4 @@
+--game: EgoVersus: The First Strike
+
+addappid(3076680)
+addappid(3076682,0,"b43582da43b868cc98db240678522f540e578478d0710cd5190c87bbeccd4848")
