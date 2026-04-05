@@ -1,0 +1,4 @@
+--game: Run and Hunt: Skeleton Rebellion
+
+addappid(2921850)
+addappid(2921851,0,"98c3478e12b176d7eefe6603ab07acf9bb9b6eba1226fa7bb2633a0509e318ee")
