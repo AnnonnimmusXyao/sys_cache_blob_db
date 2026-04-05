@@ -1,0 +1,4 @@
+--game: NIDANA
+
+addappid(3186120)
+addappid(3186121,0,"60cfd797c9ff88092e5b9ac524bca33a7ffab8e6fa62b660c4640414e8c43a53")
