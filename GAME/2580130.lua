@@ -1,0 +1,6 @@
+--game: The Seven Realms: High Lathión
+
+addappid(2580130)
+addappid(2580132,0,"5a73798d8903015918ca9170611938e57b16e955176c82c1abc7706d58496890")
+addappid(3277900)
+addappid(3277910)
