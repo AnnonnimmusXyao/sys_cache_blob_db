@@ -1,0 +1,4 @@
+--game: Hungry Horrors
+
+addappid(3048840)
+addappid(3048842,0,"94718ed5eeffdc1c5f21b4749319b0de54351a503e91a0da500c5e6300815328")
