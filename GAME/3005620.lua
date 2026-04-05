@@ -1,0 +1,4 @@
+--game: Drop Pockets
+
+addappid(3005620)
+addappid(3005621,0,"79e4395225f0f408f8db768120886af24e5ef745ffc0fc213f606c7716a78487")
