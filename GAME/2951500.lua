@@ -1,0 +1,4 @@
+--game: Medved Hellraiser 3: Green Elephant
+
+addappid(2951500)
+addappid(2951501,0,"638a787a55737fc7e4e16a3aef5ab224a44aaf2237da9a735b2e819ebc892162")
