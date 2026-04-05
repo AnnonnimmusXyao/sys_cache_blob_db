@@ -1,0 +1,4 @@
+--game: Goblin's Bizarre Adventure
+
+addappid(2541100)
+addappid(2541101,0,"642449b507293d2df72087f049c3e1a81a12675a14dacf68c47285c3f04a10d0")
