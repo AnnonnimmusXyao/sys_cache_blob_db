@@ -1,0 +1,4 @@
+--game: ReCoil
+
+addappid(2842580)
+addappid(2842581,0,"352e34d37084beb7ebd0cf2ac8628135e607de9670dec1f1f0a8e44c4536a58e")
