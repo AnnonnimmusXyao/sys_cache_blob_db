@@ -1,0 +1,4 @@
+--game: Art Diff
+
+addappid(2983630)
+addappid(2983631,0,"bf6a22fb53ea437087ca7f804282e24f3711ce40429d8bee59fde5e71bdff5c6")
