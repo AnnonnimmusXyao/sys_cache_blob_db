@@ -1,0 +1,5 @@
+--game: Biped 2
+
+addappid(2560240)
+addappid(2560241,0,"e2316d00922f6f267842f1e95fe47ce413cf57346e675fde73f7e10f5616f5cf")
+addappid(3801980)
