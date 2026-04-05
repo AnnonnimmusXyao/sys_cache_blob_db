@@ -1,0 +1,4 @@
+--game: Thorns: Police never sleeps
+
+addappid(2908340)
+addappid(2908341,0,"13465409d35bc14cef6a908ef3e11239204f12874b5dd3654a776cec363addb6")
