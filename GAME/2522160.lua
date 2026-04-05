@@ -1,0 +1,4 @@
+--game: Rogue Fist
+
+addappid(2522160)
+addappid(2522162,0,"5a3f62c582a07686a930b686913f4394dbbdfa8f476c1fd5edc4cad61a50c2fc")
