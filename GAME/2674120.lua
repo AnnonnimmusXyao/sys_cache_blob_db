@@ -1,0 +1,4 @@
+--game: INARI
+
+addappid(2674120)
+addappid(2674121,0,"ee77c3ee9d486cfc9b811f97fb5af7a253772cf4627007de1a3a88ffeb8ead6b")
