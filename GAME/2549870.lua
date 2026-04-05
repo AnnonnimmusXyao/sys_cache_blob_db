@@ -1,0 +1,14 @@
+--game: My Hobby: Needlework Galore
+
+addappid(2549870)
+addappid(2549871,0,"1d061caf44ce3e02af110f2d6f4178274368d9b5089462acbfb6181ef6e441b2")
+addappid(2549970)
+addappid(2549990)
+addappid(2971620)
+addappid(3092790)
+addappid(3092800)
+addappid(3092810)
+addappid(3379050)
+addappid(3403410)
+addappid(3426560)
+addappid(3499360)
