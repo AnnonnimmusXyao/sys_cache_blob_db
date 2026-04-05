@@ -1,0 +1,5 @@
+--game: Lonely Mountains: Snow Riders
+
+addappid(2545360)
+addappid(2545361,0,"097b0ce09326208a8d662ac6de3f39f1cc1f8bad9caaecd6ffb87937706620d8")
+addappid(3390150)
