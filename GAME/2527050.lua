@@ -1,0 +1,4 @@
+--game: Wrong Landing
+
+addappid(2527050)
+addappid(2527051,0,"e0a7dff5ce52e9967b33f592903daa17404ae2c731c76694e9cc46f806348211")
