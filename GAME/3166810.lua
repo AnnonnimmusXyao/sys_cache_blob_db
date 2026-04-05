@@ -1,0 +1,4 @@
+--game: Insider Trading
+
+addappid(3166810)
+addappid(3166812,0,"f3e8e0e94adf5268edeee9c013edf248de3a2cbc9d4c5deb998067804ae746b2")
