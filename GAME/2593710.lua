@@ -1,0 +1,4 @@
+--game: Cyberpunk: Red-Light District
+
+addappid(2593710)
+addappid(2593711,0,"6761396a32df35143f09e3fb76c7f66c614bb3512bd229faf87844bf13d96dfe")
