@@ -1,0 +1,4 @@
+--game: Confidential Killings - A Detective Game
+
+addappid(2797960)
+addappid(2797961,0,"e4bfe8f260d53969bae9c2ff9677c18efb3a2c121bc7d87290c8c96c99c4c7b0")
