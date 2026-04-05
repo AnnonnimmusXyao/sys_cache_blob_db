@@ -1,0 +1,4 @@
+--game: 9SHOT
+
+addappid(2941480)
+addappid(2941481,0,"1279d53144c32e964d66529ca695d5a826abf1cb581609dc85f7aa110ab1dee2")
