@@ -1,0 +1,4 @@
+--game: The Daily Life of Serving Doll
+
+addappid(2651420)
+addappid(2651421,0,"3aa434e7250f311cd42ad20e30c3debf283ae6b8e41e28470a3d80bfb4b2ee23")
