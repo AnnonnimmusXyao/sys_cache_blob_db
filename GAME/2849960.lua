@@ -1,0 +1,4 @@
+--game: 少女☆歌劇 レヴュースタァライト 舞台奏像劇 遙かなるエルドラド
+
+addappid(2849960)
+addappid(2849961,0,"1eb8cc0a3368b2ba3005190bfd70ee3b53a8fca2b7f09369aff9f64e4053bb63")
