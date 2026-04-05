@@ -1,0 +1,4 @@
+--game: 脱出哥布林巢穴
+
+addappid(2651310)
+addappid(2651311,0,"bde9a862771b76a267d498de86955fabad96e78a8e6e113a1ab66e04a7aa3352")
