@@ -1,0 +1,4 @@
+--game: Temtem: Swarm
+
+addappid(2510960)
+addappid(2510961,0,"6298e19f83a2a76669f5695059fbdd6bb50c0bd28a05a54f178486de4283e7c4")
