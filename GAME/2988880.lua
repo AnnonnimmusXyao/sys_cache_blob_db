@@ -1,0 +1,4 @@
+--game: 誰是被告人-靈魂繪師
+
+addappid(2988880)
+addappid(2988881,0,"85599cdbc186dd427e6afca1d637f992dc646519d73863411c30221cfa2d3fb0")
