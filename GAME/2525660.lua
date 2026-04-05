@@ -1,0 +1,4 @@
+--game: Dead Wells: The Devil Fragment
+
+addappid(2525660)
+addappid(2525661,0,"03add88d06f9bd71608cc7b8fb0a85b0b7268df67463f81974e9993c17d5341e")
