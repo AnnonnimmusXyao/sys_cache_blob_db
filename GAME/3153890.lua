@@ -1,0 +1,10 @@
+--game: Simulator of Countries
+
+addappid(3153890)
+addappid(3153891,0,"9c87950ff867d0c333ed25546ad38bfd4adba0e28d6b5e95c1d005e99699677f")
+addappid(3168430)
+addappid(3218920)
+addappid(3339020)
+addappid(3496800)
+addappid(3633620)
+addappid(3826150)
