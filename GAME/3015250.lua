@@ -1,0 +1,4 @@
+--game: Life on Mars (MiZtyl)
+
+addappid(3015250)
+addappid(3015251,0,"3da075f45c37bd41fd88a30e38ce2e3428c5d024d07b68f73244978064274600")
