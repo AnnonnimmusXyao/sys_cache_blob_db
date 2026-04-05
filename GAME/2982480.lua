@@ -1,0 +1,4 @@
+--game: DASH n CRY
+
+addappid(2982480)
+addappid(2982481,0,"a60653ca4646c19199da31a443418641b491e5ce27f9c0ba46df3702ccdcc442")
