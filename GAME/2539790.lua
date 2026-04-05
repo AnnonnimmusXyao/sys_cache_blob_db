@@ -1,0 +1,4 @@
+--game: 夏日事件簿 Summer Fantasy
+
+addappid(2539790)
+addappid(2539791,0,"6d2aef546b50eb8f2cf6077efaccb93c76f76c9acb6c00eee9c1d667b891b323")
