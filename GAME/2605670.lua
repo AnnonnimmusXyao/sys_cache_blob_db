@@ -1,0 +1,4 @@
+--game: AcShooting
+
+addappid(2605670)
+addappid(2605671,0,"592cdf46f1214dafd5962a4db5efe8cb944a60d029b1967d807232129bf35e3e")
