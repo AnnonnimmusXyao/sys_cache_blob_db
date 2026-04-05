@@ -1,0 +1,4 @@
+--game: HackHub - Ultimate Hacker Simulator
+
+addappid(2980270)
+addappid(2980271,0,"46221cd6ec513106b0e38cefed4ef24f26c78dadb378d172643ec85848cc40d4")
