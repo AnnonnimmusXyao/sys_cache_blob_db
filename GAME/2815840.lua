@@ -1,0 +1,5 @@
+--game: Nash Racing: Battle
+
+addappid(229000)
+addappid(2815840)
+addappid(2815841,0,"12500d1a45553cc6d00491c3abd4e2563042f4f0bd2118731e343e3bd97200b0")
