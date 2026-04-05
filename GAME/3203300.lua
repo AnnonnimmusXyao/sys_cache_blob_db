@@ -1,0 +1,4 @@
+--game: Giggle Night: Trixie's Trial
+
+addappid(3203300)
+addappid(3203301,0,"3afcdb72fa0843e78c55563bd7f874c6c7aa64fcfedfdd9cbc537acb035f09b3")
