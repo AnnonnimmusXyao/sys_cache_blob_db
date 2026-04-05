@@ -1,0 +1,4 @@
+--game: Echo Of The Wild Online
+
+addappid(2734880)
+addappid(2734881,0,"d24c0c81dcf26a583d042d9374c3fde733afdc9e965e4add4d30ffbad61877df")
