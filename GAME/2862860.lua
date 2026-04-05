@@ -1,0 +1,4 @@
+--game: Ukrainian Fight Drone Simulator (UFDS) - FPV drone simulator
+
+addappid(2862860)
+addappid(2862861,0,"4ee20016788a1b4d0a2fca7538249558728be0b90e5c064c412a68dfa2c541e7")
