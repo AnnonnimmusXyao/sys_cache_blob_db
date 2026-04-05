@@ -1,0 +1,4 @@
+--game: Hyperspacer
+
+addappid(2893850)
+addappid(2893851,0,"91996985c8498057d83a1049ccfe9f2260f6031e201dcc8c99265bea6636994d")
