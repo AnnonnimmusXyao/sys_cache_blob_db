@@ -1,0 +1,4 @@
+--game: Survivalo
+
+addappid(3066950)
+addappid(3066951,0,"b4b4c35fda0865bdf5b7480543ac66130634b7aa83d9ea40bf0f197696d59be4")
