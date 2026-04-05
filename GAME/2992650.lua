@@ -1,0 +1,4 @@
+--game: Hyperchannel
+
+addappid(2992650)
+addappid(2992651,0,"d12a7acf83d21fe928efd34aee0995368a902688e1b02db7fc7940d58095b944")
