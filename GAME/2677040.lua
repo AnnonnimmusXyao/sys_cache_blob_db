@@ -1,0 +1,4 @@
+--game: 真夜的居所 - Chanye's Home
+
+addappid(2677040)
+addappid(2677041,0,"0a764d639a2cc63827d3e778928c0ebf6ebfb4280ac21e8ed27a4ab77b4758a2")
