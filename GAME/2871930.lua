@@ -1,0 +1,4 @@
+--game: Astro Looter: Survivor
+
+addappid(2871930)
+addappid(2871931,0,"4b6a2006044e2b92f577c53230ab016d95516a717ef84eb3360cecf24d7d57e5")
