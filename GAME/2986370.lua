@@ -1,0 +1,4 @@
+--game: Food Delivery Simulator
+
+addappid(2986370)
+addappid(2986372,0,"3c33608cb0e40db3a3b700286443175881b1b14cc8fd17721e09a50c570791fc")
