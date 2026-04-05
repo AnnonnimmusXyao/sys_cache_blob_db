@@ -1,0 +1,4 @@
+--game: Hot Dawn Uprising
+
+addappid(2744020)
+addappid(2744021,0,"25d0be221aedae3a73b1cc1024ae3f34f26d0199b3e991f1557b7a26f4cd6dfb")
