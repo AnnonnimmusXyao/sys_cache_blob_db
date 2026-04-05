@@ -1,0 +1,4 @@
+--game: Alchemist: The Garden
+
+addappid(2526040)
+addappid(2526041,0,"9977f3611e11b3654bfdb55b947e0c2ab7ff9959cc353d30f323c960801733f7")
