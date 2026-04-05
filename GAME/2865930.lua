@@ -1,0 +1,4 @@
+--game: Rime's quest
+
+addappid(2865930)
+addappid(2865931,0,"f4411b79b4f1cb5faadcab1f27198c56a01325ed80a4d74363b3e6303cbcab68")
