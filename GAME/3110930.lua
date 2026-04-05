@@ -1,0 +1,4 @@
+--game: A Handful of Lewd Games
+
+addappid(3110930)
+addappid(3110931,0,"926f1a2c28ae7497f246b71c8e9539c093e545feaab6a464b489c6e072f46893")
