@@ -1,0 +1,4 @@
+--game: Card Fencer
+
+addappid(2745230)
+addappid(2745231,0,"2d37336fe7d9c29ce6ee02897b3796c003b1f8081cca2edb8342a91baf214fd2")
