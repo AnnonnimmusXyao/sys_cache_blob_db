@@ -1,0 +1,4 @@
+--game: FPVSIM Drone Simulator
+
+addappid(2605530)
+addappid(2605531,0,"7b758b1f4072150f953927649f19c4acfcfc8e75389a975fe45f63075dd7d0a1")
