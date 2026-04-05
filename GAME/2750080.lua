@@ -1,0 +1,11 @@
+--game: The Settlers®: New Allies
+
+addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
+addappid(2750080)
+addappid(2750081,0,"33ee22467ac12ac1254685a95378f2f831405511a55fff1054a6b8e0bfb0165e")
+addappid(2880540)
+addappid(2880550)
+addappid(2880560)
+addappid(2880570)
+addappid(2880590)
+addappid(2888500)
