@@ -1,0 +1,4 @@
+--game: Trophy Hunt
+
+addappid(2658260)
+addappid(2658262,0,"6d1cd7e0f16df37b43a5a7ee327fc493c2dd3727d17691ffef337a88076d2d41")
