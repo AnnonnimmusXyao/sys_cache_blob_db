@@ -1,0 +1,4 @@
+--game: Auto Tow Truck Simulator
+
+addappid(2715660)
+addappid(2715661,0,"3a00a9b08397ca3acfcdc79eb55cb035816efb2b173d421483b0dc198f053a83")
