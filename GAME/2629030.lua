@@ -1,0 +1,4 @@
+--game: Finite State Automaton Challenges
+
+addappid(2629030)
+addappid(2629032,0,"2ac2d927f8c2bf52906ec369630af0070db92444dd672aa83b58f87b25eea8f7")
