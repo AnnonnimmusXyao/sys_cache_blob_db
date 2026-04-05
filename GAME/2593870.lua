@@ -1,0 +1,5 @@
+--game: Football Heroes League
+
+addappid(2593870)
+addappid(2593871,0,"906afa27a30aa23563657afdcf525762a8848cce0bbe2279667afb5d6d9afd77")
+addappid(3286750)
