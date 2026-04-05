@@ -1,0 +1,5 @@
+--game: Turkish Throne
+
+addappid(2839450)
+addappid(2839451,0,"b763e5212d6f405715a8c31093ffd46b9ac26aa9469860c49529e0db06f107fa")
+addappid(2946730)
