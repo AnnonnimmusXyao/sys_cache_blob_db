@@ -1,0 +1,4 @@
+--game: Teared
+
+addappid(2782490)
+addappid(2782491,0,"08d1b6d12433b7043206e82caa7b0b35ccce856537ae918fa7caaa06da354e7e")
