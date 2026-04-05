@@ -1,0 +1,4 @@
+--game: Lost Lullabies: The Orphanage Chronicles
+
+addappid(2903710)
+addappid(2903711,0,"e3773d8270a3efd10ccd9fb57b05cd8aa2567cd607cb59fba893dcbe43366cfd")
