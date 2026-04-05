@@ -1,0 +1,4 @@
+--game: Mayhem’s Adventure
+
+addappid(2612720)
+addappid(2612721,0,"02bcd3ac75dcdc1790e5cdf477c20113ee3168c7f80f5bedeed5ce828d413b33")
