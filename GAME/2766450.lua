@@ -1,0 +1,4 @@
+--game: Soul Hero Adventure
+
+addappid(2766450)
+addappid(2766452,0,"b55c70a4d741db66335942115e7350011826263d7349a3072a2bb98df70fb80b")
