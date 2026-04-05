@@ -1,0 +1,5 @@
+--game: Wednesdays
+
+addappid(2747770)
+addappid(2747771,0,"44ff8c2d4a7024c9a63c7d3a8bd09712f7dde2760a9b78762a46950ace86ac89")
+addappid(2747772,0,"027fe966d427556efe389ac276aebcef5646370db06bc501ba6d33381addcfa3")
