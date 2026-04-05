@@ -1,0 +1,4 @@
+--game: Lizard Slayer
+
+addappid(2626600)
+addappid(2626601,0,"41856be1f29094e3a6a215732229047bcb458582613dbc1af0a24a17ab94e1d6")
