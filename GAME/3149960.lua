@@ -1,0 +1,4 @@
+--game: American Election Simulator
+
+addappid(3149960)
+addappid(3149961,0,"cc36feb3c3d313a8e265cecc407ebf5075529d7013e2dbb76fe652270929a49d")
