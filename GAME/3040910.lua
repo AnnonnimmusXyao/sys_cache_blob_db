@@ -1,0 +1,5 @@
+--game: Hot Wheels Let's Race™: Ultimate Speed
+
+addappid(3040910)
+addappid(3040911,0,"5c00509d10cf5b7fbe135a813d4c066d2109e6ecd307136adc06aef7cc4d7991")
+addappid(3574880)
