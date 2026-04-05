@@ -1,0 +1,4 @@
+--game: 3秒ばなな
+
+addappid(2825250)
+addappid(2825251,0,"2e73c467c3c15f58e5450030ce439bd7946d6067081cd96de78d2d63b6c8a04f")
