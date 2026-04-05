@@ -1,0 +1,4 @@
+--game: Tears of Adria
+
+addappid(2561500)
+addappid(2561503,0,"1b77e134d79cd1f92c4cda1d28b73379c79848663b65ac249c0dae61a836ff5e")
