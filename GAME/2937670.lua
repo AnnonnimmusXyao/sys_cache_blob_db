@@ -1,0 +1,4 @@
+--game: Ore no Yome VR
+
+addappid(2937670)
+addappid(2937671,0,"6cd9039a566ac1a841837395fc1c7750c1b9a098294d9f5e2d835584a33bff5c")
