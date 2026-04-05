@@ -1,0 +1,4 @@
+--game: Journey of Wrestling
+
+addappid(2941580)
+addappid(2941581,0,"4cb8a29fbbbfbfc50393e33ddb82b534d8aef247b9823eee85712c63385c6918")
