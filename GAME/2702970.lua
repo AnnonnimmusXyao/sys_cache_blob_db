@@ -1,0 +1,5 @@
+--game: 100 KILLS CHALLENGE
+
+addappid(2702970)
+addappid(2702973,0,"3b094e1567c36fb763feb184482f299a2511e9a8b5ab029c4066c6a30e297f6b")
+addappid(2702979,0,"6ae14ca82c3d633ba6ad940fe49c4b080c9ca53eececdd6a6afd7befe7ce2fae")
