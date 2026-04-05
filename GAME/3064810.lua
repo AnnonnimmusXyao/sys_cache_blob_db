@@ -1,0 +1,4 @@
+--game: Strategos
+
+addappid(3064810)
+addappid(3064811,0,"335a9881c4d400a487006eb53ab7aa0c16a05ddc569d2dd63bb16dc19db20008")
