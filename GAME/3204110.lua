@@ -1,0 +1,4 @@
+--game: Death Frame
+
+addappid(3204110)
+addappid(3204111,0,"e42b326b5b847502a1d310253027c8e8f9cec375d81063233222f10b8917b5d1")
