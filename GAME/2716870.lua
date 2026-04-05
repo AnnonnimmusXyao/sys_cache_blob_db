@@ -1,0 +1,4 @@
+--game: Zodiac Landing
+
+addappid(2716870)
+addappid(2716871,0,"2dd7345add65b2952627bc7e51e7204dfe712805dbcc6c4a84a5cc47798467e8")
