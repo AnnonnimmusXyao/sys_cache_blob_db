@@ -1,0 +1,4 @@
+--game: Steel Covenant 钢铁盟约
+
+addappid(3121970)
+addappid(3121971,0,"488eafbdf25add5f35b64286b35c1c62271986ec19d78bcb4cb9af746f5efe82")
