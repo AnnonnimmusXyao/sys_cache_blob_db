@@ -1,0 +1,4 @@
+--game: Souper Game
+
+addappid(3181790)
+addappid(3181791,0,"0bea736e5c7869a39e125bd41f1172b2a858332d4e06dc1c8149f848e479f7f2")
