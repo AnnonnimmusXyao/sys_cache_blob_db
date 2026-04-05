@@ -1,0 +1,4 @@
+--game: Demon Of The Dark
+
+addappid(2582100)
+addappid(2582101,0,"8375f8e305c3bb08983dc49446f07f8692144535ae6573284293adacd6c032f4")
