@@ -1,0 +1,4 @@
+--game: The Living Shadows
+
+addappid(3138480)
+addappid(3138481,0,"154e2061a2a2b97794037c08d0e41458b8eda792c2135a5de04d0229ef49fc07")
