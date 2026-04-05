@@ -1,0 +1,4 @@
+--game: Elon Simulator - Spend Like A Trillionaire
+
+addappid(2534670)
+addappid(2534671,0,"7bebef0f2b5effa83a991043461ed1644587a6467ced353d562c5a999216185f")
