@@ -1,0 +1,4 @@
+--game: Aqua Fry
+
+addappid(2772870)
+addappid(2772871,0,"d00d1610882b18daa19cc1dd669095af4e6b5c637c27b1e29172a78da1e0d184")
