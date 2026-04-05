@@ -1,0 +1,4 @@
+--game: 诸子伏魔
+
+addappid(2901370)
+addappid(2901371,0,"eb5d0d7c8e1f2c0ff54975517faf5190a5ee5025c1f5fa44b141ccaff94b786c")
