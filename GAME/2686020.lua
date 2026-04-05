@@ -1,0 +1,5 @@
+--game: Faith in Despair
+
+addappid(2686020)
+addappid(2686021,0,"5be9e9b9c3aea18cc0ba3939b80c8a0b6196b269cf0b0ca3d14f9cca17a8ff50")
+addappid(2686022,0,"efa7f8d19905ad1586143825375de4010f7fd1a85b8f0b38ef2b56b6e61301be")
