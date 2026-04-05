@@ -1,0 +1,4 @@
+--game: 哥布林信条：起源  Goblin Creed: Origins
+
+addappid(2518560)
+addappid(2518561,0,"872c75718bcf96e67550be32b427a5c2961d9e2ee8cfdf1dc09e7171c1f24ebb")
