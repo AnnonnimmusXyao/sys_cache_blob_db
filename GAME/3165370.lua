@@ -1,0 +1,4 @@
+--game: As aventuras de Astel em a Maldição Sombria
+
+addappid(3165370)
+addappid(3165371,0,"74697a360b241ebe5a23b87a96c3e9369b592733032ab02f2d59821bfb134f67")
