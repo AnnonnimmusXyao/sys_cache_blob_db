@@ -1,0 +1,4 @@
+--game: 战棋英雄
+
+addappid(2646250)
+addappid(2646251,0,"a8de565640ef38310178d7ab12b0892bc41e5b99784a74c4da03e51e1d8cfed7")
