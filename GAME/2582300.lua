@@ -1,0 +1,4 @@
+--game: VonGarland Castle : Sacrilege of the Night
+
+addappid(2582300)
+addappid(2582301,0,"926edca7943cec46f1d99528db3a9b8201b96e438f2465f23067c88863a24a09")
