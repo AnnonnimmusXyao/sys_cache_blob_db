@@ -1,0 +1,4 @@
+--game: Can Strike
+
+addappid(2517470)
+addappid(2517471,0,"b7bd1b9b427cad934c95d7a1bef1fda0fcce1156581e41120cfadb79594e44ce")
