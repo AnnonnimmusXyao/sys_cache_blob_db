@@ -1,0 +1,4 @@
+--game: Relooted
+
+addappid(3255890)
+addappid(3255891,0,"88a7e0638cf917cfeb066f4a467e1f7907a135909bedb355356f49afd74ce490")
