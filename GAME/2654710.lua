@@ -1,0 +1,4 @@
+--game: Salmon Man
+
+addappid(2654710)
+addappid(2654711,0,"fd0506d55a2acb35cf85aebdac03bd8c1b115d18a99c7b4d3cadc3c0d6f0f670")
