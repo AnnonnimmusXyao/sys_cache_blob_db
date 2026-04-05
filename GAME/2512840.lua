@@ -1,0 +1,9 @@
+--game: DORONKO WANKO
+
+addappid(2512840)
+addappid(2512841,0,"748218e1e887baf2e738e6d94bbdfef3bc0ee9e24ea8986dd69e673c46218e77")
+addappid(3600890)
+addappid(3600900)
+addappid(3600910)
+addappid(3600920)
+addappid(3600930)
