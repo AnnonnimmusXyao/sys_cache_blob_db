@@ -1,0 +1,4 @@
+--game: Elden Sword
+
+addappid(3143110)
+addappid(3143111,0,"6dc9e03be1796dcebee6992d829ad545d3cc9e6fb89534f86223b48513f953b9")
