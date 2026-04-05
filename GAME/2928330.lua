@@ -1,0 +1,18 @@
+--game: MASH VP! Re:VISION
+
+addappid(2928330)
+addappid(2928334,0,"40d25c8256f47fcde8f3d12e46e422d0e1d99d49b2a887f8a56202fb1e9bcaaf")
+addappid(3337020)
+addappid(3362060)
+addappid(3530340)
+addappid(3739290)
+addappid(3816310)
+addappid(3872560)
+addappid(3932520)
+addappid(4042240)
+addappid(4042250)
+addappid(4042260)
+addappid(4042270)
+addappid(4042280)
+addappid(4042290)
+addappid(4042300)
