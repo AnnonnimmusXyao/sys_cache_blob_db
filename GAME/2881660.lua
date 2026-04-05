@@ -1,0 +1,4 @@
+--game: Holy Shoot
+
+addappid(2881660)
+addappid(2881661,0,"249ea05f6d587d736fa561a39ce4bfb1ced0d2fea83607878fdcb840c0b875bb")
