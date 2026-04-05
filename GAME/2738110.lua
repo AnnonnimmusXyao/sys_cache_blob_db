@@ -1,0 +1,4 @@
+--game: Vengeance Hunters
+
+addappid(2738110)
+addappid(2738111,0,"3ec2193c403c973fcf4cfd2691d270b910ec37b0d89772af9f0389be457e8865")
