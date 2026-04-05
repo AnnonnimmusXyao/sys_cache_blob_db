@@ -1,0 +1,4 @@
+--game: Champion of Venus: Tayla's Big Adventure
+
+addappid(2517190)
+addappid(2517191,0,"a00f415c2f20ab1ade6ad14019833992f392be54d29073eef36de0fda8c575e3")
