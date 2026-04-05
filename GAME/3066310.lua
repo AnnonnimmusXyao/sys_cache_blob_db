@@ -1,0 +1,8 @@
+--game: Final Outpost: Definitive Edition
+
+addappid(3066310)
+addappid(3066311,0,"b13227c3b248ddf64d6fe196fc436fb336a8a76adcabea15ca5617c56fac68b3")
+addappid(3066312,0,"5181382f51e8559a119d314bef36c6bc07daacb143cf981f6f647e4f6ddc1719")
+addappid(3066313,0,"c0f5e4c01af46e726a7d745a9b6258467db07505872a5c89776aae1e635dc8ef")
+addappid(3650600)
+addappid(3650601,0,"1634e3ca73e3bc4bc3ca69c9a97cf952948b835ef194e98db720a3a06adfdcb6")
