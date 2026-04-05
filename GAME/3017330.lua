@@ -1,0 +1,4 @@
+--game: Verho - Curse of Faces
+
+addappid(3017330)
+addappid(3017331,0,"a790335ab144a069341e4c9066da8461919b52006784574b789c00ebe0f8650e")
