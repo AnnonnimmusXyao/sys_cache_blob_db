@@ -1,0 +1,4 @@
+--game: Action Fubuki
+
+addappid(2805990)
+addappid(2805991,0,"0d782f03e2306fc3ef559df5f350264fc4518e75c3123aab4a193070542d5d87")
