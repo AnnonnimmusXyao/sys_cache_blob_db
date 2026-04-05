@@ -1,0 +1,4 @@
+--game: Casino Management Simulator
+
+addappid(2823790)
+addappid(2823791,0,"44bf7724d354d9fcc0f3020f43af9103b6f66427d9125d05a347db2c211d2e3c")
