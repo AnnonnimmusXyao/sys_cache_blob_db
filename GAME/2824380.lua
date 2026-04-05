@@ -1,0 +1,4 @@
+--game: Exotica 2: Pet Shop Simulator
+
+addappid(2824380)
+addappid(2824381,0,"8c97d323d1bf95a6f1568141d8f474c6499e8df543bad47d5c249a49a6129f07")
