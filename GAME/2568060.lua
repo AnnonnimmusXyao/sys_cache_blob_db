@@ -1,0 +1,4 @@
+--game: 星际岸VR: 生命启迪计划
+
+addappid(2568060)
+addappid(2568061,0,"bd8effd79ac020566d3991e62ff77a0b479a8856dcee468602166073402dd1b0")
