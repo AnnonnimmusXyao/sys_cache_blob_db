@@ -1,0 +1,4 @@
+--game: Glitched Out: Chapter 1
+
+addappid(2661260)
+addappid(2661261,0,"70b8193c0b714ebc76ea0ef73de7d8e80734294a51c0ef2b0a39c25ebc51f525")
