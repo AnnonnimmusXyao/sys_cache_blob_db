@@ -1,0 +1,4 @@
+--game: My Cheetah Friend
+
+addappid(3136020)
+addappid(3136021,0,"ab8ff62c7a1a4cd805bc24aa16a4bf9f50beaa8425d833bcb58539639743c581")
