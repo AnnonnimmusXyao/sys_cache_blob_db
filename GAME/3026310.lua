@@ -1,0 +1,4 @@
+--game: BUSTAFELLOWS season2
+
+addappid(3026310)
+addappid(3026311,0,"11ff86468a334b4cba25411a93803265c3ebabb23576bb3ec453abcf6b0af2a0")
