@@ -1,0 +1,4 @@
+--game: Hamster
+
+addappid(3046430)
+addappid(3046431,0,"a250543c38da2c750b54fbe0b6792598057944ec93e78d05aa9d687cb590b095")
