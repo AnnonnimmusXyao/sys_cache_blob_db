@@ -1,0 +1,4 @@
+--game: Sliding Hero
+
+addappid(2966300)
+addappid(2966301,0,"2050d6cbc8d17c0a765190c25330cfeb652b3d8e878413e4b79789e714a004cd")
