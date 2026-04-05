@@ -1,0 +1,6 @@
+--game: FIND KITTENS: The last of cats
+
+addappid(2907010)
+addappid(2907011,0,"c164bec1707f8542177c780f5687fb8358f6b70e9d321d18af59de8ddf18da42")
+addappid(2918610)
+addappid(3434230)
