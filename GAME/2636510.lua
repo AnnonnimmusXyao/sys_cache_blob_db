@@ -1,0 +1,4 @@
+--game: King Kitty Saves The Animals
+
+addappid(2636510)
+addappid(2636511,0,"ebd42b3418b1c697ecca887c3fbd91b41c2abb5415fc6add3f8e44f04fa6175d")
