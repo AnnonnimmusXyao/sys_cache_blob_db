@@ -1,0 +1,4 @@
+--game: Suika Shapes
+
+addappid(2686690)
+addappid(2686691,0,"7c3e669dcfadc1d709fcabc24f15dbba902de24bde3fbe2253297acf0da84941")
