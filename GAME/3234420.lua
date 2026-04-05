@@ -1,0 +1,4 @@
+--game: 報い-Retribution
+
+addappid(3234420)
+addappid(3234421,0,"3b16e93dbf98117816129465fd129d52257976c84ea40397bc222a664e57901d")
