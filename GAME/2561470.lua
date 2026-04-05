@@ -1,0 +1,4 @@
+--game: Rainbow
+
+addappid(2561470)
+addappid(2561471,0,"e2eab2a0764c4c29930035f139fe26c298c0a05b7bb07f1cc6b608c73cbcdfa8")
