@@ -1,0 +1,4 @@
+--game: Let's take a bath with Purin 2
+
+addappid(2973500)
+addappid(2973501,0,"bd4257b868b65b6a4f8920cfb1df1c6af0ac26a8647e8928b631ab992d371819")
