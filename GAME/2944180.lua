@@ -1,0 +1,4 @@
+--game: LEWD HENTAI PUZZLE
+
+addappid(2944180)
+addappid(2944181,0,"6a814d2dbfdc2c5db21548cc0cb7ec9db1ad46bbcd7fb770c78b27a0471390eb")
