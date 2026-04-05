@@ -1,0 +1,4 @@
+--game: Project N.E.X.T
+
+addappid(2693820)
+addappid(2693821,0,"82b9a6f19fd19917d39536a9e930b47d9d2bc192633ac701fe402cc3e81bf8a4")
