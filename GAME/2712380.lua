@@ -1,0 +1,4 @@
+--game: Legends of Dragaea: Idle Dungeons
+
+addappid(2712380)
+addappid(2712381,0,"906ede0bce6e311a45219af8169ad04e7d1f55c620c07fd31be6afd21f7037b8")
