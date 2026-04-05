@@ -1,0 +1,4 @@
+--game: 大话商周
+
+addappid(2650600)
+addappid(2650601,0,"e8055849f2a700e1555eb5b5bf59df7627c8d7a048e4d6cc238de156fbb56f6f")
