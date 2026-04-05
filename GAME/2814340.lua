@@ -1,0 +1,4 @@
+--game: Aeris (BETA)
+
+addappid(2814340)
+addappid(2814341,0,"c5577f2f7a1f2673a7666a8c4a40aa8b25876ed3217c98ad6f48a041e08aeb33")
