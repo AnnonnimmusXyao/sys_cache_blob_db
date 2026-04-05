@@ -1,0 +1,4 @@
+--game: BADMAD ROBOTS
+
+addappid(2841160)
+addappid(2841161,0,"37b18340164c5650bafb1cbe76f7ad06aaf125c1eaffbad0d450291e25104d9e")
