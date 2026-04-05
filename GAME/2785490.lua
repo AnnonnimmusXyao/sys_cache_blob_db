@@ -1,0 +1,4 @@
+--game: Soulivion II
+
+addappid(2785490)
+addappid(2785491,0,"d513b5cc6b8527a39b23ce7e995b4d9890147703600a47614ade6e0c83697331")
