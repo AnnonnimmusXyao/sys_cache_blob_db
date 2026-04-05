@@ -1,0 +1,4 @@
+--game: Everloop
+
+addappid(2843410)
+addappid(2843411,0,"69dc1e365bd1e2ad931fc0a8a7a50596dd53cd4170a64d2d6a52fe42066e0e17")
