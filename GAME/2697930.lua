@@ -1,0 +1,4 @@
+--game: Commander Quest
+
+addappid(2697930)
+addappid(2697931,0,"688a415a05ac047923a7e910d555ae93abb5859ed06d74373fbf7925930da9d6")
