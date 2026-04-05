@@ -1,0 +1,4 @@
+--game: Virago: Reality New
+
+addappid(2582740)
+addappid(2582741,0,"8879839a7e56a4669b4289256db1796e5457086bb21f07aa62625ee946a15487")
