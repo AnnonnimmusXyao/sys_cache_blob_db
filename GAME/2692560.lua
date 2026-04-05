@@ -1,0 +1,4 @@
+--game: Therapist Simulator
+
+addappid(2692560)
+addappid(2692562,0,"863afd1fd75cad1e403c6d8278a2656d6088135e7e262516cbc51c9ecf5d5c97")
