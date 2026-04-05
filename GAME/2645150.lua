@@ -1,0 +1,4 @@
+--game: Aztec Tiki Talisman
+
+addappid(2645150)
+addappid(2645151,0,"4507f1908c49e3d535c68483db487cd24b037c4bdfdb631e94e771abef5aaa36")
