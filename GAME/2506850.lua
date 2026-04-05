@@ -1,0 +1,5 @@
+--game: Cleaning Girls
+
+addappid(2506850)
+addappid(2506851,0,"90111703cc5f45c45f2e50606275011ca0048c65bd489db61fde509f2225d638")
+addappid(2507290)
