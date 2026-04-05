@@ -1,0 +1,5 @@
+--game: Research And Development 1
+
+addappid(3106830)
+addappid(3106831,0,"1264736b3fb2cc7031ad2467f12ab4adb90db8b8cdbe1086d4d86df3886f42c8")
+addappid(3109020)
