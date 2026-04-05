@@ -1,0 +1,4 @@
+--game: XF Extreme Formula
+
+addappid(2539910)
+addappid(2539911,0,"85f1c80611c9b508b4afada1966173fd09d9446e7338763ba2a23332a078b418")
