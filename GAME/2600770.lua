@@ -1,0 +1,4 @@
+--game: All-Ways Up
+
+addappid(2600770)
+addappid(2600771,0,"fe1da5bc75da30430968fda1c6dd7eb321c792f088bf82ec7d7b2d5ec1833295")
