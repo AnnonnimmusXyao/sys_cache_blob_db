@@ -1,0 +1,4 @@
+--game: Horror Storm
+
+addappid(3120070)
+addappid(3120071,0,"cf3c318b978918dde87428d0734cd8ec56bb0f4998a57f2e495199b93ede0ca0")
