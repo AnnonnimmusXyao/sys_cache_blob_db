@@ -1,0 +1,4 @@
+--game: Cyber Quest
+
+addappid(3197540)
+addappid(3197542,0,"98317f78d40b2c4a3c3233b0b591f74228a03d4fd75dfd012275910ef582400e")
