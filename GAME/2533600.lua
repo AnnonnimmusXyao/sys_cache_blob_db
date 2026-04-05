@@ -1,0 +1,4 @@
+--game: Bloodthief
+
+addappid(2533600)
+addappid(2533602,0,"606392b40fe9ebd0fa02f290d9dd3f162e84333f972524e0b930215e454bb369")
