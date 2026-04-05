@@ -1,0 +1,4 @@
+--game: BLOODSAINT
+
+addappid(2998040)
+addappid(2998041,0,"7fb9fb05f05091bbbd762bfabba42518113747242dfa4ed88771a584a2a4256f")
