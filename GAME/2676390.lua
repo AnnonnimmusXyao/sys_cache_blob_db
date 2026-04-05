@@ -1,0 +1,4 @@
+--game: Nexus Defenders
+
+addappid(2676390)
+addappid(2676391,0,"50e58242aacec4ed248a097c40c17591333eac57f5dc38c0920b3f0ff32f31e4")
