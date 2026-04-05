@@ -1,0 +1,4 @@
+--game: Lewd Cell
+
+addappid(2619350)
+addappid(2619351,0,"88c5679848a423038d806c249fb1da1b170c945484d2b1ac03f69be422cbab3a")
