@@ -1,0 +1,4 @@
+--game: Urban Legend Hunters 2: Double
+
+addappid(2651290)
+addappid(2651292,0,"695bc3fdfafcddb5bd381f74f0f5df25e7834bf690e4d325face89a635a706d5")
