@@ -1,0 +1,4 @@
+--game: Escaping Diddler
+
+addappid(3252550)
+addappid(3252551,0,"1192773b2109e7ce7976b651207ab068a1003c805bffbd9d98aedfe5ee851d5d")
