@@ -1,0 +1,4 @@
+--game: 封神榜2023
+
+addappid(2581570)
+addappid(2581571,0,"23414c7a9081c1bb06db559ccc551b7eff2fc7594144e3618dbb0e161b0e4fff")
