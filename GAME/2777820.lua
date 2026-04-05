@@ -1,0 +1,4 @@
+--game: Otoko Orgy at Maid Boy Manor
+
+addappid(2777820)
+addappid(2777821,0,"fc6367054ee2bc3e8bd8680f8d33d2641e81243456711a29cd16933b49bb7dc4")
