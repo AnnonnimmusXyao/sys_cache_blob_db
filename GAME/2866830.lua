@@ -1,0 +1,4 @@
+--game: Ghost Hospital -in Thousand Horror Hill-
+
+addappid(2866830)
+addappid(2866831,0,"4dc333c6f50792909818780b868e2e0ef29ef22cca0d98635de9cea35fba56df")
