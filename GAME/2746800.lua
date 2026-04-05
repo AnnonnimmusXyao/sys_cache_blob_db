@@ -1,0 +1,4 @@
+--game: 轉生打怪學英文(五)(Adventure and study English in a fantasy world)
+
+addappid(2746800)
+addappid(2746801,0,"b392ebcd0623968c80be05356e8333afc868de8b9a48cc173bc5e95ac7ae6511")
