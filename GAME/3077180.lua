@@ -1,0 +1,4 @@
+--game: Gamer Stories 〜実在する女性ゲーマーとデートしてみた〜
+
+addappid(3077180)
+addappid(3077181,0,"6f6d78eb93c37b77e12489a7eccdf337fc349374ab0d4b7168a8da16a4e57ef6")
