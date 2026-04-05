@@ -1,0 +1,4 @@
+--game: Mobile Store Simulator
+
+addappid(2567490)
+addappid(2567491,0,"5449dceb75b170e0eb96726b968a96a07c67b7d8fb9db48a9d638646928ddffa")
