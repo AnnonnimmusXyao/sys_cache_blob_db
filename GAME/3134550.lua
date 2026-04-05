@@ -1,0 +1,4 @@
+--game: Kaf village
+
+addappid(3134550)
+addappid(3134551,0,"dc923eaff436d440f7ec0228d050e06784d925baba7ff1df2658c9cf8d581078")
