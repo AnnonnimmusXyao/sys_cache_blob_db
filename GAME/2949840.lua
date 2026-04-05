@@ -1,0 +1,4 @@
+--game: Shoot Star
+
+addappid(2949840)
+addappid(2949841,0,"97f7a86ba5f45e2a06af33f8e9ba78b1df5e385cd103a271a72b68f056b84534")
