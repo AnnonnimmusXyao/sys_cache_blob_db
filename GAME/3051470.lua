@@ -1,0 +1,4 @@
+--game: Kaya's Prophecy
+
+addappid(3051470)
+addappid(3051471,0,"fd82a12824aaa017fd9f9df79a69c912499fcb6030c97006df6481e8eecd7432")
