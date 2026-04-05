@@ -1,0 +1,4 @@
+--game: 黑丝女孩
+
+addappid(2710590)
+addappid(2710591,0,"948582f8a79a577d377b4ba0e9d33c488e7e95730bceb3589b6bef054ca74670")
