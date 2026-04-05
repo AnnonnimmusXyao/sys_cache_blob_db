@@ -1,0 +1,4 @@
+--game: Weird RPG 2
+
+addappid(2516470)
+addappid(2516471,0,"15e4afa76e028ce489ad99ebb4407a768087d5446be2339d4017db5464bf9afe")
