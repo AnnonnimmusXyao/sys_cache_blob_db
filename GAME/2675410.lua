@@ -1,0 +1,4 @@
+--game: Dino Dino – Playful Paleontology
+
+addappid(2675410)
+addappid(2675411,0,"ca97d5cb89a10eb59b955c23ede3d003022b19ccecba1904d09ba95c436f3340")
