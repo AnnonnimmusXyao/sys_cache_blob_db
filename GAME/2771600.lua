@@ -1,0 +1,4 @@
+--game: Maid Survivors : Little Angels
+
+addappid(2771600)
+addappid(2771601,0,"1e16f31c4d20a365685b4337c0d3d40269858759e12f878c4537250e22203aa8")
