@@ -1,0 +1,4 @@
+--game: My Little Career
+
+addappid(2537450)
+addappid(2537451,0,"aeb05792870a83bf41f28fb43185200e331cb88220259ebc6b7778697c6ea9c1")
