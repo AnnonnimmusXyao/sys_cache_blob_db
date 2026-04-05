@@ -1,0 +1,5 @@
+--game: Shantae Advance: Risky Revolution
+
+addappid(3055950)
+addappid(3055951,0,"20b454eedbb59e0a6a7251b307c491e1ca409c4b51e94c900a05df4db656c570")
+addappid(3646360)
