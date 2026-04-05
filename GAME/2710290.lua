@@ -1,0 +1,4 @@
+--game: G WARRIOR
+
+addappid(2710290)
+addappid(2710291,0,"8dea57f092375a1a8006b9ff56e0dab2ed281f50709d4db786a34a5188c767a8")
