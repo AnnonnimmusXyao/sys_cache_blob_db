@@ -1,0 +1,4 @@
+--game: Casino Island Simulator
+
+addappid(2969060)
+addappid(2969061,0,"883f95c6349db665575617618e868395ae0f708668dc74134c082b88ba0bdeb0")
