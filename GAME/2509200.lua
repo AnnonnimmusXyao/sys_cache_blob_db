@@ -1,0 +1,4 @@
+--game: ERA ONE
+
+addappid(2509200)
+addappid(2509202,0,"034c3ac621a0396536dc367d7faaef543ddfd67f28576c55fabe139eed737daa")
