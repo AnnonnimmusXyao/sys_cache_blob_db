@@ -1,0 +1,6 @@
+--game: VHS
+
+addappid(3074340)
+addappid(3074341,0,"00e13675a27743c90802e9067c44e5f15727bc0efdc59bd857743750e585f08f")
+addappid(3124300)
+addappid(3757710)
