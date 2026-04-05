@@ -1,0 +1,4 @@
+--game: Monster Girl Conquest Records Battle Orc
+
+addappid(2680840)
+addappid(2680843,0,"e923f40f840841ad9dbf12c5022b2490f3971b754f05fc881c9078ab5e0331f3")
