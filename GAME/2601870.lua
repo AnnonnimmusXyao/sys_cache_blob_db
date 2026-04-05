@@ -1,0 +1,4 @@
+--game: Elemental Mage Defense
+
+addappid(2601870)
+addappid(2601871,0,"49d5c4e32174e9da32eadc9f6e639013a000081ac69ce45f0d9e351faac83234")
