@@ -1,0 +1,4 @@
+--game: 魔物联盟自走棋 Monster United
+
+addappid(2906030)
+addappid(2906031,0,"7c7c8fe085d6c210bb417a7e159fbc49394934cf71b81eebb727933d83c79924")
