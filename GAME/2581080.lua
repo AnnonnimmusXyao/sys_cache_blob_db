@@ -1,0 +1,4 @@
+--game: Cats Spotter 猫咪观察员
+
+addappid(2581080)
+addappid(2581081,0,"05ed43f8dcaa1942352615a46e529860fb5527bdddc6639d33188c7d7cf6075f")
