@@ -1,0 +1,4 @@
+--game: Thunder Jumper
+
+addappid(2588240)
+addappid(2588241,0,"a0035e361da7e09ebf4701bda3f69f758d40a4bad8e1bda70cecf4cf2642148a")
