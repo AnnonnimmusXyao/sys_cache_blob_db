@@ -1,0 +1,4 @@
+--game: Become an Adventurer
+
+addappid(2672500)
+addappid(2672501,0,"3ff3cd5180ba398a7d0ac5b5eeb53bc0c322998411c919acb7e4d52a178a0855")
