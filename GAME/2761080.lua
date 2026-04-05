@@ -1,0 +1,4 @@
+--game: Eyes Of Memes
+
+addappid(2761080)
+addappid(2761081,0,"88038e4e0e7e89f5606d68741ca405b642c0ff0b71ea1b3f6f51acdb54d6aa16")
