@@ -1,0 +1,4 @@
+--game: Aimcademy
+
+addappid(2646660)
+addappid(2646661,0,"04a61934f501b379ee0ce48be510cef046f8202b2f4fd924509f4899bd99885a")
