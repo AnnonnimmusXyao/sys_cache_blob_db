@@ -1,0 +1,4 @@
+--game: フィッシュオアチキン チキンサバイバー
+
+addappid(2519370)
+addappid(2519371,0,"4d4495693430eb55d7df1e2262285da12fb012cc9ca1d1c70dbcd5ce459cc5dd")
