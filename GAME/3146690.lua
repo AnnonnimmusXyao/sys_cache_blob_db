@@ -1,0 +1,4 @@
+--game: No Fap Island 💦
+
+addappid(3146690)
+addappid(3146691,0,"4c76a363016fe94211a0693c0338a96f61f6af0c09b1dedfa466b75ce9576179")
