@@ -1,0 +1,4 @@
+--game: Rat Climber
+
+addappid(3085180)
+addappid(3085181,0,"55c28ca9244b4f9b51abaa7b72a85d9adaf018c195a8ce49187b1431f32273de")
