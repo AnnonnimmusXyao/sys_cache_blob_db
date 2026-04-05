@@ -1,0 +1,4 @@
+--game: Wacky West
+
+addappid(2582470)
+addappid(2582472,0,"9d457394da558b0dc2337cdbe86f6f6097db979288f5538c1be6a5d0fec50f5a")
