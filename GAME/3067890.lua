@@ -1,0 +1,4 @@
+--game: 无尽星火 (Star Fire: Eternal Cycle)
+
+addappid(3067890)
+addappid(3067891,0,"72a0b4eeae9db9d6be05f64f080e53e2a7a10f121635390a1997a4f3b9aba479")
