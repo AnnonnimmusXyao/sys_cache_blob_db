@@ -1,0 +1,4 @@
+--game: The Evil Sect
+
+addappid(2879580)
+addappid(2879581,0,"1c2fb7b024e58c4c18e9fc0c996169438e8c08336d9c70aac05523b0b2974134")
