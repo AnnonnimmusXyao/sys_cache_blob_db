@@ -1,0 +1,4 @@
+--game: Keeper's Curse
+
+addappid(2946720)
+addappid(2946721,0,"55417dfa210b0fb070740469af8aa5b178effb6f5222aea0edd9b19f00ea5481")
