@@ -1,0 +1,4 @@
+--game: Sunset High
+
+addappid(2997880)
+addappid(2997881,0,"a1de901dbe3601f767380c896cf01d30c2300931e9261c80773d415e7bbdea5b")
