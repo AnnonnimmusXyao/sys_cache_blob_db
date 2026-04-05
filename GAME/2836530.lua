@@ -1,0 +1,4 @@
+--game: Cymut X Mutrobo - The last Cymut
+
+addappid(2836530)
+addappid(2836531,0,"9673f9e7f3aa4713c811db4e6154d8608dd4d0dd0d1de783801dfc232a024dd9")
