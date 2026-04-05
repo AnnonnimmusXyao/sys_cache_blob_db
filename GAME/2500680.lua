@@ -1,0 +1,4 @@
+--game: Tiny Chaos
+
+addappid(2500680)
+addappid(2500681,0,"195c6483af539eab014deeceb696679fb031a8c9cfd89dfcc864a237395982b0")
