@@ -1,0 +1,4 @@
+--game: 誓いのキスは突然に
+
+addappid(2656650)
+addappid(2656651,0,"2f46d8bbb85ce1195f88540e14f73d932be222682e1417d5c55feab48000adf6")
