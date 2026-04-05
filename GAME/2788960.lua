@@ -1,0 +1,10 @@
+--game: Hidden Cats in Jigsaw Puzzle
+
+addappid(2788960)
+addappid(2788961,0,"2DE6DAB7D5318B365325A30C999A67322EFB367FF0E4A237EA32D5E270A38E21")
+addappid(2932700)
+addappid(2933540)
+addappid(2933550)
+addappid(2933560)
+addappid(3008710)
+addappid(3008720)
