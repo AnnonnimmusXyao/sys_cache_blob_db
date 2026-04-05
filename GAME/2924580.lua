@@ -1,0 +1,4 @@
+--game: Inkborn
+
+addappid(2924580)
+addappid(2924581,0,"bab7aff206998eb91f5f2684c8ddbdc5f6225002deb490747f017b3d49456e6f")
