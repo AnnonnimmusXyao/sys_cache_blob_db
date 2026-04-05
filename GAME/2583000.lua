@@ -1,0 +1,4 @@
+--game: Mozzies
+
+addappid(2583000)
+addappid(2583001,0,"10d8f5a672032b28a202bf32c929ae52e122ad46c6fccd96331b1dfe9d905dd5")
