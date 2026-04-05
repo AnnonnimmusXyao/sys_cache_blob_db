@@ -1,0 +1,4 @@
+--game: Jeepney Simulator 2
+
+addappid(2819970)
+addappid(2819971,0,"2a9bf7c4172fd998673342b786b687ce6b4af1b9d6a285f86444ad78512d68a8")
