@@ -1,0 +1,4 @@
+--game: AV Director Life!
+
+addappid(3181220)
+addappid(3181222,0,"5961bc414641c16c702484d3f4cf3766cf313190006888cd9b8e1896f174c2f0")
