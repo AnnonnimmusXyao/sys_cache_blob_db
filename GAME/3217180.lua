@@ -1,0 +1,4 @@
+--game: Ananas - Pineapple Idle Game
+
+addappid(3217180)
+addappid(3217181,0,"e06a3d0f82bbcdd5abb5ac897ca139b128de2e52d703be628e18377fcebdd879")
