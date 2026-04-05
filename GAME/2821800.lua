@@ -1,0 +1,6 @@
+--game: Drill Core
+
+addappid(2821800)
+addappid(2821801,0,"2d6f599ca00239c873cb8094d116ff81dc697e1d830ec0e9f62e155f1b5520da")
+addappid(3176040)
+addappid(3842630)
