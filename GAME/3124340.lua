@@ -1,0 +1,4 @@
+--game: Demeo x Dungeons & Dragons: Battlemarked
+
+addappid(3124340)
+addappid(3124341,0,"3262b6797a313f51081693a5b992e55e49b81eeeeba31f32069df94096db87b8")
