@@ -1,0 +1,4 @@
+--game: Rise Eterna War
+
+addappid(2739930)
+addappid(2739931,0,"6ac8c1f491946b3f66b9a2ef0544df41a4febb75e35f401bb23065206a41eabb")
