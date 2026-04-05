@@ -1,0 +1,7 @@
+--game: Legend of Peks
+
+addappid(2529400)
+addappid(2529401,0,"0a46f05a9308538701d49df512345e56e21722a31137c1ee5cc0617c6273b6c6")
+addappid(2530190)
+addappid(2648500)
+addappid(2650700)
