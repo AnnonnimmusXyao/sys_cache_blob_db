@@ -1,0 +1,4 @@
+--game: Beyond the Map
+
+addappid(2896380)
+addappid(2896382,0,"b1e104f352e8fa4c35a0047bb2297e0e9e667e06b637d97314380809b0df3821")
