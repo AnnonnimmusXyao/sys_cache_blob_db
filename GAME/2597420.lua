@@ -1,0 +1,4 @@
+--game: 悠闲打砖块(Leisurely Brick)
+
+addappid(2597420)
+addappid(2597421,0,"e5c3218986aa868a1a8980e848467a9917a9c8e10deea9e0ebf66c1388a6309e")
