@@ -1,0 +1,5 @@
+--game: Fairy Massage: Lite
+
+addappid(3016780)
+addappid(3016781,0,"456a3e43301b607f56bf858dc983d1ad2d6ada70a49faf6bec28967bbe2be343")
+addappid(3016782,0,"d65f1edfafd5a68973c939590a8f03b5d5246e03fd74a70361ba9ab32a642fd2")
