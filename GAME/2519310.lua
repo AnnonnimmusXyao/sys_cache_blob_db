@@ -1,0 +1,4 @@
+--game: 僵尸禁地:艾希
+
+addappid(2519310)
+addappid(2519311,0,"10490397288c96f79b2d053bbdc19d84342a55efae1b760292a439f2edaf3f27")
