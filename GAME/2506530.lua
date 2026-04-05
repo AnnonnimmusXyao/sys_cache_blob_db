@@ -1,0 +1,4 @@
+--game: It Has My Face
+
+addappid(2506530)
+addappid(2506531,0,"80c4294f187f8851e0f632effc5b8621fd291ecc6d016f57bb6c749c2742862e")
