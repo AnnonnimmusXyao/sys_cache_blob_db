@@ -1,0 +1,4 @@
+--game: Super Antonio
+
+addappid(3118730)
+addappid(3118731,0,"c53b218078af22b05524daf2455c480cf1beeecdae4b1de67613cdcdb7b43404")
