@@ -1,0 +1,4 @@
+--game: Necromancer For A Week
+
+addappid(2987110)
+addappid(2987112,0,"412b3676a06f7fc480790a74697d84e4bef8ad17f0ef39d79c5dd29306da96d8")
