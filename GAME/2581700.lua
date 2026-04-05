@@ -1,0 +1,7 @@
+--game: MotoGP™24
+
+addappid(229020)
+addappid(2581700)
+addappid(2581701,0,"e39d6ae1bb6e831de54de55033327df2311aa87d6040ac02b99c62f4f325bc38")
+addappid(2788970)
+addappid(2788980)
