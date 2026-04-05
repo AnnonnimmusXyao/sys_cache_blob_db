@@ -1,0 +1,4 @@
+--game: Stellar Settlers: Space Base Builder
+
+addappid(2628570)
+addappid(2628571,0,"3d8f02ab298debf84b3210ecc847f8439a407d8de7c7ec0c40cc66ef8fa81aac")
