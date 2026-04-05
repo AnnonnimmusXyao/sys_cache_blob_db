@@ -1,0 +1,4 @@
+--game: Gold Gold Adventure Gold
+
+addappid(3133650)
+addappid(3133651,0,"7ea9fe11b244ae802bfb297c05a383923aa83b0169d908cc4eb1ba359ae1909c")
