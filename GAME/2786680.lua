@@ -1,0 +1,4 @@
+--game: 美女，请别影响我学习
+
+addappid(2786680)
+addappid(2786681,0,"ba93faedc0bc173e603c50c2a54859361aef98782e177bcbaf501dbfc4671f79")
