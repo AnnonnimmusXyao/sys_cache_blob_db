@@ -1,0 +1,7 @@
+--game: Citadelum
+
+addappid(2603020)
+addappid(2603021,0,"7524dec83e20cc12831a547d7fec9d1b84f8541f334acf468d7e044f132d6e09")
+addappid(3358500)
+addappid(3450060)
+addappid(3480880)
