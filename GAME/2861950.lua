@@ -1,0 +1,4 @@
+--game: My Drug Cartel
+
+addappid(2861950)
+addappid(2861951,0,"d87f5355e77b7b7dece08196a605b91a1ea144a7997a8be4fba397f173ce4e95")
