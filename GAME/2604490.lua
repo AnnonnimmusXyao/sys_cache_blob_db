@@ -1,0 +1,5 @@
+--game: I Hate This Place
+
+addappid(2604490)
+addappid(2604491,0,"2529abeeebd0ee22fa0ee76b14fe1f7a5b0510e99173b7c48067dc7a712b184d")
+addappid(4354700)
