@@ -1,0 +1,4 @@
+--game: The Masquerade
+
+addappid(2595530)
+addappid(2595531,0,"aede0c818e7700f7de8d2955b225785841a99befd03c171bc17d39dd8a37828b")
