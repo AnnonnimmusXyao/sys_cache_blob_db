@@ -1,0 +1,4 @@
+--game: Stickman Strikes: Conquer Fantasy World
+
+addappid(2924170)
+addappid(2924171,0,"393522aa3a1d1b12e3f17121b739135ea044d357466490221b2a83030a7d3c08")
