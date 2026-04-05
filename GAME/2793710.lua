@@ -1,0 +1,4 @@
+--game: Dollmare
+
+addappid(2793710)
+addappid(2793711,0,"cb06d10deaa77ef399d3d5a07908cac2237f31d38a47a83adba03f9f4f5884c4")
