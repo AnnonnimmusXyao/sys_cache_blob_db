@@ -1,0 +1,4 @@
+--game: Little Knight
+
+addappid(3135870)
+addappid(3135871,0,"a636cb59df39e69b833f9efa4b36d907c40408b8186ccb5e15f82605db9255d8")
