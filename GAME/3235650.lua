@@ -1,0 +1,4 @@
+--game: 出張 Business trip
+
+addappid(3235650)
+addappid(3235651,0,"f1894f67d013dc1838db468c1e985c3e0b0dcf01f52215cdd944a902083709ec")
