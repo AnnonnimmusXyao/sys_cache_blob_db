@@ -1,0 +1,4 @@
+--game: TriFute - Online Button Soccer
+
+addappid(2512510)
+addappid(2512512,0,"74c06c8bc85cbc729edd84d76404bfe2827c9a877445ebc098448c2db2105a08")
