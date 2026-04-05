@@ -1,0 +1,4 @@
+--game: ZERO PROTOCOL
+
+addappid(2840250)
+addappid(2840251,0,"57be2e7b3a1f0fbe374c32f7d795bf8c70b072676cf646ed093670ed13ba3c8f")
