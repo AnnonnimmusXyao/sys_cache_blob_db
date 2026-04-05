@@ -1,0 +1,7 @@
+--game: Age of History 3
+
+addappid(229020)
+addappid(2772750)
+addappid(2772751,0,"1ba0a188cd6a0fd66ff7664712ff982f4dbd0400ff82ebe3297a8d12a940be37")
+addappid(3238550)
+addappid(3250400)
