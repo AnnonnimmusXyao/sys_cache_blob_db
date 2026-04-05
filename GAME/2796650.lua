@@ -1,0 +1,4 @@
+--game: Shovel Pirate
+
+addappid(2796650)
+addappid(2796651,0,"81eeb036b3513f86bff9d5b07ed9f049c94caed3482bf076c008c0a45ecd64ee")
