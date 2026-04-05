@@ -1,0 +1,4 @@
+--game: life is not auto
+
+addappid(3065720)
+addappid(3065721,0,"06f2213285900ea984a0d737482f398144ed7c16a59a88fe1209a86f4b8d42fc")
