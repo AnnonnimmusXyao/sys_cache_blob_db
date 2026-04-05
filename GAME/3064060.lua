@@ -1,0 +1,5 @@
+--game: Super Chipflake Ü: Quest for the Uncooked Schnitzel
+
+addappid(3064060)
+addappid(3064061,0,"39e065fccc8d8d3aaeb4a6b9b045990b2d028e646f184fdb331539e0ad2ac9ca")
+addappid(3064062,0,"80fc17f46074805fb86380996edbfac1a1775bba5933c2fc2f00e003721af033")
