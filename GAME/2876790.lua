@@ -1,0 +1,6 @@
+--game: Kiwie vs Desert
+
+addappid(2876790)
+addappid(2876791,0,"c7fff0c101ad0c92af84060d4c2a6851684367b50360f2660c18a4fc3d116d59")
+addappid(2988910)
+addappid(2989220)
