@@ -1,0 +1,4 @@
+--game: Evil Doll
+
+addappid(2548500)
+addappid(2548501,0,"ed856648f34b88d252c5274c5b88568a762a651f8b278d09224a8a30ffd1e0f0")
