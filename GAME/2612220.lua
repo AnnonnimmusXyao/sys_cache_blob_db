@@ -1,0 +1,4 @@
+--game: Cosmic Armada
+
+addappid(2612220)
+addappid(2612221,0,"a34eb26f619fea72dfbfea3e4be97a4150ad98888a81e119507308a833522f02")
