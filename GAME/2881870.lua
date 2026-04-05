@@ -1,0 +1,4 @@
+--game: Самый дорогой человек
+
+addappid(2881870)
+addappid(2881871,0,"1fac04ebe5995bd75b34e8c32f81c016c3911b1d505a5edeb60ec9baa4ce9491")
