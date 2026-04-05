@@ -1,0 +1,4 @@
+--game: Sexy Memory Puzzle - Gay Jail
+
+addappid(3247550)
+addappid(3247551,0,"998bdee3d56315069e19707e3d5239748c58333819e483974ba12a97bef262d0")
