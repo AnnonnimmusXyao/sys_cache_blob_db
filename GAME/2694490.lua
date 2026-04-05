@@ -1,0 +1,14 @@
+--game: Path of Exile 2
+
+addappid(2694490)
+addappid(2694491,0,"e30d071e5cd89c91b6675ce95a63377021dd70852367d073a9fc76ec88fff843")
+addappid(2694492,0,"605258f87a1f07cfe2baaf34fedebb1b064859274a3191cdb43fcd5876336221")
+addappid(3349410)
+addappid(3349420)
+addappid(3349430)
+addappid(3906470)
+addappid(3906480)
+addappid(3906490)
+addappid(3906500)
+addappid(3906510)
+addappid(3906520)
