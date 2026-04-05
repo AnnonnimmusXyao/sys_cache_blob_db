@@ -1,0 +1,4 @@
+--game: Hentai Puzzles: Attack on Tight Panties
+
+addappid(2793070)
+addappid(2793071,0,"5ae66648155b30ea7a51d4b646f02ef1de1ccacdc39a7058e8d033331c7eee96")
