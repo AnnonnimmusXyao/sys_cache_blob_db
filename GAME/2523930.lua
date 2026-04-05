@@ -1,0 +1,4 @@
+--game: Sexual Super Hero
+
+addappid(2523930)
+addappid(2523931,0,"ee64a0b131d67e11736109cb3343675fd8c4ba63e6c4949500c87def6f0377fb")
