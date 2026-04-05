@@ -1,0 +1,4 @@
+--game: Battlethorne
+
+addappid(2615940)
+addappid(2615941,0,"72b0a86d63c0e8cc78c05dfafbfd2a4387125c2f14c78c54fff8939ef0cba511")
