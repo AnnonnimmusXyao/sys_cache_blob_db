@@ -1,0 +1,4 @@
+--game: Space Star - Heart of a Soldier
+
+addappid(2843780)
+addappid(2843781,0,"28fc48a7fb12e098cc7f1bbe577d29acc4362ca28f43cacdf4bfe02cb1df87fc")
