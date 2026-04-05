@@ -1,0 +1,4 @@
+--game: Kokoro Kitchen
+
+addappid(3079770)
+addappid(3079771,0,"f9ea963cec199d9ee13f968c251bbb63788e333fba890abec68a4d11581ae754")
