@@ -1,0 +1,4 @@
+--game: Fancy Rinshi Sensetion
+
+addappid(2858180)
+addappid(2858181,0,"076b688d7a2c39ae39411218bc4de58bd0104c4756cbed296fe7e8c4a18803d4")
