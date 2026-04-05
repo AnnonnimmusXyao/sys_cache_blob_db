@@ -1,0 +1,4 @@
+--game: Embers Off
+
+addappid(2543740)
+addappid(2543743,0,"8d433ba8485e292368bb7538f3c0cde97cdc6bd1030768a5ff858e1e1d75b956")
