@@ -1,0 +1,4 @@
+--game: God of Yoga
+
+addappid(3150170)
+addappid(3150171,0,"1228afe3f56074410817655808ddcf0e1952613b280d59b689864190efa81bb0")
