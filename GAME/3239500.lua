@@ -1,0 +1,4 @@
+--game: Cloud Cats` Land
+
+addappid(3239500)
+addappid(3239501,0,"834f90a96bd653b1c0a9095b16e2bdb597c44fba5327eecab4e0a4cf9abd3d44")
