@@ -1,0 +1,4 @@
+--game: Painted In Blood
+
+addappid(2954080)
+addappid(2954081,0,"9bc593a8d0667dbdbb979fe75e4ccbb1315bc0f5dc345937edac1f932a1c8ad8")
