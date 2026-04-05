@@ -1,0 +1,5 @@
+--game: Disciples: Domination
+
+addappid(2808560)
+addappid(2808561,0,"29243b3193075833ed5e7757e0abf45e1f4939b8091ed03f6dfb400717147fe6")
+addappid(4107980)
