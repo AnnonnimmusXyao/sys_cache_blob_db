@@ -1,0 +1,4 @@
+--game: Shadow Tale: Prologue
+
+addappid(3237330)
+addappid(3237332,0,"ed0c15c5b61e23c619f634eb37492dccca5c1f6996616bae6ad113d41b6d518f")
