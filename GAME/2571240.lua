@@ -1,0 +1,5 @@
+--game: 房间的秘密3：女团回归夜
+
+addappid(2571240)
+addappid(2571241,0,"592f3cd632720e27716601333a85edadd105c50ca9b7576b264aaf7baaddd8f2")
+addappid(2581480)
