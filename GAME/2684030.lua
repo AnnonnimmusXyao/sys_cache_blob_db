@@ -1,0 +1,4 @@
+--game: Happy Hour Hero
+
+addappid(2684030)
+addappid(2684031,0,"4e94365f41ba5f11caa1de2a1908eb80d8f83f60d3c606f2046f12311226eac1")
