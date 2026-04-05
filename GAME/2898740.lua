@@ -1,0 +1,4 @@
+--game: Not a Masterpıece
+
+addappid(2898740)
+addappid(2898741,0,"a2e2af4687376ff1730446c4dd1b0b34423fcfa4633b827b2e43d45bbc2cdbd7")
