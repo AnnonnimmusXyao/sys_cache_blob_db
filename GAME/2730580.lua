@@ -1,0 +1,4 @@
+--game: MagicGirls★Shooting!!
+
+addappid(2730580)
+addappid(2730581,0,"e160822152c91d5d5fe91a51ed740283ba57ca1be202dc39ea69632ea602cdfe")
