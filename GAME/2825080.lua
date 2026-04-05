@@ -1,0 +1,4 @@
+--game: Sanguine
+
+addappid(2825080)
+addappid(2825081,0,"52fd3ebf3be6ce3f1e4a77b4489702ab16a0782985c6a6ae9c775b61f9d5f6fc")
