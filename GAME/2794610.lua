@@ -1,0 +1,5 @@
+--game: Massacre At The Mirage
+
+addappid(2794610)
+addappid(2794611,0,"1120adfc90aa4e57c0416d48ba2ee87859c6760a82bce5bc393f742d808e3c04")
+addappid(3288230)
