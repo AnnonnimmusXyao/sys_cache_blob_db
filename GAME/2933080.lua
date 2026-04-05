@@ -1,0 +1,15 @@
+--game: Crime Boss: Rockay City
+
+addappid(2933080)
+addappid(2933081,0,"c19e67580e16bb198a0208353b4ae25e66eee4cb16421cc24f593925c2cd41ec")
+addappid(2933083,0,"33064194c736b017c0d6d0a4b5c01816f9f5153631464c677b5dd445ff27e374")
+addappid(2934440)
+addappid(2934450)
+addappid(2934460)
+addappid(2939860)
+addappid(3115300)
+addappid(3245230)
+addappid(3337580)
+addappid(3634240)
+addappid(3787350)
+addappid(3916000)
