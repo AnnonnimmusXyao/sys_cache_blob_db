@@ -1,0 +1,6 @@
+--game: Struggle F.O
+
+addappid(2633080)
+addappid(2633081,0,"2530a41d518a5b593d4392543d9f69f69ceb84422c8aa3a3e205075d6e8c1d85")
+addappid(2963580)
+addappid(3313510)
