@@ -1,0 +1,4 @@
+--game: Runeborn
+
+addappid(3073990)
+addappid(3073991,0,"3171bba7d8d0770c8e78312eb06472015968d2853d90aff8d94f786470dd5e3c")
