@@ -1,0 +1,4 @@
+--game: Heroes of Mount Dragon
+
+addappid(2733070)
+addappid(2733071,0,"c7396c4b1a8173b01680d7199497c8995db22ed7ab0bfa44fa835efa22da34c2")
