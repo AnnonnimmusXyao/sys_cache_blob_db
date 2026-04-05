@@ -1,0 +1,5 @@
+--game: Gearbits
+
+addappid(2506580)
+addappid(2506581,0,"06ad8fd6b7308881521e58549fa53078ae1c9e9faa6aa0406d689c19fb1f63bf")
+addappid(2989880)
