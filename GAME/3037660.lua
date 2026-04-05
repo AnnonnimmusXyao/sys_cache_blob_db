@@ -1,0 +1,4 @@
+--game: Robin Hood: Sherwood Defenders
+
+addappid(3037660)
+addappid(3037661,0,"f2339bbd9ddbf6efe099a5490df8338eb565edfeeb0246bb3595962e254b14fd")
