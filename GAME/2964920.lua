@@ -1,0 +1,4 @@
+--game: Sundy Stairway
+
+addappid(2964920)
+addappid(2964921,0,"fe35caa5ff31ef8baad269c5daab90f34131cdaae5adbd56d9148c245be5ec78")
