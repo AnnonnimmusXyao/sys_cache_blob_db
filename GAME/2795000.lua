@@ -1,0 +1,4 @@
+--game: The WereCleaner
+
+addappid(2795000)
+addappid(2795001,0,"3eab0ae5fb55ff865b6149b82e706209a1e10da51868cbb7e819c5529d5233cf")
