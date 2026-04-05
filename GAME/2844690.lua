@@ -1,0 +1,6 @@
+--game: Astrune Academy
+
+addappid(2844690)
+addappid(2844691,0,"ba288ac1569ca52a2378347cda2f971ba48924b58cf0c3b8610e81f7c754e658")
+addappid(2961250)
+addappid(2961260)
