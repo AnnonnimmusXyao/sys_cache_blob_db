@@ -1,0 +1,4 @@
+--game: All City King
+
+addappid(2793820)
+addappid(2793821,0,"69dda70892e8da3ccc0735ec7a4b81d47c674818e4e914e97e67b7a7182a8e0e")
