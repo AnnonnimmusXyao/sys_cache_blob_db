@@ -1,0 +1,4 @@
+--game: Lost Hope
+
+addappid(2778570)
+addappid(2778571,0,"6066bc6a44151d65c2097a53c2966bd00aa7da12fb26d6e6560cf35f98a4dcf0")
