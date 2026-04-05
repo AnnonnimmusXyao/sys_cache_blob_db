@@ -1,0 +1,4 @@
+--game: The Adventurers
+
+addappid(3062500)
+addappid(3062501,0,"6f5892c17a74b9085e8161299e3ce61ef7edaf0deace3c8c93b0ac6f1ad7a18d")
