@@ -1,0 +1,4 @@
+--game: Tiny Terraces
+
+addappid(3136330)
+addappid(3136331,0,"8f75baaa1efbd862a13d523a2e40f3fb8b5d53cfd5ba9e723ff3320808c275f8")
