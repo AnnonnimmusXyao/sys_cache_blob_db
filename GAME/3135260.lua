@@ -1,0 +1,4 @@
+--game: Blueman
+
+addappid(3135260)
+addappid(3135261,0,"92730dba7162872775113f41c000de618bd9e7aebca04e389d7b26d2faf14d93")
