@@ -1,0 +1,4 @@
+--game: Maid Slaves & Golden Dungeon
+
+addappid(2514850)
+addappid(2514854,0,"1c348a75f7d35ced0f27c3c87d6e7d670edcd3e20c9abfff4ee62c837b7ab561")
