@@ -1,0 +1,4 @@
+--game: Recycling Factory
+
+addappid(2889190)
+addappid(2889191,0,"183f461bdecb68f5a48d230f83d6f80efb05e669e00645e157b3bb2c86b8fd2d")
