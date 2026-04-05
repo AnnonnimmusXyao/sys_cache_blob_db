@@ -1,0 +1,4 @@
+--game: RnGesus Slayer
+
+addappid(3007890)
+addappid(3007891,0,"a56a8487d9a55e8d53f9817fea09bef52690c6420770778f4a56d8830b0c76d2")
