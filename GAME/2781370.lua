@@ -1,0 +1,10 @@
+--game: EXIT KUN
+
+addappid(229007)
+addappid(229030)
+addappid(2781370)
+addappid(2781371,0,"78b63094c32c4efd9282cf97ca349e6b9fd044ab2d765a2d397165caf73dd87c")
+addappid(2781372,0,"59d6481aa2cf6fc811911183cb5a214e0147ea9593c5bf77d1ab9b6fb09a13e2")
+addappid(2836780)
+addappid(2858720)
+addappid(2915580)
