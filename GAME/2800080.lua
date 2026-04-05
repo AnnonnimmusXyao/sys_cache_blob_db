@@ -1,0 +1,4 @@
+--game: Thief VR: Legacy of Shadow
+
+addappid(2800080)
+addappid(2800081,0,"97e6b86cbd24c949ee37e954ed05c6c6a874270cf39a3ba8759228d80abbbc67")
