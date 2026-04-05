@@ -1,0 +1,4 @@
+--game: Treasure Defence
+
+addappid(2797590)
+addappid(2797591,0,"48396d3fab52a88e440e225cec61f6c05d279b2149b62b68631ebcf00834503b")
