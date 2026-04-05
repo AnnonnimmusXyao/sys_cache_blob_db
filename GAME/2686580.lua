@@ -1,0 +1,4 @@
+--game: Trinity Survivors
+
+addappid(2686580)
+addappid(2686581,0,"eafcbc5f6a59db883998ec09b07268a4e025fd31df320361057a104aa68441a4")
