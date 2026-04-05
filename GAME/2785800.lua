@@ -1,0 +1,4 @@
+--game: Wizzerd Quest
+
+addappid(2785800)
+addappid(2785801,0,"c5676d48cc5ae70b65369f0fe83a1dca7139aebe6dbb426b0c50ed41222253e9")
