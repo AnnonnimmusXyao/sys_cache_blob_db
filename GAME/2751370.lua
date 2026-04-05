@@ -1,0 +1,4 @@
+--game: Bitty Knight
+
+addappid(2751370)
+addappid(2751371,0,"b0d100fdfd357dde39559cb92033b55dc495741932983f30c8f78d1e0877a41b")
