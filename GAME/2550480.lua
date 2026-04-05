@@ -1,0 +1,4 @@
+--game: Skibidi Toilets: Invasion
+
+addappid(2550480)
+addappid(2550481,0,"b259b187ed65dd4872ec123fffa06f0e21749283f848cdeb8ec330c6456ecf7e")
