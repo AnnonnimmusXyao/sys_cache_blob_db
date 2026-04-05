@@ -1,0 +1,8 @@
+--game: ICBM: Escalation
+
+addappid(229006)
+addappid(2647680)
+addappid(2647681,0,"b1bf03cc4418c9b103c1d3e63e121d3b36137b3a70cd03b7662c3b155a365a91")
+addappid(2647682,0,"89cba265964e76f3b0c5986e82b514b75d3292ad19c6e554cde5d67a57906e4e")
+addappid(3535540)
+addappid(3886420)
