@@ -1,0 +1,4 @@
+--game: NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-
+
+addappid(2879090)
+addappid(2879091,0,"d43b9987c03ad4a344d3476ea753b623e25f821017b9c39e21c35bd42fe3a13f")
