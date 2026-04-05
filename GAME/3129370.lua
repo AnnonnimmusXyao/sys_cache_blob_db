@@ -1,0 +1,4 @@
+--game: Malum Escape
+
+addappid(3129370)
+addappid(3129371,0,"69377e47c9765a5a0a143c52f7622a165e89b9b2601e8fc7ca946783e499519e")
