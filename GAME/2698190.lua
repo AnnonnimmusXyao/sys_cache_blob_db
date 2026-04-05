@@ -1,0 +1,4 @@
+--game: Trajectory of summer flower Ⅱ
+
+addappid(2698190)
+addappid(2698191,0,"70c0e5debc4b31465e5c77aef78dcb8e2289909d7b096b5af86a75bb78354064")
