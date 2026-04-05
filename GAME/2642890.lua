@@ -1,0 +1,6 @@
+--game: KunKunNight
+
+addappid(229003)
+addappid(229033)
+addappid(2642890)
+addappid(2642891,0,"881c160a66097cb250d1865decd4e275ac0917db682aa1497b725186e9567947")
