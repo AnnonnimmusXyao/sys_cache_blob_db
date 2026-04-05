@@ -1,0 +1,4 @@
+--game: Tesserarii: The Dice Rolling Roguelike
+
+addappid(3176790)
+addappid(3176791,0,"76faa41174bb042eee5c275cf5052218c40a8fdf3e03e7717fad775b035fe1b4")
