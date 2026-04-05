@@ -1,0 +1,6 @@
+--game: LET IT DIE: INFERNO
+
+addappid(2576150)
+addappid(2576151,0,"bccfdd33b5926cd9e787d319f6c28e42ddad324e3a5fe21e6e1ca86f321d4475")
+addappid(3365260)
+addappid(3365270)
