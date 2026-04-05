@@ -1,0 +1,4 @@
+--game: Muramasa Burden
+
+addappid(3106200)
+addappid(3106201,0,"f5c5a3f39dbddf5dcd9589781e78b8d137b4c3843bf6049c55e98a0e936ed75f")
