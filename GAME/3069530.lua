@@ -1,0 +1,4 @@
+--game: Oh, honey! Anime clicker!
+
+addappid(3069530)
+addappid(3069531,0,"fe2000a9f81eab07879ef344e8cc8b063b22dddd6b50598ede8d7998fe307a8b")
