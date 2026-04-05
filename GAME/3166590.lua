@@ -1,0 +1,4 @@
+--game: Stones of Flesh
+
+addappid(3166590)
+addappid(3166591,0,"6e8258cd168eeaf9c4baf15a8cdaea7eb606c37280c1eb651a226a7772570248")
