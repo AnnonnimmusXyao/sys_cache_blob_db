@@ -1,0 +1,4 @@
+--game: Tiny Battles: Prologue
+
+addappid(2746200)
+addappid(2746201,0,"da97598ecba8c7ebd4efdc4c1104d185c19219b7388f8fb8dc7e535fce904d45")
