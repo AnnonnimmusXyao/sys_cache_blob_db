@@ -1,0 +1,4 @@
+--game: Ells Tales: Chicken
+
+addappid(3066660)
+addappid(3066661,0,"f988474f10ee1211b8c0e98a5600e44e4c99822555b74779af4c3c2c2b68c16a")
