@@ -1,0 +1,4 @@
+--game: Naturpark Lillebælt VR
+
+addappid(2569520)
+addappid(2569521,0,"1183b404458e2cfb775259fec78916970058155503acbdb086f40048ab88c1d7")
