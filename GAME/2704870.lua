@@ -1,0 +1,4 @@
+--game: Crying Alone
+
+addappid(2704870)
+addappid(2704871,0,"4b239bff738c67ab1dc59d77316b6eca07325eb3bf8a6175cdce23bcf01db1c0")
