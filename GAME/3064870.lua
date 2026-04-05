@@ -1,0 +1,4 @@
+--game: Last victim. House of Fear
+
+addappid(3064870)
+addappid(3064871,0,"2c60035b43d8cadcc1eabec9655212f6cc75feb73c5c7ba96045fd64162e4d48")
