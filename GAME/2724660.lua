@@ -1,0 +1,4 @@
+--game: 终境传说
+
+addappid(2724660)
+addappid(2724661,0,"ae4d04fa13b48163311373a5b08580d51ed00725e56974e34b36f086ca252efb")
