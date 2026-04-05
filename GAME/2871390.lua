@@ -1,0 +1,4 @@
+--game: Poly TD
+
+addappid(2871390)
+addappid(2871391,0,"54992ca61db3a08a40b7a632d63567d9775624fb78081cea4e80b049e7ef0926")
