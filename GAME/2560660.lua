@@ -1,0 +1,4 @@
+--game: Educational Suite
+
+addappid(2560660)
+addappid(2560661,0,"ab95c72253ee719dffd11fd1efea36832fcefde7900d31520e16a50a7cec9900")
