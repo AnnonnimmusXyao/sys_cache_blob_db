@@ -1,0 +1,4 @@
+--game: Burger Station
+
+addappid(3260090)
+addappid(3260091,0,"238a1ba3c295e1d7fb2dd70b2db2981e31ca42631405fbf0cc525e28435a9366")
