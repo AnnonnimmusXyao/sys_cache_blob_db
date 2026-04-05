@@ -1,0 +1,4 @@
+--game: 闲置神话
+
+addappid(2563550)
+addappid(2563551,0,"fdc417fe56b80c43bf8ae5afbf0598574734ec39bd0ddd687943ee3ad494469a")
