@@ -1,0 +1,5 @@
+--game: Shadow King
+
+addappid(2675390)
+addappid(2675391,0,"4c623740e0995eb526f0b857baa7f1d32de6baef1c0875d559a81affe00ac68c")
+addappid(2675392,0,"ebb94fdcf80b1831412e1e8fccb6cbcbfa5eb1b49d1e593ea1b1c883f03c0fc8")
