@@ -1,0 +1,5 @@
+--game: Halcyon Days at Taoyuan
+
+addappid(2678830)
+addappid(2678831,0,"b8914f851e3c92fffc62f0b8e8b4e4f60dd23e298942554f1d64af42dbefcec7")
+addappid(4327360,0,"08560971852a825ee16b3691d58db0915131c0cf007feccfbf63c7a9c3217be0")
