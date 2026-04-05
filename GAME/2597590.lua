@@ -1,0 +1,4 @@
+--game: Cuckold Chair Simulator 2023
+
+addappid(2597590)
+addappid(2597591,0,"cc1f3e3ecccd1b763b7738d4ba82f9daf7a04a5e50309513e976171157502ccf")
