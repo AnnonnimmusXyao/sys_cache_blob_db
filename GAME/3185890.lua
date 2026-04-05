@@ -1,0 +1,4 @@
+--game: 我打不过漂亮的她们
+
+addappid(3185890)
+addappid(3185891,0,"e558d7fdce352a91c986dfe3e627ba6b48def6e2137f6e14e60ba84227a6473e")
