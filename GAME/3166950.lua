@@ -1,0 +1,4 @@
+--game: Arcade Reflex
+
+addappid(3166950)
+addappid(3166951,0,"a7c5b7ab9e278976c04d631faba4ff4c064142a9901f104e0d1f478bd886c1e7")
