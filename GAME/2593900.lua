@@ -1,0 +1,4 @@
+--game: [Chilla's Art] The Kidnap | 誘拐事件
+
+addappid(2593900)
+addappid(2593901,0,"593686724a16591b656424bffd25e371cc7a324b1ae8aa953357b045573888e5")
