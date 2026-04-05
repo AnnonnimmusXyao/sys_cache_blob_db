@@ -1,0 +1,4 @@
+--game: 启禀陛下
+
+addappid(2699740)
+addappid(2699741,0,"8e0838597b2775a37e246b54985b8cda38876ef6abb900ecc69d35c48a4f8934")
