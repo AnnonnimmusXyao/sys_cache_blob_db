@@ -1,0 +1,4 @@
+--game: Find-o'-Lantern
+
+addappid(3170700)
+addappid(3170701,0,"eb2940eb044960c204b5cfc97bdd3b1863c533e64db7ccc8934f3302bfe0c3e0")
