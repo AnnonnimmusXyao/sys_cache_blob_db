@@ -1,0 +1,4 @@
+--game: Heart Cage
+
+addappid(2570850)
+addappid(2570851,0,"e56a5310ce0b5c36c5dbf3dc588ebea445f21481cfc91dc1eb9cd0ad59b639f8")
