@@ -1,0 +1,4 @@
+--game: 找起来！
+
+addappid(2550370)
+addappid(2550371,0,"6a5aea71c2cda8ed6be85636a5b43880a9b2c9dc69587f50b7279fc895836492")
