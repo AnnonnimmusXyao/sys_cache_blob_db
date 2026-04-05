@@ -1,0 +1,4 @@
+--game: Golf Monday
+
+addappid(2675400)
+addappid(2675401,0,"95cb5a597eccc5ff8a315f56643c202dcba51115408aba0c9dd1b5d53d828fe9")
