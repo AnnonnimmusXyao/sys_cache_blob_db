@@ -1,0 +1,4 @@
+--game: 诡事其一珍珠剧院
+
+addappid(3198990)
+addappid(3198991,0,"599930e9a323e48b4edb7921050bb4c42e4ca8b1075860fac90327c7ef91219c")
