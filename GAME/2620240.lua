@@ -1,0 +1,7 @@
+--game: Spectral Scream
+
+addappid(2620240)
+addappid(2620241,0,"ddf1b6bf9dc3109068d5264de32ea63f2f97d63b26ff6f5b6b67e80337e58174")
+addappid(3253800)
+addappid(3463860)
+addappid(3477700)
