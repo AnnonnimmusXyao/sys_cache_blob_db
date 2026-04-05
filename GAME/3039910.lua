@@ -1,0 +1,4 @@
+--game: Demon Hunt
+
+addappid(3039910)
+addappid(3039911,0,"c0d70c21f69ef19ee644e2676cdcec58f44969c4cef9264c6495d214e16dcba2")
