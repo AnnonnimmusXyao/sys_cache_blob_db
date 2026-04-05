@@ -1,0 +1,4 @@
+--game: Idle Hero TD - Tower Defense
+
+addappid(2897580)
+addappid(2897581,0,"881b4dbbf59302d7b3e216ea9c127e730a3d84a138f6252c9749d48b7f1d7a34")
