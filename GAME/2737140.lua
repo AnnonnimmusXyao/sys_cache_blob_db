@@ -1,0 +1,4 @@
+--game: Slayaway Camp 2
+
+addappid(2737140)
+addappid(2737141,0,"1acb2d69a8d078880a7b1025c71c8db73715a9bc91a856c28b08fd731ca38e4b")
