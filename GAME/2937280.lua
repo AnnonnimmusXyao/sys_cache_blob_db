@@ -1,0 +1,4 @@
+--game: ChronoClone
+
+addappid(2937280)
+addappid(2937281,0,"0fc9c2e3ce95bd0f985e3c888b76b13fb2e9c0d3b3b2c23800e3bfe3b9510f52")
