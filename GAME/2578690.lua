@@ -1,0 +1,4 @@
+--game: Arch Rivals
+
+addappid(2578690)
+addappid(2578691,0,"b5e9f441441ef58eab90c68cb01522db1d01df054a79b4788e6d0748f5c38ac9")
