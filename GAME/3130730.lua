@@ -1,0 +1,4 @@
+--game: E-Trading Simulator: Prologue
+
+addappid(3130730)
+addappid(3130731,0,"48cd73f0921c0b91bed498550398bba2ab2bd05df05d482e6401c2cbaab7469c")
