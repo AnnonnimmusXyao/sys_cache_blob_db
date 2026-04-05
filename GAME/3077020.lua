@@ -1,0 +1,4 @@
+--game: DOKAPON ~Sword of Fury~
+
+addappid(3077020)
+addappid(3077021,0,"f1fe5b4ac18c2e50df6c380046f21935408a3373d68373a0409d9eed6dd71336")
