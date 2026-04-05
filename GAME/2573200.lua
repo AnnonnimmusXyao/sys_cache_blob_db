@@ -1,0 +1,4 @@
+--game: Squeaky Squad
+
+addappid(2573200)
+addappid(2573201,0,"8c4ba85f4a13d3c5c16f0b6ead5ab83a85f46a7987e1c88e98fd28c3b3d4c2d8")
