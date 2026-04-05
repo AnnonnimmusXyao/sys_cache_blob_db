@@ -1,0 +1,4 @@
+--game: Sins OV Cigar
+
+addappid(2626410)
+addappid(2626411,0,"33e34c3d2d858e9120cab560e3737bebe77ae7dc779d7426325aab836893ac67")
