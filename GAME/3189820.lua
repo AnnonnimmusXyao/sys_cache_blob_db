@@ -1,0 +1,4 @@
+--game: Stellarcraft
+
+addappid(3189820)
+addappid(3189821,0,"138aa7f637ac1c277fa32f278e66b4b63037ad646091a709fbf1e52a65b3fc76")
