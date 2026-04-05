@@ -1,0 +1,4 @@
+--game: Paraido
+
+addappid(2564950)
+addappid(2564951,0,"b3cbcc71c30c9336c0efc4db9866255c3fa4556c1289cb9fbfd2828468c722f9")
