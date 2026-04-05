@@ -1,0 +1,4 @@
+--game: Alcoholic Daddy
+
+addappid(3067060)
+addappid(3067061,0,"a466544611778dbcceebd8f398206ed324aca83cb4a1638a2074cb0d95b8c9fd")
