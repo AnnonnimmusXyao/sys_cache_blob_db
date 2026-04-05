@@ -1,0 +1,5 @@
+--game: Solasta II
+
+addappid(2975950)
+addappid(2975951,0,"c8f970ccdd87f395644cdde56d98dedf5ecd0a8ccb0ed86a7ddc2746c7c50888")
+addappid(4045820)
