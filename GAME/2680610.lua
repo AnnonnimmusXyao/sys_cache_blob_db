@@ -1,0 +1,4 @@
+--game: Universal Power
+
+addappid(2680610)
+addappid(2680611,0,"5769813963d73f745b48fdc227fe056f27b838c1b0126e12eafab8f316ddfec3")
