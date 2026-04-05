@@ -1,0 +1,4 @@
+--game: Dungeons & Kingdoms
+
+addappid(3092110)
+addappid(3092111,0,"6f8797dfc8bde4bc30cfa1f4989a56260963e651a55c1017069f618ad48a6ba0")
