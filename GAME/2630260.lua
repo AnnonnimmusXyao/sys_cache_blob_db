@@ -1,0 +1,4 @@
+--game: Nude and Afraid: 11 Day Challenge
+
+addappid(2630260)
+addappid(2630261,0,"cf25f84c367cc1209f5bd9f98cfcf8875748bb4dd21e3d070751f52a4649c5a4")
