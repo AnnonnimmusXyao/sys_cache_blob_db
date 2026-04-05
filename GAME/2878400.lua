@@ -1,0 +1,4 @@
+--game: Ariane in Paradise
+
+addappid(2878400)
+addappid(2878401,0,"c740613e64ba8b753a65cab3e33ab823195fba86df0af0c97324ab46fc77078e")
