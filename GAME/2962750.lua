@@ -1,0 +1,4 @@
+--game: Ghostbane: Prologue
+
+addappid(2962750)
+addappid(2962751,0,"4978b1392f66a0247d19157bdfe09aeb6c9ccd5233573f1a8975081bb812fb6f")
