@@ -1,0 +1,5 @@
+--game: Bananametr
+
+addappid(3013470)
+addappid(3013471,0,"a0230cdb26532c04153f9d3853fa4aea55639a1709ade8fd4902a99155bbb359")
+addappid(3042620)
