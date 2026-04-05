@@ -1,0 +1,4 @@
+--game: Pigeon Hater
+
+addappid(3151930)
+addappid(3151931,0,"fcb5a70c655922530db5df8869aa2dcbafc5db6699c581e497824dc11092e0ab")
