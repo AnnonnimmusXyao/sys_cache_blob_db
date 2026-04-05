@@ -1,0 +1,4 @@
+--game: 田园画境 Pastoral
+
+addappid(2602550)
+addappid(2602551,0,"8d4ee254aef9b1ca38ef942e76f3681a6a8fff33f18a3376fa6606ee488e5bb1")
