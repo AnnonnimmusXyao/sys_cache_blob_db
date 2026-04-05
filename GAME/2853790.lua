@@ -1,0 +1,7 @@
+--game: Wyvern Studios Solitaire: 30th Aniversary Edition
+
+addappid(2853790)
+addappid(2853791,0,"e197a442c192b1f78bde4350bdb72c020433f06339ff49ca9d1e452b73170cc2")
+addappid(2860080)
+addappid(3821680)
+addappid(3821690)
