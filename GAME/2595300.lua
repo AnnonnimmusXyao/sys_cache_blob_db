@@ -1,0 +1,4 @@
+--game: Forgotten Symphony
+
+addappid(2595300)
+addappid(2595302,0,"5ebc29a0a1c4e2689794edb367cb0d460d197f9344036bd732db24991c7108ca")
