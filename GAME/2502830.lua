@@ -1,0 +1,7 @@
+--game: Heaven's Dream
+
+addappid(2502830)
+addappid(2502831,0,"492144af97383a07f2b2b4a137c74312b6e8f62c448865d5228d309ad53f4617")
+addappid(2524240)
+addappid(2551100)
+addappid(2624220)
