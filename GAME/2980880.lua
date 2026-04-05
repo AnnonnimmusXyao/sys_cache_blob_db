@@ -1,0 +1,4 @@
+--game: Hentai Sister
+
+addappid(2980880)
+addappid(2980881,0,"405aea66ffe1b025b29643339a5a5ac31be3bcb71db33cbb1d8fd2ee84348573")
