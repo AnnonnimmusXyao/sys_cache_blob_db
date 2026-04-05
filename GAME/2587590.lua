@@ -1,0 +1,4 @@
+--game: Iridio
+
+addappid(2587590)
+addappid(2587591,0,"b4691454b8d87abeacbb5dad250379b1bdfd8fbe06febb336d12ca88a6339ffb")
