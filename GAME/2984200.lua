@@ -1,0 +1,4 @@
+--game: Sanguinaria
+
+addappid(2984200)
+addappid(2984201,0,"519141733746d1251a53d5dc8115c981c1efe3c6829992a68e48e14404f60cc3")
