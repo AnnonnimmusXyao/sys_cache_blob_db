@@ -1,0 +1,4 @@
+--game: NINJA KATO 2
+
+addappid(2715230)
+addappid(2715231,0,"9319f9b66e22627d689462066a62a4690ebd3a9eb8e9c8efbdb801f50e91820c")
