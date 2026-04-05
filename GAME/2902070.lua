@@ -1,0 +1,4 @@
+--game: Gym Manager: Prologue
+
+addappid(2902070)
+addappid(2902071,0,"ebf6597e4de245c9093347665e7f2aa5f30241c1e37ecd425574cdf60697db99")
