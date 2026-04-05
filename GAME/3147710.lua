@@ -1,0 +1,4 @@
+--game: Farming & Supermarket Simulator: Prologue
+
+addappid(3147710)
+addappid(3147711,0,"ebe5af9a452937d7d21e72949bb02466ed976c12036a92218840c19dadd89964")
