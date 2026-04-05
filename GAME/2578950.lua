@@ -1,0 +1,4 @@
+--game: Inhibit
+
+addappid(2578950)
+addappid(2578951,0,"35781a899d4d50b44058d324b3a9abd57c496c5f53582a3252ea73ac8c1a548a")
