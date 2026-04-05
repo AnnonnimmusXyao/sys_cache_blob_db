@@ -1,0 +1,4 @@
+--game: Best Served Cold
+
+addappid(3218530)
+addappid(3218531,0,"50ece9f8ddbf60ec708059b18a272a27ce8789161e30aaa57626720f4496c173")
