@@ -1,0 +1,4 @@
+--game: 学妹、学姐、少妇还有教导主任爱上我! Girls on Campus, from Freshmen to Faculty, All Fall for Me!
+
+addappid(3029990)
+addappid(3029991,0,"67f56b5fbff43888a3b8333cbf8d02c30c55f3611de0e82fb9204f61d865ff08")
