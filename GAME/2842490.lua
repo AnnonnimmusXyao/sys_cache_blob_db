@@ -1,0 +1,4 @@
+--game: Dangerous Galaxy
+
+addappid(2842490)
+addappid(2842491,0,"f58404e688844b36afcf23884e77bab6f567f7423bd86fddf74a3a0be5c05d29")
