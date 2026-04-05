@@ -1,0 +1,4 @@
+--game: Hidden Space Top-Down 3D
+
+addappid(2610220)
+addappid(2610221,0,"5c6d644a1d5ad4d0a67b96b5290027d11a63aa700d52dde25fd901c80d246843")
