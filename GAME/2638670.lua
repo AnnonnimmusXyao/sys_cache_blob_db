@@ -1,0 +1,4 @@
+--game: Temple Guy - Quest for chest
+
+addappid(2638670)
+addappid(2638671,0,"24463d171c1ce4523b96ffac0fa72afaecfe2fa3a8b77854579138a521408ec0")
