@@ -1,0 +1,4 @@
+--game: Cat & Capy
+
+addappid(3108140)
+addappid(3108141,0,"82cda41760dde1879f0f493672cb6046767e2d9034e06d59d794a16a0a661af0")
