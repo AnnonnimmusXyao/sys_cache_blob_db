@@ -1,0 +1,4 @@
+--game: Morimens
+
+addappid(3052450)
+addappid(3052451,0,"6b675bad16e890cfcde2ead0e7c0635d0a62315d81b34f165443a57b016d3f1e")
