@@ -1,0 +1,5 @@
+--game: Frost Survival VR
+
+addappid(3054950)
+addappid(3054951,0,"6aa13ef60a9d9b32dbd56033994f28bd55e99c7b24cc8ea0a175c81bf270751e")
+addappid(3883260)
