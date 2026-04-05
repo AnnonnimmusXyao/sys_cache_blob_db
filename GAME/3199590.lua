@@ -1,0 +1,4 @@
+--game: Foto Boy: Flashstar
+
+addappid(3199590)
+addappid(3199591,0,"c2161cebba440a31bee434f354b713d89a6030221203b436483118a996c4bcb3")
