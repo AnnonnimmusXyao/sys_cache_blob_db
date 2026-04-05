@@ -1,0 +1,4 @@
+--game: Herdling
+
+addappid(3047750)
+addappid(3047751,0,"a918ea4b275bdbdd2d68c815d2b7fb9caf4b364fd011a538ce777d3501ce7ef8")
