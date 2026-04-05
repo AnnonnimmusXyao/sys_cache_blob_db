@@ -1,0 +1,4 @@
+--game: Bargain ssp Wargame
+
+addappid(2652570)
+addappid(2652571,0,"47d8f4e9f9e8125c7c1f775d26af9e94955cf971e344f3d946863ddc8b033042")
