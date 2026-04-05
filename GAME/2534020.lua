@@ -1,0 +1,4 @@
+--game: Dungeon Tale
+
+addappid(2534020)
+addappid(2534021,0,"7b9b42f051e1554f840e0ef024ee666661e758f98299d68eb272c51844448d61")
