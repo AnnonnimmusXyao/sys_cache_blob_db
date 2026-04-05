@@ -1,0 +1,4 @@
+--game: Zombie Survivors
+
+addappid(3113890)
+addappid(3113891,0,"0bf74aa38bfe5f400646c49de8065cdb158002cbefe9ae1080bbb895986e2b03")
