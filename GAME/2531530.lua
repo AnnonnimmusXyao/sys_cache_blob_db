@@ -1,0 +1,4 @@
+--game: Sex Simulator - Yoga Girls
+
+addappid(2531530)
+addappid(2531531,0,"e8043450498e45b62b870b6fb3137b67446d284d87317e52aced12ec257fb540")
