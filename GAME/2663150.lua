@@ -1,0 +1,5 @@
+--game: Valkyrie Saga
+
+addappid(2663150)
+addappid(2663151,0,"137dc7d5061198645ef2818cf58410ac7fdc7b429236c9991be3ce92499d3097")
+addappid(4391290)
