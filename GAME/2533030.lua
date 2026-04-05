@@ -1,0 +1,4 @@
+--game: Small Kingdoms Prologue
+
+addappid(2533030)
+addappid(2533031,0,"dbdc5264182c2dc3970a16ecbbd307267f2071a208d2cea4347619e69330eca5")
