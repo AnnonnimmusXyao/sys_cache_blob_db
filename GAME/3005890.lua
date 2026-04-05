@@ -1,0 +1,4 @@
+--game: Monster Ops 2
+
+addappid(3005890)
+addappid(3005891,0,"8a92f040e42c010e1f003b0afd7b14108dde7617dfc26235cbf4ed19f8fd7d44")
