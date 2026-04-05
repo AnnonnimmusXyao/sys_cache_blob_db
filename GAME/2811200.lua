@@ -1,0 +1,4 @@
+--game: Machick
+
+addappid(2811200)
+addappid(2811201,0,"fa8263c9145b74d957a7e0616ba181fd443239009886afa11ceb8572560f7c43")
