@@ -1,0 +1,4 @@
+--game: Milky Way TD SURVIVORS AUTOBATTLER RTS: Earth
+
+addappid(2837340)
+addappid(2837341,0,"d1fe9f3c147356eaf01bd01d62138ff90bcd1d5406e83310757184623d714b2c")
