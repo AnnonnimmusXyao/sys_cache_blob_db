@@ -1,0 +1,4 @@
+--game: The Awakener: Forgotten Oath
+
+addappid(2527660)
+addappid(2527661,0,"7ca2ce58c5b6fc3b702c3ead9aafe8738aab76887f984d547659817e543bd3f7")
