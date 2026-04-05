@@ -1,0 +1,4 @@
+--game: Sandtrix+
+
+addappid(2546310)
+addappid(2546311,0,"68cbb1f7b0b3014f7efaf528a1ed5f9cfca34070ae013bd90db547d5bd4e4d80")
