@@ -1,0 +1,4 @@
+--game: Monotonous Days Are...
+
+addappid(3216670)
+addappid(3216671,0,"f8617099d2a645210256e67ae8d5526f0a070f0e20acfa0d5e97fe652edcb727")
