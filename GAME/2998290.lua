@@ -1,0 +1,6 @@
+--game: Weirdo
+
+addappid(2998290)
+addappid(2998291,0,"446c76053bf016bf6d54b3d27a5bad60b5773234362ea74e39b22ec41e3ed53b")
+addappid(3456130)
+addappid(3456140)
