@@ -1,0 +1,4 @@
+--game: Poly Roam
+
+addappid(2702470)
+addappid(2702471,0,"3abc68de70b961e7dda694a566c7a520512e07b8735333cef335ce552a4771e0")
