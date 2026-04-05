@@ -1,0 +1,4 @@
+--game: Restraint combat erotic RPG Elpis Aigis
+
+addappid(3132310)
+addappid(3132312,0,"2c72ed5318bed2ac15048b1b1d68cf9a6edd229998a4aa09be64806ebed7b2be")
