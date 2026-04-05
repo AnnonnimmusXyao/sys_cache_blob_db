@@ -1,0 +1,4 @@
+--game: Grid Ranger
+
+addappid(2964400)
+addappid(2964401,0,"0396a501399ee8cbfd2b19213de4008a1d29a7081d57d83f38e3db679f1f0c85")
