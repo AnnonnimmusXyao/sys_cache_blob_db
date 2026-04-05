@@ -1,0 +1,4 @@
+--game: Anominal
+
+addappid(2667880)
+addappid(2667881,0,"780c82afb453d2b3849109203a7c5bd5c3dcf351722e4d9ecc8fb92cbbda8c54")
