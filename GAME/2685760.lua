@@ -1,0 +1,4 @@
+--game: Team Disorder Special Edition
+
+addappid(2685760)
+addappid(2685761,0,"7e80ea39fd720e7cc3b99b387dbaad5d3e90b426759c63fd0009b0d5d5395e50")
