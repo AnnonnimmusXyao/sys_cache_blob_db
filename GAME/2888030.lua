@@ -1,0 +1,5 @@
+--game: Coyote: An Old West Vignette
+
+addappid(2888030)
+addappid(2888031,0,"6db67ca4bed3db125e0a9d883c1f588a3d56a3f997c4dcb58faf25dfb9cfc858")
+addappid(2888032,0,"eba650665ed3af2ef557bf88311a80a5906d18cf7dede95a707f99f2d4fc4552")
