@@ -1,0 +1,4 @@
+--game: Cricket Legends
+
+addappid(3091200)
+addappid(3091201,0,"62c826367031bd9c781da3dce7ee6fc00d545e71f3f208c6d0e0e5cc83dbb0b8")
