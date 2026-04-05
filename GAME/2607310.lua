@@ -1,0 +1,4 @@
+--game: TheLastCommander
+
+addappid(2607310)
+addappid(2607311,0,"2fe7e5872a6d059173f2cf2dcd07c698e29a54489318a81d5b24fcc950c50041")
