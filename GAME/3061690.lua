@@ -1,0 +1,4 @@
+--game: Bee Hero: Bug Blaster
+
+addappid(3061690)
+addappid(3061691,0,"11eda82446b0659b3cf2392a7c9bbcb71e6db10290541185998ad36e54597e6d")
