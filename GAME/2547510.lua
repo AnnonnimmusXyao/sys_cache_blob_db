@@ -1,0 +1,4 @@
+--game: 冒险公会与传说 Adventure Story
+
+addappid(2547510)
+addappid(2547512,0,"592b0cf0914370a3d69d6d84c8137c857bbfcb8f699285fe81481a67339679c5")
