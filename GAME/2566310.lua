@@ -1,0 +1,4 @@
+--game: Thanatophobia
+
+addappid(2566310)
+addappid(2566311,0,"a992ab2011bbd3bf0dd04aebb92fc01e1eaaa2eebdf2dc8361145ddf06935d5c")
