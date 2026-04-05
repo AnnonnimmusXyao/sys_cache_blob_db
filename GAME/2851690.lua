@@ -1,0 +1,4 @@
+--game: Riptide
+
+addappid(2851690)
+addappid(2851691,0,"d31f19cda714d270b7d1d5ed06d07ad9b810d2d9c1fe669f9c0dc6a3baf6e197")
