@@ -1,0 +1,5 @@
+--game: Lost Princess: City
+
+addappid(229000)
+addappid(2765350)
+addappid(2765351,0,"1902afe1b8d8d4891697a67aae2685ebabcf72033c8582f2cec677986ab18821")
