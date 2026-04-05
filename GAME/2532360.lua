@@ -1,0 +1,4 @@
+--game: Point Salad - The Board Game
+
+addappid(2532360)
+addappid(2532363,0,"cc4e1ed7e8bca4b72c72dfe05756bcbbfe2040eecb38dd8b721afe5438823344")
