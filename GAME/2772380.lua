@@ -1,0 +1,4 @@
+--game: Empty Skull
+
+addappid(2772380)
+addappid(2772381,0,"5543b9047de5dfdfe2b137c16adde86ab0999c03d7d6d192a67869c13acca68e")
