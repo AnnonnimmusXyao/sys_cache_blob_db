@@ -1,0 +1,4 @@
+--game: Decollate Decoration
+
+addappid(3155570)
+addappid(3155571,0,"8ef5395dabb534f305266ef1061a89790f78ad60842d3e044f04df5c37321432")
