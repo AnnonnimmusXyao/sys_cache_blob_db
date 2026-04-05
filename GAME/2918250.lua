@@ -1,0 +1,6 @@
+--game: Superhero Cats
+
+addappid(2918250)
+addappid(2918251,0,"dd70654e5150378e36104854a8d1cbe68fb167318855675f80169d3efff62fbc")
+addappid(2919630)
+addappid(2919640)
