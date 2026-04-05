@@ -1,0 +1,4 @@
+--game: Backrooms: The Labyrinth
+
+addappid(3083660)
+addappid(3083661,0,"00147aa7051e54e3dcb6d7b6633fb2c22e2312adc7efe5688d66e1872d6dce83")
