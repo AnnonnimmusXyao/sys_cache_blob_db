@@ -1,0 +1,4 @@
+--game: 开发土地的商人
+
+addappid(2723300)
+addappid(2723301,0,"8bf29f8796c84e3e7e7a9713543fb71a8f540e9c3851a6e587f72318bb9250de")
