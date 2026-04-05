@@ -1,0 +1,4 @@
+--game: Vestiges: Fallen Tribes
+
+addappid(2511780)
+addappid(2511781,0,"0790dbd3cf777b75548120aa0674f4afe4ac4d79cca556edfa0f332d7b6430ff")
