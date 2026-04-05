@@ -1,0 +1,4 @@
+--game: Winter Burrow
+
+addappid(3008740)
+addappid(3008741,0,"f0bf5628ceba5807cf894814396eab56087604b28a59a1e298b1543ae0ce589e")
