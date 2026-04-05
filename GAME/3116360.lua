@@ -1,0 +1,4 @@
+--game: Before the Dawn: SENARA Prologue
+
+addappid(3116360)
+addappid(3116361,0,"19127191736496c81423aa7326ac53bf2608d2e9bfa96f9b241ba1ffc4d064f5")
