@@ -1,0 +1,4 @@
+--game: Taimanin Yukikaze
+
+addappid(2739700)
+addappid(2739701,0,"53be8aa3174f1fdcfd58684d4eba6f7820afcec522a1bc8cd583d43ab61a1309")
