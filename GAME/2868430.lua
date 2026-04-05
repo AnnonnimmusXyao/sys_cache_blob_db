@@ -1,0 +1,4 @@
+--game: XiuzhenWorld / 修真世界
+
+addappid(2868430)
+addappid(2868431,0,"bac6d629f1c2ffd9ba0846e64cb2a42ffccbfd156891e5b07b30647129472b82")
