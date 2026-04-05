@@ -1,0 +1,4 @@
+--game: Catto's Post Office
+
+addappid(2908050)
+addappid(2908051,0,"a12f5ae105f4485a2ddfcaabace9ea0adfa54e9eaee828d9e38283121dc527a4")
