@@ -1,0 +1,4 @@
+--game: Slyders
+
+addappid(2607870)
+addappid(2607871,0,"63effcccb63f3b94634026d5d8d42c22bc70882a2cbd5b60fc04bcb914228400")
