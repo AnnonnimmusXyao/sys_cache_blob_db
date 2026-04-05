@@ -1,0 +1,4 @@
+--game: でびるコネクショん
+
+addappid(3054820)
+addappid(3054822,0,"cd2f7048e21da5b026ab9c1a9e0840cec21c76b3211d7aeec89c59adf12072d0")
