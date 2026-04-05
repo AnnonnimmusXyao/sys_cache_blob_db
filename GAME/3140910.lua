@@ -1,0 +1,4 @@
+--game: 100th Bug Brigade
+
+addappid(3140910)
+addappid(3140912,0,"189a25808bba1008b6adfa71c06e7fd447f45afd4e80e06be91cebf742d82509")
