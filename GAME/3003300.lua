@@ -1,0 +1,7 @@
+--game: 桌面精灵
+
+addappid(3003300)
+addappid(3003301,0,"325e733ae4a99b056ba9313f067dd0c882e5dbed87974e0367e6446c2f876f24")
+addappid(3452360)
+addappid(3557070)
+addappid(3652680)
