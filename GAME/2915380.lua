@@ -1,0 +1,4 @@
+--game: Ways of Alchemy
+
+addappid(2915380)
+addappid(2915381,0,"006c499127672be348393a095769d4fc7e1974dea0270ab840a454f513ca9b8d")
