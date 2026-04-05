@@ -1,0 +1,4 @@
+--game: Real Pharmacy Simulator
+
+addappid(3167960)
+addappid(3167961,0,"2f1b67cfd9c3e1072ae10ffb6738ba570b9fdea59f31dc8f2e151378db85d9c5")
