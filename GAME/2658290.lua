@@ -1,0 +1,4 @@
+--game: Merge ETO
+
+addappid(2658290)
+addappid(2658291,0,"7dc97ceaf510e0f4b43dffa38ae8853ce14eaf4115f8b814b8e79001ae70cbcb")
