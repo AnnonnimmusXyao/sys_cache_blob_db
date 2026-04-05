@@ -1,0 +1,4 @@
+--game: Party Spirits
+
+addappid(3112210)
+addappid(3112211,0,"48005cfb8ea1b0cf37e14c43f5c5015962b83850327517965c260e0de043309f")
