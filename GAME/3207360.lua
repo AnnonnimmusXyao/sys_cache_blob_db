@@ -1,0 +1,4 @@
+--game: Ascendrix
+
+addappid(3207360)
+addappid(3207361,0,"a3cfd72b01c25d8c05b8b9c48506c990df93c7f096d5595deacbfe06137ca050")
