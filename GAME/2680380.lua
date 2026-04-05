@@ -1,0 +1,4 @@
+--game: HYKE:Northern Light(s)
+
+addappid(2680380)
+addappid(2680381,0,"cdc67b5bb000915ceda3032de411465e1fc803a05d9e5c3fc7ed0c1368e2d6d6")
