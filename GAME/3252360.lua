@@ -1,0 +1,4 @@
+--game: Unemployment Simulator 2018
+
+addappid(3252360)
+addappid(3252361,0,"9b7e71f8d17e649e0212d800db0dcc5487fd70d679c6bdb4829d342c1ca9f6c9")
