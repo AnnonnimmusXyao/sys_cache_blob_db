@@ -1,0 +1,4 @@
+--game: まいにち男女入れ替わり生活！？ ～My Body Your Body～
+
+addappid(3081020)
+addappid(3081021,0,"fcec21963e8e93eadecec12c9f395b44ec5c58dbabc9d7de94cf40dea947cf38")
