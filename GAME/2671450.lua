@@ -1,0 +1,4 @@
+--game: E-Lich: Corporate Souls
+
+addappid(2671450)
+addappid(2671451,0,"2ec26c753f390cbfce7e166c869bed857e8c585f68fb658d893519b5b470cc95")
