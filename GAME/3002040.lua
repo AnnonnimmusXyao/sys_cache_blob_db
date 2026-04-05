@@ -1,0 +1,4 @@
+--game: Dofamine VR
+
+addappid(3002040)
+addappid(3002041,0,"8392ed111a2fdfc5e436ad177d927c8ae338e05655603a03e6e0831a1ab2461a")
