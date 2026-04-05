@@ -1,0 +1,4 @@
+--game: Shroomchitect
+
+addappid(2521550)
+addappid(2521551,0,"92839e7ca47f26ff7e45d1b6ff154f3e4f37eb8f0b7ec33558cf38b597ffac95")
