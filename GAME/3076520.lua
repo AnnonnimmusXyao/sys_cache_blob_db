@@ -1,0 +1,4 @@
+--game: Dog
+
+addappid(3076520)
+addappid(3076521,0,"30ac5785fdb1d3e5005e1963ce4d21881eeee3b24902d2c4855693b45d8c8132")
