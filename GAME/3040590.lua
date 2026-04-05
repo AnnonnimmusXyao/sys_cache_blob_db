@@ -1,0 +1,4 @@
+--game: Astoria: Fate's Kiss
+
+addappid(3040590)
+addappid(3040591,0,"f313447e628e5ef64b543c4c90892a62063ab75952a0a80beacef2d421c9bc8b")
