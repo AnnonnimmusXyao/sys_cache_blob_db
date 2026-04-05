@@ -1,0 +1,4 @@
+--game: 女神全部锁定我 Beauties! They're All After Me
+
+addappid(2873760)
+addappid(2873761,0,"c7c5b171a620e685e3845be981156d35f90f8445a04f4b9e185b3e75c7a19a97")
