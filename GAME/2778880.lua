@@ -1,0 +1,4 @@
+--game: Hospital of the Undead
+
+addappid(2778880)
+addappid(2778881,0,"b630b30dd217b56a8b92a7c243acdf407df21f0474ec4efdc28bb4439305ce0f")
