@@ -1,0 +1,4 @@
+--game: Jitter
+
+addappid(2877660)
+addappid(2877661,0,"806c4e4652d3cfcb53a4ce24ba701e44bc41a48dc7a816558add458918f518a7")
