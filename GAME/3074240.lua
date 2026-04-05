@@ -1,0 +1,4 @@
+--game: Void Collector
+
+addappid(3074240)
+addappid(3074241,0,"0fe7eee45873a590cf444770688f17832220077587c731b4145cbc4e2364f3d7")
