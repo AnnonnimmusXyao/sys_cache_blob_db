@@ -1,0 +1,4 @@
+--game: 修炼成仙
+
+addappid(2547120)
+addappid(2547121,0,"1994479c7a42749db12be52c283f7a165bbb01779c23de676ee4610bef858479")
