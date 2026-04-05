@@ -1,0 +1,4 @@
+--game: Ski Jump Challenge 2024
+
+addappid(2736230)
+addappid(2736231,0,"a52b66b46b96919746cb592d71d06845af48cb94d37f531b29e75f4dd5bf6f6a")
