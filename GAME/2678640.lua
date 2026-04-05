@@ -1,0 +1,4 @@
+--game: 朝露：境界旅程
+
+addappid(2678640)
+addappid(2678641,0,"2d51e5c831cd6d9b124f42a99cfffbfeb80b49d8a4515e7e06a626abe1db0ae7")
