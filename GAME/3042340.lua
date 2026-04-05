@@ -1,0 +1,4 @@
+--game: 汽车大亨
+
+addappid(3042340)
+addappid(3042341,0,"493dbab5a75720d84f9da7f75a9404b8d04c3377295dbc34c237a6788b87bc88")
