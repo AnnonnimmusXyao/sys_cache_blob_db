@@ -1,0 +1,4 @@
+--game: Road Maintenance Simulator 2 - Winter Services
+
+addappid(2865610)
+addappid(2865611,0,"2be2f0d2dc57335d9d21971889e9aec22d8c911b05c733953c443b1c5810de82")
