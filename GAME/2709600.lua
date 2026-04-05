@@ -1,0 +1,4 @@
+--game: SynthwaveZ
+
+addappid(2709600)
+addappid(2709601,0,"72e0a2307c7ce08e95b11300a3b624fa5bfc2d627231317c6c51b8a1b5f8c3eb")
