@@ -1,0 +1,4 @@
+--game: Cursed Despair
+
+addappid(2834580)
+addappid(2834581,0,"c172d9c98a76aa68b66f3ecf35893c1028a53d156c24333c710a4b0d0faef2cb")
