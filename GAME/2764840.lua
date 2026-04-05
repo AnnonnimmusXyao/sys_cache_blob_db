@@ -1,0 +1,4 @@
+--game: Pirates! Showdown: Enhanced Edition
+
+addappid(2764840)
+addappid(2764841,0,"d2286c64f0ff7f113e46d5a5441d2b7fa9ea98534076753b5be3f8acf745cc14")
