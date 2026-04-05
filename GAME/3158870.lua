@@ -1,0 +1,4 @@
+--game: Resident Fear 2
+
+addappid(3158870)
+addappid(3158871,0,"27d7f93890aa5b6c062c3d9ee29773000a4e2dbb92cf16c3b320a7784e88725c")
