@@ -1,0 +1,4 @@
+--game: Sex Story - Ruby and Hunter - Episode 5
+
+addappid(2523630)
+addappid(2523631,0,"d04744c920eaba70f4ec82cfbb3232d240177605713b734e8c557e0083504310")
