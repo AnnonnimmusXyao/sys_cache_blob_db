@@ -1,0 +1,4 @@
+--game: Heads Up! Phones Down Edition
+
+addappid(2533370)
+addappid(2533371,0,"4f283d1e06ad2d74eafe2dd8f3a2e136810c1eeb48f68ad1c0f92675ac7e8d56")
