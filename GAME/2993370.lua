@@ -1,0 +1,4 @@
+--game: Red Thread
+
+addappid(2993370)
+addappid(2993371,0,"a5b5b470d5db2ccf58368722c9f711332235fe6dbf92f8b295d2a6dfa83b830f")
