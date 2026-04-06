@@ -1,0 +1,4 @@
+--game: Manicos Haunted Hotel
+
+addappid(3625550)
+addappid(3625551,0,"4b4a66c2cf42290ecf5c4cf04e9cfd3241099934adf1087feed9d98e8c8af605")
