@@ -1,0 +1,4 @@
+--game: Blind Trust: The City
+
+addappid(3861030)
+addappid(3861031,0,"60990d6ffcf884400dd71ce2d9c708c7285d38859cbdd38bf8a954b1d2d16b30")
