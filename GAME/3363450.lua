@@ -1,0 +1,4 @@
+--game: 3 Days in Another World
+
+addappid(3363450)
+addappid(3363451,0,"075a54f7246539600aecff0062d854398aef1b866fab2cc6593622b1c7bcbf87")
