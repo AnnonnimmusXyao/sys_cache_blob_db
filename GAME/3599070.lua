@@ -1,0 +1,4 @@
+--game: waxweaver
+
+addappid(3599070)
+addappid(3599071,0,"52d2e2ecc3c5c23a97cda9ef360845657e6859c94b584e41fcfe0004bae752e4")
