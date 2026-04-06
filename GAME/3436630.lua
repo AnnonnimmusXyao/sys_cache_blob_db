@@ -1,0 +1,4 @@
+--game: NOX AETERNA - Veil of Darkness
+
+addappid(3436630)
+addappid(3436632,0,"b217340f72a307135098b7b1ae4e72fe179617e6657190ca78fdbfeb2eb1e7cb")
