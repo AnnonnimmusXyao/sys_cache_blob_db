@@ -1,0 +1,4 @@
+--game: Paradise: Musubi
+
+addappid(3576360)
+addappid(3576361,0,"01368213e115c4410918c6be5debd325e81ee0365ef6bbcc5621f809fd74d7be")
