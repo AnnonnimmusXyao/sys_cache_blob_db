@@ -1,0 +1,4 @@
+--game: Heretic + Hexen
+
+addappid(3286930)
+addappid(3286931,0,"9b93d7f5baf46df2860922615af3bd0cc1c32dabd3e3adb53df73cfc425f3eb6")
