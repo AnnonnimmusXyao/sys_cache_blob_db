@@ -1,0 +1,4 @@
+--game: Chicken Run: Eggstraction
+
+addappid(3419690)
+addappid(3419691,0,"23d37ba7db7ab987f5440be7847a949670f2918c2c5bb569ef8534597fea852a")
