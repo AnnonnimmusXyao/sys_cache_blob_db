@@ -1,0 +1,4 @@
+--game: The Roadside MOTEL
+
+addappid(3893690)
+addappid(3893691,0,"576bd0ddc94ee50de8da46c55d7c2f541c70f2bae79d07a6f6f618da2b4eaa42")
