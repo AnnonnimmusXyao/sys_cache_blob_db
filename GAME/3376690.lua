@@ -1,0 +1,4 @@
+--game: THE HOUSE OF THE DEAD 2: Remake
+
+addappid(3376690)
+addappid(3376691,0,"bb300f0659435ce2241c40d01d149835d706a1d843d04fbe39dd1c91037433ea")
