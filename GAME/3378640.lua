@@ -1,0 +1,4 @@
+--game: Mika's Battle S 2
+
+addappid(3378640)
+addappid(3378641,0,"94c1a46614a6ac4b850e8d94e179949f95a6ecdba8ce7d75bfedf5e7661483e7")
