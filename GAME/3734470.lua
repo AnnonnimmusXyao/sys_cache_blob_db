@@ -1,0 +1,4 @@
+--game: Digital Eclipse: Cyberpunk Survivor
+
+addappid(3734470)
+addappid(3734471,0,"ef38677c65ee591d07a1a1b5d22a872477d791a8a9e6627fbc15c343ccf59945")
