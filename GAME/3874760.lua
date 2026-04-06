@@ -1,0 +1,4 @@
+--game: Celestial Visitor
+
+addappid(3874760)
+addappid(3874761,0,"0669103f42ec01a248da73f1981e38b902c47727a28d36bc23fcb4f3282935b9")
