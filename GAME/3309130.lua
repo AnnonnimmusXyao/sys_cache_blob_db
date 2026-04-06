@@ -1,0 +1,4 @@
+--game: Monstrix TCG Card Shop
+
+addappid(3309130)
+addappid(3309131,0,"dd880a4409051a1d31cafa37a9ec6f03b37ad37cce8e93d4455ad71c7f068aeb")
