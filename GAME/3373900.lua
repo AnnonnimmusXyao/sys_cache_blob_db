@@ -1,0 +1,4 @@
+--game: 星梦轨迹-中国式经纪人
+
+addappid(3373900)
+addappid(3373901,0,"ac70fba6e37dc8438473dd6c82f89ddd22e67b3136a53149b997d23b8d792e01")
