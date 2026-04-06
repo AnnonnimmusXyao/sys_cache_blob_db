@@ -1,0 +1,4 @@
+--game: Rock Crusher
+
+addappid(3456800)
+addappid(3456801,0,"cc9110da216affede1cdc2be9aab3f4f93cf378ff6585fd46dc617b84e1b13ce")
