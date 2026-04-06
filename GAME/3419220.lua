@@ -1,0 +1,4 @@
+--game: Dungeon Warfare 3
+
+addappid(3419220)
+addappid(3419221,0,"23299149e599ca4c2d29c807053f5502a6d1d82eea03add2d770420a527c620b")
