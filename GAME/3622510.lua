@@ -1,0 +1,4 @@
+--game: Booklet's Big Story
+
+addappid(3622510)
+addappid(3622511,0,"3a53118b9d2269efc5a3443c1fb4e80542035f673138bf4bbe3dce8fa16280c7")
