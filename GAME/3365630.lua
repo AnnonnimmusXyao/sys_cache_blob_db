@@ -1,0 +1,4 @@
+--game: Heroes & Dice
+
+addappid(3365630)
+addappid(3365631,0,"700f0d89ce187862c9c789ad71d11084dff6724f7723b4b03eea695ae55d8e25")
