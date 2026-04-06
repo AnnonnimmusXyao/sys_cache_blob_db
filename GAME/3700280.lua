@@ -1,0 +1,4 @@
+--game: I scream Ice cream
+
+addappid(3700280)
+addappid(3700281,0,"7d0794a11f9f0fef283651ae49cf673fee97e22e063c007541997befd7983f07")
