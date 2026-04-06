@@ -1,0 +1,4 @@
+--game: Pikabuu: STOP!
+
+addappid(3837390)
+addappid(3837391,0,"2bc25a431f2cd1c74d2d4f6f7dc7c022088463dc8861adf562ced84b9980cbb9")
