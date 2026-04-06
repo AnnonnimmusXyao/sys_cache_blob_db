@@ -1,0 +1,4 @@
+--game: 金田一耕助シリーズ 本陣殺人事件
+
+addappid(3443380)
+addappid(3443383,0,"de7b0fe8809000585ebaf824046be2ff44fc260daed39762f26699d53c7e56d7")
