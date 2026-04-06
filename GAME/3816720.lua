@@ -1,0 +1,4 @@
+--game: Ghost Deliverer
+
+addappid(3816720)
+addappid(3816721,0,"20d9705df7776617a60a582334faf8c3bee1369b41d0628632b05b925833e06e")
