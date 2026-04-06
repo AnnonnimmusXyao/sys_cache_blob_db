@@ -1,0 +1,5 @@
+--game: Snoopy & The Great Mystery Club
+
+addappid(3328180)
+addappid(3328181,0,"6b74464d22a9a97d6236d8ffea1134c82d7b52aa73b043474d95a2b492e03b49")
+addappid(3746120)
