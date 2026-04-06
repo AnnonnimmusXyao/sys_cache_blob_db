@@ -1,0 +1,8 @@
+--game: Real Boxing 2: Remastered
+
+addappid(3811350)
+addappid(3811351,0,"db9426a87dfad02512eec2626bbe370106b1c71b9e3c137ea4a0609370f3111d")
+addappid(3837980)
+addappid(3838000)
+addappid(3838010)
+addappid(3838020)
