@@ -1,0 +1,5 @@
+--game: マスターオブモンスターズSSB
+
+addappid(3427170)
+addappid(3427171,0,"3d24c924006dcd10d4a0490c965f6892a46d44ab050a2712f0c328b78b7d8596")
+addappid(3759570)
