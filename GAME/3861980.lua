@@ -1,0 +1,4 @@
+--game: Croc Royale
+
+addappid(3861980)
+addappid(3861981,0,"9bc9d82609e3dca782b17bc9d3c9f24d86f8b56395c2a49deff5f48f07670baa")
