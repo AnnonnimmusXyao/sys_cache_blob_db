@@ -1,0 +1,4 @@
+--game: 치르노의 카드교실
+
+addappid(3546240)
+addappid(3546241,0,"3be53f71993b362dfb07f9a24a1a2392ac26b4c17d28b8ff81a041eee63aba83")
