@@ -1,0 +1,4 @@
+--game: Yandere Maid~Love-Crazed Maid~
+
+addappid(3607850)
+addappid(3607852,0,"140a97662275f5aa2efdfb56a692ee590015a33287350947ff3dd25d8538bcef")
