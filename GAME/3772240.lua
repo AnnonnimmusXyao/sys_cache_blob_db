@@ -1,0 +1,5 @@
+--game: Void Miner – Incremental Asteroids Roguelite
+
+addappid(3772240)
+addappid(3772241,0,"346186593a6cf9902ac3f4780356570168eed645bb63361fa9e7a9b773a2fbf8")
+addappid(3772243,0,"9f3be98c0354f7ecd5e0cf103cdc674f499d02a068abdc2e7aad7627fe304a53")
