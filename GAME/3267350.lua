@@ -1,0 +1,4 @@
+--game: Tiny Shooters
+
+addappid(3267350)
+addappid(3267351,0,"981c2f3637da5b360c9646f31a5c97817e31a7e40ea34685b7e8bc04f18f66f2")
