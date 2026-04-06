@@ -1,0 +1,4 @@
+--game: PROMIZED LAND: Outer Town 2025
+
+addappid(3355610)
+addappid(3355611,0,"89ca91cb53bb0dab4b2aaff1a1f6d13a82c510768ad09f7abb45d216507e8ff5")
