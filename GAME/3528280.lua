@@ -1,0 +1,4 @@
+--game: Crime Detective: Red Flags
+
+addappid(3528280)
+addappid(3528281,0,"56a3eb0463fddb4797c27f060ef6bbc74d7c184b83366b30b1c24acf17167720")
