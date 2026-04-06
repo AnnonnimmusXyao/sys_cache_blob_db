@@ -1,0 +1,4 @@
+--game: Unsung Heroes: Card Wars
+
+addappid(3662130)
+addappid(3662131,0,"7399e26be81ced74b9b989772c263f56e7800d0a8afbdbd4f473f521cd3bf913")
