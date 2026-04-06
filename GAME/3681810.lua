@@ -1,0 +1,4 @@
+--game: Blue Protocol: Star Resonance
+
+addappid(3681810)
+addappid(3681812,0,"93dc364cfd5230c092eea8b1ac3a6146af2f218a3f3ab806b4d9dd33d9d9cfe6")
