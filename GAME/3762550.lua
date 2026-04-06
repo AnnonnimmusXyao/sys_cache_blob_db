@@ -1,0 +1,4 @@
+--game: HELLMART
+
+addappid(3762550)
+addappid(3762551,0,"bd117b3c71f5677047fba24c3718c6f55a4ba03e9c2219df6576e38a44c040fd")
