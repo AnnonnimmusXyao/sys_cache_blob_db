@@ -1,0 +1,4 @@
+--game: Kingdom of Velvet Сhains
+
+addappid(3756260)
+addappid(3756261,0,"c26ae7785e3098822b8de87ff03c5a2fb1cd3c42487652e476cd093e49a1c4e3")
