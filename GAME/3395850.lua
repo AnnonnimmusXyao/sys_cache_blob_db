@@ -1,0 +1,4 @@
+--game: Foepower
+
+addappid(3395850)
+addappid(3395851,0,"6f11131ee4fdf18ae7081db8b2787212ee1cff3e48cf9f7bcea0bffa32de744c")
