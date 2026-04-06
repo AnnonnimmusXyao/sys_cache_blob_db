@@ -1,0 +1,4 @@
+--game: Virtual Fighter Maneuvers
+
+addappid(3952640)
+addappid(3952641,0,"00638887b135695a7fa48144cb62db9581b27ef41129097dcd1c5650793ff1c7")
