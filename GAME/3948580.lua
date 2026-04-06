@@ -1,0 +1,4 @@
+--game: Plinbo: Roguelike Plinko
+
+addappid(3948580)
+addappid(3948581,0,"9f9f7f04f51f7b4a62da823d44300e0f885dbaf282325a2ed279c45253eefcd0")
