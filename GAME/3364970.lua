@@ -1,0 +1,4 @@
+--game: Alisa's Grimoire
+
+addappid(3364970)
+addappid(3364972,0,"154ccb9a024279d86f3f5ed4e5a787a31e51ab976d4b31cb6b5e862682c14b10")
