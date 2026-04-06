@@ -1,0 +1,4 @@
+--game: Golden Tee Arcade Classics
+
+addappid(3698680)
+addappid(3698681,0,"1329de31c1fac80dfd6c901fbbb1b72b1235e253b510fe398507e06da6496f2f")
