@@ -1,0 +1,4 @@
+--game: Sweet Slaughter
+
+addappid(3303180)
+addappid(3303182,0,"a791c2cd2753fe8f9eec333c28626fc6631222f7e8d1bce832b02d02fa32c93a")
