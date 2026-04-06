@@ -1,0 +1,4 @@
+--game: Happy Island Fantasy
+
+addappid(3668560)
+addappid(3668561,0,"2fba95b2f05878acc5d5b57f1429cc236645a6aed513ae6d733ed589422235ec")
