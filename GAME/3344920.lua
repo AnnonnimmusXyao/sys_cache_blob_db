@@ -1,0 +1,4 @@
+--game: Living Sim
+
+addappid(3344920)
+addappid(3344921,0,"7e80bcbf70dcf946e98425e054af278bce410594fe72655c07e567ecb70ccc2a")
