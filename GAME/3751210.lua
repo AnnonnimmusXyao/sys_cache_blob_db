@@ -1,0 +1,4 @@
+--game: Infinite Lives
+
+addappid(3751210)
+addappid(3751211,0,"1ee906668c26f2261cbb09b11b3cfc8e003a01a13e5bb30ae50f3aae8e74ac94")
