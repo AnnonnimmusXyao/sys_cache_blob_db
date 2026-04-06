@@ -1,0 +1,4 @@
+--game: Flavors of Desires
+
+addappid(3411490)
+addappid(3411491,0,"1e42d196616781e618b475d15e151e2a8ed759fd0b13bf85348d3bfa00b6e0b6")
