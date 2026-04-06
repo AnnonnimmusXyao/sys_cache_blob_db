@@ -1,0 +1,4 @@
+--game: The Happyhills Homicide
+
+addappid(3278760)
+addappid(3278762,0,"223348274e39fa820097dd1cbccab62d1e8607ad44afd39ecc197dadef170868")
