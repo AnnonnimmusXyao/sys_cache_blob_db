@@ -1,0 +1,4 @@
+--game: Warrior's Reward 🗡
+
+addappid(3726420)
+addappid(3726421,0,"6517f37326e63c0d08981bb472968fc123ddf56eb4640c11c8c69e3b0ab96790")
