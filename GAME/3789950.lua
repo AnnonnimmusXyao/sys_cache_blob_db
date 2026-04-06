@@ -1,0 +1,4 @@
+--game: 转生Galgame成为女主角！
+
+addappid(3789950)
+addappid(3789952,0,"2fd4ce74eee25d1fb0c8f5814167254ec1d7353783dd55b36a13ea83289790b9")
