@@ -1,0 +1,4 @@
+--game: Star Titans : War of the Galaxy
+
+addappid(3336660)
+addappid(3336661,0,"071093f4f1c535633e6d3f0e60adc6d9cba6af53c09a47595d10fb242b16c7f2")
