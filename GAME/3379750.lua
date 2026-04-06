@@ -1,0 +1,4 @@
+--game: Manifest369 power defence
+
+addappid(3379750)
+addappid(3379751,0,"9b95944249cc60255e77e5c6362ae2d924e26a4975e38dd8a96af1584b69a66d")
