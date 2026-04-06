@@ -1,0 +1,4 @@
+--game: The Rose of Cravenmor
+
+addappid(3270330)
+addappid(3270331,0,"99eff802174d94ee44b31a887a512a93b9b5edbaebc04a78cde3941a123abc07")
