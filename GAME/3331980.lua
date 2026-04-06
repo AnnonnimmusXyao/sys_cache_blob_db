@@ -1,0 +1,4 @@
+--game: BrahmaRakshas: Abandon Village Intro
+
+addappid(3331980)
+addappid(3331981,0,"a9b28a47a904a5716049dc70c53873870bca5e116705272f3d1afaf6e39f6206")
