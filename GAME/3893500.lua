@@ -1,0 +1,4 @@
+--game: 色情團地 Libido Estates
+
+addappid(3893500)
+addappid(3893501,0,"d5f4aafa15d678549c2ae243b45d158cdfcfb0053a5bb60a66dddd73895779cf")
