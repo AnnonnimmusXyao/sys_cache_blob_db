@@ -1,0 +1,4 @@
+--game: Slots & Daggers
+
+addappid(3631290)
+addappid(3631292,0,"aa07ca92101d064e6869bef65e1d227509282586c181dcd9b489fe145afb7e3e")
