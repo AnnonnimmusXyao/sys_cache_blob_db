@@ -1,0 +1,4 @@
+--game: 101 Dogs Hidden in Las Vegas
+
+addappid(3945940)
+addappid(3945941,0,"2a18d98bc6518f6df1ec3a926650d6b556c0c8c29677e31f681c038b612c93ba")
