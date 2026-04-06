@@ -1,0 +1,4 @@
+--game: Super Sakura Boom Boom Multiverse Madness UltraTurboRemixHD
+
+addappid(3447610)
+addappid(3447611,0,"bdd733cc535a98f439efbb4a3b40ee0536cdaa4e528a58777f5be541f2522aa2")
