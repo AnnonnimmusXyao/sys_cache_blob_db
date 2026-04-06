@@ -1,0 +1,4 @@
+--game: The 18th Attic - Paranormal Anomaly Hunting Game
+
+addappid(3403660)
+addappid(3403661,0,"b68a1554dce9f10a10268fde7f69be55d4c66027dd12ad718122e47e63f02f94")
