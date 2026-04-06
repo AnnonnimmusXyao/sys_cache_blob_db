@@ -1,0 +1,4 @@
+--game: 初遇时
+
+addappid(3772010)
+addappid(3772011,0,"8193318b81b1ee41ecb6e2c2b58b3267556a17b51457286facd4659ffa142c89")
