@@ -1,0 +1,4 @@
+--game: Circus of Pain
+
+addappid(3535530)
+addappid(3535531,0,"6e582733d3a9bb3f5383f368284d0c7cf2681b39ef6e1f8a573ca2ee2c23e2f8")
