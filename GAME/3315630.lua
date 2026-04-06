@@ -1,0 +1,4 @@
+--game: Sailbound
+
+addappid(3315630)
+addappid(3315631,0,"d1125a70eff838178cf462305774b5d8a079168f207a8f7aefdd0aabdc634d0b")
