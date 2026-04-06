@@ -1,0 +1,4 @@
+--game: 失落世界幸存者
+
+addappid(3696180)
+addappid(3696181,0,"f4411cf9d10082da2fda78f3f5b353b4333b6a3ebfb7ed49b5ecf996a5c148ee")
