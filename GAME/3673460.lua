@@ -1,0 +1,4 @@
+--game: Baccarat online: Baccarist
+
+addappid(3673460)
+addappid(3673461,0,"f8739477d1c6910b2720bc96cc1bf02ff2f6c5f9018c01c371b0713a26e9845c")
