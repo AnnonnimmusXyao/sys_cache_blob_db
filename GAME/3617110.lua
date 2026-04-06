@@ -1,0 +1,4 @@
+--game: 我在西游开黑店
+
+addappid(3617110)
+addappid(3617114,0,"6077ccf1e0ec0bb6c1aef1d3af682ae469991b6cb4761bd02e8e23f42980d719")
