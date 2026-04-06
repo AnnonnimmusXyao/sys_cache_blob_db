@@ -1,0 +1,5 @@
+--game: Seasonala Cemetery
+
+addappid(3272690)
+addappid(3272691,0,"b935130097ef8efe0a4499055d55214591fa75170933373f6c6400faf55f73d5")
+addappid(3272692,0,"76f49e84e4c9fbbbcbafbf99aa0a1cc0fb690fe808df48eb03b2c726d639338b")
