@@ -1,0 +1,4 @@
+--game: İblis3:Phenomena
+
+addappid(3772080)
+addappid(3772081,0,"535cd402cd373097e5b8cef619c4c4454becabef1dded572cb7f5e0d5bd62ac0")
