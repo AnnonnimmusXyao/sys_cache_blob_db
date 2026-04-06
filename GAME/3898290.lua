@@ -1,0 +1,4 @@
+--game: The Fame Game: Welcome to Hollywood
+
+addappid(3898290)
+addappid(3898291,0,"8a728b1efa6120b1fb95153b4aaf4177660a41fbf58116a524c70d6998424c6c")
