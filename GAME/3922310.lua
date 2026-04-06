@@ -1,0 +1,4 @@
+--game: Tiny Whiny Island
+
+addappid(3922310)
+addappid(3922311,0,"c4e948f6871adb4a0802fbe3653a50863a885d4fb06916adb5e957ca3fc70c41")
