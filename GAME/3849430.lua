@@ -1,0 +1,4 @@
+--game: お姉さんと一緒
+
+addappid(3849430)
+addappid(3849431,0,"edfb94d431fd362df012078e1b25daf267a2108b14cbaf2d116ec39c7a355a4f")
