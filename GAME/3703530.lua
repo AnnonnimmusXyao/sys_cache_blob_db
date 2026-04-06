@@ -1,0 +1,4 @@
+--game: War Grid Hero
+
+addappid(3703530)
+addappid(3703531,0,"7a392d2683f8e5f3499f0dbad6645caadf67e76131c7d0e9655e6c3c4b729816")
