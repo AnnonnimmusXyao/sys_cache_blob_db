@@ -1,0 +1,4 @@
+--game: Drift Gang
+
+addappid(3884390)
+addappid(3884391,0,"341307e9889bd14d4cd2cab0b21bffba451fdd4fc0c851c03d1c670953b9be8f")
