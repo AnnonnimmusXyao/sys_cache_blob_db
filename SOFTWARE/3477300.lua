@@ -1,0 +1,4 @@
+--game: Scope X
+
+addappid(3477300)
+addappid(3477301,0,"4d68ce9188c501ebc1df053a10c9bdf69f8912d30a218f65286981b081f80e58")
