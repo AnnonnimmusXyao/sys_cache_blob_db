@@ -1,0 +1,4 @@
+--game: Ass Sniffing Simulator
+
+addappid(3615080)
+addappid(3615081,0,"f3d85ef0fdacf7e508fc0d980723a18e5c0fb24d55c01d70f422360683b35e2c")
