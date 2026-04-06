@@ -1,0 +1,4 @@
+--game: The Last Chronomancer
+
+addappid(3571690)
+addappid(3571691,0,"f5a7d6cfb537831780c8d0eee6178f8af6317889276fa454d0935a84690e26a7")
