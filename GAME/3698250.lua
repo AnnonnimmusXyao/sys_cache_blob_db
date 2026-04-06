@@ -1,0 +1,4 @@
+--game: Master of Cigkofte
+
+addappid(3698250)
+addappid(3698251,0,"bba146bd546a9e4788f64fe12a569787fecd476dba09f064a9f9099c601cf2a8")
