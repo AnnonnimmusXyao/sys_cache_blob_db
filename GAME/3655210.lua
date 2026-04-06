@@ -1,0 +1,4 @@
+--game: 101 Cats in Hong Kong
+
+addappid(3655210)
+addappid(3655211,0,"2b5839c17603a566f552cf628826cf794ae723f2d1b622d9248ebefd31d46060")
