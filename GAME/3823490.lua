@@ -1,0 +1,4 @@
+--game: Speedway Club Manager 25
+
+addappid(3823490)
+addappid(3823491,0,"8a6e52ce10f19aeaa3f9c7d711ff3f753c0af5729c2b6ced084be67394019527")
