@@ -1,0 +1,4 @@
+--game: Relaxing Farm: Merge Tales
+
+addappid(3733620)
+addappid(3733621,0,"2b870b6f8bc97584f2163be2645b08e13ff03d3170f986b1957fa28de9c1e614")
