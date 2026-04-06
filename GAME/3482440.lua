@@ -1,0 +1,4 @@
+--game: Space Outpost Sigma
+
+addappid(3482440)
+addappid(3482441,0,"eda62eb572cd264dfe1ef7cbf3c90c71cce4576006d85161fa30519eb446d496")
