@@ -1,0 +1,4 @@
+--game: Chinese Chess - Xiangqi
+
+addappid(3430880)
+addappid(3430883,0,"2e94b04f562757a91cbf9543eb0506ac8b66f317056c8bce50a9bd94b9d2064a")
