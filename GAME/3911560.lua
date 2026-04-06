@@ -1,0 +1,5 @@
+--game: Hentai Bae Sunny
+
+addappid(3911560)
+addappid(3911561,0,"fa5734a8281f4c5e89913f05df0e1daa69f3cffc6f953a3ad811a2cecaaf6f57")
+addappid(3925780)
