@@ -1,0 +1,4 @@
+--game: 元素大陆
+
+addappid(3411720)
+addappid(3411723,0,"2eea92a396d750e42a922f8de5649d3891fa6ce2f664f80632ad27e199f3894b")
