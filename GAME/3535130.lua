@@ -1,0 +1,4 @@
+--game: 寻踪
+
+addappid(3535130)
+addappid(3535135,0,"5324f321f49154a6eaee52425103daebc7854fd148879911d8ec579d1acf761c")
