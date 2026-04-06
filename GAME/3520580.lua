@@ -1,0 +1,5 @@
+--game: Sheep for the Stars
+
+addappid(3520580)
+addappid(3520581,0,"3cf8e9699a7a2cd0e0c963b8f9c6746ed4405994ac9e7f414696f9846441027c")
+addappid(3920020)
