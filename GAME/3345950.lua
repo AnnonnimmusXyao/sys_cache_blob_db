@@ -1,0 +1,4 @@
+--game: Capote
+
+addappid(3345950)
+addappid(3345951,0,"59212d7bdda81bd66f1d168eccc6c7857df7d922101e3b25190d44418966ef7b")
