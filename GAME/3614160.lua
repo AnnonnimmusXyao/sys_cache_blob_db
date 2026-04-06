@@ -1,0 +1,4 @@
+--game: Isekai Adventurer Guild
+
+addappid(3614160)
+addappid(3614161,0,"5fcaa3732ae6d9b15327f12562151ab613f2ac8202726fc16d7332ece4fe669b")
