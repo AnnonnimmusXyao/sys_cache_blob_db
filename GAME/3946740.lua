@@ -1,0 +1,4 @@
+--game: Syrup and the Ultimate Sweet
+
+addappid(3946740)
+addappid(3946741,0,"0756247c71089c2a9541cc5b6e789b919b9011f6bfdff6ce43351746c5814521")
