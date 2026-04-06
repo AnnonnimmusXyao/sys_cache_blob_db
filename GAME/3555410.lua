@@ -1,0 +1,4 @@
+--game: HIT
+
+addappid(3555410)
+addappid(3555411,0,"0b59d0e42362adc94d914cc22dee01e22050f7661f2ab7150a6bcbcaf00c89a2")
