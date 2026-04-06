@@ -1,0 +1,5 @@
+--game: Mom Stolen in Space
+
+addappid(3903800)
+addappid(3903801,0,"147b265e15d7c12af155a8c51d6d97358d4adaf923cb12f6df324dabf7eb56bc")
+addappid(3903803,0,"58f2ed2c4f48f930b0a6c8e7bb80cc2d96552543a7aed95b50220e67ba938cfc")
