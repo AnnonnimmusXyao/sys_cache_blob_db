@@ -1,0 +1,6 @@
+--game: Wildgate
+
+addappid(3504780)
+addappid(3504781,0,"71fdf4b05d1d3b5fed04a89cbda1c0cee0ec927de3b83af78809100038ae17ff")
+addappid(3800280)
+addappid(4028500)
