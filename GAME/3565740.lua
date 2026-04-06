@@ -1,0 +1,4 @@
+--game: BannerBound
+
+addappid(3565740)
+addappid(3565741,0,"3139f129989baa70e1c51d48b9b618a6eb42dc21a10a4773e7183877d53a0a5c")
