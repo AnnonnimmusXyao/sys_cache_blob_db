@@ -1,0 +1,4 @@
+--game: Lewd Island
+
+addappid(3787620)
+addappid(3787621,0,"97019a42b06743d2bc3284a84ee15dbcfff8432096ed24566fa517154385caec")
