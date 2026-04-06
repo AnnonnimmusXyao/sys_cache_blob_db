@@ -1,0 +1,4 @@
+--game: 推币机模拟器
+
+addappid(3965810)
+addappid(3965811,0,"385d546aa2f7fc2b9d33f3a8971b8ede79a9bcc6970bd1cf25eca9c933dd08ed")
