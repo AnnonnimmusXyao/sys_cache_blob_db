@@ -1,0 +1,4 @@
+--game: His Bet, Her Loss
+
+addappid(3616960)
+addappid(3616961,0,"2df6485d6776355a0cd9250925e826031af208b26eb439bb2ddd40d0f1481ec9")
