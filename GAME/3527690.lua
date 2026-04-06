@@ -1,0 +1,4 @@
+--game: Mind-Control Talisman ~Strong and Beautiful Adventurers Meet Their End~
+
+addappid(3527690)
+addappid(3527692,0,"e3c3b1985f1636f94854de46128d04e4e04c5d2f8a58d1e60aea8c73911f5987")
