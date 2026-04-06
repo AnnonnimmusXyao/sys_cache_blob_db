@@ -1,0 +1,4 @@
+--game: Bridge Constructor Studio
+
+addappid(3473610)
+addappid(3473611,0,"e140a115a50e9d2a29e2b7477c507d2ce318c70697098b92cd29e9a7ebcda163")
