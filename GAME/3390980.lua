@@ -1,0 +1,4 @@
+--game: DaemonBride:ADDITIONAL GAIN
+
+addappid(3390980)
+addappid(3390981,0,"51585c378d06021fb35ce76facb85f1bf64c888cf96db63e48a7efe28b1ffb45")
