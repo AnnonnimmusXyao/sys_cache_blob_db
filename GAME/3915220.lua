@@ -1,0 +1,4 @@
+--game: Love Too Easily 2: Summer Pocha
+
+addappid(3915220)
+addappid(3915221,0,"c01518af806cc5c8efa66a42c8be013ef54591e10bad99ce144dab87981a2bec")
