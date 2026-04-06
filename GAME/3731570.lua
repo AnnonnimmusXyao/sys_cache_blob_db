@@ -1,0 +1,4 @@
+--game: The Darkblade
+
+addappid(3731570)
+addappid(3731571,0,"20debd54f8c75ef599025f5f4d056f8b1d41ffb4ac17f6f422af40128934bdfd")
