@@ -1,0 +1,4 @@
+--game: Mech Builder 3D
+
+addappid(3667150)
+addappid(3667151,0,"0afc6f58b27ea18594fb3da850d34d56295ae4411580544533992c135a1cc54b")
