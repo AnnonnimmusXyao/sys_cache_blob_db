@@ -1,0 +1,4 @@
+--game: The Strange Lights
+
+addappid(3823950)
+addappid(3823951,0,"65ce07b309eba254754532ec277bc63a9526d79727e3703236af653f397b4b49")
