@@ -1,0 +1,4 @@
+--game: High Stakes: Hot Nights
+
+addappid(3928770)
+addappid(3928771,0,"50fbf27b9cc9adeca0c9118047c67ee050a38a317e37499de0d86308c7f26667")
