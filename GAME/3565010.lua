@@ -1,0 +1,4 @@
+--game: Goblin VS Princess
+
+addappid(3565010)
+addappid(3565011,0,"9d5d14f1c4e92388b03326813fddc6f52a8d19996d4b627aaefad3aa486e9494")
