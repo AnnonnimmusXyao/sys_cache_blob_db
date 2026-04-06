@@ -1,0 +1,4 @@
+--game: 光影人生 Lights and Shadow
+
+addappid(3597690)
+addappid(3597691,0,"e598184cf69273d40dd08e82a1eac4f175a878064492c7964cceba63529d13eb")
