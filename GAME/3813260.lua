@@ -1,0 +1,4 @@
+--game: 连杀地牢（Dungeon Killing）
+
+addappid(3813260)
+addappid(3813261,0,"1a0eac2a0b132b6ca5f398bde04624cc43a6bbfe563c22bc6c297d6bbfb19be7")
