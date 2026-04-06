@@ -1,0 +1,4 @@
+--game: Hentai Slash
+
+addappid(3267680)
+addappid(3267681,0,"96cc0b30085208bf02295b890e03ddda542b3409cb071f61c49d45ce169b04c3")
