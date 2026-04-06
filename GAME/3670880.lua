@@ -1,0 +1,4 @@
+--game: Fallen Kunoichi ~Netorare Hidden Village~
+
+addappid(3670880)
+addappid(3670881,0,"7d42e32fc92274cc4ddcf1c43efe15fc9abb1019b402a6a62423db4ac37324ad")
