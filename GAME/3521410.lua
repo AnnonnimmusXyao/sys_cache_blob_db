@@ -1,0 +1,4 @@
+--game: Cats & Cups
+
+addappid(3521410)
+addappid(3521411,0,"357127f4ccbf3e31313b143ba33611f7d67f1965dcfa8959f3bb507aee81b031")
