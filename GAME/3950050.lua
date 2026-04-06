@@ -1,0 +1,4 @@
+--game: Touhou Witch's Night Market
+
+addappid(3950050)
+addappid(3950051,0,"345f393c3d6cceb7c94f459fc73ae6e226fa739b98ff7050d821459a3da94c79")
