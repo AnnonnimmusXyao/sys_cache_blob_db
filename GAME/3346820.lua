@@ -1,0 +1,4 @@
+--game: Progress Racer RPG
+
+addappid(3346820)
+addappid(3346822,0,"27c64d643b5ac2b2c6c0f54b92d39222b51ba246df7f16887bffc44951d032d4")
