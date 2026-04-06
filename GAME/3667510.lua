@@ -1,0 +1,4 @@
+--game: Rebirth: I Became the Emperor of America by Creating TokTik
+
+addappid(3667510)
+addappid(3667511,0,"cb959e1387ae7c47718294fee9add205946dcd35ff3e0695163cb2674a131ec7")
