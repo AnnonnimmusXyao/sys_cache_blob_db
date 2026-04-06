@@ -1,0 +1,4 @@
+--game: 黯淡密林：鲁莽小队(Fadedlands: The Reckless Squad)
+
+addappid(3530490)
+addappid(3530491,0,"ae92dc747df15944a76b5b59ead34b7ea674c6f2d339136606bff6f608cec6b6")
