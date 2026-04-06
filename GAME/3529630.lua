@@ -1,0 +1,4 @@
+--game: Dungeon Explorers
+
+addappid(3529630)
+addappid(3529631,0,"14dcb73ff0f84c6fcfe4b6fc8ddca3e70f7a8028395d7a590b3d6f1a92b5d8d9")
