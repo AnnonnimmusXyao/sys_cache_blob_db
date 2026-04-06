@@ -1,0 +1,4 @@
+--game: 阳光物语 / Sunshine Story
+
+addappid(3347810)
+addappid(3347811,0,"4997845028189702ad3198168ec0ef5682fcdb074f5a9fc59995e5bd0d9b9358")
