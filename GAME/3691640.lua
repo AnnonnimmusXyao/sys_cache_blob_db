@@ -1,0 +1,4 @@
+--game: Love Craft
+
+addappid(3691640)
+addappid(3691641,0,"aea4fb237c882e0895a4a4026afcd0b47730f2e425105837ae13d5cf3dc56af6")
