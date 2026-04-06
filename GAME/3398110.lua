@@ -1,0 +1,4 @@
+--game: The Walking Trade
+
+addappid(3398110)
+addappid(3398112,0,"cad843e27a0eace2f72e865fff2696d8e59ebfeffb2fe12eb8833cb1f9cc2d7e")
