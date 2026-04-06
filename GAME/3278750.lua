@@ -1,0 +1,4 @@
+--game: FSKN
+
+addappid(3278750)
+addappid(3278752,0,"a7592cc70d0445a8c4d9da9ca6f56f78a75736747518d92a3146d105c41404ec")
