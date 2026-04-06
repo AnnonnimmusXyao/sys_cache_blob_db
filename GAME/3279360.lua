@@ -1,0 +1,4 @@
+--game: Code Trainer
+
+addappid(3279360)
+addappid(3279361,0,"8e9a92909bdc4604fb1efd60f5b566da21453f1d4edbfed8070642393b325845")
