@@ -1,0 +1,4 @@
+--game: Mycopsychosys: Remastered
+
+addappid(3807550)
+addappid(3807551,0,"8c5d5b8b66c7e921c976043719549e2dc30b75965d1968f8113c7579e8481b6b")
