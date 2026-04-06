@@ -1,0 +1,4 @@
+--game: 打炮的女孩
+
+addappid(3949730)
+addappid(3949731,0,"3814d10f16a15a6545df764a9b7c6e926771b9856e2c3b918defdc455eb3b9b0")
