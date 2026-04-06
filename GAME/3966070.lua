@@ -1,0 +1,4 @@
+--game: The Dead Thread
+
+addappid(3966070)
+addappid(3966071,0,"aee82036f90ad479c8590bf6def126da1722782230f75646c6df544b9872917b")
