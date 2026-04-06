@@ -1,0 +1,4 @@
+--game: Guardian Grids 2
+
+addappid(3757110)
+addappid(3757111,0,"94a748aaea3d021f83f6e29a4eeb1915f5b8c9e10760d8be10d5df03eab1a019")
