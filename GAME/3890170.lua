@@ -1,0 +1,4 @@
+--game: Paw Loot
+
+addappid(3890170)
+addappid(3890171,0,"e121dbbfd788dbc3b78abeeb18983dc3d90c1ecb40e372fa559f7a3f6c4226c0")
