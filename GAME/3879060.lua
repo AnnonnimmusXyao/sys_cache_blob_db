@@ -1,0 +1,4 @@
+--game: Instant Anastasia
+
+addappid(3879060)
+addappid(3879061,0,"0282b376da727067a2e9f0a885e914ecbccac028d39e66debb71cb01ff309c50")
