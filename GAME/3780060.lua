@@ -1,0 +1,4 @@
+--game: Countryballs: Power Protocol
+
+addappid(3780060)
+addappid(3780061,0,"f71c1854e5aa4b48258fab54147e10a62f785b0a0120f00e6ee1cf35de3bf148")
