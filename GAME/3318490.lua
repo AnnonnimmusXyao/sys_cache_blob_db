@@ -1,0 +1,4 @@
+--game: Bunker Constructor Simulator
+
+addappid(3318490)
+addappid(3318491,0,"ead3092d3d77a34052aacaf8a23420450b2d7481771050ddf5c467080cfd68d5")
