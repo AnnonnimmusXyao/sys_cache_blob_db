@@ -1,0 +1,4 @@
+--game: That Time I Got Reincarnated as a Demon Hand
+
+addappid(3264850)
+addappid(3264851,0,"0c3939bfeb0779a83002b99b9dbafae53d694dbc5966fdf6c07a90b54372f604")
