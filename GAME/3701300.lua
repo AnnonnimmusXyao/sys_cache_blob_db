@@ -1,0 +1,4 @@
+--game:  Douchebag: Ultimate Bro Pack
+
+addappid(3701300)
+addappid(3701301,0,"2787aa28909546b15db413cbf5824c11c670db56fc7dafbf173c77ee1199c629")
