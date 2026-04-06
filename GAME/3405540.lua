@@ -1,0 +1,6 @@
+--game: Tiny Auto Knights
+
+addappid(3405540)
+addappid(3405541,0,"c93ccd0e9ab4f0e7a480ad37ed58a1c59829e215e04e34257f49e5f5cf6a2c18")
+addappid(3405542,0,"4e3577ede5f1ad21ab08318fbbb6bcc2b8e2e7af407b942818cd1e8194cdac47")
+addappid(4132520)
