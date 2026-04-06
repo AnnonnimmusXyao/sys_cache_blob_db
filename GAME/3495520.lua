@@ -1,0 +1,4 @@
+--game: 万界之塔 The tower of the world
+
+addappid(3495520)
+addappid(3495521,0,"781befa6afc64712e74e21ac1ac12f1307be935521c25c77b2ada598a5dcabe6")
