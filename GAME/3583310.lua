@@ -1,0 +1,5 @@
+--game: Hellkind
+
+addappid(3583310)
+addappid(3583311,0,"84d6a16b5404ec143a423ad52ad45f0fdecdd92cd22ae189e62aa1bfcb8d79ad")
+addappid(3583312,0,"bb35382fd4e9df9500345466b1fc538f85f3a2ea39c0fc48a127fc1fe858d961")
