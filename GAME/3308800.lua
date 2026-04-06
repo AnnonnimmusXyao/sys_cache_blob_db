@@ -1,0 +1,4 @@
+--game: 银河先锋
+
+addappid(3308800)
+addappid(3308801,0,"ada1839dd44154254504fde8b013689f3617e605e4c15b110b4d2799a0aec528")
