@@ -1,0 +1,4 @@
+--game: Area Zero
+
+addappid(3796060)
+addappid(3796061,0,"a79d2ec510cffe75df81e75544790289dd01582810023da841aea57acbf64ffd")
