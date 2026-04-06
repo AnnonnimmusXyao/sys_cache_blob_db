@@ -1,0 +1,4 @@
+--game: SkyRunner
+
+addappid(3902490)
+addappid(3902491,0,"b0c9ae382ae73477ccc98b3b7445ae348fe194ec279369586b772d6b6172d552")
