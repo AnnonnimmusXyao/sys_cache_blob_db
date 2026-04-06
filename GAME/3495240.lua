@@ -1,0 +1,4 @@
+--game: Beat 'Em Up Collection (QUByte Classics)
+
+addappid(3495240)
+addappid(3495241,0,"b981fc6a23c2c60914659ccc5a188047d7c7c331f3ad5f401f80898292da81cc")
