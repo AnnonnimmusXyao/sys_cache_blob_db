@@ -1,0 +1,4 @@
+--game: Grand MALL Simulator
+
+addappid(3327670)
+addappid(3327671,0,"a6bff198ac577bef90b1b618254c7ca72707445512d3fb30c6e965a1d337152d")
