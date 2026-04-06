@@ -1,0 +1,4 @@
+--game: Monster Girls Onsen
+
+addappid(3915230)
+addappid(3915231,0,"b36391a251ceecee1f36aa250eecd9c2b51001002a92102dcc6cdb96de419168")
