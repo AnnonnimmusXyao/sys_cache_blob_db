@@ -1,0 +1,4 @@
+--game: Super Meat Boy 3D
+
+addappid(3288210)
+addappid(3288211,0,"3e57dcc6c265afb1765f400ee54fbeee89d7f6a69e2a2aa626c7d8e52981946e")
