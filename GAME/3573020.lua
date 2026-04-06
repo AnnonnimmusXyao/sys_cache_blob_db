@@ -1,0 +1,4 @@
+--game: Goosthetic
+
+addappid(3573020)
+addappid(3573021,0,"7fda851067dbe6d5c9851155914ef86683bb423210163f1340dba828b54b26fd")
