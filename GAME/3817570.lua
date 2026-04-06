@@ -1,0 +1,4 @@
+--game: Sister Sophie's Creed to Breed
+
+addappid(3817570)
+addappid(3817571,0,"27a31a4a5e358272351938ea72ef41d8737f7280f101391b50ca9d8d89b1d2f8")
