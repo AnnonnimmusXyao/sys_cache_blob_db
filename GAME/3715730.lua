@@ -1,0 +1,4 @@
+--game: 男娘恋爱物语
+
+addappid(3715730)
+addappid(3715731,0,"b2dd4804c330115987ed47b4954bbbfd40b7e90f58eb1dc03f41a3694d04a94a")
