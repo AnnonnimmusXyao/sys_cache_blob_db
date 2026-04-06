@@ -1,0 +1,4 @@
+--game: Jurard Run
+
+addappid(3453540)
+addappid(3453541,0,"4cee79ed39c87edec53a9d7abe52543338cfc8409ea479edf70a0ed3eef964f3")
