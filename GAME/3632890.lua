@@ -1,0 +1,4 @@
+--game: Content King
+
+addappid(3632890)
+addappid(3632891,0,"3ef6bce8b2e1542194ea60ae6b88d7794328f5f0b4f4a20d26a8e3e7efb7370f")
