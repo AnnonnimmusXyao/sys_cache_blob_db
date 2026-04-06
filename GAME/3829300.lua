@@ -1,0 +1,4 @@
+--game: Forest Rites
+
+addappid(3829300)
+addappid(3829301,0,"449386a63c90ebd02af6e6bcb7e3eb1f542c1a17356e5de5e0cdc0f29ff74c0a")
