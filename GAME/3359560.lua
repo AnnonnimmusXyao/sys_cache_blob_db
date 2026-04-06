@@ -1,0 +1,4 @@
+--game: Fateful Destiny
+
+addappid(3359560)
+addappid(3359561,0,"97bdebd28150dbdbae16d0856dc46717de14763893699788c18bb9922f82e1c9")
