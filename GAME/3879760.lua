@@ -1,0 +1,4 @@
+--game: Gamer Girl Adventure
+
+addappid(3879760)
+addappid(3879761,0,"9359cd0537a87e7e6c8479048fa208498710d8c76f593f7b1dfc028261765be8")
