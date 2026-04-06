@@ -1,0 +1,4 @@
+--game: Runebound Bastion
+
+addappid(3716370)
+addappid(3716371,0,"073b9c4d0340ba29ae1aec00faf9cf52ff84865f8fffa5a57cd7492004def558")
