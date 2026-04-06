@@ -1,0 +1,4 @@
+--game: Mitigate
+
+addappid(3327310)
+addappid(3327311,0,"f88acff1123deca008f7e6a0307fa751b5024e7d199851ab2a0e6a3bc44fc8b7")
