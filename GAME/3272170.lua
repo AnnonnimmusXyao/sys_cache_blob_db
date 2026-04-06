@@ -1,0 +1,4 @@
+--game: Face of Another
+
+addappid(3272170)
+addappid(3272171,0,"9f82713795833a32d5a2da624079d04fb41499ff1957c70957ce4df91aacf8c1")
