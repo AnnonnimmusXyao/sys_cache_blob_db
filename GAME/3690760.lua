@@ -1,0 +1,4 @@
+--game: Wild West Supermarket Simulator
+
+addappid(3690760)
+addappid(3690761,0,"cf9cabc7524816c638c120e04c987cbd888e55af28483502a1bbccbb73b0e8f8")
