@@ -1,0 +1,4 @@
+--game: CrimeBot 2: Detective Mystery Games
+
+addappid(3290470)
+addappid(3290471,0,"f928bbce0e189957541b39415725995f91965b1474da25e71ee500618c4c32a6")
