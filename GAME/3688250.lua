@@ -1,0 +1,4 @@
+--game: Gladiator Fights
+
+addappid(3688250)
+addappid(3688251,0,"388d6e34f89764db0e8480c8649eda510562382a179dc5b1d2ed9909a4c4da78")
