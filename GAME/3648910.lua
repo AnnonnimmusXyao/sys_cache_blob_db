@@ -1,0 +1,4 @@
+--game: 超忍伝-SUPER SHINOBI DEN-
+
+addappid(3648910)
+addappid(3648912,0,"6f05971e8a035b8f94d01fbdb0c33da71537194e9bc87710630420e9d72965af")
