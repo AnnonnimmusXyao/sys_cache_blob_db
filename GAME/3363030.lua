@@ -1,0 +1,4 @@
+--game: TDP4: Team Battle
+
+addappid(3363030)
+addappid(3363031,0,"5e7318662fcb99d96b4ca3d0eed71c503ea85d56b2578b3a68ff54b154f7e862")
