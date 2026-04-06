@@ -1,0 +1,4 @@
+--game: Drunkard Simulator
+
+addappid(3440390)
+addappid(3440391,0,"72c221249f76951409dca6056893469632f96468211c6a2b22fac8dbeb4c372c")
