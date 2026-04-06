@@ -1,0 +1,4 @@
+--game: 迷路会社 | Maze Company
+
+addappid(3318640)
+addappid(3318641,0,"e331e24b6c069bc271cb88b2789078b56f4245269bbad4d7935402456c497048")
