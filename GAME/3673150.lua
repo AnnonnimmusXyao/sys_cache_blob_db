@@ -1,0 +1,5 @@
+--game: Vegas Casino & Slots: Slottist
+
+addappid(3673150)
+addappid(3673151,0,"da20b29cb6a1821a1292ac2f272952f1e15ab8b15a340444c835fde081744581")
+addappid(3673152,0,"f77a51d54b9943bf1417dfae1db18ce090ecacdb37fadce17acdff083e3ea35a")
