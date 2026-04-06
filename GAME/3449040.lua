@@ -1,0 +1,4 @@
+--game: Machick 2
+
+addappid(3449040)
+addappid(3449041,0,"1e736e3c9b85554fd7484945b612748f84ac38a28c2f4eb64b26b8a4aab06d92")
