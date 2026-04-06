@@ -1,0 +1,4 @@
+--game: Liquor Store Simulator: Prologue
+
+addappid(3471280)
+addappid(3471281,0,"bcc7645711245beae75a0792451e1ef4d0b8d9fb544b7eb07f1bd50f94d8f5f3")
