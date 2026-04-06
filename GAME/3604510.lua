@@ -1,0 +1,4 @@
+--game: 仅你一人 - Only You
+
+addappid(3604510)
+addappid(3604511,0,"1997cbddbbe5c27ff80f3e100ded3eba9332b71b89b69460d8250fb941484fc9")
