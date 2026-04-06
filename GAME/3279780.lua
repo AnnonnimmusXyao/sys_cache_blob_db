@@ -1,0 +1,4 @@
+--game: Horizon Walker
+
+addappid(3279780)
+addappid(3279781,0,"5d0ff26265bc8400969a8f5dea7059b368663ce774f578849be1fcfc092836ec")
