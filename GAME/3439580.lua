@@ -1,0 +1,4 @@
+--game: 翻滚外星人 Rollover Alien
+
+addappid(3439580)
+addappid(3439581,0,"280633e165db3f6a8c017761d63778c9a9823dfd307d4cff2bde06b7dffcac3a")
