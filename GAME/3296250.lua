@@ -1,0 +1,4 @@
+--game: The Last Refuge
+
+addappid(3296250)
+addappid(3296251,0,"9f9f3e32df9489ad6711ac04b72f0ec35a4306b18c29bfea475a0460e63c8697")
