@@ -1,0 +1,4 @@
+--game: Juxtapose
+
+addappid(3327300)
+addappid(3327301,0,"d399daa32e78a869916d952f676c3d5c64878f97df25a5ded2bc6a97780734ce")
