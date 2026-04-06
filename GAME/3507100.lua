@@ -1,0 +1,5 @@
+--game: FIND KITTENS 3: Steampunk
+
+addappid(3507100)
+addappid(3507101,0,"c9d7b240e5495fa553f62935ba27539c1f1afa0fe5d5eb2543fef660e03e28ff")
+addappid(3507140)
