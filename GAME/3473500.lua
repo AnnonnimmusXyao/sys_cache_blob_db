@@ -1,0 +1,4 @@
+--game: 幻想神域 - 源神啟動
+
+addappid(3473500)
+addappid(3473501,0,"4ddb0decc045cdbef4adef15ba25db51b3db794e1b11a214320a2f5c2f867dd8")
