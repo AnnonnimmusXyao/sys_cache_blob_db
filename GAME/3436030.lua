@@ -1,0 +1,4 @@
+--game: IDLE BOSS RUSH
+
+addappid(3436030)
+addappid(3436031,0,"317c56505cce3a386aac1978f9a4142ebc0eefc2148c8cd3ef71eb6ef39f7772")
