@@ -1,0 +1,4 @@
+--game: Lonely Christmas: Succubus Santa
+
+addappid(3389210)
+addappid(3389212,0,"c45ad1ac79e8dd7060fe91b18fec16c4c521d5c4ee3757f190b24c2888ffcd7d")
