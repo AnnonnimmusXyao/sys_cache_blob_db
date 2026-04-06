@@ -1,0 +1,4 @@
+--game: Hungrities
+
+addappid(3560280)
+addappid(3560281,0,"ba7d4d70db1e7ce95c7187f365b2cf8ad2707c71ce73beae75beafd5e1d4a128")
