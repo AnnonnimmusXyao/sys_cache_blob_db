@@ -1,0 +1,4 @@
+--game: Duneborn
+
+addappid(3490510)
+addappid(3490511,0,"47e818086efa499bd763032b323d5b00b5887a5bfd376b125925fd4ff85045a2")
