@@ -1,0 +1,4 @@
+--game: Dinotica
+
+addappid(3336520)
+addappid(3336521,0,"68e205ddef53d8cbb83d901755b78843f881986204299c2f023e29b11d20a6cc")
