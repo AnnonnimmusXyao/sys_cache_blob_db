@@ -1,0 +1,5 @@
+--game: Eclipse : Special Forces
+
+addappid(3280020)
+addappid(3280023,0,"c23850b7ae436f031e93dc83266d658af08e769cb30228b2d3ea94052585a76a")
+addappid(4053320)
