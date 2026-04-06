@@ -1,0 +1,4 @@
+--game: Snowy Trail
+
+addappid(3546330)
+addappid(3546331,0,"d96fbfae0d3421a7759ad4f20b68b541c5716f1f585a455325d71caa37b096e9")
