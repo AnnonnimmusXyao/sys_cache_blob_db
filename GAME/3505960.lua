@@ -1,0 +1,4 @@
+--game: G-Switch 4: Creator
+
+addappid(3505960)
+addappid(3505961,0,"cc5be719af4a836bbc560697fd911e3d0d01e0bed5e836cf6e81d497d59150ec")
