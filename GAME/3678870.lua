@@ -1,0 +1,4 @@
+--game: Happy Nuclear
+
+addappid(3678870)
+addappid(3678871,0,"c3f78d13bc1416cc3b1cecbd676119a4aa7b8d40da502c82583ad23223093bd1")
