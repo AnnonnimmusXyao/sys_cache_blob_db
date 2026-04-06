@@ -1,0 +1,4 @@
+--game: lone shadow
+
+addappid(3515190)
+addappid(3515191,0,"a114ea166c4c579f86ef6dfaa38a8f531fa42e479298f7664ded68bf6576cf8d")
