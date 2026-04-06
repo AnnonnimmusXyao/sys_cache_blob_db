@@ -1,0 +1,4 @@
+--game: Midtris
+
+addappid(3591660)
+addappid(3591661,0,"b1d5dc190ffbf7333ebfa730c6fc16b70c0e00bcf76b5b4ecbff1b316cff61a2")
