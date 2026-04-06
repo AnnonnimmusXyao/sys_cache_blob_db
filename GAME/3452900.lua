@@ -1,0 +1,4 @@
+--game: 机器塔2984
+
+addappid(3452900)
+addappid(3452901,0,"f09cf479bc92ca7347c4708f0a5a8efb802f62bb28a4d5553d08de7e7f869e15")
