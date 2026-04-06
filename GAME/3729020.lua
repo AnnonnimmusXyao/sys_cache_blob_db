@@ -1,0 +1,4 @@
+--game: Hentai Magic
+
+addappid(3729020)
+addappid(3729021,0,"6d87c554216c3554a59ebee51b2ee3f25cd810330e69fb36069f1258de17c72b")
