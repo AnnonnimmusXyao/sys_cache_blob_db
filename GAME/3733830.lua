@@ -1,0 +1,4 @@
+--game: Loser Got Isekai’d  -Gotta Conquer the Girls Before Conquering the World-
+
+addappid(3733830)
+addappid(3733831,0,"fb674707986a8805d1f858625d6af8b1f821d550f98b12bdd1ca909f7b63c5f2")
