@@ -1,0 +1,4 @@
+--game: Cozy Forge: Blacksmith Simulator
+
+addappid(3432920)
+addappid(3432921,0,"3f3e0b54a752ec9129add9154f2f7b81329aa89a2d870c476ee6993c1fdf6808")
