@@ -1,0 +1,4 @@
+--game: Unsealed Pact
+
+addappid(3679070)
+addappid(3679071,0,"dd075fa8459a5e196a201946f97f2980e6a1eebfa194d2280a005037c0886593")
