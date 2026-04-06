@@ -1,0 +1,4 @@
+--game: Dominated By: Yandere Goth Landlord
+
+addappid(3584490)
+addappid(3584492,0,"1ff2f1cb93becf1e210eb67ac53fb5b78c729dfb24f15415938697069fb1243d")
