@@ -1,0 +1,4 @@
+--game: Archipelago Luminary
+
+addappid(3744990)
+addappid(3744991,0,"1309cc9777029084df61b121e9dd5112d3b22b98bb0aa88c0720a52097f53180")
