@@ -1,0 +1,4 @@
+--game: My Summer Vacation
+
+addappid(3644610)
+addappid(3644611,0,"cb1ef4d1bef4f924c4d27d0839afb4e289aaceab483efb7c812bbda8737cea0a")
