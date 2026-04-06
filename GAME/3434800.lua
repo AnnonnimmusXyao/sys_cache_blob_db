@@ -1,0 +1,4 @@
+--game: My Virtual Friend
+
+addappid(3434800)
+addappid(3434801,0,"9e03ee018512cb3350a66ba620865ccf3602431c0a7d3d7bebdd7740b4cb20dd")
