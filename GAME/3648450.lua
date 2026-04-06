@@ -1,0 +1,4 @@
+--game: White Room Protocol
+
+addappid(3648450)
+addappid(3648452,0,"50a8a19711265cbd96585eefa70c901b68580eef1559809b047a01318f1414e8")
