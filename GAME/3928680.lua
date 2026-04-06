@@ -1,0 +1,4 @@
+--game: Alpha Point
+
+addappid(3928680)
+addappid(3928681,0,"35246a4b3e0050253b6bc98b74dd2127f70263a1eee2ae940d368616ff719424")
