@@ -1,0 +1,4 @@
+--game: Camilla
+
+addappid(3488770)
+addappid(3488771,0,"4f951c8fc166d869cdd52ca3ac623ffbbfee2f4784897b9e355f8492c0fa713c")
