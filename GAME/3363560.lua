@@ -1,0 +1,5 @@
+--game: Shard Squad
+
+addappid(3363560)
+addappid(3363561,0,"b49c73d108547ae2a9f19d3fe028a70469935d039d0773082deb450ac461001e")
+addappid(4398470)
