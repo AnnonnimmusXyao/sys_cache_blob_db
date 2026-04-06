@@ -1,0 +1,4 @@
+--game: Dungeon Raid: Zero Floor
+
+addappid(3760160)
+addappid(3760164,0,"4f4fb745dd9ec7653f0002973957a14e62243f5553f597f13724ba1dd0a06afd")
