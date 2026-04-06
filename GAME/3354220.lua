@@ -1,0 +1,4 @@
+--game: Comic Book Store Simulator
+
+addappid(3354220)
+addappid(3354221,0,"ff11186d34fddf2d4dc2a6ef7affc6e8f231937087ed9cab96ca78436992a41f")
