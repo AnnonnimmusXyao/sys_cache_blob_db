@@ -1,0 +1,4 @@
+--game: Oscuro Blossom's Glow
+
+addappid(3410490)
+addappid(3410491,0,"610fe1ddfd59571f071c58becec7e30b6a9ae7cf6bca97147db6eb4dd5f7180e")
