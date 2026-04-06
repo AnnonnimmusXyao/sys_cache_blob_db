@@ -1,0 +1,4 @@
+--game: Azure Striker Gunvolt Trilogy Enhanced
+
+addappid(3813350)
+addappid(3813351,0,"d9578d4abcef6451a3c30d6bd9e792a6175c87c15e9da8d2a386b5161d1a3ffd")
