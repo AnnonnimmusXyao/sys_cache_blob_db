@@ -1,0 +1,4 @@
+--game: Frostrain 2
+
+addappid(3690490)
+addappid(3690491,0,"97d3fcd6db3bc7f085d58c4cb24abad02d17531bf15222e33d283ccc3ba839ae")
