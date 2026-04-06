@@ -1,0 +1,4 @@
+--game: BLACK SOULS II
+
+addappid(3855540)
+addappid(3855543,0,"e154687275024a8bbf82b6f179921c298874dfa77b79ef66f3e607b370d1a3ce")
