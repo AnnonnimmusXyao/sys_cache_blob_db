@@ -1,0 +1,4 @@
+--game: Bubble Tea Revolution
+
+addappid(3406070)
+addappid(3406071,0,"52b5d15380abfacb33f881ffd1dd4b4c304f7927e32df307c74a399bceb19e9b")
