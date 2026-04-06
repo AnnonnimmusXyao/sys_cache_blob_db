@@ -1,0 +1,4 @@
+--game: Fishing The Sky
+
+addappid(3645780)
+addappid(3645781,0,"0c31936417749b59d05309e53fc5a16ae1ca1ac6e5e86270e6df2474fb59c98e")
