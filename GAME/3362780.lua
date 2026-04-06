@@ -1,0 +1,4 @@
+--game: Outlaws vs Aliens
+
+addappid(3362780)
+addappid(3362781,0,"65c27de78e5ac4f39c7630464be3b6f4a1e0c4e64d6af9315b70a3cfdacfc264")
