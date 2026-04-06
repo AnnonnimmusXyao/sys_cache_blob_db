@@ -1,0 +1,4 @@
+--game: My Card Is Better Than Your Card!
+
+addappid(3617620)
+addappid(3617621,0,"76ff0f827836c4293b85b8590811f84c0410f65774b07df8a3edeea8ac785a8c")
