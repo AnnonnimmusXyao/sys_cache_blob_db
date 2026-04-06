@@ -1,0 +1,4 @@
+--game: Cozy Organizer
+
+addappid(3415240)
+addappid(3415241,0,"d715ea838045658a58daf4a389fd23c71d84df14ec038271d4f21c5a493e9c5a")
