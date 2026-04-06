@@ -1,0 +1,4 @@
+--game: Naja Medjai
+
+addappid(3746060)
+addappid(3746061,0,"fcf61df3edfca3fb02373c6c395dd8748e82bda9f071b2e0603b453b73b78db7")
