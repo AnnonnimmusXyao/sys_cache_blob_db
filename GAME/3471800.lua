@@ -1,0 +1,4 @@
+--game: Vanguard Galaxy
+
+addappid(3471800)
+addappid(3471801,0,"6fa2703357b1e0740686a25f51840adaf9425e8db6945d317bc1203ecaa7d986")
