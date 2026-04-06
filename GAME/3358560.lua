@@ -1,0 +1,4 @@
+--game: Hardware Store Simulator
+
+addappid(3358560)
+addappid(3358561,0,"f77e94c66fa108542545c5b4da2509660814b7ec9a293206476b4ac22d531b1c")
