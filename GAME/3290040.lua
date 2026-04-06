@@ -1,0 +1,4 @@
+--game: 魔剑镇魂曲 英雄之泪
+
+addappid(3290040)
+addappid(3290041,0,"8b2e34a9eb9a538c920d12e08f58f370a647b3a18e74c189de077f72de3ab4da")
