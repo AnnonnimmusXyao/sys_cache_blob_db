@@ -1,0 +1,4 @@
+--game: Firehawk FPV: Drone Fighter
+
+addappid(3365170)
+addappid(3365171,0,"4f00595203091d412af7c81660b59afcfe96a0ba5f9637affbf5bd0912e6e671")
