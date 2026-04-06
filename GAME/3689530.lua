@@ -1,0 +1,4 @@
+--game: Smilers Den Deluxxx
+
+addappid(3689530)
+addappid(3689531,0,"3ec1cdc71a4a42213f77a366e752c2ac66ae987c9fbabbc5020506a1ef9b45fb")
