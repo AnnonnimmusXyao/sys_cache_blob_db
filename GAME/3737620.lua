@@ -1,0 +1,4 @@
+--game: 魔理沙！还书！Marisa!ReturnTheBook!
+
+addappid(3737620)
+addappid(3737621,0,"c341430cb870e63e40845540fdea6d38143f3141557fbb13bf293bbbeba51a8c")
