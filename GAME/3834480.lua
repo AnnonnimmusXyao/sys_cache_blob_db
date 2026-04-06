@@ -1,0 +1,4 @@
+--game: Bite Night: Dine or Die
+
+addappid(3834480)
+addappid(3834481,0,"f03aeba60d44f77ef16116d9a91068234af419e6b07535f6354530dd16e7d4ef")
