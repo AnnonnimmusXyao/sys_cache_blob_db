@@ -1,0 +1,4 @@
+--game: Console Shop Simulator
+
+addappid(3425460)
+addappid(3425461,0,"c440f018b7251add1a180dc6c2c777e3700d716ed573b41481d0131a5c24f5b1")
