@@ -1,0 +1,4 @@
+--game: Brainrot Battle Simulator
+
+addappid(3726700)
+addappid(3726701,0,"000205602fd5288fb659d9b3cc81ca2814cdb5e83c7ccb691907a8071ba66d7a")
