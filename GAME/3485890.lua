@@ -1,0 +1,4 @@
+--game: STUDIO SCREAM - VERSE ONE
+
+addappid(3485890)
+addappid(3485891,0,"b1c4e890ec73bbf383af0de9c5c9b5b763d4c283335bd863185e0124e40d90a4")
