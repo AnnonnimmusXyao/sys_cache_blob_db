@@ -1,0 +1,4 @@
+--game: Jeff The Killer: Horror Game
+
+addappid(3774300)
+addappid(3774302,0,"de76b8bea219282a9e0c098ab7eb28a12427636e1138bfde76902c9098099927")
