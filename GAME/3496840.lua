@@ -1,0 +1,4 @@
+--game: Organic Burger Simulator
+
+addappid(3496840)
+addappid(3496841,0,"708f623e4f6545318f4cdb84db1f7b44fc81fa379bcab775c48b5f452cc8de22")
