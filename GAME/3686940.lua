@@ -1,0 +1,4 @@
+--game: Uncanny Tales: 1992
+
+addappid(3686940)
+addappid(3686941,0,"2331c339ed0556fde3815631fb6fa287661c840c34df0766e2e35acf89acff81")
