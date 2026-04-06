@@ -1,0 +1,4 @@
+--game: Majogami
+
+addappid(3837380)
+addappid(3837381,0,"ea5769e8761f05fc8572d6c51fe81ef9607de9335ed0396bf51ff587306197ca")
