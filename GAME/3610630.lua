@@ -1,0 +1,4 @@
+--game: Yuri Demon
+
+addappid(3610630)
+addappid(3610631,0,"034bae5bdb857bb15555499641116ca7087f7af73d3a34e17154f86c638333a7")
