@@ -1,0 +1,4 @@
+--game: War of Dots
+
+addappid(3902430)
+addappid(3902431,0,"e2a061b424954fa719d819911e116efaf29fbd880314531bcd078f453c8b9887")
