@@ -1,0 +1,4 @@
+--game: Obstacle Sprint
+
+addappid(3353120)
+addappid(3353121,0,"bf176b21677e922181ec91bbd51e1653140a97d567c244dcc0ba779933482adf")
