@@ -1,0 +1,4 @@
+--game: Blood Storm: Alien Purge
+
+addappid(3483190)
+addappid(3483191,0,"f6d87428b49a14f3a8975c43f89366814913afb28e65345080529a292dd3e3c2")
