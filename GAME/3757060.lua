@@ -1,0 +1,7 @@
+--game: Shana - Priestess of Tona
+
+addappid(3757060)
+addappid(3757061,0,"c3d860ccd6339fd9521a2eee0d34d94d3c0f3ef48a8b3a6100f2844f46314423")
+addappid(4094040,0,"015fcea15616fe66f9d7aa63a5e0c899a645cbb80ea1ac0d592c461388eaad71")
+addappid(4094050,0,"abbda48a7ef812cb02d4be0ad1ac2e04cdf77a9fbc4adb55ee1c9c5d32052ba1")
+addappid(4094060,0,"0ad914726ad3e84dd04aa185370702d8aa13fa9ce49dac3d52a7c0465bebf491")
