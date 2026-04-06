@@ -1,0 +1,4 @@
+--game: Berserker Girl
+
+addappid(3853640)
+addappid(3853641,0,"bdc17202a7beb4fc90371c329a0b2e39937213cf93f1e74f2477e63a87bfef35")
