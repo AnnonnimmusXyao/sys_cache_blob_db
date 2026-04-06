@@ -1,0 +1,5 @@
+--game: Veil of Sanity
+
+addappid(3459210)
+addappid(3459211,0,"c26ce2e73e9de972c43ef4d3425bef688312e53515c5666b3921d60bf81f288c")
+addappid(3492040)
