@@ -1,0 +1,4 @@
+--game: はじめての児童発達支援
+
+addappid(3503120)
+addappid(3503121,0,"2d308384e5916451ffa0db20f14a01c8e8c992b9bc9b314ebda42b79308a86a0")
