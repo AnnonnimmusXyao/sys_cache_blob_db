@@ -1,0 +1,7 @@
+--game: Legacy of Kain: Defiance Remastered
+
+addappid(3747730)
+addappid(3747731,0,"0a18d0fd686b8964dbbcb018dc604057a52e80b40a3ed2953f65f9c9ad754cb4")
+addappid(4134770)
+addappid(4134780)
+addappid(4230170)
