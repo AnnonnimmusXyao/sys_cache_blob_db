@@ -1,0 +1,4 @@
+--game: 喵探
+
+addappid(3809630)
+addappid(3809639,0,"1a48f1ba017c7842f586ce4b52b8c72e60493c3d5462cd78d9b38627cb88f7f0")
