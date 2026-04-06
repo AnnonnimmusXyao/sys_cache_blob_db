@@ -1,0 +1,4 @@
+--game: Deadcam
+
+addappid(3865340)
+addappid(3865341,0,"9065431c279d043f6a958e7c72e60dcd882d05694e55975a57ce333ef069d69f")
