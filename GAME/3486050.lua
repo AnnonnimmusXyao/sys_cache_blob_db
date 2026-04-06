@@ -1,0 +1,4 @@
+--game: Hamster Hunter: Rodent Rampage
+
+addappid(3486050)
+addappid(3486051,0,"8de7b82443cb3760bfe8ebb68397d9fbfe19420e659da2ecf5e2ec293a82aca1")
