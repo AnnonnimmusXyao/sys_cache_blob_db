@@ -1,0 +1,4 @@
+--game: The Void Chronicles Chronis
+
+addappid(3490190)
+addappid(3490191,0,"52a6a6f222988061bb5908fc3f4a628edd0f52bb174bdcb1fdb670b9f0cfe0ab")
