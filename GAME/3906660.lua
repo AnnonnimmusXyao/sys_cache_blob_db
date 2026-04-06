@@ -1,0 +1,4 @@
+--game: Sacred 2 Remaster
+
+addappid(3906660)
+addappid(3906661,0,"a651552e85e2ba4a6f071d51a9260c165ef3ce2a4b80e4175a911af797e79391")
