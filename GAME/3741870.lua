@@ -1,0 +1,4 @@
+--game: Revenant: Through The Veil
+
+addappid(3741870)
+addappid(3741871,0,"15c473f081e58c739d548ae092369d199dc522182fea133a1ec31c601f725ce4")
