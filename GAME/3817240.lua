@@ -1,0 +1,4 @@
+--game: Heaven Does Not Respond
+
+addappid(3817240)
+addappid(3817241,0,"08f699e1c4902d7007bdb76d314198230133512cb55f42d052b54a04f9f0845d")
