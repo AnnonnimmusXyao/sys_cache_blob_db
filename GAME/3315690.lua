@@ -1,0 +1,4 @@
+--game: FPS英雄
+
+addappid(3315690)
+addappid(3315691,0,"95ff707828af1004ffd9d85e9b4afa3b73d926a683999c9231b1d319b1850ab2")
