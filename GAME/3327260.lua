@@ -1,0 +1,4 @@
+--game: Eloquent
+
+addappid(3327260)
+addappid(3327261,0,"4c5a52a0fc8226b5de11ff889829988475d05f5bab805714bc2eca96132312b8")
