@@ -1,0 +1,5 @@
+--game: 100 Cats Lost In Japan Find & Color
+
+addappid(3766170)
+addappid(3766171,0,"f50e0d7c04a9831d5d72c4edd4586402d529a1b5d91e221c5f8c52297190d6ee")
+addappid(3846310)
