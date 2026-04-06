@@ -1,0 +1,4 @@
+--game: Mechanical Chess: Real-time
+
+addappid(3841280)
+addappid(3841281,0,"5c170bc82f247ed462262661417a95ca6d1af538d961a4d714097dfcc4302ca3")
