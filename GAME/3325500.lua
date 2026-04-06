@@ -1,0 +1,4 @@
+--game: Worldwide Rush
+
+addappid(3325500)
+addappid(3325501,0,"eafb487c5a2d32c110755b81fa24973ffef0147da42a00936f5d73ebcc9a014b")
