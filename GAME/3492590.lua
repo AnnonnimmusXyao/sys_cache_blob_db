@@ -1,0 +1,4 @@
+--game: A Soldier's Struggle
+
+addappid(3492590)
+addappid(3492591,0,"7cd8da41033925d1587dfa2d2bc35745ef86723921dab1d1eced4eb496f1392b")
