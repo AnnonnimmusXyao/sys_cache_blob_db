@@ -1,0 +1,4 @@
+--game: Cursed Companions
+
+addappid(3265230)
+addappid(3265231,0,"11ad2b44470571d638367adae842d8936671420772e9e849afdffb78a6580f02")
