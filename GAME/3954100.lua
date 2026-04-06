@@ -1,0 +1,4 @@
+--game: Yandere Goth Delinquent Trouble 2
+
+addappid(3954100)
+addappid(3954101,0,"3bb95c44f36022961af4788fd9019c402e77b7f8c7cf050e2fdfcdb076c2ca8e")
