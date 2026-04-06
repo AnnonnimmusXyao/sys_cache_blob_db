@@ -1,0 +1,4 @@
+--game: Frenzy Freak Fantasy
+
+addappid(3928560)
+addappid(3928561,0,"70077f695df514af4aea8783289d0ff481178e6b3fe68a1ded916dbb5966df13")
