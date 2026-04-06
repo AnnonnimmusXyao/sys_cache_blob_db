@@ -1,0 +1,4 @@
+--game: 魔法书自走棋：契约 Magicbook Autobattler:contract
+
+addappid(3521320)
+addappid(3521321,0,"da8e5c19dbd799a01ab9954cdf822c966f4179b3d5d51a2e7a98627bf2c39165")
