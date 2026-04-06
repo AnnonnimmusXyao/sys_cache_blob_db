@@ -1,0 +1,4 @@
+--game: Desktop Friend
+
+addappid(3964530)
+addappid(3964531,0,"eeefb89bdac52303b5efef422a383675309a4f1e7f5cd90f25e1949b437e119b")
