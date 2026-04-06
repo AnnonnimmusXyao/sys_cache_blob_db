@@ -1,0 +1,4 @@
+--game: Tomochi
+
+addappid(3598600)
+addappid(3598601,0,"bb14efe25c6065397ddc35895ff382f6463490455e6d6d8259f979d02a690bcd")
