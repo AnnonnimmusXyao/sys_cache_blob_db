@@ -1,0 +1,4 @@
+--game: Sickly Days and Summer Traces
+
+addappid(3682050)
+addappid(3682051,0,"09652578b46fb04323a0df42c60d7d41225df719e923c430f528530ae6605d61")
