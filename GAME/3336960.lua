@@ -1,0 +1,4 @@
+--game: 云梦九歌
+
+addappid(3336960)
+addappid(3336961,0,"72e7e2ff93deddfc76b4722004cdff29dd0a5f67d2d32fcbce69d1ffc4504aa7")
