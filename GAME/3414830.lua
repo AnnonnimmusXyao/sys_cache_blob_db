@@ -1,0 +1,4 @@
+--game: Abyssal Shade
+
+addappid(3414830)
+addappid(3414831,0,"7780e3ce9d9b84bea16d76ec1b0673bb84be30fb6750d0b5b6c0dbd512eb3759")
