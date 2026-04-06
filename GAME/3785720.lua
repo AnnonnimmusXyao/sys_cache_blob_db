@@ -1,0 +1,4 @@
+--game: 我的妹妹未来
+
+addappid(3785720)
+addappid(3785722,0,"634f643353a05e2c722bbf2256d36de146352bb92a507f6df2e715f96a2aefd1")
