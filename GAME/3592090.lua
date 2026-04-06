@@ -1,0 +1,4 @@
+--game: 明末飞升之昙
+
+addappid(3592090)
+addappid(3592091,0,"30063ccb9297ddaa5fd895ab423ce851c1eba345475e207ff7f34bfe0ba6c361")
