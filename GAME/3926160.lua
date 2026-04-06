@@ -1,0 +1,4 @@
+--game: Skewer Squad
+
+addappid(3926160)
+addappid(3926161,0,"ddb3b8429be1990a35e1d667b072073bfcc2da32d0a7068f497cf56509b65fee")
