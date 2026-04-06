@@ -1,0 +1,4 @@
+--game: 奶茶店大亨 - MilkTea Time
+
+addappid(3334520)
+addappid(3334521,0,"fc715d73516736621df69aacd9e55a8d1a451adb99b047b43a69a128cc1484b8")
