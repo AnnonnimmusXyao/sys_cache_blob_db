@@ -1,0 +1,4 @@
+--game: Cursed Armor2
+
+addappid(3276280)
+addappid(3276281,0,"dab7ddc0c0c6325f154217a6eabf7e201569840f84d1cc2dfc1b53cf1a9bafc9")
