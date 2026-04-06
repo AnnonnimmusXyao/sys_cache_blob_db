@@ -1,0 +1,4 @@
+--game: The Duchess Curse
+
+addappid(3304980)
+addappid(3304981,0,"b4e0cadf7bf7a5d8b2634b7f2c8ee85bb0712d145152695907d660dffc63e811")
