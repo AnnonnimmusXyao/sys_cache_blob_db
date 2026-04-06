@@ -1,0 +1,4 @@
+--game: Dragon's Chronicles~暗黒大魔王と北斗の剣(つるぎ)~
+
+addappid(3656400)
+addappid(3656401,0,"a42f69fdac7a008148d9ed95e9481561ee5bb7f02078ff65c622749ae5787318")
