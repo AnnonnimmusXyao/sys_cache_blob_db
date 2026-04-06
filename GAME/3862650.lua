@@ -1,0 +1,4 @@
+--game: Stonehold
+
+addappid(3862650)
+addappid(3862651,0,"01af3287b14c100af80bb17ef79ffa0d516d8a6063c1d67aecdbe6d6e11a4b49")
