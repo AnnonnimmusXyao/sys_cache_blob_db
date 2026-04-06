@@ -1,0 +1,4 @@
+--game: Serendipity Bookshop
+
+addappid(3902680)
+addappid(3902681,0,"2717b294e458a5239306d8baebf15500f1e1a79cdc7dc2288ca80ffe1abd1749")
