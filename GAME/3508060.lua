@@ -1,0 +1,4 @@
+--game: shutterbuds
+
+addappid(3508060)
+addappid(3508061,0,"749917ec3549b95a9a859e95a8f181d85551a56ad7109ed6463634d7ba8ac137")
