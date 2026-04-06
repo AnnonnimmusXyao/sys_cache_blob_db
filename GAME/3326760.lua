@@ -1,0 +1,4 @@
+--game: Sexy Katana
+
+addappid(3326760)
+addappid(3326761,0,"18c70fa59e256b8aa8b687acb40f79c552ac5f8f122e5e31c5fc12afc870cce5")
