@@ -1,0 +1,4 @@
+--game: Lost in the World of Succubi
+
+addappid(3803780)
+addappid(3803781,0,"57610de94ac62dc7f3a80474a1254daa590c7801562f23c5004e57cad24c0d2b")
