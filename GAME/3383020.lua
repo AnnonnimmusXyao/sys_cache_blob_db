@@ -1,0 +1,4 @@
+--game: Ghostbreaker Corps
+
+addappid(3383020)
+addappid(3383021,0,"7cc49d49cf32dba200645afbca5c9707df2756c1e276a11feb31382710a45f44")
