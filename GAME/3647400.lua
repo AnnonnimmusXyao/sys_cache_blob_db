@@ -1,0 +1,4 @@
+--game: Femtazio
+
+addappid(3647400)
+addappid(3647401,0,"43159e26fb02ce3d28bac9b7c67d5bc6da3f79d01754f4bf09816a20696283ae")
