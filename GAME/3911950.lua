@@ -1,0 +1,4 @@
+--game: Dirtzone
+
+addappid(3911950)
+addappid(3911951,0,"a75bed0f41f090b15529e95bab6960fed9b34855e29b827655df8f652e52e513")
