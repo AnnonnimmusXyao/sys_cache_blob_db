@@ -1,0 +1,4 @@
+--game: 我装哔全靠AI
+
+addappid(3902830)
+addappid(3902831,0,"527653544094e05cb68ffc1a3d20ecda6e9a064f997c529f6a6e7a6f5c8102cf")
