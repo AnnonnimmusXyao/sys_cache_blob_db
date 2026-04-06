@@ -1,0 +1,4 @@
+--game: Tales Of Glory 3 : Fists of Legend
+
+addappid(3748780)
+addappid(3748781,0,"0f84b24c4588276c6ccd37aacdc7e37d7781d69e781cc7b8c7d924b693ea603f")
