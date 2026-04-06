@@ -1,0 +1,4 @@
+--game: X-teroids
+
+addappid(3342540)
+addappid(3342541,0,"3e604a42b238499860f58bf32cd8db5d6cb44738665718f1d1ee241df8b37da9")
