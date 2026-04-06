@@ -1,0 +1,4 @@
+--game: Big Burger Store
+
+addappid(3306170)
+addappid(3306171,0,"3925a4c24698fa1e34f22465c7742d373d0339bd1254044c97b0eff0a386d5b3")
