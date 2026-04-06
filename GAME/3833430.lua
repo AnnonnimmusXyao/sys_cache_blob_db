@@ -1,0 +1,9 @@
+--game: Red Passport: Ticket to Russia
+
+addappid(3833430)
+addappid(3833431,0,"52DC5B2BB7BBBDD386A15ACE116C3A12ECACE6940B111D2F556277E01A5252D8")
+addappid(4259440)
+addappid(4268130)
+addappid(4298180)
+addappid(4298820)
+addappid(4301310)
