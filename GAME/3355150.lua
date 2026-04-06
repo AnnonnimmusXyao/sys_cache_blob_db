@@ -1,0 +1,4 @@
+--game: Stellarion
+
+addappid(3355150)
+addappid(3355151,0,"226338a857d4076cf9b7bd969117cb2800ad1916aad28ded60316fdff39feedb")
