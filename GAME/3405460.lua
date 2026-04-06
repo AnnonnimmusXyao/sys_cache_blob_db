@@ -1,0 +1,5 @@
+--game: Melon Clicker
+
+addappid(3405460)
+addappid(3405461,0,"c04194578985c83aa19a7c2a6f2b1f938f041c74f860d2b171ed9a87a5502bfe")
+addappid(3510210)
