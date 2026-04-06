@@ -1,0 +1,4 @@
+--game: The Rise of the Hero
+
+addappid(3348540)
+addappid(3348541,0,"4dc59941312477ec168e86449d9393bf16a394a29218f9c0b55b64057ca29920")
