@@ -1,0 +1,4 @@
+--game: Loan Shark
+
+addappid(3751730)
+addappid(3751731,0,"47cd110d658fbbf8e22df9092734c6639b0a6d395cc9f643b056bcb5663d7e14")
