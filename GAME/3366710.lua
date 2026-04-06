@@ -1,0 +1,17 @@
+--game: Color-A-Cube
+
+addappid(3366710)
+addappid(3366711,0,"d66ac4c3848f2b3e590c7f33108140d14fc3842efa71eca6192533f1820d259a")
+addappid(3374400)
+addappid(3587170)
+addappid(3587180)
+addappid(3587330)
+addappid(3587340)
+addappid(3587350)
+addappid(3587420)
+addappid(3739430)
+addappid(3792050)
+addappid(3855900)
+addappid(3921470)
+addappid(3989620)
+addappid(4065150)
