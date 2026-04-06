@@ -1,0 +1,4 @@
+--game: Jester: A Foolish Ritual
+
+addappid(3607770)
+addappid(3607771,0,"d2ff42830ec9e1c950544d90a75a1c6bb26b563772d584bad183ead677f476dd")
