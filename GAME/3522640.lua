@@ -1,0 +1,4 @@
+--game: Saga & Seeker
+
+addappid(3522640)
+addappid(3522641,0,"8776339be17b9d45c8e697a721e4f1453e1c92b603d3215a1953778155d4f74a")
