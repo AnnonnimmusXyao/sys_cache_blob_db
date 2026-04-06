@@ -1,0 +1,4 @@
+--game: Hollywood Mogul 4
+
+addappid(3536760)
+addappid(3536761,0,"cb723d13aeda8bcdd4b084beba90145d6af4e09f6844f692aa16dcbc781fc52d")
