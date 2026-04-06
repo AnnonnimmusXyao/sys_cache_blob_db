@@ -1,0 +1,4 @@
+--game: I Got Hired To Guard The Button That Destroys The Earth
+
+addappid(3539870)
+addappid(3539871,0,"41ea78bac64e469cc696948185407308954adadfd0c0d9fc69892146146c9fd2")
