@@ -1,0 +1,4 @@
+--game: Archaeology - Frozen Space
+
+addappid(3463180)
+addappid(3463181,0,"d84ab344aa396c6b7b9a76900730ceee9460a9692c74c227a1deb5da072f7548")
