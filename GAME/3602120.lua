@@ -1,0 +1,4 @@
+--game: ROOM FOOTBALL - Apocalyptic Wasteland
+
+addappid(3602120)
+addappid(3602121,0,"253d11847162ddeea30b2f3e7974784113f1e8667766e94269559feb8b97959d")
