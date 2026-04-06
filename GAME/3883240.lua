@@ -1,0 +1,4 @@
+--game: Scaredy Cat
+
+addappid(3883240)
+addappid(3883241,0,"e308e50a92c2faef46e3c69e96508fc5f44dec4f116c05fe6c38f9ed1d99d9ce")
