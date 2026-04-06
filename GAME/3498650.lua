@@ -1,0 +1,4 @@
+--game: Cut That Wire
+
+addappid(3498650)
+addappid(3498651,0,"0a9ea0ef05bd288e399fd14bfde70b79d7ff2e65b9d85ad6e9e9d29b166761d4")
