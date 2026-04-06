@@ -1,0 +1,4 @@
+--game: ラブ・スタートアゲイン
+
+addappid(3707370)
+addappid(3707371,0,"ffcbbeaa6d41b88528326e7f5b8dafcd2dbb8209a1c5bb1e08d5264448b71444")
