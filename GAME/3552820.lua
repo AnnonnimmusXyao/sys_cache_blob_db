@@ -1,0 +1,4 @@
+--game: The Horde Wants You Dead
+
+addappid(3552820)
+addappid(3552821,0,"12f1c8a26dc8aaf70e7de2917a8f92e2a5ce7a695f520171c71d11ae91f4df21")
