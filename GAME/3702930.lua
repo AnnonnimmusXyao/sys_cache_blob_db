@@ -1,0 +1,4 @@
+--game: Bum: Revenge
+
+addappid(3702930)
+addappid(3702931,0,"a124cb5f958b098d926a9c050c49f941b50919a19c594173111e0c3314a9ce31")
