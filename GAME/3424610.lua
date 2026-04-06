@@ -1,0 +1,5 @@
+--game: Fantasy Idle Dungeon
+
+addappid(3424610)
+addappid(3424611,0,"87b50cce375b1fb1d87d53aa524cfbd239ead12e5a8fc89d3085cce6c75d0e64")
+addappid(4186650)
