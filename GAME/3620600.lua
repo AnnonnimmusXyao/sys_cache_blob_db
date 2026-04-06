@@ -1,0 +1,4 @@
+--game: QuattroMan
+
+addappid(3620600)
+addappid(3620601,0,"1ed1f7fbea070c6d91d721cc04fbc4b8bc9933008e45ad43f3ba42c2df9638c6")
