@@ -1,0 +1,4 @@
+--game: 心跳大冒险：泰遇
+
+addappid(3446680)
+addappid(3446681,0,"1baa52ded4f657a337210ea04dd4cce31d150ce76e78cc0dc32ac8b395de8668")
