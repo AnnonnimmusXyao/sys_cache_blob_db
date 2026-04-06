@@ -1,0 +1,4 @@
+--game: Drift Legends 2
+
+addappid(3664010)
+addappid(3664012,0,"bc2208b6760edd5a07856b17c58810c09c26a7dbb10b61c9cf6c5db523680194")
