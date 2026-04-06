@@ -1,0 +1,4 @@
+--game: The Zone - FPV Drone Simulator
+
+addappid(3491280)
+addappid(3491282,0,"f62511bb36eddacf9865370dcd599b557f6f257223cc31dac67ca169c2b16d45")
