@@ -1,0 +1,4 @@
+--game: Charming Girl
+
+addappid(3971170)
+addappid(3971171,0,"180870ea23b0b2dc986569769f6a8eea0403f0f71e1e617e1a9df23d91ba7790")
