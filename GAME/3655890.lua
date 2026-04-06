@@ -1,0 +1,5 @@
+--game: The Saint Wife's Newlywed Trials
+
+addappid(3655890)
+addappid(3655891,0,"e8c9c8f2e6850c0ad3623de8e6504888116621dcd7ac9fff3cee4e244b28b891")
+addappid(3655892,0,"b80e464bbe41a10b274165c10ac923df9aab19f6eaffaa75ffd43668229ab4f4")
