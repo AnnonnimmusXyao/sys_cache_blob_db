@@ -1,0 +1,4 @@
+--game: Crabmeat
+
+addappid(3671850)
+addappid(3671851,0,"7244b3cecaebb25e31cc580e93f29b4081c4db81a475000cf620e38c8d198a9c")
