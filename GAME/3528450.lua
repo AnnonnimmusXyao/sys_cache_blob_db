@@ -1,0 +1,4 @@
+--game: 纸房子 Sweet Home
+
+addappid(3528450)
+addappid(3528451,0,"cde617a40d47bab5dca680dda42717a7cfcffe17e1131d7925d27b93667962b3")
