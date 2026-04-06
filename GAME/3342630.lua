@@ -1,0 +1,5 @@
+--game: Escape From Sandhill
+
+addappid(229033)
+addappid(3342630)
+addappid(3342631,0,"a5eae055aa97751768570dbe840833287e0f96d33f90795a8645610648b74f0f")
