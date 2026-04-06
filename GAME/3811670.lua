@@ -1,0 +1,4 @@
+--game: Dynasty Game 2
+
+addappid(3811670)
+addappid(3811671,0,"26fad4bdc782e8ec3bd3652bc2a7ff7ffa15561116f663794ddc5721352b239b")
