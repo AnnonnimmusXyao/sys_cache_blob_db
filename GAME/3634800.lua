@@ -1,0 +1,4 @@
+--game: 你的妹子 Your Girl
+
+addappid(3634800)
+addappid(3634801,0,"06db125c7ffbd67876a671bc0e50a81bab15df7dc66d61a24f7351b9164d2b34")
