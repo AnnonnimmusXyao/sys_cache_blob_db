@@ -1,0 +1,4 @@
+--game: やがて散りゆく鏡の花へ
+
+addappid(3543570)
+addappid(3543571,0,"92842387e6841cbde71d8516c64c7d471caef135435d2add2de8bc84ac160e3d")
