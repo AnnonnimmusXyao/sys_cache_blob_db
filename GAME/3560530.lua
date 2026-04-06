@@ -1,0 +1,4 @@
+--game: Crushiator
+
+addappid(3560530)
+addappid(3560531,0,"a90cc9697f247a4bef1cc8145f0dc65c5121d7bb7bdb3d22e80a0b9e084ef488")
