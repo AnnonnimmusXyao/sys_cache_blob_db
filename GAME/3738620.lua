@@ -1,0 +1,4 @@
+--game: My Pet Flesh Monster
+
+addappid(3738620)
+addappid(3738621,0,"c54e2e89f978632f87405b4185f1f5344d286b03e6d4b5f0c4b0c5b78ee2b528")
