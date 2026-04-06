@@ -1,0 +1,4 @@
+--game: Big Theft Valkeala 2: San Piritori
+
+addappid(3915970)
+addappid(3915971,0,"fa572871eb101d8bc102fd4878b8dec3825bc518c92b9af04759585838f14149")
