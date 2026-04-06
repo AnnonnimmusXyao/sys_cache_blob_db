@@ -1,0 +1,4 @@
+--game: Steampunk Idle Spinner
+
+addappid(3749540)
+addappid(3749541,0,"b88b1be90dc28313370b84580678e7c7331e0189bcdd986befa60915fdf2dcc3")
