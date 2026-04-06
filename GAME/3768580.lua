@@ -1,0 +1,4 @@
+--game: Crystal Keeper
+
+addappid(3768580)
+addappid(3768581,0,"1842c5c5f807e9e4497e8aabe8e7a3ce1fe36b4059a067c7ad72b534ec6ad711")
