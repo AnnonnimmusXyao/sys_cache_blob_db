@@ -1,0 +1,4 @@
+--game: 幻想症
+
+addappid(3859910)
+addappid(3859911,0,"eaf5c674ba546ba5f9a0365ac5b13876fdc40f195875e42e858122f0b80af3ba")
