@@ -1,0 +1,4 @@
+--game: Bell & Hoof: The Silent Journey
+
+addappid(3647900)
+addappid(3647901,0,"7fec89ce9f7e3e1e11dc20cea54464a0daf340445e9017e234064d81cb0f198f")
