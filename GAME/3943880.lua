@@ -1,0 +1,4 @@
+--game: GORE
+
+addappid(3943880)
+addappid(3943881,0,"c884d260518b93dc15fadddf13f22b4c4fe2477a9071702ebeac1f1045315f69")
