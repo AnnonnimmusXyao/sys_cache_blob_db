@@ -1,0 +1,4 @@
+--game: Art Detective: Hidden in Gusu
+
+addappid(3369050)
+addappid(3369051,0,"08201e7df2d87aa386a0a5cc281edb09ee4d511f375d0fd14e471f643efc4bed")
