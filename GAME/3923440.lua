@@ -1,0 +1,4 @@
+--game: HoloCafe
+
+addappid(3923440)
+addappid(3923441,0,"6e694defcef331f2f2a96a99730ede4438b68f0bb8f8258bbbd5e3f032e88268")
