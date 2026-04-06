@@ -1,0 +1,4 @@
+--game: I'm drone
+
+addappid(3272680)
+addappid(3272681,0,"5a8d8ff645d9a304177f31151cde314633ebdb99a043433a6804a7a4079f3411")
