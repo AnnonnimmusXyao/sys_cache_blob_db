@@ -1,0 +1,4 @@
+--game: One-Hit Slayer! Swordog
+
+addappid(3622250)
+addappid(3622251,0,"49c692dc9304290e5877547c2b076bea7e0e23a803554e1fa90538bb74572415")
