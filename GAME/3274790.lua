@@ -1,0 +1,4 @@
+--game: Ultra Cop
+
+addappid(3274790)
+addappid(3274791,0,"829eac4a4583d8a7dc35830eb86498550cb13f09b6f5ad732339701984598b86")
