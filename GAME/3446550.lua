@@ -1,0 +1,4 @@
+--game: ツクールシリーズアルティエクエスト [RTA QUEST]
+
+addappid(3446550)
+addappid(3446551,0,"677409a73d545d913e11fe74bb766f840e35b4cde16a410559bc9c5df5869003")
