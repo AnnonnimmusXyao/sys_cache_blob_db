@@ -1,0 +1,4 @@
+--game: Futanari Goddess 🕯
+
+addappid(3748660)
+addappid(3748661,0,"6f3dd536d9c54a71dc5cb12594569cd784e1de9224fae93812e43ac05ce630cc")
