@@ -1,0 +1,8 @@
+--game: Inspiral: Echoes of Gravity
+
+addappid(3638420)
+addappid(3638421,0,"693ecae61a6bd01b92c65d9ebe59eadae388746eea155b7105a5c18de0b75c50")
+addappid(3638422,0,"0129e20797183de96c94789c213817cb6cf6cd26952718cc33839c71dd62d4cc")
+addappid(3877450)
+addappid(3878010)
+addappid(4362100)
