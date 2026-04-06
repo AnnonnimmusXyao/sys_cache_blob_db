@@ -1,0 +1,4 @@
+--game: Poker Night at the Inventory
+
+addappid(3897800)
+addappid(3897801,0,"31410dc657bdde34e7e0e1d71fb0c4786516d73d1624b7118505699610c987a4")
