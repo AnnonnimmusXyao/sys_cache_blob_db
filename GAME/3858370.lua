@@ -1,0 +1,4 @@
+--game: Figure Shop Simulator: Prologue
+
+addappid(3858370)
+addappid(3858371,0,"9b4060f183de02b3046c89118afaafbfe3b1a4f3e70f256823919a6e23838432")
