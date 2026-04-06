@@ -1,0 +1,4 @@
+--game: Familiar Stranger
+
+addappid(3384230)
+addappid(3384231,0,"5fbbe6aed1c1df666006b0f577754b029511520ee148edf3ac7daac14ab7a7e4")
