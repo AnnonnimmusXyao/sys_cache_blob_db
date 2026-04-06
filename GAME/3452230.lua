@@ -1,0 +1,4 @@
+--game: Succubus of Aphrodisia Chapter One: Ako's First Embrace
+
+addappid(3452230)
+addappid(3452231,0,"efe0be7e0c5f44762d404164e08b6d33ab874ce4aedb6df0cf3cd6c52f7707de")
