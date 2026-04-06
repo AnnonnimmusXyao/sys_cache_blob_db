@@ -1,0 +1,4 @@
+--game: License to Grill
+
+addappid(3884700)
+addappid(3884701,0,"aa761f5a8a3e31174bf7d7d981597abdf54b07b30f6cee0390432b1f9ccc4260")
