@@ -1,0 +1,4 @@
+--game: Hentai World Winter
+
+addappid(3404610)
+addappid(3404611,0,"23348624d62709fd177d266174dc8f7504162b235106a0d1edcc95342a9d1019")
