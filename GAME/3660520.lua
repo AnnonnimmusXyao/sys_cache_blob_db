@@ -1,0 +1,4 @@
+--game: 五行乱斗
+
+addappid(3660520)
+addappid(3660521,0,"5f82c371d61627fd699169169ba9ac6163e71e740b2720b98e9bd44b869aa6de")
