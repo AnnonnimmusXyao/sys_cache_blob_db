@@ -1,0 +1,4 @@
+--game: Funguys Swarm
+
+addappid(3371770)
+addappid(3371771,0,"7bc8b2933822c7530cba86ed05c2e04f175c299c9f90653f00ea439709431c31")
