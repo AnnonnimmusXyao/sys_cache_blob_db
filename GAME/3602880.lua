@@ -1,0 +1,4 @@
+--game: Dark Mine
+
+addappid(3602880)
+addappid(3602881,0,"b2e8cf17217b31906c050439da42dd182dda85b293e01f1c455f760390422361")
