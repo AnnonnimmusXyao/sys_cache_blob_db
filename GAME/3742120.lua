@@ -1,0 +1,4 @@
+--game: Hungry for Applez
+
+addappid(3742120)
+addappid(3742121,0,"8413e2b025e829b17cf52749bed9604a29ea5a7d1e0cc07e91bd69a8c2b95582")
