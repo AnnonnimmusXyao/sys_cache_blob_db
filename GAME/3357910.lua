@@ -1,0 +1,4 @@
+--game: MOBA大乱斗
+
+addappid(3357910)
+addappid(3357911,0,"31ac333cd5bd9289dea88dac3350912e82bfdb790bfeedc4e8fd35e2569b02ce")
