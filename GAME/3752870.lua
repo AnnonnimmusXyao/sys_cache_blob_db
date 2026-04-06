@@ -1,0 +1,4 @@
+--game: 久宫（Everranger）
+
+addappid(3752870)
+addappid(3752871,0,"6fd5934c75c21bfc776aeda64e5af02a101c4d86ecbdbdcf168c3ccfcf08f3bb")
