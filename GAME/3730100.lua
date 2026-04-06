@@ -1,0 +1,4 @@
+--game: Whispers from the Star
+
+addappid(3730100)
+addappid(3730101,0,"9434a233334718f386e6b83e187b6851f7e2cc300c00881542c25b44cefd7de3")
