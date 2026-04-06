@@ -1,0 +1,4 @@
+--game: 你能活到第几集
+
+addappid(3581210)
+addappid(3581211,0,"1e61ad14aa34237d96e02b1c8f67526e00d25fa5ec59870b5290f8162e698afd")
