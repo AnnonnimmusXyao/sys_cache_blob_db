@@ -1,0 +1,4 @@
+--game: Brush Burial: Gutter World
+
+addappid(3594120)
+addappid(3594121,0,"0bd948907436f8bfac7b441d70ba0a70d5ce3fac94ba48e118c03b51e3f003ae")
