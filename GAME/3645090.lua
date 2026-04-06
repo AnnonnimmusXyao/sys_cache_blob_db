@@ -1,0 +1,4 @@
+--game: Pick Up Your Masks
+
+addappid(3645090)
+addappid(3645091,0,"c302496b4d49178e550732827844bd5981a04b8c747b2daa4ea0c3b89a7fb778")
