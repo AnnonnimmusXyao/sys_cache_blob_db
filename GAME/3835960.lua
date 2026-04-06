@@ -1,0 +1,4 @@
+--game: Stay&Stacks
+
+addappid(3835960)
+addappid(3835961,0,"bd4eb057282652e883b35763d808833be33f3e1d6709a19e952abfaac85191d2")
