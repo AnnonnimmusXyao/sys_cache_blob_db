@@ -1,0 +1,4 @@
+--game: Realtime Screen OCR Translator
+
+addappid(3923160)
+addappid(3923161,0,"06066ee134d1c19db1b4dad6b50a97820a24fa3e96664751d5f947cc7ddbbe66")
