@@ -1,0 +1,4 @@
+--game: Hotel Sim
+
+addappid(3531730)
+addappid(3531731,0,"3b4cb91949dadd0dd7b8b5d0771ca6d0426ed301d99c758c62ad3216e3027181")
