@@ -1,0 +1,4 @@
+--game: Club del fierro
+
+addappid(3827600)
+addappid(3827601,0,"0776afb2d98d883d388d9826e2d2c958edc727b733c0ae6d90dc3f0e2a933ad1")
