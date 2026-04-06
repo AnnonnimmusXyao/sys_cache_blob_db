@@ -1,0 +1,4 @@
+--game: Bubble's Travel
+
+addappid(3918500)
+addappid(3918501,0,"87356b79d1687dd8afc8df37ccfe8b8a137690e60eb38e70d18aa6fdc248a14d")
