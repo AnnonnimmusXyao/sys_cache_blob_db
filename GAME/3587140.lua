@@ -1,0 +1,4 @@
+--game: Ark Re:Code
+
+addappid(3587140)
+addappid(3587141,0,"5818a2345c0591e29f1a577dbc2662e11bc2e27570a93652463070dd969551ae")
