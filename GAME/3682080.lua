@@ -1,0 +1,4 @@
+--game: Gambler’s Loop
+
+addappid(3682080)
+addappid(3682081,0,"687c03373ca5a3676c61eb75a4bb31b75daa0c60bcef6b796999f68e5d54f854")
