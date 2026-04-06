@@ -1,0 +1,4 @@
+--game: Neon Spellstorm
+
+addappid(3298080)
+addappid(3298081,0,"0efb940c1c26e3deb88438733143e2fa8e341be4e06512aceddf2a9c9cd878e9")
