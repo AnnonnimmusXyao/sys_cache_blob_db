@@ -1,0 +1,5 @@
+--game: Hydra Heli
+
+addappid(3858850)
+addappid(3858851,0,"c780d51efcb2df3453126a0738f139a7550f75c80963da41242a7b1501432f6f")
+addappid(4019710)
