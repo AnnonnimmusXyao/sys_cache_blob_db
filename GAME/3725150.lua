@@ -1,0 +1,4 @@
+--game: Legitimate Space Corp Simulator LLC
+
+addappid(3725150)
+addappid(3725151,0,"1798869aa737ba9ae6dfda8daf716b21569681c0908279477ec0155f021be888")
