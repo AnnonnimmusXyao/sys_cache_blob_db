@@ -1,0 +1,4 @@
+--game: Thekku Island
+
+addappid(3889480)
+addappid(3889481,0,"524bc6a12c651a1b9b03cf9dede06e44881f99c86e17f6c6c4957a27ddafbd75")
