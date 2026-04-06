@@ -1,0 +1,4 @@
+--game: Drift cart
+
+addappid(3918620)
+addappid(3918621,0,"82c268ffbdf33be834f2d5008c5f9ff2ff27b64383688b78d6ef8e30c0967199")
