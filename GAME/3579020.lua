@@ -1,0 +1,4 @@
+--game: Nisukka Racing Simulation
+
+addappid(3579020)
+addappid(3579021,0,"6a81899fd209b17120428166a38f4a883b30172b89d1f2e8dda38ea2083750fa")
