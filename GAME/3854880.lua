@@ -1,0 +1,4 @@
+--game: Sunrider Legends Tactics
+
+addappid(3854880)
+addappid(3854881,0,"2b8d7a5342981ccfbca1bbfcc4e1f59e8f303b7770f6efc41d2b33552a4449cd")
