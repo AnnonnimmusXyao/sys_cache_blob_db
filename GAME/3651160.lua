@@ -1,0 +1,4 @@
+--game: Succubus: The Lustborn Curse
+
+addappid(3651160)
+addappid(3651161,0,"f2e752b8ccc4232b2e61198c664d997afe62c0bb46c235047339e6f6261c4a36")
