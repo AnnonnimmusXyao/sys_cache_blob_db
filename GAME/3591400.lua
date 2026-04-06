@@ -1,0 +1,4 @@
+--game: Cosplayer's Quest
+
+addappid(3591400)
+addappid(3591401,0,"f69e7015e5373738e8a1ab5d9548b84270a5a90198bcc2796a2008451f15e58e")
