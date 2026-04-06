@@ -1,0 +1,4 @@
+--game: Rafica and Sealing Wedge
+
+addappid(3671800)
+addappid(3671804,0,"fb8987b63448801f0b48820616558d5877d8bdd4f393d4f1240319f31b97ceac")
