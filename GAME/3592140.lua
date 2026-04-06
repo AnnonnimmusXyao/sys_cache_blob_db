@@ -1,0 +1,4 @@
+--game: Anima Gate of Memories: I&II Remaster
+
+addappid(3592140)
+addappid(3592141,0,"a040de4449456b56aeda4c798644fb890eee25da530a3d16a616f4725edfd7d7")
