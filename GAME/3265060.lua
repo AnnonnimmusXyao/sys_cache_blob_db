@@ -1,0 +1,4 @@
+--game: 东方异域见闻 ~ Touhou Dystopian
+
+addappid(3265060)
+addappid(3265061,0,"9ba6d456be5b82db0d49f0bf2a7d03212edadfd8348df2d7844433fb1a6c590a")
