@@ -1,0 +1,4 @@
+--game: BunnyBarTalk
+
+addappid(3891360)
+addappid(3891361,0,"eb726bb52f03b5b42a271ed362b15680a0a6897999915bc42a132ff2171fc289")
