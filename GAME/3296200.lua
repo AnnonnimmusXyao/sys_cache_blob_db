@@ -1,0 +1,4 @@
+--game: 5 nights at Timokha 4: School
+
+addappid(3296200)
+addappid(3296201,0,"038cfe7952ca8c4debfd30bfa89b967365da653efd3a61ab32e4777f3a2f7171")
