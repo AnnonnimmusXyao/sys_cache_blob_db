@@ -1,0 +1,4 @@
+--game: Car Dealership Simulator 2
+
+addappid(3616550)
+addappid(3616551,0,"321f51821758384501bec04ad6a82ad3bab317a8de1b00971de7161775883c48")
