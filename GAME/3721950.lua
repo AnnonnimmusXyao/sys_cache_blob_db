@@ -1,0 +1,5 @@
+--game: Yorda's Quest: A Lighthearted Magic Fantasy RPG
+
+addappid(3721950)
+addappid(3721951,0,"dbe833f6032bd7f3fb8e472eda29e7927a96cd514cec75aebf3f8d83dff02c13")
+addappid(3721952,0,"f0b9fe1bf2414c873ab52d18f6baed39ecb8f75059767999b615591315330aa1")
