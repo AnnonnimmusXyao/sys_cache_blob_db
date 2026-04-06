@@ -1,0 +1,4 @@
+--game: Raiders of Blackveil
+
+addappid(3352240)
+addappid(3352241,0,"6a82f2c4778c4822edb4e249b8d269bcc004d047eb7dc974c21f99202939ab5c")
