@@ -1,0 +1,4 @@
+--game: Shadow Lotus
+
+addappid(3873980)
+addappid(3873981,0,"3fcd7bee71b7f194287d434482c2f8a1db3400032740cdbbd9db5fe1390ba3b3")
