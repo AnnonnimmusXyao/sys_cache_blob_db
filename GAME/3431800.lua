@@ -1,0 +1,4 @@
+--game: JOI Lab PC
+
+addappid(3431800)
+addappid(3431801,0,"ea8ee48fb0d4708c439c0b2df09166f1ca42090e57d63450093e373c3a59f654")
