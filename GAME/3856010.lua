@@ -1,0 +1,4 @@
+--game: 时空穿越：事迹
+
+addappid(3856010)
+addappid(3856011,0,"18fac792737c63b63cd6740a65b89fdb440f8a7be35d5f52eadc5fffe65f24f1")
