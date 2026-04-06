@@ -1,0 +1,4 @@
+--game: Synthetic Hopes
+
+addappid(3578060)
+addappid(3578061,0,"7c0521ac5e562f96f5618a40546d31aa59bc3137f8a91cf09caebf3861e6d9c7")
