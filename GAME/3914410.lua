@@ -1,0 +1,4 @@
+--game: Yeet Up!
+
+addappid(3914410)
+addappid(3914411,0,"84228e16bbf355cf4e7004c4f5b5c5c7d412bee794ece4dd3a3ef40830ab1bd4")
