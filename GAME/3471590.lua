@@ -1,0 +1,8 @@
+--game: Coffee & Boobs
+
+addappid(3471590)
+addappid(3471591,0,"1e645a28773a20dd3cdb79845dc0347330707bdc8f69b5295ff23b62f1b14f71")
+addappid(3596490)
+addappid(3596500)
+addappid(3816810)
+addappid(4033030)
