@@ -1,0 +1,4 @@
+--game: XD CLICKER
+
+addappid(3880670)
+addappid(3880671,0,"2b6bea212dceffa5e9e8a08c1abbc9ee10554409a02025bbe1d8a58302fe73a3")
