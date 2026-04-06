@@ -1,0 +1,4 @@
+--game: Passant: A Chess Roguelike
+
+addappid(3353100)
+addappid(3353101,0,"578142d32fafdf92ce6b6515111f65943d0f99d998665da5ee56f7d15c6d134f")
