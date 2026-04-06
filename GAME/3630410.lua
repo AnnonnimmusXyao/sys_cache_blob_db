@@ -1,0 +1,4 @@
+--game: Little Witch Survivors
+
+addappid(3630410)
+addappid(3630411,0,"b16d96c86334d874d6a5c208daaead5d1fc05d8abd27be45c34b39f55e4bcc24")
