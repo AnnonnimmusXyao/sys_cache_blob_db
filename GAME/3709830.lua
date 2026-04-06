@@ -1,0 +1,4 @@
+--game: RedMoon : IDLE RPG
+
+addappid(3709830)
+addappid(3709831,0,"7b1037d64edcd8147ee7cd72d5eae59937f8efe073fa3b370671c506d5ed9a3e")
