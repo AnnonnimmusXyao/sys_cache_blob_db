@@ -1,0 +1,4 @@
+--game: ExitApartment
+
+addappid(3888790)
+addappid(3888791,0,"e2af945c3b4e3ddfe457e278b30f3baaed7ee5ba82b5013803bfd71ddd410d4e")
