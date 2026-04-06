@@ -1,0 +1,4 @@
+--game: 星痕绘梦 Starry Trace
+
+addappid(3593600)
+addappid(3593601,0,"20dd1120aa26643cf5da5dccf3a11f3a51a5e030339859bc4955c180945f1e78")
