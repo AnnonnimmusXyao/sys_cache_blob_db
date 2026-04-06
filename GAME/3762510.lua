@@ -1,0 +1,4 @@
+--game: Lusty Chapters
+
+addappid(3762510)
+addappid(3762511,0,"e550a0373279f725a7d016f679eb88c36cb8e96e213f7e17fea01990b5b46c28")
