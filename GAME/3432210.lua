@@ -1,0 +1,4 @@
+--game: 吃脚
+
+addappid(3432210)
+addappid(3432211,0,"1f950dce5bf706e2e9b5ebc8c229395cbba4027a6e0b80578f9f1f0e65b54789")
