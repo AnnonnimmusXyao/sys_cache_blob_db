@@ -1,0 +1,4 @@
+--game: Tomba! 2: The Evil Swine Return Special Edition
+
+addappid(3504560)
+addappid(3504561,0,"0d1607b31ce8b88c9edd5436e868bb20e15679e1fa1456ffd98846e8a593a808")
