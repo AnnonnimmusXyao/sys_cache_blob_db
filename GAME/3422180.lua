@@ -1,0 +1,4 @@
+--game: Sokobos 2
+
+addappid(3422180)
+addappid(3422181,0,"9e980da5ecd0c17d47d4ad030aef97b1f6521b64f14d63e8cdbfd223df78f152")
