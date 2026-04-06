@@ -1,0 +1,4 @@
+--game: Piñata Go Boom
+
+addappid(3269180)
+addappid(3269181,0,"6df976103b6994c73e06896d294bf10bdb9acca8eb4b92b08e225c6fbb247fd2")
