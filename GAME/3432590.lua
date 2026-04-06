@@ -1,0 +1,4 @@
+--game: Cats in Cozy Rooms
+
+addappid(3432590)
+addappid(3432591,0,"8f184279a4dd8c576b162e172af4d26382e9405c76a5758ccdb1d2c25ce6e9a5")
