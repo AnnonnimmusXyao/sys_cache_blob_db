@@ -1,0 +1,4 @@
+--game: this game will end in 205 clicks.
+
+addappid(3585630)
+addappid(3585631,0,"e0ae7c892b7e09f6d857d26c8b1f24102d801dbad9c188faac789af9fe5a474e")
