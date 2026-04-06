@@ -1,0 +1,4 @@
+--game: Firelore: Short Tales
+
+addappid(3289270)
+addappid(3289271,0,"db14d32be7efde5843c72cca12c8da01dc7e0453f7c030e4fdb878b0ec224182")
