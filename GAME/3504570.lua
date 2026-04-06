@@ -1,0 +1,4 @@
+--game: Fear Effect
+
+addappid(3504570)
+addappid(3504571,0,"2c149b643433daab7d594fcc07e52649b73ede0eb07c9ddffa84da2996aaff93")
