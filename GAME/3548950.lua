@@ -1,0 +1,4 @@
+--game: Scary Tales: Horror School
+
+addappid(3548950)
+addappid(3548951,0,"0c143dd03e50c2127c20efc4a5ce4273a62a50d61bc86aa3030065a9a335e074")
