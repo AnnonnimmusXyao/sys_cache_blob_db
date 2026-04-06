@@ -1,0 +1,4 @@
+--game: Beebo & Luna
+
+addappid(3573460)
+addappid(3573461,0,"61d0ffbe625555db7a556cf1366fea34501a4003e3a5ef734333d0ca191f8bf6")
