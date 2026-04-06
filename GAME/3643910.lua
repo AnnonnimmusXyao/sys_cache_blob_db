@@ -1,0 +1,4 @@
+--game: GOO-B3-R
+
+addappid(3643910)
+addappid(3643911,0,"bb96e44d9dc01291b6eeea168d1aa596d12fb9bb92a9a88f3f34e27f2d430b2a")
