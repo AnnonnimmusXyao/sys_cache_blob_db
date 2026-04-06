@@ -1,0 +1,4 @@
+--game: RedLantern | 赤提灯
+
+addappid(3852000)
+addappid(3852001,0,"f352a85b454339193502a4a4992269f9c84c7c5c37427ab3d6cbe522be888c94")
