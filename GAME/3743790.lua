@@ -1,0 +1,5 @@
+--game: Thomas & Friends™: Wonders of Sodor
+
+addappid(3743790)
+addappid(3743791,0,"319047ea8ff14b6423edf068bcf6e172e2b49ab644eb998e8fd2ad65507deaae")
+addappid(4262440,0,"49e074e3f2a4311eba6c8daeefb9520cf9a68038b663af25e52e07fbb7a61548")
