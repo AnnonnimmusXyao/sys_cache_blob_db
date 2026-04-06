@@ -1,0 +1,4 @@
+--game: Vibe Clicker
+
+addappid(3813330)
+addappid(3813331,0,"4f8398df836a95a80f7c018ba716cc5065b26eed8694694d8f8b9768537a85bd")
