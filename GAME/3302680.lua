@@ -1,0 +1,5 @@
+--game: MojiCraft
+
+addappid(3302680)
+addappid(3302681,0,"b773bb8cc549ece69dce2a5bc8bc9174485f31c674ecacab743dda7c7597872b")
+addappid(3306190)
