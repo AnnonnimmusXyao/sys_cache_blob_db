@@ -1,0 +1,6 @@
+--game: Flesh Made Fear
+
+addappid(3316350)
+addappid(3316351,0,"9438fb5ebe984f693124171759ed5db8330811269311a5534e2aaa50787fe675")
+addappid(4013570)
+addappid(4013580)
