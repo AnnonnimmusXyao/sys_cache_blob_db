@@ -1,0 +1,4 @@
+--game: Everdream Village
+
+addappid(3569950)
+addappid(3569951,0,"63fb30c192a460a30454dc257877d5e9818be2c3c6604f55821d74b20ea2d0b4")
