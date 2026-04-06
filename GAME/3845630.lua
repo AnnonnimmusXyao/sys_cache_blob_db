@@ -1,0 +1,4 @@
+--game: The Taming Massage Parlor ~Mari's Story~
+
+addappid(3845630)
+addappid(3845631,0,"70c1bbe573f72d38b50981c9efcb0d9d379b2f85940ce6364f94c37a83182f44")
