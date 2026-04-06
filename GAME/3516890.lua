@@ -1,0 +1,4 @@
+--game: Drop Dead: The Cabin
+
+addappid(3516890)
+addappid(3516891,0,"18b82bceb932ee2e1994eb2e3e82d29488b9e5d48c40958a707f0f749093ce74")
