@@ -1,0 +1,4 @@
+--game: VonGarland Castle : Beyond Blood
+
+addappid(3578290)
+addappid(3578291,0,"6bbcee6cc4bc9971e47a6bf24f55ef37e64c29c413aaabca1c157748d263a65a")
