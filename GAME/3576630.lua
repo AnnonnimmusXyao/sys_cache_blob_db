@@ -1,0 +1,4 @@
+--game: Girlfriend Saves the City
+
+addappid(3576630)
+addappid(3576631,0,"518c1604aabc8ad582a510ac28e3f93ba8f8afb19f7c37a09a5e1de0cfd28106")
