@@ -1,0 +1,4 @@
+--game: Project Hailstorm
+
+addappid(3388760)
+addappid(3388761,0,"d40723f59411553650c2a0bb933f07c8ff78c003df80488b4007f4db93f197ab")
