@@ -1,0 +1,4 @@
+--game: Hidden Tomatoes 4
+
+addappid(3512760)
+addappid(3512761,0,"1e18b68c82de4f03a8646404837b6d00fc95934477efc7b6ec965b09a446f542")
