@@ -1,0 +1,4 @@
+--game: PONGBANG
+
+addappid(3645310)
+addappid(3645311,0,"8e59729bc9052f7a9bec483b7ec1cddbc75850cc50b79c5e2039e7769e42ad0b")
