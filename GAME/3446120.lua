@@ -1,0 +1,4 @@
+--game: Kira☆Kano
+
+addappid(3446120)
+addappid(3446121,0,"aadb32c08fa1e2753ecc0a2f349070af853935b7687a435b3cede167d84ee267")
