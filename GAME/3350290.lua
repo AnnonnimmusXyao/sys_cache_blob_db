@@ -1,0 +1,4 @@
+--game: Ravager - Moon-Friendly Edition
+
+addappid(3350290)
+addappid(3350291,0,"2c90ad380c2e11442f77cf035483e2b72f03c293a2de3f00490d16f322e40591")
