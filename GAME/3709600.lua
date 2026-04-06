@@ -1,0 +1,4 @@
+--game: Boogie Cruise
+
+addappid(3709600)
+addappid(3709601,0,"11f5eeaa6d5fa79e5c007b631402854440e89f1087c8c8c72421320e45001d5c")
