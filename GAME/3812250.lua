@@ -1,0 +1,4 @@
+--game: Bow Down & Eyes Up
+
+addappid(3812250)
+addappid(3812251,0,"705692a9049745cbe6b849b8dbcf64f4b30e215ca89523457cda39b731f768b2")
