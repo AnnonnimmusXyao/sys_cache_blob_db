@@ -1,0 +1,4 @@
+--game: Beek: Familiar Spirit - Remastered
+
+addappid(3586520)
+addappid(3586521,0,"df59d6a06638307acb5525966a228aab89fafd3da32608600b2998fb255e24bf")
