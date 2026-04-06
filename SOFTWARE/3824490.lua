@@ -1,0 +1,4 @@
+--game: Oasis Driver for Windows Mixed Reality
+
+addappid(3824490)
+addappid(3824491,0,"1f071756c8582c3de134535db129994009b4e77fabdd4f944d4797634c5cd704")
