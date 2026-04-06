@@ -1,0 +1,4 @@
+--game: みんなで空気読み。ワールド タイVer.
+
+addappid(3606690)
+addappid(3606691,0,"f1186a7c7300b6aa015423997a1973564fa4d76f3a374ad01fb5f6cb02a984cf")
