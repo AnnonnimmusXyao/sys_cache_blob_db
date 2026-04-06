@@ -1,0 +1,4 @@
+--game: Logic Bombs
+
+addappid(3816700)
+addappid(3816701,0,"5e8b74630999a5a585db8b86738b034fc35a4b62d33518ac256b5c33afd45943")
