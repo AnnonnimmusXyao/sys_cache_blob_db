@@ -1,0 +1,4 @@
+--game: A Café Couple's Joyful Life of Resistance
+
+addappid(3331050)
+addappid(3331052,0,"0b6e3a43bacee18eb7cae47bd4271b8dc37da67d260d3840457494cb58125e6e")
