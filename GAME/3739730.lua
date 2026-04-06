@@ -1,0 +1,4 @@
+--game: Skull Hotel
+
+addappid(3739730)
+addappid(3739731,0,"08f16747a78ccb050de12df8c6437999682397dd421317e1e7deab99f1dff538")
