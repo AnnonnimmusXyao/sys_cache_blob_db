@@ -1,0 +1,4 @@
+--game: Cooperate with Yourself
+
+addappid(3617420)
+addappid(3617421,0,"98e23ae6e1a32850481d9b41cd8d6bd7aeac0b22bf6db80c80245d79c33e3f8d")
