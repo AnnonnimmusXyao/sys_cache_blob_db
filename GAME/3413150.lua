@@ -1,0 +1,4 @@
+--game: Makai Agito
+
+addappid(3413150)
+addappid(3413151,0,"4145407f710aad199189a5f7c955f9eff44eee6d6b3cc31ba2f116c41b397ded")
