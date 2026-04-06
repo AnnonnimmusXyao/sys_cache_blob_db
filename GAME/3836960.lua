@@ -1,0 +1,7 @@
+--game: ENCOUNTER BAR
+
+addappid(3836960)
+addappid(3836961,0,"b78fca717f1f37230078936cb64cd00e1987a06cb513ebad1ee03823a70a3d4b")
+addappid(3901860)
+addappid(4041710)
+addappid(4041720)
