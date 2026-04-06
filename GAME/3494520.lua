@@ -1,0 +1,4 @@
+--game: Lost Rift
+
+addappid(3494520)
+addappid(3494521,0,"89b91d3eaf685dd42f6c0f464c29cd024fc5afeaf5a38b5f86dfb233e5838ca3")
