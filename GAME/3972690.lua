@@ -1,0 +1,4 @@
+--game: Treasure of Deema
+
+addappid(3972690)
+addappid(3972691,0,"feb278475d5eb8b902e4592515cdbe5c77315cd9675524c0ff1289df70e9bd03")
