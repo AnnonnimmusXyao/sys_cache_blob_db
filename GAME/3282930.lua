@@ -1,0 +1,4 @@
+--game: AI Asylum
+
+addappid(3282930)
+addappid(3282931,0,"05479fc2a9ddfe3d483b20e6a4d52ad28dd820df9644f6033659c6affe75e0f6")
