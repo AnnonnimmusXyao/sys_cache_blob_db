@@ -1,0 +1,4 @@
+--game: 灵魂•启示录
+
+addappid(3365360)
+addappid(3365361,0,"fba59e426c67963d8686cb95d881075584bc18ef93e6b3834d3ec91db10c2060")
