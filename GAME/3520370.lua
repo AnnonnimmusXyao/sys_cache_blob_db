@@ -1,0 +1,4 @@
+--game: Shizuoka Curse | 静岡の呪い
+
+addappid(3520370)
+addappid(3520371,0,"b364a9f842c713f9e82868bc5f4cf85253bc2687bbcea9b5e2496a4a7a85738d")
