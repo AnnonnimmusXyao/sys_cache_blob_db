@@ -1,0 +1,5 @@
+--game: Elemental: Reforged
+
+addappid(3796960)
+addappid(3796961,0,"c1d0d41e73d3e1ed7a0564bd1d97490fbfe0c7f5b5f9deb1b30335d6ed41d334")
+addappid(3796962,0,"fecd201d8a945628e196f5a3e49126c8be8fea466bfb2af5e88e85a82edb9196")
