@@ -1,0 +1,4 @@
+--game: Metawork - Antique Shop Simulator
+
+addappid(3796630)
+addappid(3796631,0,"1929bfd39c6c071876c66283ad00eed4e733bd3a7204249626c81e8517ee9d6a")
