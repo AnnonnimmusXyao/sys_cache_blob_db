@@ -1,0 +1,4 @@
+--game: Midnight Crane
+
+addappid(3841220)
+addappid(3841221,0,"aab54728b207ad642294b0aef944136173216775913912d4d20ad20354e97fd2")
