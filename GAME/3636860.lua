@@ -1,0 +1,4 @@
+--game: All of You
+
+addappid(3636860)
+addappid(3636861,0,"33875fe96df2b4c366e2b6e9b3f589f29d931eeb50e202de222359c84a41ae72")
