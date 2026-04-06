@@ -1,0 +1,4 @@
+--game: Naked Lust and Burning Passions
+
+addappid(3856050)
+addappid(3856051,0,"9d0b0efa2541a915830d8271439e01164cf9e67c469c433b5c80d43c04f37b53")
