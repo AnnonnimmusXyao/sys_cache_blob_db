@@ -1,0 +1,4 @@
+--game: RESTORER
+
+addappid(3815050)
+addappid(3815051,0,"d0cbdcb7ee8a2a23d4f386d1d690116de26c3e7eb323476a8101ef68a9b2d1c0")
