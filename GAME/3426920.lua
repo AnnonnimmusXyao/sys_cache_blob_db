@@ -1,0 +1,4 @@
+--game: Twisted Gallery 异馆
+
+addappid(3426920)
+addappid(3426924,0,"e1e18a6d8befad27c095cdd009fb567d5bfa4c1cd106cb115b7bfb9dde302345")
