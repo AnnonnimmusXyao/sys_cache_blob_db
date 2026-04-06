@@ -1,0 +1,4 @@
+--game: Anime FPS: Guns vs Magic
+
+addappid(3553190)
+addappid(3553191,0,"210e0d88401515defce99e8903f521d8028ef6d74033ed2e01f81c4727b5fd74")
