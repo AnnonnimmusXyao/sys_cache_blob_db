@@ -1,0 +1,4 @@
+--game: Blasfemia
+
+addappid(3699970)
+addappid(3699971,0,"bd479351e02e020c397dab0bcfeadd8517a06e4ff272b2a2fed335c47f1d5c75")
