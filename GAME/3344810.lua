@@ -1,0 +1,4 @@
+--game: Blood Soaked Bastard!
+
+addappid(3344810)
+addappid(3344811, 0, "9dbf62afe3b69f7822e4324291b068f17319c8049479b069a8d64981316a0250")
