@@ -1,0 +1,4 @@
+--game: Scholar Adventure: Mystery of Silence
+
+addappid(3929410)
+addappid(3929412,0,"b6260d315de19ef6d2ae146afa6d64f0cd3d234d2a952b3363b9c3e02f9db6ce")
