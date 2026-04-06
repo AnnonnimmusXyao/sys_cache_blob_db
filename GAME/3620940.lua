@@ -1,0 +1,4 @@
+--game: Sushi Cat Legacy Collection
+
+addappid(3620940)
+addappid(3620941,0,"3d28ad30a99189cb7735d21990b8020c2c1b0b8a1ba229e8a1b0ffeeb4c94b9d")
