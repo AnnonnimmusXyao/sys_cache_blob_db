@@ -1,0 +1,4 @@
+--game: Adult Life Yuri Bundle by Team ANPIM
+
+addappid(3601840)
+addappid(3601841,0,"ea6d37806c5e69fc89d1c3c28349ab5af3e5853ccdbe0ad030cf9678ab7ef098")
