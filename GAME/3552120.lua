@@ -1,0 +1,4 @@
+--game: Sélas
+
+addappid(3552120)
+addappid(3552121,0,"fa9b5c749353f18d4123c59709df05d0e7c96c341b392ca6d4d33c50a2588066")
