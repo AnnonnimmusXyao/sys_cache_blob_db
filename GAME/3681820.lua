@@ -1,0 +1,4 @@
+--game: MoonMiners
+
+addappid(3681820)
+addappid(3681821,0,"49e322858bd19f2ced6cdc614f755f9cdc0ce9e6aef570d761662cbd01f2db45")
