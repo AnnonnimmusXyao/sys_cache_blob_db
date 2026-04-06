@@ -1,0 +1,4 @@
+--game: Jameela and the treasure of the Demon Queen
+
+addappid(3459310)
+addappid(3459311,0,"ab572b950f6376d2b2b7ca395286c2c3e0ef6873433f1a3f154eff82d5f72232")
