@@ -1,0 +1,4 @@
+--game: Anal club
+
+addappid(3774560)
+addappid(3774561,0,"d4bcc23b1f0f3c1267af243d3fe90318bac9c197a6aec3438c5b34f52366aeff")
