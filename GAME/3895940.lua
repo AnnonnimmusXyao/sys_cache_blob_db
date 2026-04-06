@@ -1,0 +1,4 @@
+--game: Velvet Hearth
+
+addappid(3895940)
+addappid(3895941,0,"45b50adced89efe516aab8228287cbca92df072ce36d1035a460b86b5268dd21")
