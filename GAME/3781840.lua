@@ -1,0 +1,4 @@
+--game: Bartholomew.exe
+
+addappid(3781840)
+addappid(3781841,0,"8e4b2955e6c31b6949d4ee65e4b07b1308389c2887752eb365e152261351ef41")
