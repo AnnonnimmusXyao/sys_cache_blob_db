@@ -1,0 +1,4 @@
+--game: Sword Tale : Lost Excalibur
+
+addappid(3305630)
+addappid(3305631,0,"201bf63145e95b2e08aa37b0b9d7fddb4025b7c0266132614129c134107fa2f1")
