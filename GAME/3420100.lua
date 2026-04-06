@@ -1,0 +1,4 @@
+--game: Bazar Simulator: The Wan Story
+
+addappid(3420100)
+addappid(3420101,0,"28a3b7a33bafa8ac999a30002d7cb2476b809b9fb69070d6fbc8020f801b54df")
