@@ -1,0 +1,4 @@
+--game: Countermeasure Pioneers: Modern Drone Battlefield
+
+addappid(3379880)
+addappid(3379881,0,"8d4fc5cd6294ab74f555e64c761077078c4c4a220cb6c707a5b404222ba4ad63")
