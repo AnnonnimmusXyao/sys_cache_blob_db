@@ -1,0 +1,4 @@
+--game: Mayoi Shopping Street
+
+addappid(3826560)
+addappid(3826561,0,"c35cc83cd6362d750ba552f757665699330b39007002c554cfca3c434b6f1286")
