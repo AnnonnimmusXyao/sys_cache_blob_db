@@ -1,0 +1,4 @@
+--game: Violent Horror Stories 2
+
+addappid(3636960)
+addappid(3636961,0,"5cdbeb07c6db039a53fe874518f3294034a7ab7489bbbb09c2b5db8164092ddd")
