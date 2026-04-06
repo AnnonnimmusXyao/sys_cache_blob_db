@@ -1,0 +1,5 @@
+--game: Fantasy Maiden Wars - DREAM OF THE STRAY DREAMER -
+
+addappid(3575980)
+addappid(3575981,0,"59692fd1b4a0d1a59046d41e78e3b648005a731894cc429051dd6492ffe0563e")
+addappid(3575982,0,"f951ff54ab74ccb534f1b3064e0f67636fd7f54793f786ff1f1f65b8229eb4af")
