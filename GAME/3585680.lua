@@ -1,0 +1,4 @@
+--game: Grafika66 - The Galleries
+
+addappid(3585680)
+addappid(3585681,0,"77b6d88a327d8a96fa0bef86a0b15b7f90b8ff023859e6968817610c37dadbfb")
