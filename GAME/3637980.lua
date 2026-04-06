@@ -1,0 +1,4 @@
+--game: Achievement Monster
+
+addappid(3637980)
+addappid(3637981,0,"2bcc5f8cfb41e0cd52221de9fbe9733bc6c6c054ac5a6909fd463c0c938d0ae5")
