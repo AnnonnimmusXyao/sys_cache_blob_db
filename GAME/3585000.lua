@@ -1,0 +1,4 @@
+--game: BullTales 🦬
+
+addappid(3585000)
+addappid(3585001,0,"3f45da391a25906c5faab0b29d25190fc0a9806309fdd46b04cc01a5aeffeab5")
