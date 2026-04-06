@@ -1,0 +1,4 @@
+--game: Storage Finder
+
+addappid(3713730)
+addappid(3713731,0,"575f2a1f64526766df4b21ff5aa59138025d8d04251c1dbdda657ff1d963ab8d")
