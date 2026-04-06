@@ -1,0 +1,4 @@
+--game: Bibbidiba fan game
+
+addappid(3428800)
+addappid(3428801,0,"5bef1114098cbaac735c1316befc4244f737236e91aaa4160dd19c6aed5b8a0d")
