@@ -1,0 +1,4 @@
+--game: Hero Seekers
+
+addappid(3921110)
+addappid(3921111,0,"9b3444827fac4c5450c19ee300d5a23ba77867356741720d8e0057b26f8da698")
