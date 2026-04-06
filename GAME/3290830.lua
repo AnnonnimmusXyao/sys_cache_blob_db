@@ -1,0 +1,4 @@
+--game: Faith Of Life _ Survive Edition
+
+addappid(3290830)
+addappid(3290831,0,"9923601bac64a1641cbd978e04234de8553aac75f940a99d0ce13e031d9feab0")
