@@ -1,0 +1,4 @@
+--game: Reindeer Racing
+
+addappid(3273900)
+addappid(3273901,0,"395bf1f8bca4d4db96321bffbfd863cae6e431eb7abe4a2990bc5db696f0c953")
