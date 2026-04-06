@@ -1,0 +1,4 @@
+--game: Ignited Entry
+
+addappid(3292480)
+addappid(3292481,0,"dd35ce3a8443f98e8719bcdc0ea54ef4632509e5b136d1d970862140d0f0a0ab")
