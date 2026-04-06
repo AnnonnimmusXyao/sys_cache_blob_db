@@ -1,0 +1,4 @@
+--game: Urban Hunter
+
+addappid(3849380)
+addappid(3849381,0,"17b5a7fe0926b9332b055f9b44ee8b60c69dfa2323a5771de5c9bdeb32a19e77")
