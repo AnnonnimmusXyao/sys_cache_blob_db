@@ -1,0 +1,4 @@
+--game: Bogos Binted?
+
+addappid(3588490)
+addappid(3588491,0,"3c3f550a80f99598128bf46b669e3322b7e035b2670e33b808f331478c4102be")
