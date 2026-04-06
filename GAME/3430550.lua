@@ -1,0 +1,4 @@
+--game: Stickman Adventures
+
+addappid(3430550)
+addappid(3430558,0,"978f958d0c3ecb8d0472798f975c6b6365582850c626671326f1aac16ad17c56")
