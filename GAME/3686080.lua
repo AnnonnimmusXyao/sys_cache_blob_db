@@ -1,0 +1,4 @@
+--game: Forest Of Siege
+
+addappid(3686080)
+addappid(3686081,0,"ea0891c21a579353f95c7a9cc603fa9be9d288d688d2fa4af8bbad8630e7daf1")
