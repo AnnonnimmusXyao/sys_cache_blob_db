@@ -1,0 +1,4 @@
+--game: Puzzle Journey
+
+addappid(3924220)
+addappid(3924221,0,"2bfbe387867331204ed0c94a7a08fc16fea080b0e0eddb4cc14441a34453ed15")
