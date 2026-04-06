@@ -1,0 +1,4 @@
+--game: Little Corners
+
+addappid(3651310)
+addappid(3651311,0,"4eb58e16048ebecbdaffd8fbfd730341347947c0a30bb547ad3806ec084241d2")
