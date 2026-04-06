@@ -1,0 +1,5 @@
+--game: Heartreasure: Stellar Journey
+
+addappid(3530160)
+addappid(3530164,0,"f3a80b5d67b0425d7e16654efbf466d9724312fea2d67aafd4973e4002df5f99")
+addappid(3530165,0,"312d6d279dac171f15ab2f76c8178fd12c932185301bdcc99981522e74fbd008")
