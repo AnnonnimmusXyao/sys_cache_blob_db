@@ -1,0 +1,4 @@
+--game: Freedom Bomber
+
+addappid(3848860)
+addappid(3848861,0,"a916fc606dac06489adb2d5f1ff81173a9d3419e3436c5ea515586b7f3d8c39e")
