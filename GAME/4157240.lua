@@ -1,0 +1,4 @@
+--game: Kurotsuki
+
+addappid(4157240)
+addappid(4157241,0,"8854d55173f7a165ce41cca63153c550f9244dce5c5588fd0486382bb89b9bac")
