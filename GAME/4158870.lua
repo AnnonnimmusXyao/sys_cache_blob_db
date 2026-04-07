@@ -1,0 +1,4 @@
+--game: Japanese Rural Life Adventure
+
+addappid(4158870)
+addappid(4158871,0,"3572d23e28fe810f631002260bf811383939e1ef9203b5203b93dd0e65375fb0")
