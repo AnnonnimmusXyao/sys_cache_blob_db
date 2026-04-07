@@ -1,0 +1,4 @@
+--game: Fast Food King
+
+addappid(4277930)
+addappid(4277931,0,"5aaff77c755f3e48f0c18a55c10adb564129c16595c4bf9e3785108cd7f580b1")
