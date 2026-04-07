@@ -1,0 +1,4 @@
+--game: The Empty Eyes
+
+addappid(4074770)
+addappid(4074771,0,"524f7522ba6122702aaf2fc19c13f185cfe28acb07b281db6aafdc13a31df784")
