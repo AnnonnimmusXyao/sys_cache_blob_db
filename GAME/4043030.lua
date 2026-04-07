@@ -1,0 +1,4 @@
+--game: Vice Thief Simulator: 80s Nostalgia
+
+addappid(4043030)
+addappid(4043031,0,"8a519657717ed82aefb42e75604dc3cb282cb1f8dfd780db01b11857d3ca6b32")
