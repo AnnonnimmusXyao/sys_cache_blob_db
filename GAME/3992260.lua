@@ -1,0 +1,4 @@
+--game: Ascend From Nine Mountains
+
+addappid(3992260)
+addappid(3992261,0,"61d31c274436ab72a4d0da81b8df7dbd67bb85a3b4fa4ad6b22786a9218c9ab7")
