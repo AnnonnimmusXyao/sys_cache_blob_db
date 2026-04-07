@@ -1,0 +1,4 @@
+--game: 偶像調教事件簿
+
+addappid(3990990)
+addappid(3990991,0,"19995c2dd7fa0f45ff6186d23ca1e421acb6a80b1694b9c3c67d6956a9074728")
