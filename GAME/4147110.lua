@@ -1,0 +1,4 @@
+--game: Deadrock Redemption 2
+
+addappid(4147110)
+addappid(4147111,0,"ee4521346f757982a5d82b6673c00c20ade51bba3fbbce6b15c1e064fddcffd8")
