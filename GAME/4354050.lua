@@ -1,0 +1,4 @@
+--game: Corporate Lust : Under My Desk, Under My Spell
+
+addappid(4354050)
+addappid(4354051,0,"3cdf8fd051c5acef137a03b050d3dc0ef4115a9615414dc691c20520cf399a63")
