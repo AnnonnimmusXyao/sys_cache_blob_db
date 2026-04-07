@@ -1,0 +1,4 @@
+--game: Jesus Simulator
+
+addappid(4391560)
+addappid(4391561,0,"735aff9d343d3c519963b899f7b57b0f1eec231940c4ec432e89d582efc033fd")
