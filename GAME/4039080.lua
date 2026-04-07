@@ -1,0 +1,4 @@
+--game: Table Battle Simulator
+
+addappid(4039080)
+addappid(4039081,0,"cd5b094762f3e185135c7d3eef9b53b218d0622ff3851be2b3dc8822af915a03")
