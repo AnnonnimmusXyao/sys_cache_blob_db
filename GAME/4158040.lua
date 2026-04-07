@@ -1,0 +1,4 @@
+--game: Chicken Fries
+
+addappid(4158040)
+addappid(4158042,0,"902113f241abfe741991f7ac3f67abc58195597bcfe816edc13de0520bd7dc25")
