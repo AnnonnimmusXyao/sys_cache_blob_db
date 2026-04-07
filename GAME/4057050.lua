@@ -1,0 +1,4 @@
+--game: Heroines Through My Lens
+
+addappid(4057050)
+addappid(4057051,0,"08db9368d6ef975eb6ff3f8b211c46f28d9dde5dc845f795c8d90efddd994976")
