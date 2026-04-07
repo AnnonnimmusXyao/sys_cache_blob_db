@@ -1,0 +1,4 @@
+--game: Mushroom Island Work Diary
+
+addappid(4013460)
+addappid(4013461,0,"b6d2cd121138a1064eac0083dca2a08a0e015e5a01d000a1e88f864880771054")
