@@ -1,0 +1,4 @@
+--game: いえのあじ | A taste of home
+
+addappid(4161930)
+addappid(4161931,0,"ae9784950431b0652fca2f08954c242bbaa9a447957532cc95edaf7ffe814831")
