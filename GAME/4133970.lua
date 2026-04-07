@@ -1,0 +1,4 @@
+--game: The Session
+
+addappid(4133970)
+addappid(4133971,0,"367d1cef30b4df2a2db307f1dfeb3843f5b8d33f780097f55b1570211b20a533")
