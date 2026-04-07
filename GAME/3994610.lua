@@ -1,0 +1,4 @@
+--game: Monster Lab Simulator
+
+addappid(3994610)
+addappid(3994611,0,"864b90ebcb0f375aff110ef0be14f0972dbb5db0b57ce2e7916e80a7e6b1b543")
