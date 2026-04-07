@@ -1,0 +1,4 @@
+--game: Maya : Ek Pishachini
+
+addappid(4069100)
+addappid(4069101,0,"b8e7f8dd78499f031f6330c803c7acceea2b6af118dbc5e4bea851f5031cb231")
