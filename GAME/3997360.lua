@@ -1,0 +1,4 @@
+--game: Pawnbroker Simulator
+
+addappid(3997360)
+addappid(3997361,0,"603b76690d85648cc2996d2b3c7b6b3dd24b88d451ffb4f77ced6ebc9191dc25")
