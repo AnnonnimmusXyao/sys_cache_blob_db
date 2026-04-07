@@ -1,0 +1,5 @@
+--game: Ladies, Don’t Tempt My Immortality
+
+addappid(4190070)
+addappid(4190071,0,"aaa04d6b73a9bc61869264f823f5776c2b82e12c8a293f2c83167bf6a2a9b329")
+addappid(4206960)
