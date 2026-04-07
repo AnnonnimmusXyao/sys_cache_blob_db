@@ -1,0 +1,4 @@
+--game: Smart Farm
+
+addappid(4238620)
+addappid(4238621,0,"dd76b428b1b38039a7705089f903bf0a8964aa20535b89ba4fa37f4a7758aaa4")
