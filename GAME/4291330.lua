@@ -1,0 +1,4 @@
+--game: 異洋館・異和館-The Disturbed Mansion
+
+addappid(4291330)
+addappid(4291331,0,"abc4d7696122be5fcdbbc5a12a6e15c0fdb5c066b91df4e327be4d1b5a3c5ef5")
