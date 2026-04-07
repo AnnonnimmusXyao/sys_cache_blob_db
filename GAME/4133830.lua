@@ -1,0 +1,4 @@
+--game: Tasty Planet: Final Bite
+
+addappid(4133830)
+addappid(4133831,0,"0f85508f73deb6c226deedd590858715cdffdb11d95c9bf66cadf2ea3f003282")
