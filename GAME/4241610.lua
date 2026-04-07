@@ -1,0 +1,4 @@
+--game: SINVAULT
+
+addappid(4241610)
+addappid(4241611,0,"98b3460e1fa56b624f04ce7ae376222dca9a5d20f17f156f0a7d0bf5b5891d8b")
