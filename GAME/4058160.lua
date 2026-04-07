@@ -1,0 +1,4 @@
+--game: Fiction Paradox - Chapter 1
+
+addappid(4058160)
+addappid(4058161,0,"49187c621917ca47dab24512677f8ee2445bc1c8ca8aa36fec0f5542b38173e8")
