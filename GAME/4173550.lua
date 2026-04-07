@@ -1,0 +1,5 @@
+--game: 都市伝説.exe
+
+addappid(4173550)
+addappid(4173551,0,"885b7963a8f17fa74f1f61848c8a09f1ea1965e78ae5133520685484d392ef74")
+addappid(4240650)
