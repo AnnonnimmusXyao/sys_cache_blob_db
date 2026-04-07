@@ -1,0 +1,4 @@
+--game: Void Fighters
+
+addappid(4222860)
+addappid(4222861,0,"83f14edaeba49097d805ae56ed67731613de4994abea540de7e36da5654c7380")
