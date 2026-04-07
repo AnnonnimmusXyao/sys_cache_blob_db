@@ -1,0 +1,4 @@
+--game: Demon Castle Story
+
+addappid(4212210)
+addappid(4212211,0,"b547e05c946ae420857fd0341b45110d7aa140a7a3e324ddb476cff4d306a202")
