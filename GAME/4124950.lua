@@ -1,0 +1,4 @@
+--game: Ashes of Creation
+
+addappid(4124950)
+addappid(4124951,0,"57aa14570ec1e55fda625d0b743b855face3b41ec87f04143bc7784a401b84b8")
