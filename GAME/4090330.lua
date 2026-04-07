@@ -1,0 +1,4 @@
+--game: Mall Rivals
+
+addappid(4090330)
+addappid(4090331,0,"7d497e7410a7c8cedcf2762f41643bedeb38d7dca77ca4dd94427c172895a4d7")
