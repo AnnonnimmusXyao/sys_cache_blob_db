@@ -1,0 +1,4 @@
+--game: Skinfreak
+
+addappid(4007340)
+addappid(4007341,0,"0802543bf60d688f3c7cf00c3b37789be740aa31ed58b3e89d610cb9d93d3745")
