@@ -1,0 +1,4 @@
+--game: Nakara
+
+addappid(4083770)
+addappid(4083771,0,"7a84d220eea6793d25bfc3912b18f43a0f577b99bbda1859e5c332d3b1cf5f19")
