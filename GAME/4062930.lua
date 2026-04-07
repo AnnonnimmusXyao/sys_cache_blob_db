@@ -1,0 +1,4 @@
+--game: International Basketball Manager 26
+
+addappid(4062930)
+addappid(4062931,0,"c2661da211fbc9c77b72c2ac83347077671ec2800028bce50c895f697a3e300e")
