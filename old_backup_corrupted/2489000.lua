@@ -1,0 +1,4 @@
+--game: RAGER
+
+addappid(2489000)
+addappid(2489002,0,"e3306fdde2326633f1e0ce3b39427c676038cd128f235b5a616fa68e949afa39")
