@@ -1,0 +1,5 @@
+--game: Sintopia
+
+addappid(2213700)
+addappid(2213701,0,"92993b60326b46a95c1559344bd5f1c66048450cafd4bb635948b3a5a99c7d4e")
+addappid(3497180)
