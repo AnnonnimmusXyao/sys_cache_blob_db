@@ -1,0 +1,4 @@
+--game: Cosmic Coop
+
+addappid(2497070)
+addappid(2497071,0,"47255de2ff3ba28f3ec17c9f2afd32b635d4b7d62455c1ca17c136dcd4a0cf90")
