@@ -1,0 +1,4 @@
+--game: PURGE FORCE 2070
+
+addappid(1805500)
+addappid(1805501,0,"adf449739bad4fe9e438f7893a118738384ce313f52d8eb9854fbe3187e33c92")
