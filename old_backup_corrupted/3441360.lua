@@ -1,0 +1,4 @@
+--game: Screaming In The Basement (2025)
+
+addappid(3441360)
+addappid(3441361,0,"6785c16a65b5d0335d2a1bfed36bd8e3ede86b56584a8fa3e6f34c50f853ab5a")
