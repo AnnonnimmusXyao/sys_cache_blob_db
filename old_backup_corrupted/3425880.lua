@@ -1,0 +1,4 @@
+--game: The Noble Quran
+
+addappid(3425880)
+addappid(3425881,0,"6dd1f372a55223bd59e1238985ae98acfbc1faebf3ce0ec44d877a7bbd53e9d3")
