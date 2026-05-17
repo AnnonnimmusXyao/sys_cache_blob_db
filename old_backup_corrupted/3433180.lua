@@ -1,0 +1,4 @@
+--game: Hentai Sally
+
+addappid(3433180)
+addappid(3433181,0,"f2d3a4011bfa4f8b6234e6fd5490f012fb46a73b52615bee0b6075ca81804cc8")
