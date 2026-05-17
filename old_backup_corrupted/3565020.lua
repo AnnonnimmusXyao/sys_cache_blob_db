@@ -1,0 +1,4 @@
+--game: Mad Television Tycoon
+
+addappid(3565020)
+addappid(3565021,0,"69c36046b4785334b2684b85bc04be6f1107f665c74d16687717a3b41a5f4a89")
