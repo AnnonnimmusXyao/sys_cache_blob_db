@@ -1,0 +1,6 @@
+--game: Breath of Fire IV
+
+addappid(4249150)
+addappid(4249151,0,"a22fa540bdb83c45e7534f000894219f768f3e5be2d1bd65c1b23fb5e3504668")
+addappid(4249152,0,"cef02be5c90a904d7fcf80ca2d0d981fe6ba19acaaf7856a94bb1cdb03a5f7e7")
+addappid(4249153,0,"b8e384ddfa636ced17c0d3d88ef4885729b11695ecd03d93c5d10bd0e4284897")
