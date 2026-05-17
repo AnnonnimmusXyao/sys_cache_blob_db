@@ -1,0 +1,6 @@
+--game: Substance 3D Designer 2026
+
+addappid(4329280)
+addappid(4329281,0,"fa870ef19d377f92400fdefaaeced7fe5d31baec2ae7d315a10c6cf8910f3111")
+addappid(4329282,0,"b10bc5145c0756c99696abf493dddf0e4e5c18aade06f2c810d0ba1ef4e79275")
+addappid(4329283,0,"f33f7240bba161610868a6507365fcc2c1e19c65a77a1a0589cfa5bb35964ddf")
