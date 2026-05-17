@@ -1,0 +1,4 @@
+--game: Achievement Manager
+
+addappid(4007430)
+addappid(4007431,0,"b90e469e62d6812f81ca2fb0b2e9024c225f9995621e68f4a11f2e0b52035e18")
