@@ -1,0 +1,4 @@
+--game: Highrise Mogul
+
+addappid(1597550)
+addappid(1597551,0,"25ffac7a19612d8e6af71d013f186a219445bef22fa23c280384f5ac298c80b1")
