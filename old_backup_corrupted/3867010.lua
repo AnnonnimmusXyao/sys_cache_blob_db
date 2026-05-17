@@ -1,0 +1,4 @@
+--game: 대학 조교 생활
+
+addappid(3867010)
+addappid(3867011,0,"f2a71e12f67137d24ca1170e140e66341ff64d4c3aa2bd7de61687817f3b25f4")
