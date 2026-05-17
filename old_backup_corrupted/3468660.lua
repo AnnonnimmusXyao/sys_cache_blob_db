@@ -1,0 +1,4 @@
+--game: Rugby League 26
+
+addappid(3468660)
+addappid(3468661,0,"8e72fac4278c479e7b5b06bf3d8d37f88bfb4eafa37267e95aa41749b085fe4b")
