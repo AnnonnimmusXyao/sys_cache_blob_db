@@ -1,0 +1,4 @@
+--game: MAZEMAN
+
+addappid(1140180)
+addappid(1140181,0,"9c1c4297df560e53e7ab1dcfe84b888983002e55d1898eb067c15ae7a3934f3a")
