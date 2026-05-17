@@ -1,0 +1,4 @@
+--game: Firefighters Together
+
+addappid(3444000)
+addappid(3444001,0,"21c9534f34155243f3498cfaaed79fdef4847969d6b7d008f83536290dfc8b5d")
