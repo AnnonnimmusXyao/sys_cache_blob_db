@@ -1,0 +1,4 @@
+--game: Rogue Arrows
+
+addappid(1331420)
+addappid(1331421,0,"51c0d812f4264176825b39932993fa4ed63069c0beb05a09484fb6c09585f310")
