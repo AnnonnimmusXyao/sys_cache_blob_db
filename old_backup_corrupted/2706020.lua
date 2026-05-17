@@ -1,0 +1,4 @@
+--game: ALL WILL FALL
+
+addappid(2706020)
+addappid(2706021,0,"8ca6191f4f09dcb309688901e511599e604be2d09f060774e028dce04bd063e3")
