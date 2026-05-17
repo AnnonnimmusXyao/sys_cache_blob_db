@@ -1,0 +1,4 @@
+--game: QuestLog Pro
+
+addappid(4295210)
+addappid(4295211,0,"d6054f8e9848c0ad5ab9faeb7ee8356c5a33a5eb773144a503e22cad20c1a950")
