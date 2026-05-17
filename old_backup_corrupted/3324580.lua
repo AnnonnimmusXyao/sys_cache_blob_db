@@ -1,0 +1,4 @@
+--game: Planet Lust
+
+addappid(3324580)
+addappid(3324581,0,"9169eb5e666a306bc434fea0915dfb2b344fcae5bfccf367f37808a85557641f")
