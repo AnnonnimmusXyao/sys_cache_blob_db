@@ -1,0 +1,4 @@
+--game: Sokbots
+
+addappid(1212170)
+addappid(1212171,0,"dc200ced1725fb9f1886fb5b7b28104e894ab14990073b9d36759310151db01b")
