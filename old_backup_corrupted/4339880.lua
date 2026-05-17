@@ -1,0 +1,4 @@
+--game: Game Compressor
+
+addappid(4339880)
+addappid(4339881,0,"068f5329555cc9874fce0e22d2d0fc71ce32dcef1c4e45e83241a4856348e9bb")
