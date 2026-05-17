@@ -1,0 +1,4 @@
+--game: Bamboo EP
+
+addappid(561190)
+addappid(561191,0,"4d79e91cbdd0fe8243d5131a0fae3fa3fca90073af55e20f2c90a15ec12dc41d")
