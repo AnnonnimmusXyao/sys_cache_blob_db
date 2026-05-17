@@ -1,0 +1,4 @@
+--game: Farever
+
+addappid(3672400)
+addappid(3672401,0,"73831a16cbfc579d84a852e8cbaf9f5a9d3a6b6060370bbd8763e9b0d2dea36a")
