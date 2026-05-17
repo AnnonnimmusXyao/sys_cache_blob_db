@@ -1,0 +1,4 @@
+--game: Road to Vostok
+
+addappid(1963610)
+addappid(1963611,0,"57de6985d7bfbfb4bc70c6da255f2f14fe1058300d52b7c3dc7897dd20fc21f5")
