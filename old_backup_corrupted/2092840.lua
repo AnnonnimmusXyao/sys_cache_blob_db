@@ -1,0 +1,5 @@
+--game: The Occultist
+
+addappid(2092840)
+addappid(2092841,0,"5e4d0f245900061c32fbb61025c8bd3b4aa38919205b6fd83ba4ecadcdedcc83")
+addappid(4012990,0,"048df12b5011da9da9abe27ac49ce45dc2545810c56653a3a066c1281fda6c76")
