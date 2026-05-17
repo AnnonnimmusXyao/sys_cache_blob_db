@@ -1,0 +1,4 @@
+--game: Tap Tap Loot
+
+addappid(3959890)
+addappid(3959891,0,"a0523a3673d8526c8c42a0daf53dbcb40ee7784ad18c12b3935cfa0b98de4aff")
