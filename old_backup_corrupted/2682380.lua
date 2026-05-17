@@ -1,0 +1,4 @@
+--game: Extinction Day
+
+addappid(2682380)
+addappid(2682381,0,"60506581f93e172482cf28b0cbbbcce9eeb0ad428b0da9ed42ff1c31dd412143")
