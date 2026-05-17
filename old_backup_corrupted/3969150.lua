@@ -1,0 +1,4 @@
+--game: Beauty Store Simulator
+
+addappid(3969150)
+addappid(3969151,0,"b3557f40f37458dc8bd43aee7788aab2932453c7fd9002d139243f4ae14c9f6b")
