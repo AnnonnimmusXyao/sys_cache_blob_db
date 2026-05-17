@@ -1,0 +1,5 @@
+--game: KuloNiku: Bowl Up!
+
+addappid(3357960)
+addappid(3357961,0,"41063b5ba12ea1c0eccad05185cf132f3fcd41b3644350c5befbb95fb84831e7")
+addappid(4338290,0,"a69565beed99a120a154851e248277eeecc74e003a75d4004616ad0db4ad0726")
