@@ -1,0 +1,4 @@
+--game: Pompeii: The Legacy
+
+addappid(2632240)
+addappid(2632241,0,"f5f18e1fb0ece925ae22504b1ae926bca63ec745df9d220591049970db4e95ae")
