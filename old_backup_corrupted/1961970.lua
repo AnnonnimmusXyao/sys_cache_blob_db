@@ -1,0 +1,4 @@
+--game: Akumi Wars
+
+addappid(1961970)
+addappid(1961971,0,"e9b927ecd3937598284d38de16d84fa1f68388655693a50ab2bc887176db773d")
