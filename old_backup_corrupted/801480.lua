@@ -1,0 +1,5 @@
+--game: Agent A: A puzzle in disguise
+
+addappid(801480)
+addappid(801481,0,"1c5902efdfa3bee5b98733cac85ce9e1a73a5744e65a8623740c8d8c774dc4b6")
+addappid(801482,0,"b4d18e282c703c7904421fb360a72f3c1c463355788b25d7ff8565a8caba7d63")
