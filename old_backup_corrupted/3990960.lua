@@ -1,0 +1,4 @@
+--game: Puzzle Bobble Everybubble!
+
+addappid(3990960)
+addappid(3990961,0,"dfa72cab78ab731f73865eb063e6ff13d28930e7ade3d0d929265ee837938525")
