@@ -1,0 +1,5 @@
+--game: City Painter
+
+addappid(4361900)
+addappid(4361901,0,"abd8683b5bb1412435876c35b4bb035e83ba3f803563eb6f69c1316652218a7f")
+addappid(4362050)
