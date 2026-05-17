@@ -1,0 +1,4 @@
+--game: Dawn Break
+
+addappid(3470610)
+addappid(3470611,0,"ef35a45bc08c765df84f3d1e4f82274a19f5399c43464a4914f3fdbd9898b8e2")
