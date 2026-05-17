@@ -1,0 +1,4 @@
+--game: Basketball Classics
+
+addappid(819630)
+addappid(819631,0,"dcc0c41a0108b26332049059372ccdffd792a1725e37a7ab1b8e6112ee437b13")
