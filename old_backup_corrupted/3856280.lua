@@ -1,0 +1,5 @@
+--game: holoVillage: Our Cozy Days
+
+addappid(3856280)
+addappid(3856281,0,"dd5dafbfa6d1302c7f7028e7aa17faba71d57b0b38aecaeaf14a23553904ad77")
+addappid(4582350)
