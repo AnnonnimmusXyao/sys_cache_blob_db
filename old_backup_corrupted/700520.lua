@@ -1,0 +1,4 @@
+--game: Shift Quantum - A Cyber Noir Puzzle Platformer
+
+addappid(700520)
+addappid(700521,0,"90bfedfd16108656e3db1c8d95630dda08a698d0048dd2d1d49b5db1923ed772")
