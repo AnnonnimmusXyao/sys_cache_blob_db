@@ -1,0 +1,4 @@
+--game: Black Hole Fishing
+
+addappid(3667390)
+addappid(3667391,0,"de2bcd10a6f1e71570a2dc91eb39fd8087b4f17b4affe4a53b8e6bfd53b9d661")
