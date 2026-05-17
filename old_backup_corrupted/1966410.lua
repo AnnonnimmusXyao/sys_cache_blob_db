@@ -1,0 +1,4 @@
+--game: Aphelion
+
+addappid(1966410)
+addappid(1966411,0,"84087eecad930dfa8ba61a10bf538e498019b634f785baf7e8a71b90d4aeb063")
