@@ -1,0 +1,4 @@
+--game: PERIMETER: Legate Edition
+
+addappid(2530170)
+addappid(2530171,0,"1f71e2490ec1c0a7f4795b124ed738162e5d57681e6d2c3d3cebd87e43b3759c")
