@@ -1,0 +1,4 @@
+--game: Hyperborea: Hornysolation
+
+addappid(4102950)
+addappid(4102951,0,"32e298f0daad14231d9fc898a5d3de199a0c4583ce8d95df7d59ec8ca68075d3")
