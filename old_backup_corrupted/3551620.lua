@@ -1,0 +1,4 @@
+--game: Kiss of Sin: Rewinding Flame
+
+addappid(3551620)
+addappid(3551621,0,"839ce5f6923feb1be0158bcd4f28dfd3926af5b6b34b36d1daeb912322536407")
