@@ -1,0 +1,4 @@
+--game: Baking Bad
+
+addappid(3107310)
+addappid(3107311,0,"cbf2df555cd26c85c146e99e63983d4fdafb2d0e315ad77bc734ad5d4b3e2de3")
