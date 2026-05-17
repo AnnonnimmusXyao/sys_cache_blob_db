@@ -1,0 +1,4 @@
+--game: Salvus: Aries
+
+addappid(2104400)
+addappid(2104403,0,"0853bd39e22838388b72ecc71b67d32427a8a92e11045eb9c47e5af7bdca08da")
