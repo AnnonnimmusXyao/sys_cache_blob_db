@@ -1,0 +1,4 @@
+--game: Heroes of the Seven Islands
+
+addappid(3010290)
+addappid(3010291,0,"e4101b52b2e63f4b828c0c408aaaf15fe7d9c7c07ddea1a2b3dc506a03c3b991")
