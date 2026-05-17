@@ -1,0 +1,4 @@
+--game: Hentai Tales: Paradise After Death
+
+addappid(3095570)
+addappid(3095571,0,"02f3e55e5582f1de2caa1cd88ddac6d3ccdfd8b7aace40c843b725c4e4fd3616")
