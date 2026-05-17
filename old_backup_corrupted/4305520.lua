@@ -1,0 +1,4 @@
+--game: Hentai Nami
+
+addappid(4305520)
+addappid(4305521,0,"7082206e7510a5a25bb68fbd95aa42625f399e4ecf2940aef323e26cd28dfa18")
