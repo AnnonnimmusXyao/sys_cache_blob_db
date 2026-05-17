@@ -1,0 +1,4 @@
+--game: Adorable Adventures
+
+addappid(3840230)
+addappid(3840232,0,"d78a9452af71b894934f0236e94cc73ca152cb1f0527d365e94ef5f6a935eb02")
