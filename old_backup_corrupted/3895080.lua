@@ -1,0 +1,4 @@
+--game: Motorcycle Ride: Infinity
+
+addappid(3895080)
+addappid(3895081,0,"6ab01457305c782897da621ac4777dbdb9e6a3a14020f16f9c20e0afc4f29f67")
