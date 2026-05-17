@@ -1,0 +1,7 @@
+--game: Part-Time Witch
+
+addappid(3108980)
+addappid(3108981,0,"c2012af5efe84f809a8cddfa507e9958d7a85eec5e1ccfde422bf4cd05efdc67")
+addappid(4082060)
+addappid(4082070)
+addappid(4082080)
