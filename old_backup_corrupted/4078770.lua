@@ -1,0 +1,4 @@
+--game: Hentai Tanvi
+
+addappid(4078770)
+addappid(4078771,0,"48913cb295526f34699af162819a3820dc7bd197ecb3ce9ef6a69c4e0b1b7afb")
