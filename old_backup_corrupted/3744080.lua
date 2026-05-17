@@ -1,0 +1,5 @@
+--game: Mining Merchant
+
+addappid(3744080)
+addappid(3744081,0,"b187b84097a6579d540175e21cd93b2947d205a1524f766d0197ac4ad2c21cdc")
+addappid(4257340)
