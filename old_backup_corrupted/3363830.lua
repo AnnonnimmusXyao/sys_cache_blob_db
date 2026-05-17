@@ -1,0 +1,4 @@
+--game: Weed Store Simulator
+
+addappid(3363830)
+addappid(3363831,0,"c9b93874f505d7998957cbaaa0955c4cef574e96075e97fdc378393cf7ae08fe")
