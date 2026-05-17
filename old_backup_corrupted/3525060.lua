@@ -1,0 +1,4 @@
+--game: Moving Simulator
+
+addappid(3525060)
+addappid(3525061,0,"1ae3a9ba78670d0e80f46df07898bff2aeb4129dd5ba4c0c1fce2cac2465531c")
