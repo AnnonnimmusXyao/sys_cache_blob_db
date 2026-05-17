@@ -1,0 +1,4 @@
+--game: FrameFusion Motion Interpolation
+
+addappid(1833100)
+addappid(1833101,0,"9a3a12d705d9e32d2c6c6f06f9456fd8378ab4015f1e86d84d3eeae05d2a6051")
