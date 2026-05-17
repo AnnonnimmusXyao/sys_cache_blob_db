@@ -1,0 +1,4 @@
+--game: Tiny Dangerous Dungeons
+
+addappid(1013650)
+addappid(1013651,0,"a9c4e35e02af836386653532a0c98bf8760145c828a797b638071a482dc9a9dd")
