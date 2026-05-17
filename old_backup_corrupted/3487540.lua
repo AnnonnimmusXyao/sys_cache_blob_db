@@ -1,0 +1,4 @@
+--game: Milf Hunter No.1
+
+addappid(3487540)
+addappid(3487541,0,"db71e91917598133f13f8993a6785cfd36144acaab12749d0a2b8e9809909d2a")
