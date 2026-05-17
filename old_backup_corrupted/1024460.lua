@@ -1,0 +1,6 @@
+--game: Destructive Physics - Destruction Simulator
+
+addappid(1024460)
+addappid(1024461,0,"9e0047cd5016594c7a874d3e2f7bbb7a490b27b256e8f2161c33c5ad5ded209b")
+addappid(1024462,0,"c51c32c13a59cab03495709ca20877cec612b3a30b76c52af70125fc6d265413")
+addappid(1024463,0,"902bcbea2cdbbe4ef273502829c3b5a13bc5c6c5bd0e500794f518c35506e329")
