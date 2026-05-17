@@ -1,0 +1,4 @@
+--game: Stranger Maidens Please Protect Me!
+
+addappid(3028830)
+addappid(3028831,0,"17b6d8fa0a51ffee90b7d6ed8d56b674be74a7453bb8452f85b081a0f8d797cf")
