@@ -1,0 +1,4 @@
+--game: 善良都市 Nice City
+
+addappid(4028160)
+addappid(4028161,0,"e61b0dd2806b6396e2861bdabb5d269ba90cecc1a412ad36574a146d653c04b6")
