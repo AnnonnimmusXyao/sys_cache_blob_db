@@ -1,0 +1,4 @@
+--game: Blade Abyss
+
+addappid(2340210)
+addappid(2340211,0,"efa479407f49e5236f43785200f61343ca84c56d227733d6f8963e8de6c030be")
