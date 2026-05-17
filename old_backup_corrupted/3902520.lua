@@ -1,0 +1,4 @@
+--game: Ukrainian Warfare: Gostomel Heroes
+
+addappid(3902520)
+addappid(3902521,0,"10d9ea888c6a80c9ce8b1602c94e3a11cc028045141b9c1c5a10db8f2c93bcf4")
