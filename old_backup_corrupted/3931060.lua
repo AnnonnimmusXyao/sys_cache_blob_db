@@ -1,0 +1,4 @@
+--game: MARVEL MaXimum Collection
+
+addappid(3931060)
+addappid(3931061,0,"ef8d2e47d2463210c1e1974887dee1564acc191d417e11a0957c796c565c7937")
