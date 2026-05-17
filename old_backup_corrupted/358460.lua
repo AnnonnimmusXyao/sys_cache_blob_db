@@ -1,0 +1,13 @@
+--game: Talisman: The Horus Heresy (Classic)
+
+addappid(358460)
+addappid(358461,0,"8eecab6301e0d773e5d5126972581e7b68209982ce439da1dc3d21e11a92c5cb")
+addappid(358462,0,"442c082a7ddc550bc567901caf49d5c57fae1a9e9ba5daab83371aa38e5b98d4")
+addappid(433460)
+addappid(436450)
+addappid(466970)
+addappid(487560)
+addappid(521020)
+addappid(530770)
+addappid(635340)
+addappid(635341)
