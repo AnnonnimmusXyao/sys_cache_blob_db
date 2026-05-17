@@ -1,0 +1,4 @@
+--game: Horsey Game
+
+addappid(3602570)
+addappid(3602571,0,"981ec53970d5867ed7ed6e4807a2aa04ee04ad58e0116b68e9d1fe5bb4951795")
