@@ -1,0 +1,4 @@
+--game: Goblin Vyke: The Thief Tycoon
+
+addappid(3794610)
+addappid(3794611,0,"16a6e2e09b7a3eab21f78850c640210ad507609f1e661af8d089dcc49eca8742")
