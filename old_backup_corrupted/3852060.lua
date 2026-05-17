@@ -1,0 +1,4 @@
+--game: Football Academy Manager
+
+addappid(3852060)
+addappid(3852061,0,"374972c2797e62962a791e7ffb29993055334058cc2cce213688c7426e90fc8f")
