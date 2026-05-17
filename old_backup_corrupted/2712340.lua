@@ -1,0 +1,4 @@
+--game: Hentai Tales: Succubus Utopia
+
+addappid(2712340)
+addappid(2712341,0,"92bc6de8c03aeafe38f0c6c378b506d71a0469f479bfb9972a82ceb78269e83f")
