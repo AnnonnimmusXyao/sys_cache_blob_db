@@ -1,0 +1,4 @@
+--game: Scriptorium: Master of Manuscripts
+
+addappid(3119540)
+addappid(3119541,0,"c7f0f70a7d8be1855702c81894f4eef3a0dd1a0e3426398f1462c785c54d42a2")
