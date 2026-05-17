@@ -1,0 +1,5 @@
+--game: Dyping Escape
+
+addappid(3406810)
+addappid(3406811,0,"76d5391cc661739a7e679758476164f183387071da7b55f2751bf2024f31f0ea")
+addappid(4489350)
