@@ -1,0 +1,4 @@
+--game: Hozy
+
+addappid(3326230)
+addappid(3326231,0,"f18e6e61bbba466e4f42d2c89e1eeacdd7b8b7431b642e32db491ebe514cc98c")
