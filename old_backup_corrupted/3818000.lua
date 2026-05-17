@@ -1,0 +1,4 @@
+--game: Guns and Nuns: Storming Hell
+
+addappid(3818000)
+addappid(3818001,0,"e4abb414e0a13a035d88a76c60fe8418c3c9b373e2e5adad24c0fc4032f48bac")
