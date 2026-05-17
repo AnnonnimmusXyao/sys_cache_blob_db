@@ -1,0 +1,4 @@
+--game: Legends of the Round Table
+
+addappid(2387040)
+addappid(2387041,0,"ec056ac533d34ac7605239ec97e839099afc950f8467d539b008d94cd9214fc0")
