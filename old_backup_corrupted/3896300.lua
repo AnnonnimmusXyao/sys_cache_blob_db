@@ -1,0 +1,5 @@
+--game: Toll Booth Simulator
+
+addappid(3896300)
+addappid(3896301,0,"2fd5062f0cec3adfec53548aa70d5986bdf372f400f85f7aa862b57caafdf038")
+addappid(4506650)
