@@ -1,0 +1,4 @@
+--game: DRACU-RIOT!
+
+addappid(1340140)
+addappid(1340141,0,"acb4de520f422632f5cecc9fdf4e471dd6ae4beeb4c14f64db1a4e7985bb65fc")
