@@ -1,0 +1,4 @@
+--game: Motion Soccer PRO
+
+addappid(3137350)
+addappid(3137351,0,"2bb669932b7cf25317e237bf24377236c0ec3d19f455e83e0b178d0d8ddd8e95")
