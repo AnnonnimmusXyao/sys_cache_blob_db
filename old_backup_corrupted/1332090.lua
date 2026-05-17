@@ -1,0 +1,4 @@
+--game: Void Tyrant
+
+addappid(1332090)
+addappid(1332091,0,"8e93e5a6ae1c1f8de2fb75a7407a0fca01ad95210557bf03655971de88c9453b")
