@@ -1,0 +1,4 @@
+--game: Country Inn, Sweet Lust
+
+addappid(4509020)
+addappid(4509021,0,"2a6dfacffd89967ff86d4252c709efeed057ee7cd1346f1cbcbeee01710c3483")
