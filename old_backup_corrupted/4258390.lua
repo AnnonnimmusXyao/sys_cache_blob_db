@@ -1,0 +1,4 @@
+--game: 厦日恋旅 Enjoy Amoy&Sisters
+
+addappid(4258390)
+addappid(4258391,0,"061515b86b287d5c422b2152b6f395a118b3043c6e974ebac1c7eb002d2786e7")
