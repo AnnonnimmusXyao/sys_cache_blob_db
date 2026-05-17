@@ -1,0 +1,5 @@
+--game: Disc Creatures
+
+addappid(1083190)
+addappid(1083191,0,"ec94f80096b562219635a1d2f368fc0c152172af384788aed96a6b878cf5d5f6")
+addappid(1083193,0,"e433e01a0b40d00ddfbc550feae6162ccee6914bfc44602289debfa6dd3224fb")
