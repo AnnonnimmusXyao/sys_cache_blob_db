@@ -1,0 +1,9 @@
+--game: Bomb Vehicle The Idle Clicker
+
+addappid(3376850)
+addappid(3376851,0,"f57959fbb03f93d0003e5886f276d1219007b5c309804b7513cf6bcf1fe9a928")
+addappid(3849440)
+addappid(4045800)
+addappid(4056980)
+addappid(4244010)
+addappid(4508170)
