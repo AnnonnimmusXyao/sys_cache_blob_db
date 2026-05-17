@@ -1,0 +1,4 @@
+--game: Hentai Aqua Lorelei
+
+addappid(3921320)
+addappid(3921321,0,"94e4c047e8c9df7bf1da0885c9df78ead8e2051a9ceb320783097952df27401f")
