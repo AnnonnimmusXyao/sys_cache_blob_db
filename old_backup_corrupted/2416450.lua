@@ -1,0 +1,5 @@
+--game: MOUSE: P.I. For Hire
+
+addappid(2416450)
+addappid(2416451,0,"c52f8369321c8357293962eacf7c7f416c2ea912c3d2640703880a12c964732a")
+addappid(3912890)
