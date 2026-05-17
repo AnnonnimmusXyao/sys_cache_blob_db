@@ -1,0 +1,4 @@
+--game: Cafe Business Manager
+
+addappid(4026480)
+addappid(4026481,0,"88a5cd641810cebf1b7d440abb9fbcbb677a99aeb9a018cecd520109c3d01d3a")
