@@ -1,0 +1,5 @@
+--game: Superstar Strategy
+
+addappid(1756730)
+addappid(1756733,0,"67b74f295344b2e3e5134781a61171809bacf65d822c8666eacf7d6c4a87c974")
+addappid(1756734,0,"cfdf46eec969f11faa2402af08e70721dfdfd91c738bfa7084f75c98cc270513")
