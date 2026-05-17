@@ -1,0 +1,4 @@
+--game: EXD - Extra Dimensional
+
+addappid(3962020)
+addappid(3962021,0,"78190f5930c805f8bc5b14a724ff065924c8a9ccac0eb55555604c6f80fbc1c9")
