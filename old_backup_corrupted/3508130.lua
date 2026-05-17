@@ -1,0 +1,4 @@
+--game: Beauty Salon Simulator VR
+
+addappid(3508130)
+addappid(3508131,0,"519b3e2873003ce5228f2313a6bb35fc4258d6cf4f91609616840986b799bd86")
