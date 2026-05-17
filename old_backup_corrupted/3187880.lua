@@ -1,0 +1,4 @@
+--game: The Fable: Manga Build Roguelike
+
+addappid(3187880)
+addappid(3187881,0,"617879a92e7eca03e2d1b184dfa59148c52b56577939515bf3095e625d68231f")
