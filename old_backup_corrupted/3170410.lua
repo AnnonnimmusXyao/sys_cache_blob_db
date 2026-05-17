@@ -1,0 +1,4 @@
+--game: Backyard Soccer '98
+
+addappid(3170410)
+addappid(3170411,0,"d1adbdad152f2967887ccf21e95fba41bed705afc107f47c40dc86b843db52ac")
