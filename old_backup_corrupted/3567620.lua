@@ -1,0 +1,4 @@
+--game: Heroines of Swords & Spells 2
+
+addappid(3567620)
+addappid(3567621,0,"e20c4f042ae2a58896d824efde8fedacbd4d285059cadf4be499c7208c0ae24f")
