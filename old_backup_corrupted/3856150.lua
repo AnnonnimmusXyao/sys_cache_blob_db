@@ -1,0 +1,4 @@
+--game: Hentai Tales: Slave App - Arrogant Sisters
+
+addappid(3856150)
+addappid(3856151,0,"bc9b6637bb2c9b2223cea4063b52ddf913f7338329430de9603debbeee658d81")
