@@ -1,0 +1,4 @@
+--game: Together: Moon Escape
+
+addappid(3744430)
+addappid(3744431,0,"b38f5da2a4b062624f91a54ec7b6bde5de2b23e5218c701c18f12ac21fa09125")
