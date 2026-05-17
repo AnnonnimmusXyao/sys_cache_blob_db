@@ -1,0 +1,4 @@
+--game: The Ghost’s Intimate Cure
+
+addappid(3987800)
+addappid(3987801,0,"50f3abf95f14dfef7d3e681f717a5b803f021fd711dd3df762e372fbf8806a9a")
