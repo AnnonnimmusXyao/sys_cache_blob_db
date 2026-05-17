@@ -1,0 +1,5 @@
+--game: Zero Stress King: Idle Defense
+
+addappid(4271160)
+addappid(4271161,0,"e38c6fa16240305be2aa7416c00ffc3b3d9a1786b94d53291b87119fcd05fa55")
+addappid(4456860)
