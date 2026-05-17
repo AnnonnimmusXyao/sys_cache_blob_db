@@ -1,0 +1,4 @@
+--game: Sacrifice
+
+addappid(4112790)
+addappid(4112792,0,"c71af7a4b5f60b404f2d1f66abff1334d0c4f44945b445420c796e5c06044dd0")
