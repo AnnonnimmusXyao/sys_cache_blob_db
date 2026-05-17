@@ -1,0 +1,4 @@
+--game: Tidehaven: Ale & Trade
+
+addappid(3691420)
+addappid(3691421,0,"9b35065f8d7836721ed983688596d58ef6b8019ed91f5b354b66dc1e0a750599")
