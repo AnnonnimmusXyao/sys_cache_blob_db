@@ -1,0 +1,4 @@
+--game: Zombie Deathrace Feeding Frenzy
+
+addappid(951780)
+addappid(951781,0,"389b703ce586f1b334623101ee78033d0e05f597c040567f5c240c96dbeaeca6")
