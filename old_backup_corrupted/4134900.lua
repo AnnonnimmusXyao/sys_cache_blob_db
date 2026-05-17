@@ -1,0 +1,5 @@
+--game: CuckTales 2 🐓
+
+addappid(4134900)
+addappid(4134901,0,"b056e3d833099cea11d158ab0a33d66af8d00b47087c84fbc28fccbc12dbf6d5")
+addappid(4489020)
