@@ -1,0 +1,6 @@
+--game: King's Heir: Rise to the Throne
+
+addappid(834390)
+addappid(834391,0,"f39061e38b851c824ad204dbb353d0b1cbd5e71388c35465aafa45a6eac42228")
+addappid(834392,0,"b73e59d31e43c052bf14ae9b0ffbab8601dcf0a2ecae908865c60de3df4e3ac5")
+addappid(834393,0,"c249f1782ce1639caf208f3b48008f694a54612bda944f22b70f3c8b088b415e")
