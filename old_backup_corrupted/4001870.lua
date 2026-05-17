@@ -1,0 +1,4 @@
+--game: Hentai Zarhuna
+
+addappid(4001870)
+addappid(4001871,0,"9de944eb491d66cc3f95d126cfddd7e23895d6004545fbef8fb0a48e1a58cb7b")
