@@ -1,0 +1,4 @@
+--game: Village Merchant
+
+addappid(4018170)
+addappid(4018171,0,"643da9f9f39814ce095343f8d806bfe34f88aaaa4817aa267c2afd2edbfbdf02")
