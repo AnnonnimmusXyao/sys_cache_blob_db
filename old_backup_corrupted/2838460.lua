@@ -1,0 +1,4 @@
+--game: ReThink 3.5
+
+addappid(2838460)
+addappid(2838461,0,"3a306a9824e9224f6f3f0b1fa9d606b0723c6074bf17d4dd6ab224d1947a7a86")
