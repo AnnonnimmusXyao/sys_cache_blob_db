@@ -1,0 +1,4 @@
+--game: Snap Game
+
+addappid(4280100)
+addappid(4280103,0,"898abb237613268f0bf00738d8ef3cff57f302491db580aea6d8a88d2561a61f")
