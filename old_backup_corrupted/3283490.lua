@@ -1,0 +1,4 @@
+--game: Hentai Tales: Strangers House 2
+
+addappid(3283490)
+addappid(3283491,0,"931f37662d19fdc2de6d3658fb9596f3a83b3d60fdc116e7c47b45fb121a0521")
