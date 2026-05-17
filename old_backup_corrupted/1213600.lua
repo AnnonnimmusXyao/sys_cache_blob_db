@@ -1,0 +1,4 @@
+--game: Peppered
+
+addappid(1213600)
+addappid(1213601,0,"9372c7c1e55946b7f5412e7cc0c74cd300c8fb914221fbdd3c5aa177cbce5ffe")
