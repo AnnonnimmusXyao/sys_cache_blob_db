@@ -1,0 +1,5 @@
+--game: Rex: Another Island
+
+addappid(699150)
+addappid(699151,0,"3e8c313e83b7ebdacb6fd4aa8588c0ba4bbdc825f795433a55d756a0e4bc2412")
+addappid(699152,0,"4b8d2ad90f010847048eea9d0bc765f34e48ecf82d7965b5193d0e42768d411d")
