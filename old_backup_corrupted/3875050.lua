@@ -1,0 +1,6 @@
+--game: MotoGP™26
+
+addappid(3875050)
+addappid(3875051,0,"864e2cf2bdbaeaa76e9ab4aa3a41c0b43f2ecdce4494b96756871e2c90541b74")
+addappid(4332650)
+addappid(4332660)
