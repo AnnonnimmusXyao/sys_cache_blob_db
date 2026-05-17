@@ -1,0 +1,4 @@
+--game: Ride The Dragon: The Awakening of the Dragon Tamer
+
+addappid(3218160)
+addappid(3218161,0,"17511cfe974ebc3150d4d2caf7cfccd3c497bfdc04b824160b3df97bd6ff931e")
