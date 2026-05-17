@@ -1,0 +1,4 @@
+--game: Backyard Football '99
+
+addappid(3170570)
+addappid(3170571,0,"314d90e764f51b2303c4ddf93ca8c7aa7590ec8e920b192b4a87e45057c6cff0")
