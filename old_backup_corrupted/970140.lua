@@ -1,0 +1,4 @@
+--game: Reynard
+
+addappid(970140)
+addappid(970141,0,"dafea0034e423af1aa923f0ba39042cb0123ea11f777d700260b3a533dc1f288")
