@@ -1,0 +1,4 @@
+--game: EMBERZONE
+
+addappid(1362460)
+addappid(1362461,0,"1af2832affc471b208e3a294282df4061cc066eb103014df9f65a8281b832367")
