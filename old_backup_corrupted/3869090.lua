@@ -1,0 +1,4 @@
+--game: Beta Kafe : Write Your Love Story
+
+addappid(3869090)
+addappid(3869091,0,"4ac3fcecdc427ea5b5c7328e3eb41fe80b6b867c98c637ea5dab87d1523f1469")
