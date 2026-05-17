@@ -1,0 +1,4 @@
+--game: Rock-Hard Rehab: How to Survive a Hospital Harem
+
+addappid(4186090)
+addappid(4186091,0,"02bf382181f1adcb3d020d6b028dd658a6f6b7c596627bb3fcf123ff68368f49")
