@@ -1,0 +1,4 @@
+--game: Beer Manufacture Simulator
+
+addappid(3809410)
+addappid(3809411,0,"7886194daa15cd6fff3e31aafb99d4f0b340c520d46ee298c01c914c2975af43")
