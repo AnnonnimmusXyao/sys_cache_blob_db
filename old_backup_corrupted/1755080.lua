@@ -1,0 +1,4 @@
+--game: Away From Life
+
+addappid(1755080)
+addappid(1755081,0,"79c84849a1a81fa593c55422ad86e6312f057be50635ccb9fb8ddbe88ac5a300")
