@@ -1,0 +1,4 @@
+--game: Untamed Kingdom
+
+addappid(2481980)
+addappid(2481981,0,"ba94f17cb6279bcffc425a68ffb0056c55ab46e9d0ae6644dfb389bc591c0097")
