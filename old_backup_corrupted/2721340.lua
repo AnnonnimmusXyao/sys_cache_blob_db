@@ -1,0 +1,5 @@
+--game: Last Flag
+
+addappid(2721340)
+addappid(2721341,0,"80a8ff5f2a55eabfc974f7277468b02c74a0824ac626196709dc2077ca6b55e1")
+addappid(4323640)
