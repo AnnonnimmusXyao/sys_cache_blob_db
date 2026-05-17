@@ -1,0 +1,4 @@
+--game: Chipmatic
+
+addappid(3780950)
+addappid(3780951,0,"b95dc482fd38c978aedd3ed86094725cdd027e5731d479e1c2d25856c616c900")
