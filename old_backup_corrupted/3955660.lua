@@ -1,0 +1,4 @@
+--game: Dangerous Mountain Together
+
+addappid(3955660)
+addappid(3955661,0,"ee67c0698452a7e6fb953f116af3a390f8a28957b67d845bb3bb606cad611d50")
