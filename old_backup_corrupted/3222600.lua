@@ -1,0 +1,4 @@
+--game: Hentai Tales: The Backrooms
+
+addappid(3222600)
+addappid(3222601,0,"138f91d0b7d6c7f22cf1b1e0ca245c54b1940da90f61c2ab961999d01fcf1712")
