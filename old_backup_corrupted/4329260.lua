@@ -1,0 +1,4 @@
+--game: Substance 3D Painter 2026
+
+addappid(4329260)
+addappid(4329262,0,"cc202c619a64946a9e0c429e354df3ed9584bfd49b434099f84bd614d11fb0bb")
