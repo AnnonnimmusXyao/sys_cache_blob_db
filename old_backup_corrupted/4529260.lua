@@ -1,0 +1,4 @@
+--game: Infinite Dungeon: Idle Adventure
+
+addappid(4529260)
+addappid(4529261,0,"91854ed4de15f9917a4744659fda72bd43b49f8325ce3fe6f7372f5ba0519263")
