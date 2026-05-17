@@ -1,0 +1,4 @@
+--game: Holo Hidden - My Lovely Fans Can't Be This Hidden
+
+addappid(3904810)
+addappid(3904811,0,"a556505c02d2214bcfe55201779a62b369ed4d4f585511d1b07f2bf151ce864c")
