@@ -1,0 +1,4 @@
+--game: Workshop Simulator VR
+
+addappid(2655120)
+addappid(2655121,0,"8ff88078030f1edd35df8ce31e96a058d3c2108f8a49bb5b13493b00bb5032ef")
