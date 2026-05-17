@@ -1,0 +1,4 @@
+--game: 宁静之海
+
+addappid(3655990)
+addappid(3655991,0,"5b0edf73003450bb1d2a8e7d1a5cf7dc4d7c306cfced093aaa83c61ff7dc97be")
