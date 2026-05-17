@@ -1,0 +1,4 @@
+--game: Elton Manor: Requiem of the Cursed Roses
+
+addappid(3436130)
+addappid(3436131,0,"2d415e8ebba7a0bd44ab710dcd995210b658ebcc36422364d4b8029d74031d81")
