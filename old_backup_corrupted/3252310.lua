@@ -1,0 +1,4 @@
+--game: Comet Rogue
+
+addappid(3252310)
+addappid(3252311,0,"f27a839c17c518f337bea793291c8a2a0af155732f317d92b38f075f37c78743")
