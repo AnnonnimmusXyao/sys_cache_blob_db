@@ -1,0 +1,4 @@
+--game: Legacy of Kain: Ascendance
+
+addappid(4233530)
+addappid(4233531,0,"008c0b521fa36e5b3a8286aa67b74b1ca8a485345adbf01a17ab34da1a2ea8a5")
