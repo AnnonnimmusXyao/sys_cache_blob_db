@@ -1,0 +1,4 @@
+--game: Hentai Isekai: The Sex Curse
+
+addappid(4159380)
+addappid(4159381,0,"4f02d8ad8f5446240822ca3e959a5cdac27b17bcf79e52d008542217eb10b73b")
