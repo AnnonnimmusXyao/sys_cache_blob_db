@@ -1,0 +1,5 @@
+--game: Isekai Revitalizer
+
+addappid(3466660)
+addappid(3466661,0,"b3dcdf7713b44d8c6906cdd90172db820c1e012a5c171d9483d240683941f845")
+addappid(3466662,0,"385f496c798ec4e733a9afd697db9895d05a1d5eff933e375eafce3f5fac446d")
