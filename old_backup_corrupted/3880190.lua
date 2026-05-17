@@ -1,0 +1,4 @@
+--game: Coconut Simulator 2
+
+addappid(3880190)
+addappid(3880191,0,"473a001709f0d5c04910c015a299a5de0448082abe79469efe6b6a68d0de38d3")
