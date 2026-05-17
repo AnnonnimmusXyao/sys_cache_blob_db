@@ -1,0 +1,4 @@
+--game: AICOMI
+
+addappid(4416880)
+addappid(4416881,0,"072c827512f8a7606854adf00efba6adc7b36832e46fe46edfa31047f7a941fc")
