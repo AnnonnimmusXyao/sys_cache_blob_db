@@ -1,0 +1,4 @@
+--game: Hentai Tales: Cheating Family
+
+addappid(3478440)
+addappid(3478441,0,"39496d2565bc26fe2047f88d1547502043a4e58ff0bbe30024d3bb086b9c4d5d")
