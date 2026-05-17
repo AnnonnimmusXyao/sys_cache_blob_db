@@ -1,0 +1,12 @@
+--game: Yunyun Syndrome!? Rhythm Psychosis
+
+addappid(2914150)
+addappid(2914151,0,"b1591193815ae73a16edda181a76e82de4c309d8390cd9845dc4d3234828cd4f")
+addappid(2914152,0,"895ab86b71bd36d16aa55f77398958dfd8d65887bb77a013ebb5510e959683db")
+addappid(4535490)
+addappid(4535510)
+addappid(4535520)
+addappid(4535530)
+addappid(4535540)
+addappid(4535570,0,"42c1266aeecdd79fa0701b6661f0dbb4271cc21cf24bdbcd8dce2a0308edacc7")
+addappid(4593360)
