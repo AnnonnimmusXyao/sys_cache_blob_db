@@ -1,0 +1,4 @@
+--game: Looking for Heals
+
+addappid(1037750)
+addappid(1037751,0,"3481216eb5ad7c8ca3a7bc6e3b137ce50859e7af0d01afbe0d0b6cd64aa3db77")
