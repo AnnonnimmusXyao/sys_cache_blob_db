@@ -1,0 +1,4 @@
+--game: Cult Nation
+
+addappid(3897540)
+addappid(3897541,0,"1c1c04e8dee5f926e65728f37ff0df253980695952705fc5edcf2947f5fc34bc")
