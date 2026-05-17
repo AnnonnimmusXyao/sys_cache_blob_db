@@ -1,0 +1,4 @@
+--game: Alone With my StepSister
+
+addappid(3940480)
+addappid(3940481,0,"6f06a6b2f81229dfcf2d2a4b4685f4677c2baae2254cd9e15b9bd3978c6ec000")
