@@ -1,0 +1,4 @@
+--game: Morbid Metal
+
+addappid(1866130)
+addappid(1866131,0,"9a7af3314bcdbbdffc8786b07b14c52230f77ae27ddc1479f060fca1b6c96d7f")
