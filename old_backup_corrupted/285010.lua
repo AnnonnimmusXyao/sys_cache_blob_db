@@ -1,0 +1,4 @@
+--game: Pixel Puzzles: UndeadZ
+
+addappid(285010)
+addappid(285011,0,"64165220e432a967ec2b3e1e8f56b758b06768caaea15cd4f7dff39126d69d80")
