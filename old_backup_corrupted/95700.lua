@@ -1,0 +1,5 @@
+--game: The Cat and the Coup
+
+addappid(95700)
+addappid(95701,0,"aa1869a29cf1e45aa32b9b891047f7a85148c6202883d3d72afff8034cc8dd1b")
+addappid(95702,0,"fe15de6fde0fd2096090c70c17ede2e4b46fb978f0c11a2c7a5fb09a24ec4580")
