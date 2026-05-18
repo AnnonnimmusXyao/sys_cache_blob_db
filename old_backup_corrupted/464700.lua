@@ -1,0 +1,4 @@
+--game: Maui
+
+addappid(464700)
+addappid(464701,0,"6bb98c6d5081cac1927f3e01fd268701f6738feb25f5c08a69bfc3877eb10997")
