@@ -1,0 +1,4 @@
+--game: Project Eagle: A 3D Interactive Mars Base
+
+addappid(224000)
+addappid(224001,0,"3831333cda864650ad7e88948c026d8f13db04598cda9b3cb5a514cbbf56df73")
