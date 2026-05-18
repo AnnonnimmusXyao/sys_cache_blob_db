@@ -1,0 +1,4 @@
+--game: Monsterland
+
+addappid(406920)
+addappid(406921,0,"45d252356a0f0b3af515072586ac4001243747802c0db777e8b6bd419a7d98d6")
