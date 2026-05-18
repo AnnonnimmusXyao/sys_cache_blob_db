@@ -1,0 +1,4 @@
+--game: Wildcard
+
+addappid(497120)
+addappid(497121,0,"3cc7cc3aa9e41c54120ee9c8ee34c739a9cb202da176787ca503f6fe9832c525")
