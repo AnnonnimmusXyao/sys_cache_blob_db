@@ -1,0 +1,4 @@
+--game: GunZ 2: The Second Duel
+
+addappid(242720)
+addappid(242721,0,"60a6cfe38874b1357510233685d5997724f731e76d8e439072bb4b80464371b9")
