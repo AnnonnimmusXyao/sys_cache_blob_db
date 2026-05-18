@@ -1,0 +1,6 @@
+--game: Clown House (Palyaço Evi)
+
+addappid(387970)
+addappid(387971,0,"a78d18cd35a250f95ef5761fe190e4d92a9c078769da0c0769d5ae3c4342f113")
+addappid(387972,0,"8d9cc7865ef4d9fa8cc1d890f42bf1a5e7c7e38cedd02d563ac4fdb5cccb34ab")
+addappid(387973,0,"a9535eb1986d07a9f0676b38f77869a04b9617d639cc3eaa2f4d9359a9fb42b8")
