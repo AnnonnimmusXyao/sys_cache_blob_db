@@ -1,0 +1,4 @@
+--game: 18 Wheels of Steel: Convoy
+
+addappid(514170)
+addappid(514171,0,"5bbdee49c8312fb81e49596f419285b91b7399cbe444132865e44dc9e991fac3")
