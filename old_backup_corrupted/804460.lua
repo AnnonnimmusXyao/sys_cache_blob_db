@@ -1,0 +1,4 @@
+--game: LAST WAR 2044
+
+addappid(804460)
+addappid(804461,0,"71352dd86aed88395c1846691ab95d12a0f641ea0dfe75d774f49dc015806d5d")
