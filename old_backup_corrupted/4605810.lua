@@ -1,0 +1,5 @@
+--game: Waifu Cam Girl - NSFW Hentai Clicker
+
+addappid(4605810)
+addappid(4605811,0,"b9ca4e0d6cf16bcec2aa7ee955c1721c414a148e16e908fa089aa694121cbcf3")
+addappid(4618960)
