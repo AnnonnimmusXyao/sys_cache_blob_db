@@ -1,0 +1,4 @@
+--game: Pick a Hero
+
+addappid(485620)
+addappid(485621,0,"0587b06682893a10ed257bf4410c02c2923ed5ba1b024efdcb107330b919ac4d")
