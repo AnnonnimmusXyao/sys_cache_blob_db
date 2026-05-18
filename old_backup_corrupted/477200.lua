@@ -1,0 +1,7 @@
+--game: Descent: Road to Legend
+
+addappid(477200)
+addappid(477201,0,"860893df947cb5d424e0bf08e287f33d47f9090e6fc47b2d9bd2803387cc91c2")
+addappid(477202,0,"4c816424ae43fb28cf3e35867698c9a114df713cc3f21346241a4145bb388c1d")
+addappid(525550)
+addappid(712330)
