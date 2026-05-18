@@ -1,0 +1,4 @@
+--game: Card Games Mega Collection
+
+addappid(843870)
+addappid(843871,0,"4537d32f3d20d2839c27edf69a1616e5358cec7e06287d82659cc1349bf0818e")
