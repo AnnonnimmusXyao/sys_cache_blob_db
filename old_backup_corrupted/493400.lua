@@ -1,0 +1,4 @@
+--game: Funfair
+
+addappid(493400)
+addappid(493401,0,"9ba3c3609d7912f0dfab2e7f956c63d86be31606cfcd08cf6645d7c5414287f2")
