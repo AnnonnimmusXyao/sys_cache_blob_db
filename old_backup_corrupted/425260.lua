@@ -1,0 +1,6 @@
+--game: Soul Harvest
+
+addappid(425260)
+addappid(425261,0,"affb33eb059edddc4075c112e889b67a6b81c201ff5f45d7b191eaf885884e44")
+addappid(425262,0,"e9df3ce2d54262bc3800c2bded83ae2cb91de0d44d847a2787adc6a457736bf8")
+addappid(425263,0,"759c6d324e0bebcf2b864ec1a2356a3a4fdbb22b063ca0f3ed510cacb1a464eb")
