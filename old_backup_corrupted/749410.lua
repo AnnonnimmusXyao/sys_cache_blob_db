@@ -1,0 +1,4 @@
+--game: Season's Beatings
+
+addappid(749410)
+addappid(749411,0,"78da8a4abab8f77b67ef7798072076c56ac313d3a5bc962c51980232a78a4104")
