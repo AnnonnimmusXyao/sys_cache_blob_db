@@ -1,0 +1,4 @@
+--game: Gnomes & Goblins (preview)
+
+addappid(490840)
+addappid(490841,0,"bf88f9423f92e8ebd6d732053fc16cc08920e18ceebfe4d9400577e7d5ba47cf")
