@@ -1,0 +1,4 @@
+--game: DERU - The Art of Cooperation
+
+addappid(632250)
+addappid(632251,0,"a04f8b7ad9f51407b0267952a0f406d3c76a8a17a2d32643c5317f1ae127d3af")
