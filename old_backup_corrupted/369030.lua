@@ -1,0 +1,4 @@
+--game: Vinyl
+
+addappid(369030)
+addappid(369031,0,"e1b278ceae61d01aa1aea09ddd95cd7ce7f556a28c7df322e91881f1eaf7484a")
