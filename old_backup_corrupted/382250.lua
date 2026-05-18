@@ -1,0 +1,4 @@
+--game: Lightrise™
+
+addappid(382250)
+addappid(382251,0,"ea0e5723e7acbd94d56f4a7830ded7b21820963574bc2dc73328e8fd0d7f75b0")
