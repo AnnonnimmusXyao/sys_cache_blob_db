@@ -1,0 +1,5 @@
+--game: War of Beach
+
+addappid(398840)
+addappid(398842,0,"962d7ffcf19b34b613a881a229a0d9e5aa7d3c4d3c029278610847d31eeb3d80")
+addappid(398843,0,"f558d858cedb17c993898e2bbca1a77d4cda48027be74a5bcd86dae3dd9c3a4b")
