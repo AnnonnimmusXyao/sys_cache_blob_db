@@ -1,0 +1,4 @@
+--game: Kamio Recoil
+
+addappid(557420)
+addappid(557421,0,"ba71171bd52622f624353f20da2c1a05f31db6a4fdae8320be8a9813d0b6453e")
