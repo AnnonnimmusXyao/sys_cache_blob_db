@@ -1,0 +1,6 @@
+--game: Fantasy Tales Online
+
+addappid(442710)
+addappid(442711,0,"88addb6cf4d4948adc930fdd0b0356831c30f2461972ff7ca08177dc76fade6b")
+addappid(442712,0,"23d936b72ddfe709cb4dc090ba738d9ced74f8513a7fdf189357efd349ca5165")
+addappid(458100)
