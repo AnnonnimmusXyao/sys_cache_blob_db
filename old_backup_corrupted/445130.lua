@@ -1,0 +1,4 @@
+--game: The Average Everyday Adventures of Samantha Browne
+
+addappid(445130)
+addappid(445131,0,"db7cb95e20da128939c9a834e03ecd463f883c1b37bf67a92a3cb66e3bf52141")
