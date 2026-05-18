@@ -1,0 +1,5 @@
+--game: Fallen Earth Classic
+
+addappid(113404)
+addappid(113420)
+addappid(113422,0,"ca281455f4b3a1f3bdc9b233736ea84bc842e1bdd4102075dee8a2015d796504")
