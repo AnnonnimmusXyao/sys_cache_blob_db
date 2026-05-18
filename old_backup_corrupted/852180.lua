@@ -1,0 +1,4 @@
+--game: Bunker Rush
+
+addappid(852180)
+addappid(852181,0,"ff1a04eb98e859890eb8a2b8500317de959572429f2056307471d2af749bc8d0")
