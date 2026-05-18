@@ -1,0 +1,5 @@
+--game: 90 Minute Fever - Online Football (Soccer) Manager
+
+addappid(468070)
+addappid(468072,0,"bc9faf1db3dfd34f17b6a15d26b73602d4b4cbbfc5b034a27012ee721add1176")
+addappid(468073,0,"ba86c8af63f0671e749ae54a9ecbf8310c2fe8c9df5b97554395645d1b962bac")
