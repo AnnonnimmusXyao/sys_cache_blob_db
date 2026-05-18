@@ -1,0 +1,6 @@
+--game: Super Blue Fighter
+
+addappid(463180)
+addappid(463181,0,"7e0e07ba25dc92d4b312c4ed26bf4eac6c3f7ab3b64c5461b188e7d92c6c15f3")
+addappid(463182,0,"3e8c4555ff1831016528c5b1b52b05d8e57c23189a455da09e42a85a5ec33a2e")
+addappid(463183,0,"fa2c25cb593f56f4fa3c5c849df19bfc5187d6d49dcc7abe9ca6031e6b965cb2")
