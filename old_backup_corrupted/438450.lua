@@ -1,0 +1,4 @@
+--game: 3DF Zephyr Lite Steam Edition
+
+addappid(438450)
+addappid(438451,0,"0e6b4b8cc406118a21961759a677fd09fd2a7bb13a42bb818906eaa2e35f7830")
