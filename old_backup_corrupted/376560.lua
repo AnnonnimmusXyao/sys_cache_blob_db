@@ -1,0 +1,4 @@
+--game: Big Fish Legend
+
+addappid(376560)
+addappid(376561,0,"eb920f280dd790bd1ecefa9ca206a46d855dae5428683d2be0c0e85e2185ed07")
