@@ -1,0 +1,5 @@
+--game: Epic battles within 5 seconds!
+
+addappid(440740)
+addappid(440741,0,"7cb624443f1acb1ea4f0218ba031a96c40c5b282b2885cebc9db0a7ccd87a58e")
+addappid(440743,0,"ef73c57c6cc500413f03a6737c98c28171819f9bf234856c2b500552fd5f1aa4")
