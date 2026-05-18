@@ -1,0 +1,4 @@
+--game: Hired Ops
+
+addappid(374280)
+addappid(374281,0,"de825b23989b1897cfd828636c8ff9b22e721ce35718126b2e934cfd5d3fc0c8")
