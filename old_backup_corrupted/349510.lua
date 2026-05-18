@@ -1,0 +1,5 @@
+--game: Hanako: Honor & Blade
+
+addappid(349510)
+addappid(349511,0,"ff08394eab2db3da6dd42913355bfbf3cbad5455966344faf4a37db9d88d03cb")
+addappid(1714220)
