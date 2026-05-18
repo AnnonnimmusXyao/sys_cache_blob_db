@@ -1,0 +1,5 @@
+--game: Emporea: Realms of War and Magic
+
+addappid(416450)
+addappid(416451,0,"458323af1ad93cb171a010e96111abb84080d2a90b3973dc9e3c9b844b1d9039")
+addappid(416452,0,"16a05c2152f79ebed6114dd8733de835aa34bf4ec99fe70b85ee988b861db954")
