@@ -1,0 +1,4 @@
+--game: Imperia Online
+
+addappid(424780)
+addappid(424781,0,"3456d6774f57423d0f4a60e725afb6d3c2cf2d42145f7723f2d254a2d82e5e31")
