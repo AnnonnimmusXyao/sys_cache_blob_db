@@ -1,0 +1,4 @@
+--game: Cat Simulator
+
+addappid(393390)
+addappid(393391,0,"0a6d0d43c9c61970f3fb2fdc21034bbe0855dce5795b7dbd97f9e82f0f88475c")
