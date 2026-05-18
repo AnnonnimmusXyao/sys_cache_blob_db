@@ -1,0 +1,4 @@
+--game: Spell Fighter VR
+
+addappid(455440)
+addappid(455441,0,"51b05e5547b3ab7d3f0e6fa9f1892cf9f32e9cc2d5fb89e73ff759ce60158395")
