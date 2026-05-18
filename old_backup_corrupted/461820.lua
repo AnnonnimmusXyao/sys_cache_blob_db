@@ -1,0 +1,4 @@
+--game: Legionwood 1: Tale of the Two Swords
+
+addappid(461820)
+addappid(461821,0,"fcc6fd418b96306c64dec12bb06293ff441bde47639a201e7748afeb0a9571c1")
