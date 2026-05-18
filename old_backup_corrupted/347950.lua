@@ -1,0 +1,4 @@
+--game: Palace of Cards
+
+addappid(347950)
+addappid(347951,0,"b4186cb9506d7ff7e97a2f003ead1c896213ec1451436373ca529958581de1dc")
