@@ -1,0 +1,4 @@
+--game: SightLineVR
+
+addappid(412360)
+addappid(412361,0,"9a8fa359f437887a9392a6a981a252529d75bf31d308d434f0eade592fec1f1c")
