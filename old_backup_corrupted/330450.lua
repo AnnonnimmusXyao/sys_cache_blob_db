@@ -1,0 +1,5 @@
+--game: Runes of Brennos
+
+addappid(330450)
+addappid(330451,0,"8ef4dacec5be8b5e83b45c4a0dc16e86689b74156330bcd44fffc563457129f0")
+addappid(330452,0,"8416d2350469f73bf8db72992e3c2eb1088e68ef12d94355bed9380b61499d0d")
