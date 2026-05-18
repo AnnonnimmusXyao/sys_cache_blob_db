@@ -1,0 +1,4 @@
+--game: Fenrisulfr Puzzle
+
+addappid(451360)
+addappid(451361,0,"33ab488618763c135d8192513a5ee5d96aff3d9d8cd8f7600768723b931c4044")
