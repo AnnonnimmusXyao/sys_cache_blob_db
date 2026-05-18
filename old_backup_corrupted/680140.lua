@@ -1,0 +1,4 @@
+--game: Tetsoidea Eternal
+
+addappid(680140)
+addappid(680141,0,"69a510af475ad078e2eae6c1a9f74fc6eb0ef4f384b1555cf173538058fc1a84")
