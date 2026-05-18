@@ -1,0 +1,6 @@
+--game: Infinitrap Classic: Ohio Jack and The Cup Of Eternity
+
+addappid(412230)
+addappid(412231,0,"9ccc09b253e8ecd1b3cbc7b5055f5e07ac789e9366de50300b6bc773e2670c6c")
+addappid(412232,0,"cefd0f897f164e2e83014c9b2f2c50a29b35daed60ddd10ec010bf64db1c1e2b")
+addappid(412233,0,"9ecb5fe0340ad660a62324b7c67f2e374dcf6267f1cf76ebfceb41cddb773ff6")
