@@ -1,0 +1,5 @@
+--game: Hide and Shriek
+
+addappid(480430)
+addappid(480431,0,"99b1201e7473625cc2b570bf7937d6f58350179d9f3feb9033e08488baba5242")
+addappid(729850)
