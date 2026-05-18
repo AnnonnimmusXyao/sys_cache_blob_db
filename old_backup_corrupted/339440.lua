@@ -1,0 +1,6 @@
+--game: Critical Annihilation
+
+addappid(339440)
+addappid(339441,0,"0e2cb6b304e4a147b4e11cb97308a6935827d9b89fa35f5c1f96d6d98e1dd517")
+addappid(339442,0,"af02a3a0de7a1fa722485d31b4b2d6eedb41f83f3bbe3175ca6ee21e322dca2b")
+addappid(339443,0,"b356de8a7b5ddf8cf53f90bba295e2f8de46a9466f070f982fc000a1ef36ab57")
