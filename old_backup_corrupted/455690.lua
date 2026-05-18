@@ -1,0 +1,4 @@
+--game: Pixel Puzzles Junior Jigsaw
+
+addappid(455690)
+addappid(455691,0,"d953ff5855407793424af518482ff096ee6aa94c1e43a515e11e4298b9fbd000")
