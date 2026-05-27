@@ -1,0 +1,6 @@
+--game: Mabinogi
+
+addappid(212200)
+addappid(212201,0,"a18ac0318ad0eff5c9052bb8e32d8d54757ddac953c7d10186934b3c36427ba3")
+addappid(212210)
+addappid(212211)
