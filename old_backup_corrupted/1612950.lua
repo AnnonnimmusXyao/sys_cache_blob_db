@@ -1,0 +1,4 @@
+--game: Comic Company Manager
+
+addappid(1612950)
+addappid(1612951,0,"13212a4b6bd40e12bf2849bf15f3370ea95faa9d8c03623c2cd32e76eaab67e2")
