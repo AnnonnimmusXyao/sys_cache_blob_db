@@ -1,0 +1,4 @@
+--game: Fortune Mill
+
+addappid(4731620)
+addappid(4731621,0,"978b2c28748a6230e06184bdf0f1ba24eacbcf10c6ae1de8a88495c9e94b6370")
