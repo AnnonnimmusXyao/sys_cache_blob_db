@@ -1,4 +1,4 @@
---game: 湛藍牢籠 Rail of Möbius
+--game: 湛藍牢籠Rail of Möbius
 
 addappid(1479500)
 addappid(1479501,0,"543c4c39a7b4ef48da04182d604376099a9a5944fe460115be6245a4cc627905")
