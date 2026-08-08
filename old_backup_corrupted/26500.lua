@@ -1,4 +1,4 @@
---game: Generated
+--game: Cogs
 
 addappid(26500)
 addappid(26501,0,"a44e54cd53463e7f88a8cba6786f05174f2b940d2df3daa031f838f91642ead6")
