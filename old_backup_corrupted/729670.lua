@@ -1,6 +1,5 @@
---game: LSD Dream Emulator: Vaporwave (Wanderlust)
+--game: Wanderlust
 
-addappid(729670)
 addappid(228981)
 addappid(228982)
 addappid(228983)
@@ -21,6 +20,7 @@ addappid(229030)
 addappid(229031)
 addappid(229032)
 addappid(229033)
+addappid(729670)
 addappid(729671,0,"1112575e30a2350aa679bb2a6ec3198f748098bb01b31c8ba085c6ebc357b567")
 addappid(729672,0,"ddbdc93965243424503c905af417aac2b2e23a7e0fa7d7ccddbac742d8182d08")
 addappid(729673,0,"c3adebb1d5210d406ca8d72b9ae59e73cbb907a6d35a31be96efe03fe96cd537")
