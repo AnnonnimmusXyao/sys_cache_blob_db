@@ -1,4 +1,4 @@
---game: Generated
+--game: Warlock 2: The Exiled
 
 addappid(205990)
 addappid(205991,0,"a6bad1234e2395d62a09603df3573a1648e4871bfe6f688d14cab5d4a41f56fb")
