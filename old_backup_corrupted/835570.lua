@@ -1,7 +1,5 @@
 --game: Conqueror's Blade
 
-addappid(835570)
-addappid(835571,0,"f2597d3fb3b84945af5479bcdc98ba0c2c5a4c3494c2c4ec31f43668ddcc62df")
 addappid(1747380)
 addappid(1777450)
 addappid(1809460)
@@ -31,3 +29,5 @@ addappid(3380000)
 addappid(3642310)
 addappid(3642320)
 addappid(3642340)
+addappid(835570)
+addappid(835571,0,"f2597d3fb3b84945af5479bcdc98ba0c2c5a4c3494c2c4ec31f43668ddcc62df")
