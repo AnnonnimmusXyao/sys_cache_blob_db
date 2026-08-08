@@ -1,4 +1,4 @@
---game: Generated
+--game: Sleeping Dogs
 
 addappid(202170)
 addappid(202171,0,"0db9eaa6b772f6492e865bbe409b2c92e7e600184fc4d8123b57d35047382c36")
