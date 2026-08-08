@@ -1,4 +1,4 @@
---game: Worms Revolution
+--game: Generated
 
 addappid(200170)
 addappid(200171,0,"fdc6d3ea6dd138cc576eecf36faa9369397a6689f4db4f81c1a130741ba983f9")
