@@ -1,4 +1,4 @@
---game: Paquerette Down the Bunburrows
+--game: Pâquerette Down the Bunburrows
 
 addappid(1628610)
 addappid(1628611,0,"3841bd6682378b0850ebd555fd0a481b8dcda235ae96ba2c0031fa080a76b56e")
