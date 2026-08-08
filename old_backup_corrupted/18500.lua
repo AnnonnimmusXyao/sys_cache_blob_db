@@ -1,4 +1,4 @@
---game: Generated
+--game: Defense Grid: The Awakening
 
 addappid(18500)
 addappid(18501,0,"7c2cadf7c667fad53456d68f81ef56d470bc331038e8560f7c5b5112bd84f089")
