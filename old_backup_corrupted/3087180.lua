@@ -1,4 +1,4 @@
---game: Stellar Dream - Part 1
+--game: Stellar Dream
 
 addappid(3087180)
 addappid(3087181,0,"d059a3b9b32064e54128fd4fc4bdfc015d1c23769566611c60a1916bc5548ba6")
