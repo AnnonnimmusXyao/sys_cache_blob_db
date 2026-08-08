@@ -1,4 +1,4 @@
---game: Masters of the World - Geopolitical Simulator 3
+--game: Masters of the World
 
 addappid(268890)
 addappid(268891,0,"b507a97370bb0c268e6fbf4af93979255282661cfdb4df3b0adb93a3fa885783")
