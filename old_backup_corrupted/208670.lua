@@ -1,4 +1,4 @@
---game: Generated
+--game: Blades of Time
 
 addappid(208670)
 addappid(208671,0,"78bea053d56238ec09fb5a2bfa991e52b2300a1099a0bc0f15a3bca4e2b36988")
