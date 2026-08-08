@@ -1,7 +1,7 @@
 --game: Dragon's Dogma: Dark Arisen
 
-addappid(367500)
 addappid(228983)
+addappid(367500)
 addappid(367501,0,"0ae14ef32d76a0870549aa50a0769e8db7acb8020b1cda0aee22705bc110435c")
 addappid(367502,0,"54904d1d1b1144d05c70fe0c89745b67140761167f27460a3dfba0ff75b1b4dc")
 addappid(367503,0,"5a5af31c2d17ab925a73d4bd4347d33551bab3a95c319eab08986dc8ff600c0f")
