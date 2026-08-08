@@ -1,4 +1,4 @@
---game: One Piece Pirate Warriors 3
+--game: ONE PIECE PIRATE WARRIORS 3
 
 addappid(331600)
 addappid(331601,0,"a4e8977b01d0724041633b7a8e5b366e42667f7061b9c174b11a6c2f410da593")
