@@ -1,4 +1,4 @@
---game: Generated
+--game: Fallout: New Vegas
 
 addappid(204470,0,"6a2bb601e0713b93badcd3373ba0a0b2432e78ddcc27334f330004f4f5f36015")
 addappid(204471,0,"f54addeec3733471c296efa3bfb91a9a2f987d2c2a275fee2447a23b62fe4d4e")
