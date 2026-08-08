@@ -1,4 +1,4 @@
---game: Generated
+--game: Deponia
 
 addappid(214340)
 addappid(214341,0,"c1e5680c3aabd510b1e926d2856e7de33eec5a662753bcff794a8bb91e10073c")
