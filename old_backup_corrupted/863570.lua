@@ -1,4 +1,4 @@
---game: Super Seducer 2 - Advanced Seduction Tactics
+--game: Super Seducer 2 : Advanced Seduction Tactics
 
 addappid(863570)
 addappid(863571,0,"fb2d93c02635569ff2bf7ef5b07f3dbdba2bcd6cd066d7e2fc50577cb106e82e")
