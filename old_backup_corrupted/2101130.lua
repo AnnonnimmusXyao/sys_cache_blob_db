@@ -1,4 +1,4 @@
---game: 狂気より愛をこめて
+--game: From Madness with Love
 
 addappid(2101130)
 addappid(2101131,0,"4193b4f89374021d95bd9e28827616aeeda9d90ac1d731777bd1a14c364456a9")
