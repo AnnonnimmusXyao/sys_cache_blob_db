@@ -1,4 +1,4 @@
---game: Shuyan Saga™
+--game: Shuyan Saga
 
 addappid(594680)
 addappid(594681,0,"8a60d642150870462b5cdeadce51541531564fbab1eb85756b160e2870483cee")
