@@ -1,4 +1,4 @@
---game: Generated
+--game: Pride of Nations
 
 addappid(73190)
 addappid(73191,0,"8b1f90ab6154f671d7fe43fb0166bba1deda9aa5610b1f789cff5f65a6ae9094")
