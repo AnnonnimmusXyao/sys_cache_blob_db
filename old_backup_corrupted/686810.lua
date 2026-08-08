@@ -1,7 +1,5 @@
 --game: Hell Let Loose
 
-addappid(686810)
-addappid(686811,0,"1bd2c9f00be49722b4419e46326b2fd08469ca63ce7948597a4811124d0c8206")
 addappid(1091850)
 addappid(1091851)
 addappid(1205050)
@@ -46,3 +44,5 @@ addappid(3515080)
 addappid(3768610)
 addappid(4008660)
 addappid(4008670)
+addappid(686810)
+addappid(686811,0,"1bd2c9f00be49722b4419e46326b2fd08469ca63ce7948597a4811124d0c8206")
