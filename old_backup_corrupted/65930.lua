@@ -1,4 +1,4 @@
---game: Generated
+--game: The Bureau: XCOM Declassified
 
 addappid(228983)
 addappid(229002)
