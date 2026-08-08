@@ -1,4 +1,4 @@
---game: DEAD OR ALIVE 5 Last Round: Core Fighters
+--game: Dead or Alive 5 Last Round
 
 addappid(311730)
 addappid(311731,0,"1d9beccbc02eff8af2c1afc8bfeede9ce882c70a72fd9083d7d8300bb11d47b1")
