@@ -1,4 +1,4 @@
---game: Borderlands 4
+--game: Borderlands® 4
 
 addappid(1285190)
 addappid(1285191,0,"aabb315ef5573fc2633c461cd2ac9b553e2713ca90a67ad2df09781274cbb20f")
