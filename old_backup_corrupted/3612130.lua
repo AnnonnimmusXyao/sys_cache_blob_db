@@ -1,4 +1,4 @@
---game: StacktoAscension
+--game: Stack to Ascension
 
 addappid(3612130)
 addappid(3612131,0,"1150dc8e31ded80efed61a28bcd49ac84a2661d8a408ab57bc288fd08485f89c")
