@@ -1,8 +1,8 @@
 --game: Danganronpa V3: Killing Harmony
 
-addappid(567640)
 addappid(228985)
 addappid(229004)
+addappid(567640)
 addappid(567641,0,"9970cbb9f5643bcca6f9a4a79fd477c623bd86b920e15e1b5d305928b99b6940")
 addappid(567642,0,"12906a228da73773ee68b88cb8dda37c3a385f65cab8e7ef355e53bbb648ff20")
 addappid(567643,0,"523db6fe1fbeca55f4d7c4b053f5ccb95fbb155a23d6b1d67fac210b04fcc102")
