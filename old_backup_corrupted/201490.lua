@@ -1,4 +1,4 @@
---game: Generated
+--game: Airline Tycoon 2
 
 addappid(201490)
 addappid(201491,0,"42dc780cee21bf5275c2117501023dc272fc73046c5c69994ebdedb73e7a9980")
