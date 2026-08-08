@@ -1,4 +1,4 @@
---game: 拯救大魔王重生 Falsemen: Demon Rebirth
+--game: 拯救大魔王:重生 Falsemen: Rebirth
 
 addappid(859280)
 addappid(859281,0,"d1b152d1a2f8eb983097ff7c656bd70d310423cfa9c59e75a5d63922dae54bbb")
