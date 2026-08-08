@@ -1,4 +1,4 @@
---game: Maktala: Slime Lootfest
+--game: Maktala
 
 addappid(4005560)
 addappid(4005561,0,"c1fe299b4117f91e3c8186557ef84bc49f527d6adecba6df625b9093ed971be0")
