@@ -1,7 +1,5 @@
 --game: Cities: Skylines II
 
-addappid(949230)
-addappid(949231,0,"eadf0796a624164bd8838fc14a95bd34b9c41e87048bbb4a23b86f0b77c1fb67")
 addappid(2427730)
 addappid(2427731)
 addappid(2427740)
@@ -20,3 +18,5 @@ addappid(3055040,0,"3b44a007515e566327cfc4ed209b8c71ffe4789a4a12fe3659caae3bf234
 addappid(3055080,0,"e39253ba495db02d1cb4cd69a6b9a7aba7b0d9439b2ee13cea0d153364b73267")
 addappid(3350700)
 addappid(3535990)
+addappid(949230)
+addappid(949231,0,"eadf0796a624164bd8838fc14a95bd34b9c41e87048bbb4a23b86f0b77c1fb67")
