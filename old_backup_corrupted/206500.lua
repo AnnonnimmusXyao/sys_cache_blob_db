@@ -1,4 +1,4 @@
---game: Generated
+--game: AirMech
 
 addappid(206500)
 addappid(206503,0,"c1f4008780c08ced071797be6a11ef77e8908fb26e045ca9692019add23db146")
