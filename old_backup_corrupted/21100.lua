@@ -1,4 +1,4 @@
---game: Generated
+--game: F.E.A.R. 3
 
 addappid(21100)
 addappid(21101,0,"ba10622b48dd42a9e3941bce6da0417a57f676495edf533eabd2496edfdc2d40")
