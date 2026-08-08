@@ -1,7 +1,5 @@
 --game: Synth Riders
 
-addappid(885000)
-addappid(885001,0,"02645ffcb89ba0e277f11418e05f7dc010d530aed0399178ea0acfb44beada08")
 addappid(1290890)
 addappid(1290910)
 addappid(1290911)
@@ -66,3 +64,5 @@ addappid(2484741)
 addappid(2484742)
 addappid(2484743)
 addappid(2484744)
+addappid(885000)
+addappid(885001,0,"02645ffcb89ba0e277f11418e05f7dc010d530aed0399178ea0acfb44beada08")
