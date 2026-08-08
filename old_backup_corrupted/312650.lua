@@ -1,4 +1,4 @@
---game: Battlezone Gold Edition
+--game: Battlezone
 
 addappid(312650)
 addappid(312652,0,"cd8395452141636947b17340c29b3b647acbab669d2550aa2f1ff1dcf0d6ec42")
