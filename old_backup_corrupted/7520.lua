@@ -1,4 +1,4 @@
---game: Generated
+--game: Two Worlds II HD
 
 addappid(200440)
 addappid(200441,0,"cacd65619ab9982dc2c0a8d3eb826b6f49db55ff94a0fda83355df62a7f4f5a4")
