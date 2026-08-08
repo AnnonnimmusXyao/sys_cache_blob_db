@@ -1,4 +1,4 @@
---game: City Transport Simulator®
+--game: City Transport Simulator 2025
 
 addappid(228985)
 addappid(228989)
