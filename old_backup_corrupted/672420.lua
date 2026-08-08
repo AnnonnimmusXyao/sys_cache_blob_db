@@ -1,4 +1,4 @@
---game: NetherWorld
+--game: Netherworld
 
 addappid(672420)
 addappid(672421,0,"8f5b5ef6f621f7ffde49ae3830575214fd87950f27a8ff23600ab9b92034dded")
