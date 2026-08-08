@@ -1,4 +1,4 @@
---game: Generated
+--game: Battle vs Chess
 
 addappid(211050)
 addappid(211051,0,"f638c137ab4861771b3343a0d36293d713148ea078627a5315b070df40c9a7f4")
