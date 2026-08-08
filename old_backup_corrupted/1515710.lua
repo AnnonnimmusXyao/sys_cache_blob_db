@@ -1,4 +1,4 @@
---game: Anna: The Series Test
+--game: Anna The Series Test
 
 addappid(1515710)
 addappid(1515711,0,"4d4428053ab44541be48e0b5ed2af0dc8f8bce646ff96d183125a7f5ba4eae04")
