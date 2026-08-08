@@ -1,4 +1,4 @@
---game: Albert and Otto
+--game: Albert and Otto: The Adventure Begins
 
 addappid(368590)
 addappid(368591,0,"721c554b63650351fc7461fc54aa96a8c8b1b12c686ef4d1f556f90d8ad4a3cf")
