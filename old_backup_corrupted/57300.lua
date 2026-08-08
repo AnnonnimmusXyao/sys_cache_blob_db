@@ -1,4 +1,4 @@
---game: Generated
+--game: Amnesia: The Dark Descent
 
 addappid(228983)
 addappid(57300)
