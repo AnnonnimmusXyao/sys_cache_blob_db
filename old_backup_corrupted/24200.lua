@@ -1,4 +1,4 @@
---game: Generated
+--game: DC Universe™ Online
 
 addappid(1050480)
 addappid(1146540)
