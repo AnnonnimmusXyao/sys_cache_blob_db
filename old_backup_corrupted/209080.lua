@@ -1,4 +1,4 @@
---game: Generated
+--game: Guns of Icarus Online
 
 addappid(209080)
 addappid(209081,0,"d1b72b811f4dddeae9330694672dc415a2f0c6279016fdc34e27cc7d68008622")
