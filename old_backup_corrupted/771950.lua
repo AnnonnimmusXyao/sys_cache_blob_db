@@ -1,5 +1,5 @@
---game: SUMETRICK
+--game: →SUMETRICK←
 
-addappid(771950)
 addappid(229005)
+addappid(771950)
 addappid(771951,0,"6a7e66435492716761bf74788f276c6e2fa7f0059dd02e445e897b82487fd966")
