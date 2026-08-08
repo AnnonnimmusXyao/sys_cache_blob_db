@@ -1,4 +1,8 @@
---game: Dangerous Waters
+-- ============================================
+--  Credits: K3rnelPan1c (KernelOS / !K3rnalyze)
+--  Discord: https://discord.gg/k3rnalyze
+--  Website: https://kernelos.org/games
+-- ============================================
 
 addappid(1600)
 addappid(1601,0,"3366df0426c75f708428a6fa77286625a9943f5eb8ad74c8d55634d3be1e06c6")
