@@ -1,4 +1,4 @@
---game: Generated
+--game: Supreme Commander 2
 
 addappid(40100)
 addappid(40102,0,"9e4d9dd412dc1be64d8be651738ec15d4c0b606a301478c65189485cb8f740eb")
