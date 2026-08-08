@@ -1,4 +1,4 @@
---game: Generated
+--game: To the Moon
 
 addappid(1028420,0,"3c3c5e3d632cad52519a816d6fc7d8cff3b6e877d838827a9fc2f699974cdced")
 addappid(1028421,0,"ee3c671f160c2813e82d5349e2ad185516bfcdd79184c43acf579edabab404f5")
