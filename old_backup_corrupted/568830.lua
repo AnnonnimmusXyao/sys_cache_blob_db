@@ -1,4 +1,4 @@
---game: Witch of Ice Kingdom Ⅱ
+--game: Witch of Ice Kingdom II
 
 addappid(568830)
 addappid(568831,0,"a7d029a3df20d4b994c2787d161979061f5f0664d5dec9dab8b592a688c3b589")
