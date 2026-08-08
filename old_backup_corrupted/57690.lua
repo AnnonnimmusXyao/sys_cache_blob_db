@@ -1,4 +1,4 @@
---game: Generated
+--game: Tropico 4
 
 addappid(205630,0,"ab6c8324e5d4dfdf23a554ab51af1ab0378b037df350cad81a77d2266c86d955")
 addappid(205633,0,"07c2f84fe8606ef6e59fe4615ace9b077e2d78f8a92d99543cc3ca4868adc8c0")
