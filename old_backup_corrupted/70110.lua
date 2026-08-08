@@ -1,4 +1,4 @@
---game: Hacker Evolution: Untold
+--game: Hacker Evolution - Untold
 
 addappid(70110)
 addappid(70111,0,"347e7a5a5aeec0e143fcd37e8fcd6f8df1cf214908279a26a923985ecd15d225")
