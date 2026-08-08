@@ -1,4 +1,4 @@
---game: Escape Dungeon 3 - Loop Queen
+--game: Loop Queen-Escape Dungeon 3
 
 addappid(1950450)
 addappid(1950451,0,"1ffccddc2535c02d22b5227b4c7297e8eafeae544af23ba786b112d8de379811")
