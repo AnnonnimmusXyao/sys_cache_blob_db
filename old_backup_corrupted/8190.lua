@@ -1,4 +1,4 @@
---game: Generated
+--game: Just Cause 2
 
 addappid(35080,0,"2db5c4ed264cf64da1513516b7354ebb14072e2baa9d601db20aa68fabd784b2")
 addappid(35081,0,"c5b22bb45f4419da776c63b99fb71b38756b08e7c65d01804ba71f231be01beb")
