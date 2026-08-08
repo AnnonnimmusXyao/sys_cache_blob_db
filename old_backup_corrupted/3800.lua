@@ -1,4 +1,4 @@
---game: Generated
+--game: Advent Rising
 
 addappid(3800)
 addappid(3801,0,"71daad497b6e6376e600e568ba4bd9f44e0510a4089a2a2167f4d6dbb3a9d593")
