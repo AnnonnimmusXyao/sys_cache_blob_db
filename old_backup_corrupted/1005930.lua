@@ -1,4 +1,4 @@
---game: Timeflow – Life Sim
+--game: Timeflow
 
 addappid(1005930)
 addappid(1005931,0,"cbe3839f604d84b24f9c489a5600250b68c3963abebb6d799eb8331693732ab4")
