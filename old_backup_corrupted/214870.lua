@@ -1,4 +1,4 @@
---game: Generated
+--game: Painkiller Hell & Damnation
 
 addappid(214870)
 addappid(214871,0,"6684ec1b205640f956e86273b88cc2c096cf68c37cc0ca28a42b91edfb08ca1f")
