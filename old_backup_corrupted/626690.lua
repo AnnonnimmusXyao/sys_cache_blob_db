@@ -1,5 +1,6 @@
 --game: Sword Art Online: Fatal Bullet
 
+addappid(1010220)
 addappid(626690)
 addappid(626691,0,"d13786cc9fbb38ba37c0da1e5a7148f908520d248bcb1b44cd3d368b4c569984")
 addappid(774821)
@@ -15,4 +16,3 @@ addappid(990310)
 addappid(990320)
 addappid(990330)
 addappid(990340)
-addappid(1010220)
