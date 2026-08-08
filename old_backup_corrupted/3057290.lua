@@ -1,4 +1,4 @@
---game: Furry Adventure Club and the Holy Grail 🦁
+--game: Furry Adventure Club and the Holy Grail
 
 addappid(3057290)
 addappid(3057291,0,"728aa49b1fe454fa72a413bcb66ed683a59cf32f6151b70810ddce0dd2399c98")
