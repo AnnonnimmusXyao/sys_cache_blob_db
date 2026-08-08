@@ -1,4 +1,4 @@
---game: Generated
+--game: Krater
 
 addappid(204731,0,"dcda53e4046785cc42eb3a2e6c487a88482c4f87521e87ff6cd03e6f400ea6e4")
 addappid(204732)
