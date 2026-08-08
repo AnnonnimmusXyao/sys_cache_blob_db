@@ -1,4 +1,4 @@
---game: Tavern Talk - A Cozy Visual Novel
+--game: Tavern Talk
 
 addappid(2076140)
 addappid(2076141,0,"38c00b2e11a56563435dc1469d94558e9c10aa7b35096d267019be9fd87ec844")
