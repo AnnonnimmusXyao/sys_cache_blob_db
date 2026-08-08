@@ -1,4 +1,4 @@
---game: Sunless Skies: Sovereign Edition
+--game: Sunless Skies
 
 addappid(596970)
 addappid(596971,0,"02a368602bd78c701e2e46808060e99f57a7e4ee87e1df0d47e54170c98b6aac")
