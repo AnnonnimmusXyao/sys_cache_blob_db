@@ -1,6 +1,5 @@
 --game: RPG Developer Bakin
 
-addappid(229005)
 addappid(1036640)
 addappid(1036641,0,"64815a8bd36127e977b7959101e3fd9352c237cf06e86ddae2e669ac714d52e9")
 addappid(1946480)
@@ -20,6 +19,7 @@ addappid(1952434)
 addappid(1952436)
 addappid(1952437)
 addappid(2133190)
+addappid(229005)
 addappid(2339440)
 addappid(2401980)
 addappid(2401981)
