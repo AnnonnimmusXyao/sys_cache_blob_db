@@ -1,4 +1,4 @@
---game: Kainga: Seeds of Civilization
+--game: Kainga
 
 addappid(1269710)
 addappid(1269711,0,"e96a1f734ee1b8f27f1d6fbb714442ec169ef1f6ed87d6e229b23f69a45ef880")
