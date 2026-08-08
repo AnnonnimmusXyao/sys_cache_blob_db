@@ -1,4 +1,4 @@
---game: Generated
+--game: Cities in Motion
 
 addappid(206722,0,"a482e9ed7872e77562f3732e96bc029cffc3fd3d2cd5960672f9b48fd89f37ef")
 addappid(73010)
