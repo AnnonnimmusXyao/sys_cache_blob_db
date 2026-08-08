@@ -1,5 +1,6 @@
---game: Ascension: Deckbuilding Game
+--game: Ascension
 
+addappid(1644730)
 addappid(228982)
 addappid(228983)
 addappid(320430)
@@ -8,4 +9,3 @@ addappid(858930)
 addappid(899140)
 addappid(942590)
 addappid(987500)
-addappid(1644730)
