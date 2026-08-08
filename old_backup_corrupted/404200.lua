@@ -1,4 +1,4 @@
---game: WARTILE
+--game: Wartile
 
 addappid(404200)
 addappid(404201,0,"269e536d3e462095abb876ceec39861b1d56c98b254a82258a2c0e85c4529602")
