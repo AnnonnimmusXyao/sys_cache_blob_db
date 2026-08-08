@@ -1,4 +1,4 @@
---game: Infectonator: Survivors
+--game: Infectonator : Survivors
 
 addappid(269310)
 addappid(269311,0,"2ef32e57ecadeedeb0ae789828c2718f0701cc30216b901a5b3245a60a246aa7")
