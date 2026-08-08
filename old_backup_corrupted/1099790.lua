@@ -1,4 +1,4 @@
---game: PROTOCOL 11 - Episode 1
+--game: PROTOCOL 11
 
 addappid(1099790)
 addappid(1099791,0,"06a0712a8c5ea45257b681f80d6bffd518b7a1b9237e349380b0bb70f0f9d3c0")
