@@ -1,6 +1,7 @@
 --game: FaceWorld
 
 addappid(1588390)
+addappid(1588391,0,"5480942d7ff963703d47407a131a251ae8c056de2c37be5e4490697fc6ff846f")
 addappid(228981)
 addappid(228982)
 addappid(228983)
@@ -21,4 +22,3 @@ addappid(229030)
 addappid(229031)
 addappid(229032)
 addappid(229033)
-addappid(1588391,0,"5480942d7ff963703d47407a131a251ae8c056de2c37be5e4490697fc6ff846f")
