@@ -1,4 +1,4 @@
---game: 幻影魔都
+--game: 绝影-Vanishing Shadow
 
 addappid(2369140)
 addappid(2369141,0,"1a8614bc9a29b4117473a38f8f2fe75c2e81c53c09a4b2833e470a6964cf2528")
