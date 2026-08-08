@@ -1,4 +1,4 @@
---game: the hardest game in the universe 2
+--game: The hardest game in the universe 2
 
 addappid(1792700)
 addappid(1792701,0,"ebe8d7cde9295cd6547dce6756b32a57849cbaebbf9adb04eaf476304a8ba825")
