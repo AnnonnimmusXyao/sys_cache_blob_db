@@ -1,4 +1,4 @@
---game: Generated
+--game: Medal of Honor™
 
 addappid(47790)
 addappid(47791,0,"6cfa2ae2ab1ca45d932583d4bb09d81a32c9dab59bc81ff78093b7f86b2c5f22")
