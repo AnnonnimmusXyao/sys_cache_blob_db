@@ -1,4 +1,4 @@
---game: Generated
+--game: King Arthur II: The Role-Playing Wargame
 
 addappid(204820)
 addappid(210330,0,"fe6ec1e56ccaf797fe46946ac65c85d2e57f7604536f1cb172d3d76f2a3e352c")
