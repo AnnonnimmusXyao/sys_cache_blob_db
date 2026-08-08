@@ -1,4 +1,4 @@
---game: Gemporium: A Cute Mining Sim
+--game: Gemporium
 
 addappid(2836100)
 addappid(2836101,0,"4e777d49ee0894d9cee0502a4b84e032bd507f7162ccf4f948a95cccf1e988f5")
