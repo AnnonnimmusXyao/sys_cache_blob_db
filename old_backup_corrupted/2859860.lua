@@ -1,4 +1,4 @@
---game: 薇拉里娅的烛花
+--game: Veloria
 
 addappid(2859860)
 addappid(2859863,0,"dbdf11de9e490280e6d377345bc39a5f5bfcd69237235e3123708f4d3bebf2f5")
