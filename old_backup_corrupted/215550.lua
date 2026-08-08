@@ -1,4 +1,4 @@
---game: Generated
+--game: Zombie Playground™
 
 addappid(215550)
 addappid(215552,0,"eee671491477388046e15de9eae025da9129055af442f2e76c9f4cf0e3ac9f04")
