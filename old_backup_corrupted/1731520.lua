@@ -1,4 +1,4 @@
---game: Ark Mobius: Censored Edition
+--game: Ark Mobius:Censored Edition
 
 addappid(1731520)
 addappid(1731521,0,"0c2c9221d2a8e58e8b2ae8079623f5c69d688da1a2ca58aed99858e6515a8379")
