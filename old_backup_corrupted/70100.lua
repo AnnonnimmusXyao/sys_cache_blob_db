@@ -1,4 +1,4 @@
---game: Hacker Evolution
+--game: Generated
 
 addappid(70100)
 addappid(70101,0,"06b05e068f33e06773343c90c6948e7ae9f32aff611280c0523cb9d479980d5f")
