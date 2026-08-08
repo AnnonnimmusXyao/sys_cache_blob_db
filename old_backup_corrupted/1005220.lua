@@ -1,4 +1,4 @@
---game: Pixel Puzzles World War II Jigsaw Puzzles
+--game: Pixel Puzzles World War II Jigsaws
 
 addappid(1005220)
 addappid(1005221,0,"871b5d59aec8cc65e53b5d8628d4b4862f4b04a009435888a8a628fe3515b769")
