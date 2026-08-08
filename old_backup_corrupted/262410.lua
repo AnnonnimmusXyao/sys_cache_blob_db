@@ -1,6 +1,8 @@
 --game: World of Guns: Gun Disassembly
 
+addappid(1083250)
 addappid(262410)
+addappid(262410,0,"16257c0d5e87471ae7b2681af88c480caa00bffde1242a9de2c9a264b6597d6c")
 addappid(262411,0,"ff42141cc1f34989188abbb4dbb59c495b355f743db74eca4bf677a37b0f5aad")
 addappid(262412,0,"4277a3b9facc196c21a8ca501d15c9583befd87ad2138a4fcc69d1d7c9fafbde")
 addappid(262413,0,"6dd747d3385f1e409f8a9d1ea9d390395bf80e6cb0f2ef996ff97ea1d65b5851")
@@ -31,4 +33,3 @@ addappid(850440)
 addappid(917250)
 addappid(917260)
 addappid(969070)
-addappid(1083250)
