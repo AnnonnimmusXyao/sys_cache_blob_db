@@ -1,4 +1,4 @@
---game: Generated
+--game: The Sims™ 3
 
 addappid(223590)
 addappid(223591,0,"351cb512187b892df16ef53e31415041e76b6197808fbd0231acfc14378c3983")
