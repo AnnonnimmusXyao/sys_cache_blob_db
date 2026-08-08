@@ -1,4 +1,4 @@
---game: Westview Academy - Season 1
+--game: Westview Academy
 
 addappid(2275560)
 addappid(2275561,0,"61be49995e6b07ee704b915004f9abf3e8a102ec926376dd46f7e50b6e8e0448")
