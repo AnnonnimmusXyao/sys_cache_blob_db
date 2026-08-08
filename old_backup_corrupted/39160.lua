@@ -1,4 +1,4 @@
---game: Generated
+--game: Dungeon Siege III
 
 addappid(39160)
 addappid(39161,0,"ef4b2ec1809f4fb746e11ea68553eb3a2bf7d0a892ed7429de46bf74fdeb3936")
