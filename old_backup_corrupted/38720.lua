@@ -1,5 +1,7 @@
---game: RUSH
+--game: Generated
 
 addappid(38720)
-addappid(228983)
+addappid(38721,0,"4e9b49cb756500c94c30f84f5a3479e817b2082b94e7e64bb980fbcc9486a61b")
+addappid(38722,0,"f3848497f29848c9cd12a87e1faf41a21be678b35bcdd3f978357cad2a33bfd6")
 addappid(38723,0,"e0717633dbf6bd0cd4e630b912a96bcd42bd63245f5803789dabb4fb4409a756")
+addappid(98012,0,"e494a7dafe5d53f23685eb9f0d64441cdd9dedbb4b8f9d001cec80fcd4653bba")
