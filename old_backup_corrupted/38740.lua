@@ -1,4 +1,4 @@
---game: Generated
+--game: EDGE
 
 addappid(228983)
 addappid(38740)
