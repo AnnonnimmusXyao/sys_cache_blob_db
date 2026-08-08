@@ -1,4 +1,4 @@
---game: Leviathan: the Cargo — Ongoing series
+--game: Leviathan: The Cargo
 
 addappid(411130)
 addappid(411131,0,"8cbffbe0dcec14a94f4eecaec416a90e6ac3aebf3ff8b19dcb265345ea166cd5")
