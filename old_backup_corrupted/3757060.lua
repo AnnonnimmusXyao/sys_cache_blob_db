@@ -1,4 +1,4 @@
---game: Shana - Priestess of Tona
+--game: Shana - priestess of Tona
 
 addappid(3757060)
 addappid(3757061,0,"c3d860ccd6339fd9521a2eee0d34d94d3c0f3ef48a8b3a6100f2844f46314423")
