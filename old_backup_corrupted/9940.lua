@@ -1,4 +1,4 @@
---game: Generated
+--game: Blade Kitten
 
 addappid(300120,0,"6f3612f07d3196a1edb58a08d7d7d7d84dbe382e902de0ddb019a7ffdda74244")
 addappid(357170,0,"de627c232ebc3c2705bd1ce85b8557e8230a19c7f2944a90b92c13fe22b16162")
