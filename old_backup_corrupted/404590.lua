@@ -1,7 +1,7 @@
 --game: Vikings - Wolves of Midgard
 
-addappid(404590)
 addappid(228985)
+addappid(404590)
 addappid(404591,0,"2ae9a94a595e4eea42fe95dd90b9ee35a79ea618ab950f6f7900e37ab34fd4fd")
 addappid(404592,0,"7c8fe2133bd641c652ad9790af7fe07d3ea7ec9aa95b70b3eaa02678404138ef")
 addappid(404593,0,"10e24709f6ea9a4af717f1af249838ddce939f3797d80613eb86534100230dc8")
