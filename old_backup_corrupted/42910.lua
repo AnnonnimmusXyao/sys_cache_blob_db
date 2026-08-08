@@ -1,4 +1,4 @@
---game: Generated
+--game: Magicka
 
 addappid(255980)
 addappid(266740,0,"5c28c32fa738eff52c1c480cbf2a5dd0d704aa61c1e526ec0cbddf87ac9f1613")
