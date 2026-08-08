@@ -1,4 +1,4 @@
---game: Generated
+--game: Orcs Must Die!
 
 addappid(102600)
 addappid(102601,0,"a96e8d07952536719b7d47a5b78108add1248bd797810062260b0440f37852a4")
