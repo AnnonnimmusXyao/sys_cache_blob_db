@@ -1,4 +1,4 @@
---game: Generated
+--game: Total War: MEDIEVAL II – Definitive Edition
 
 addappid(305550,0,"99b2a2a73340b958a7ffd54075ddd9c938c4abe1564100d3ca4d45195b6a57e6")
 addappid(305551,0,"70a2ad26abbb534cd72c58a30428995976f5a16f02376dfa11098715034f4251")
