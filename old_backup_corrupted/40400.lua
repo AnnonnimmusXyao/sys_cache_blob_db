@@ -1,4 +1,4 @@
---game: Generated
+--game: AI War: Fleet Command
 
 addappid(238950,0,"9ba0509f6fc21fdfe80fa47f50122a580803f67e4f8cc595e840028bcc03a506")
 addappid(317150,0,"dc67f75ba4593188812393c72e8b35ba45ac1bff2e52d228a17e151997b32fa6")
