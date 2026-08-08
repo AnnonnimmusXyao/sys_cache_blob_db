@@ -1,5 +1,6 @@
 --game: Doodle God Blitz
 
+addappid(1042440)
 addappid(625430)
 addappid(625431,0,"5a797d69bf3ce5f4b9276826f7092ab63fb30a9ba6e57345abf97a34f2424d74")
 addappid(625432,0,"0e863f7d4429d9a671f74d634b8a81a0e105c82bbb7f40332d1cc0772f876e26")
@@ -22,4 +23,3 @@ addappid(894860)
 addappid(894870)
 addappid(915690)
 addappid(942360)
-addappid(1042440)
