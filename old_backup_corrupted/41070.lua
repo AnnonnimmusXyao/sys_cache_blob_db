@@ -1,4 +1,4 @@
---game: Generated
+--game: Serious Sam 3: BFE
 
 addappid(104805,0,"bbc97de00fdee010e91a8ae054fcdf4adb5692f0f1951026adfb09e1e80b2628")
 addappid(104806,0,"966532826cc7311ce7f8d2287ba842547f6d9d00eebd8cdcda6c9d9d5521ed33")
