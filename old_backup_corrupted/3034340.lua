@@ -1,6 +1,7 @@
---game: ワールドネバーランドエルネア王国の日々 Another Life Adventure
+--game: ワールドネバーランド　エルネア王国の日々　Another Life Adventure
 
 addappid(3034340)
+addappid(3034341,0,"3a6a236ea24a132fe1716b2a9fc3e6759885451b54d6e1a27ee8a84bf6ef12ce")
 addappid(3328650)
 addappid(3328660)
 addappid(3612220)
@@ -9,4 +10,3 @@ addappid(3612240)
 addappid(3612260)
 addappid(3828600)
 addappid(3828630)
-addappid(3034341,0,"3a6a236ea24a132fe1716b2a9fc3e6759885451b54d6e1a27ee8a84bf6ef12ce")
