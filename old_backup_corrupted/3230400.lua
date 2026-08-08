@@ -1,4 +1,4 @@
---game: Madden NFL 26
+--game: EA SPORTS™ Madden NFL 26
 
 addappid(3230400)
 addappid(3230401,0,"d27469f0328400d0e61683059a3ad3824df4c1c1ae36fe6933dcfb093d01440a")
