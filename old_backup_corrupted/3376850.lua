@@ -1,4 +1,4 @@
---game: Bomb Vehicle The Idle Clicker
+--game: 爆弹战车
 
 addappid(3376850)
 addappid(3376851,0,"f57959fbb03f93d0003e5886f276d1219007b5c309804b7513cf6bcf1fe9a928")
