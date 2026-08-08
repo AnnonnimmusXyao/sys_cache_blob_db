@@ -1,4 +1,4 @@
---game: Generated
+--game: Portal 2
 
 addappid(620)
 addappid(621,0,"d2718f2424c94832a7112661774d98ffb3d52f454312f543a71418d253100d1d")
