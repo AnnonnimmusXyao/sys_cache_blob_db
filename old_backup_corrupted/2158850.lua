@@ -1,4 +1,4 @@
---game: Spooky Halloween in the Voxel World (Remake)
+--game: Spooky Halloween in the Voxel World
 
 addappid(2158850)
 addappid(2158851,0,"3fff4dd2e2dbd375d2825bd5d7e2b4d5b37fddda858200be6896a3664d747e01")
