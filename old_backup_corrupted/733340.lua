@@ -1,8 +1,8 @@
 --game: Hakuoki: Edo Blossoms
 
-addappid(733340)
 addappid(228983)
 addappid(228985)
+addappid(733340)
 addappid(733341,0,"54f93f73cb39e150cafde44a12d4dcc256312430da3908f815ba01862c108f84")
 addappid(733342,0,"d137ccae29d9538c61282047b57eadd67c928b93758417c7bbf5690ea3bc546e")
 addappid(733343,0,"c1057de47ddf1583a2191cbe1d23632878daedbbd632be2734eb515d3a864412")
