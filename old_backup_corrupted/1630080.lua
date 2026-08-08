@@ -1,4 +1,4 @@
---game: College Bound - Episode 1
+--game: College Bound
 
 addappid(1630080)
 addappid(1630081,0,"f0b881bec0883aab14b061f3690d49d3d3173a31bfa5503bfd806a04831b78a3")
