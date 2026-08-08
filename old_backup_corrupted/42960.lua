@@ -1,4 +1,4 @@
---game: Generated
+--game: Victoria II
 
 addappid(215000,0,"71025386d2333d7d9e3fc2e81af9bb5bd92451c8dcfb0dac8b3f0cba23098880")
 addappid(215001,0,"1c348f225b0b5bed924fc6292dde7bf1aaac7b56cbc2ca46dfe5498bb529dc27")
