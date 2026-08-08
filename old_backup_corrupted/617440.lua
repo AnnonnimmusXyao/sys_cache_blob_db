@@ -1,4 +1,4 @@
---game: Arcade Mayhem Juanito
+--game: Juanito Arcade Mayhem
 
 addappid(617440)
 addappid(617441,0,"7360bdab98619976fcdd4ec41fa1ee4891a79939a67452d94384f897c4895420")
