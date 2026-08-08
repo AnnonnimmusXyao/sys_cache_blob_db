@@ -1,4 +1,4 @@
---game: Tomb Raider Game of the Year
+--game: Tomb Raider
 
 addappid(203160)
 addappid(203161,0,"61e24eab63c4bab53d1bb8a95f77ee8243fb5fcdf4860c6fbf1408316cdfbf90")
