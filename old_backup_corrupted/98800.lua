@@ -1,4 +1,4 @@
---game: Generated
+--game: Dungeons of Dredmor
 
 addappid(98800)
 addappid(98801,0,"f2fdd1c79c4fa60e730b17e4d532e7805da7a7c3e4ec1d131f77ff69265651f7")
