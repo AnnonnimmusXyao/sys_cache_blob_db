@@ -1,4 +1,4 @@
---game: Generated
+--game: Two Worlds Epic Edition
 
 addappid(1930)
 addappid(1931,0,"e59e61936fdba206f841fae1779b838f9566b45a1c6c2390dbe4257309ce7871")
