@@ -1,4 +1,4 @@
---game: Meadow - A Shelter Game
+--game: Meadow
 
 addappid(486310)
 addappid(486311,0,"55d4f89d2de478e56174b8d328c7f2cf6356a7a36e70ac6087570b7340014c25")
