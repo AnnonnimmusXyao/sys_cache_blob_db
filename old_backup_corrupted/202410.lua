@@ -1,4 +1,4 @@
---game: Generated
+--game: Scoregasm
 
 addappid(202410)
 addappid(202411,0,"c49623d716dcc6446030c73065d24a1e459ebfb0758db272ae7a7194168ad560")
