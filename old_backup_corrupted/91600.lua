@@ -1,4 +1,4 @@
---game: Generated
+--game: Sanctum
 
 addappid(91600)
 addappid(91601,0,"ef8647418f43353079dfdbccf0929e790db09078c8a1fba2a22149cbf15752b1")
