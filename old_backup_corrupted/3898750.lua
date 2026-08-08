@@ -1,4 +1,4 @@
---game: Vox Magic
+--game: VoxMagic - Realtime Voice Changer
 
 addappid(3898750)
 addappid(3898751,0,"2c14597c30fc36b7f0e8c0d1c6429b2873d3e594ecd538609bb4dfaf081ba849")
