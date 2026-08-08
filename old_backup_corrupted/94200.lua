@@ -1,4 +1,4 @@
---game: Generated
+--game: Jamestown
 
 addappid(228982)
 addappid(229020)
