@@ -1,4 +1,4 @@
---game: Heroes of Havoc: Idle Adventures
+--game: Heroes of Havoc
 
 addappid(251450)
 addappid(251451,0,"7dd6ccc1c53f449fbf48a3e3b229c05ffb2ac0b5751656d0b0940346199f4978")
