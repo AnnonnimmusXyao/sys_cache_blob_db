@@ -1,4 +1,4 @@
---game: Generated
+--game: Duke Nukem Forever
 
 addappid(102021,0,"900fc33327af3ea3b58487e821f18be679596b0bfa61f91d38927c76a40a1e8a")
 addappid(102022,0,"afd4475fd652c27ccca38d06fb0b5b8b7af653712aea495678c69f03ad5f5894")
