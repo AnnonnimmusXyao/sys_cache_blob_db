@@ -1,4 +1,4 @@
---game: Generated
+--game: Guild Wars® Reforged
 
 addappid(29540)
 addappid(29541,0,"7f93d15c7db86244f86cecadc8137f20f72eddd640ea65297e2f067d0471dde6")
