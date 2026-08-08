@@ -1,8 +1,5 @@
 --game: World War Z
 
-addappid(699130)
-addappid(699131,0,"8e1c37df6ec32e30f09ea256f8732eb98b7955ec82c51c49960f0d078d057fbb")
-addappid(699132)
 addappid(1640650)
 addappid(1708020)
 addappid(2170270)
@@ -21,3 +18,6 @@ addappid(3699420)
 addappid(3699430)
 addappid(3930030)
 addappid(3930040)
+addappid(699130)
+addappid(699131,0,"8e1c37df6ec32e30f09ea256f8732eb98b7955ec82c51c49960f0d078d057fbb")
+addappid(699132)
