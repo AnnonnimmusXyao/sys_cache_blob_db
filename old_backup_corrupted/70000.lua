@@ -1,4 +1,4 @@
---game: Dino D-Day
+--game: Generated
 
 addappid(70000)
 addappid(70001,0,"e3b757daf5ba4b805c630ba5e40b33365bc0f744b887d76096a180fca0d5ae43")
