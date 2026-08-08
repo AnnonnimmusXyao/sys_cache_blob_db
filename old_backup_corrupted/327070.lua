@@ -1,4 +1,4 @@
---game: Gloria Victis: Medieval MMORPG
+--game: Gloria Victis
 
 addappid(228982)
 addappid(228983)
