@@ -1,4 +1,4 @@
---game: Nordic Ashes: Survivors of Ragnarok
+--game: Nordic Ashes
 
 addappid(2068280)
 addappid(2068281,0,"ee7ffd7c9029c2c860eab9bb927eba2a68583d2327418c1fa50e13a0aa0e3534")
