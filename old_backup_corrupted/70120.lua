@@ -1,4 +1,4 @@
---game: Generated
+--game: Hacker Evolution Duality
 
 addappid(211990,0,"7af11ea2ad90f0f2bfd4939cc8b7848919b6f6806433f7d1953b83d0fe2fb480")
 addappid(70120)
