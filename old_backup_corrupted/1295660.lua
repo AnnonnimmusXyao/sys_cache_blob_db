@@ -1,4 +1,4 @@
---game: Sid Meier's Civilization® VII
+--game: Sid Meier's Civilization VII
 
 addappid(1295660)
 addappid(1295661,0,"59cf929fe0be7af1bba7498247138b359bcc8141d6921f65f06f5d3c4e604430")
