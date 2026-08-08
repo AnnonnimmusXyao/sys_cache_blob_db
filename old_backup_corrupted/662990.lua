@@ -1,4 +1,4 @@
---game: Eddy紫 ~Eddy Violet~
+--game: Eddy Violet
 
 addappid(662990)
 addappid(662991,0,"55eccb4191fb84fa8722b2434bb735cb6ee0610f46963ad41d558fa619935383")
