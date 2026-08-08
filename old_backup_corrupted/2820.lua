@@ -1,4 +1,4 @@
---game: Generated
+--game: X3: Terran Conflict
 
 addappid(207311,0,"a700717e49d242d306923280d53fbcb06f6561ec1997d1293e0318b9a1a3c02e")
 addappid(207312,0,"5cdadc4e28eb661e4f8c256d91d9f384a78f75e9ae8192260acfc2355f063252")
