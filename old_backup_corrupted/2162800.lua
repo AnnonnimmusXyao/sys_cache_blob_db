@@ -1,4 +1,4 @@
---game: shapez 2
+--game: shapez 2 - Factory
 
 addappid(2162800)
 addappid(2162802,0,"163ae6ae731b47cb94170aee0ed8a4d4ecc62c6082bc319cc270e20c5eb0f759")
