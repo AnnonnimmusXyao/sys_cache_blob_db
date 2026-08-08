@@ -1,4 +1,4 @@
---game: Generated
+--game: Super Meat Boy
 
 addappid(202941,0,"e81a93a26c224c42af1e8b013dc148809b870d1718fd970fca8be9afda5ac806")
 addappid(202942,0,"7456550b7c6035613e2dce4b1e5330096bd2949510d0174327e0456092632dbf")
