@@ -1,4 +1,4 @@
---game: Generated
+--game: AudioSurf
 
 addappid(12900)
 addappid(12902,0,"44f4f97c1899f42989a7337e1b1a92cfaa74eef044441f16c589b36dcc06da39")
