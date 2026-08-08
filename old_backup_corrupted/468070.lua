@@ -1,4 +1,4 @@
---game: 90 Minute Fever - Online Football (Soccer) Manager
+--game: 90 Minute Fever
 
 addappid(468070)
 addappid(468072,0,"bc9faf1db3dfd34f17b6a15d26b73602d4b4cbbfc5b034a27012ee721add1176")
