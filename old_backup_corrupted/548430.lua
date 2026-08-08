@@ -1,8 +1,5 @@
 --game: Deep Rock Galactic
 
-addappid(548430)
-addappid(548431,0,"73ef10dc344cb7fb34be23aea35b20fbb2b32b0db50650919c7e3d731e759aad")
-addappid(801860)
 addappid(1283090)
 addappid(1283091)
 addappid(1430610)
@@ -14,3 +11,7 @@ addappid(2291670)
 addappid(2416900)
 addappid(2934390)
 addappid(3481460)
+addappid(4207910)
+addappid(548430)
+addappid(548431,0,"73ef10dc344cb7fb34be23aea35b20fbb2b32b0db50650919c7e3d731e759aad")
+addappid(801860)
