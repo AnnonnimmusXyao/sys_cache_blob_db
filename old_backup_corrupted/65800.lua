@@ -1,4 +1,4 @@
---game: Generated
+--game: Dungeon Defenders
 
 addappid(202522,0,"b767706f18472ad97747725656beb2d06be7ed023cc775866dddf225f263af0a")
 addappid(204381,0,"584a9539debadc5a971338f42853ccfe408d2cc18ba851b3910684d461b5b85d")
