@@ -1,4 +1,4 @@
---game: WARMACHINE: Tactics
+--game: Warmachine Tactics
 
 addappid(253510)
 addappid(253511,0,"4e05c91011ff9456e594de3694cda21560a62a9c6c49f3702691b08a1b5443e9")
