@@ -1,8 +1,8 @@
 --game: Danganronpa 2: Goodbye Despair
 
-addappid(413420)
 addappid(229000)
 addappid(229001)
+addappid(413420)
 addappid(413421,0,"65dd2d598e63ea5ac5c2ccd8a31a71ccb73169f4117c991fa40a8d0fa7f02bdb")
 addappid(413422,0,"a315983577505ccbbff926c252bc06912f1487dd68b7cef7f9eb420c5d199944")
 addappid(413423,0,"eda8cf7512bf7cc489c2bfa82878b18813f77f593e926059b5f709cafa6d8fcf")
