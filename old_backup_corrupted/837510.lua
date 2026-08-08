@@ -1,9 +1,5 @@
---game: Pixel Game Maker MV / アクションゲームツクールMV
+--game: Pixel Game Maker MV
 
-addappid(837510)
-addappid(837512,0,"31b95e27dd7bd4bc564c67f9de8b278a309430afe7f353634d7911a19d2f69f0")
-addappid(837513,0,"bb6f61aa7254b90e546e44285095ee66cb27fa5c6cf3445f41385a6ab34e8329")
-addappid(972400)
 addappid(1496910)
 addappid(1496911)
 addappid(1504510)
@@ -46,3 +42,7 @@ addappid(3956810)
 addappid(3990900)
 addappid(4024880)
 addappid(4024890)
+addappid(837510)
+addappid(837512,0,"31b95e27dd7bd4bc564c67f9de8b278a309430afe7f353634d7911a19d2f69f0")
+addappid(837513,0,"bb6f61aa7254b90e546e44285095ee66cb27fa5c6cf3445f41385a6ab34e8329")
+addappid(972400)
