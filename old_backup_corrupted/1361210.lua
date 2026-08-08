@@ -1,7 +1,5 @@
 --game: Warhammer 40,000: Darktide
 
-addappid(228983)
-addappid(229006)
 addappid(1361210)
 addappid(1361211,0,"91a13a5dcfb61da0b70e706684905b0c2aa90d8287d89e17507c0b94bc0f6e62")
 addappid(1361212,0,"4d49f54fcf910bba344e8488b85616043a21cf7d6d486b8ad37085ffc6bf9401")
@@ -9,6 +7,8 @@ addappid(1361213,0,"5b665c11f3ab71ed186993ab184691c52af53a8d86ffd0c2fd8fbc8ec33b
 addappid(1361214)
 addappid(1981790)
 addappid(2215000)
+addappid(228983)
+addappid(229006)
 addappid(3710910)
 addappid(3710950)
 addappid(3710980)
