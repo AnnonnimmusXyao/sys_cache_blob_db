@@ -1,4 +1,4 @@
---game: Unity of Command: Stalingrad Campaign
+--game: Unity of Command
 
 addappid(218090)
 addappid(218091,0,"202acb7faa9b424a8a343032c5c6f584298120523ed5ee87dcd8facdfed236d2")
