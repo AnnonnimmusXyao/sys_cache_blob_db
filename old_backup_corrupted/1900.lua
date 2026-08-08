@@ -1,4 +1,4 @@
---game: Generated
+--game: Earth 2160
 
 addappid(1900)
 addappid(1901,0,"7639a4b943d58c3bf5a114405c943cd365d0d3ff8b3f8242588c2045306038b9")
