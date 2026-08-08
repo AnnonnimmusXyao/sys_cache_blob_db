@@ -1,4 +1,4 @@
---game: Generated
+--game: King's Bounty: The Legend
 
 addappid(25900)
 addappid(25901,0,"f5fb9d40001fe09060d9b389c75a5a7ce68b0238992282b1a5320fe641add3fc")
