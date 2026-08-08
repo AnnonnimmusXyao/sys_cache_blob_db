@@ -1,4 +1,4 @@
---game: Hentai Waifu Vol.1
+--game: Hentai Waifu
 
 addappid(1027520)
 addappid(1027521,0,"c5950ca705cc953af9085daf9fe4e87f9741dc59b35cd28afa0ef27b330422e1")
