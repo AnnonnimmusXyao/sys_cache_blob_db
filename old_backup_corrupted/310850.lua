@@ -1,4 +1,4 @@
---game: Onikira - Demon Killer
+--game: Onikira: Demon Killer
 
 addappid(310850)
 addappid(310851,0,"a8f95a9f620dca506b5501d7228d1bfa12cb72b3ba601c3d90e77af9cf4b8746")
