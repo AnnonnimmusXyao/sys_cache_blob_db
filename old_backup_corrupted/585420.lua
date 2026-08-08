@@ -1,7 +1,5 @@
 --game: Trailmakers
 
-addappid(585420)
-addappid(585421,0,"131cfc758986f58922fa998a0f28bda5abe20df30a8d51f9f1ff21a91e69d07e")
 addappid(1171470)
 addappid(1183540)
 addappid(1333570)
@@ -17,3 +15,5 @@ addappid(3323320)
 addappid(3708690)
 addappid(3729370)
 addappid(3915680)
+addappid(585420)
+addappid(585421,0,"131cfc758986f58922fa998a0f28bda5abe20df30a8d51f9f1ff21a91e69d07e")
