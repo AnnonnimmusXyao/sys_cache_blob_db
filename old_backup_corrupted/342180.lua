@@ -1,4 +1,4 @@
---game: Arizona Sunshine®
+--game: Arizona Sunshine® VR Legacy
 
 addappid(342180)
 addappid(342181,0,"bf74282e5c57cb13dca5fc0eb6251af6c8531626ccb80a0b9b591783c9684b09")
