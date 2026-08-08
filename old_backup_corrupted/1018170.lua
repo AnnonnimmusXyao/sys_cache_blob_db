@@ -1,4 +1,4 @@
---game: 光之迷城 / Dawn of the Lost Castle
+--game: Dawn of the Lost Castle
 
 addappid(1018170)
 addappid(1018171,0,"183bf11ba5e375dac9c1bae335954a11b95cdc006ec78a2ffcb825494c30abd4")
