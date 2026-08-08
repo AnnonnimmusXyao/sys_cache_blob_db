@@ -1,4 +1,4 @@
---game: Generated
+--game: Train Simulator Classic
 
 addappid(1012080,0,"dab4e560e0bf7fc6a2364fe8cfd8b6fe3bfa21d972a423f9f939941c5228f7c8")
 addappid(1012081,0,"62d312155f734099bd55f0923bd6d02ace672055c5463f2a8a490b1ca5820b79")
