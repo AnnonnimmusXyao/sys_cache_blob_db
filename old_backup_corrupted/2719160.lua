@@ -1,4 +1,4 @@
---game: Contractors Showdown : ExfilZone
+--game: Contractors Showdown
 
 addappid(2719160)
 addappid(2719161,0,"09414e3bc70d3b13b3e1145978229a49a56414f7aec9ed4eedc8598d31d720b6")
