@@ -1,4 +1,4 @@
---game: Generated
+--game: Mafia
 
 addappid(40990)
 addappid(40991,0,"229edc0e316e7ffcfe6a5592dfbeb3909f7cfd103ca712726b479e0e715a6e23")
