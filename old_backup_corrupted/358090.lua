@@ -1,5 +1,5 @@
---game: D4: Dark Dreams Don’t Die -Season One-
+--game: D4: Dark Dreams Don't Die
 
-addappid(358090)
 addappid(229004)
+addappid(358090)
 addappid(358091,0,"a2f4e37104219c120d58480418b9d2417af847bb601e24615ece68a2e223fbe8")
