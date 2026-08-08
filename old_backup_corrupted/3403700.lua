@@ -1,4 +1,4 @@
---game: University Days - Season 2
+--game: University Days - Semester 2
 
 addappid(3403700)
 addappid(3403702,0,"17fae65bdd838ca5304752b4921dd846e13068b140d33e3c34c999977b121314")
