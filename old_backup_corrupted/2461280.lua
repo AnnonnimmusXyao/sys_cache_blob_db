@@ -1,4 +1,4 @@
---game: Lessaria: Fantasy Kingdom Sim
+--game: Lessaria
 
 addappid(2461280)
 addappid(2461281,0,"7e22120096df8cee8bef50627636e195c9113e5a94fca368037b8d00598eb566")
