@@ -1,4 +1,6 @@
---game: AaAaAA!!! - A Reckless Disregard for Gravity
+--game: Generated
 
 addappid(15520)
 addappid(15521,0,"ab436d71cae2f1b03dd1323149a518141acc9db1a26c0ccb72677ddb85b2eaad")
+addappid(15522)
+addappid(98001,0,"417e00bfe3be09e8a86fa2b8d9bad7f156287f6175ae3997f28fe1178308cda4")
