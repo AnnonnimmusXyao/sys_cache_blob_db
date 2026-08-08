@@ -1,4 +1,4 @@
---game: Jagged Alliance 2 - Wildfire
+--game: Jagged Alliance 2 - Wildfire 
 
 addappid(215930)
 addappid(215931,0,"b6bf4a68814fec5cae7eb948de458de3dabfc9da5c58e6e7d03a1e7b5d32e090")
