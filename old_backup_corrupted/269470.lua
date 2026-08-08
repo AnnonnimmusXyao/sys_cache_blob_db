@@ -1,8 +1,8 @@
---game: MorphVOX Pro 4 - Voice Changer (Old)
+--game: MorphVOX Pro 4 - Voice Changer
 
-addappid(269470)
 addappid(229002)
 addappid(229006)
+addappid(269470)
 addappid(269471,0,"1bd6287e8f509a1dfb81c9d954fdf93b4be11c6d7ff527097d2e2f5c2c859077")
 addappid(269472,0,"e273c43f06e23e6129f64d055e40766dd172b5a069f222247ac69bc75cd960c5")
 addappid(269473,0,"0ad72bc977d64723618b2619958713f70b561b63f85a20466bed2a20077ebc14")
