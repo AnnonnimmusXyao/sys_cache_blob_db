@@ -1,4 +1,4 @@
---game: The Legend of Dark Witch Episode 4
+--game: 魔神少女エピソード4 届ける想い
 
 addappid(2644240)
 addappid(2644241,0,"91999ae2c1ae89c4233a5d729c91b1b27bab5a78666126dcc38bff12d5a659b9")
