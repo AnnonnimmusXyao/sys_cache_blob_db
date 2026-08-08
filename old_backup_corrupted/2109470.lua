@@ -1,4 +1,4 @@
---game: Wild West Legacy: The New Hope Gazette
+--game: Wild West Dynasty: The New Hope Gazette
 
 addappid(2109470)
 addappid(2109471,0,"eb5394a8e70118f342f35439a41b876c73d73f8767e8b807d58faa670bc5c563")
