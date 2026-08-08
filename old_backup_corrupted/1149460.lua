@@ -1,4 +1,4 @@
---game: ICARUS
+--game: Icarus
 
 addappid(1149460)
 addappid(1149461,0,"c71fc47ef9e1e718df06677c0d6cf06fc0f01145d8481e0db444a26eed261296")
