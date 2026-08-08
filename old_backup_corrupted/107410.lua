@@ -1,4 +1,4 @@
---game: Generated
+--game: Arma 3
 
 addappid(1021790,0,"2a1a84bef4bca331a78e022e133ca531af3062be29de09bd05934c9ce49e733f")
 addappid(1042220,0,"d2d2b4ba7701e9067b5d6b00d91c57839c42a7032a985a69c57612b16ce61e21")
