@@ -1,4 +1,4 @@
---game: Color-A-Cube
+--game: Color A Cube
 
 addappid(3366710)
 addappid(3366711,0,"d66ac4c3848f2b3e590c7f33108140d14fc3842efa71eca6192533f1820d259a")
