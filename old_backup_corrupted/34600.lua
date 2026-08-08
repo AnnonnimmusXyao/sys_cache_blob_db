@@ -1,4 +1,4 @@
---game: Order of War™
+--game: Generated
 
 addappid(34600)
 addappid(34601,0,"7223e833a4a299a70bec15fdaf71aac6eb5863bfbad0cf291a13ff287dea7bb1")
@@ -8,3 +8,10 @@ addappid(34604,0,"09522f9a988ca37881b21ced975ca1cc739b0357248aa506b2b3749d451625
 addappid(34605,0,"a1f104251dd743c05f47d4aa5fc899448ceffa91773a5f1fc8da6816bb0eaf2e")
 addappid(34606,0,"e681b1ac663ff198e45055cec74eaf7bf3bc62e1c1f33707b6fc665e03137053")
 addappid(34607,0,"8d7e87d608b9b618d611cce59778fb5a71830ab4a58a05288ce838b80eaaa373")
+addappid(34608,0,"0c5e6e73e5d307e5632b1fec1803a3f9f18cb7313eab18991715cd1ffa19e05e")
+addappid(34610)
+addappid(34611)
+addappid(34612)
+addappid(34613)
+addappid(34614)
+addappid(34615)
