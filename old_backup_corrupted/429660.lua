@@ -1,8 +1,8 @@
---game: Tales of Berseria™
+--game: Tales of Berseria
 
-addappid(429660)
 addappid(228983)
 addappid(228985)
+addappid(429660)
 addappid(429661,0,"3e52800c7b5a10bac4878feb162b72dd4e5ec4beef6e6ad8d4b655e2c4745cdd")
 addappid(429662,0,"1f6d73e22df7e5dac711b82814a468d8449de542ad120cb8d421665c01169da9")
 addappid(525431,0,"457a2c7c346be27f567dd706788c87b207707550820c344a40b784f4fe1f8964")
