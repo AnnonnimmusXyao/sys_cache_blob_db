@@ -1,4 +1,4 @@
---game: Kuri Kuri Click! ~My Sweet Model!~
+--game: Kuri Kuri Click! 3 ~My Sweet Model!~
 
 addappid(3173200)
 addappid(3173201,0,"a2a1dbf489ca127e0a6e5f35205295db77ab51bc8bbef8619eecbae00d3e1f31")
