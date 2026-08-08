@@ -1,4 +1,4 @@
---game: Bolt Riley, A Reggae Adventure
+--game: Bolt Riley, A Reggae Adventure - Chapter 1
 
 addappid(331210)
 addappid(331213,0,"5f6db83ab5bbcbdcc00d83d151771ffe39e3ac1d3704df3ec82fc0cc7ed5bbf8")
