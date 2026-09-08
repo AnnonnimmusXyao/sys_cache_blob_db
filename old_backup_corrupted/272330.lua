@@ -1,5 +1,6 @@
 --game: Shadow Blade: Reload
 
-addappid(228985)
 addappid(272330)
-addappid(272331,0,"5bef8862a9c22bab9ca56c52fecbdf8bffd9be8515e8add0ce07f31b7d555d30")
+addappid(272331, 1, "5bef8862a9c22bab9ca56c52fecbdf8bffd9be8515e8add0ce07f31b7d555d30")
+addappid(272332, 1, "e4ae75f22bfcfbc5ed48cdb67f9aa8b79f5dad2e67c7bf28a6ef42da18fb3cf0")
+addappid(272333, 1, "96e862ef8c603afdd01d66ba0ba6b3ca1e4b9b0e21751c3a608ef24c1acabf5b")
