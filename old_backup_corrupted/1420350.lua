@@ -1,7 +1,12 @@
 --game: Fraymakers
 
 addappid(1420350)
+addappid(228989)
 addappid(1420351,0,"0c2d0021a596f771ab6bbd2e32b93e69fdd6d1800facd004dd585661a6ca7fca")
+addappid(1420352)
+addappid(1420353)
+addappid(1420354)
+addappid(1420355)
 addappid(1420356,0,"84fd7fb85455d2f10d7a6ce1543c6d276d4e9dfa422987e2d0c5e672ae4dce1b")
-addappid(3904210)
-addappid(3904250)
+addappid(1420357)
+addappid(1420358)
