@@ -1,4 +1,4 @@
 --game: Garden Simulator
 
 addappid(1403310)
-addappid(1403311,0,"21a51d2699f4399ab986e729bf47a2406a756ea5fce3fa65da47c46a157ded87")
+addappid(1403311, 1, "21a51d2699f4399ab986e729bf47a2406a756ea5fce3fa65da47c46a157ded87") -- Main Game Content (Windows Content)
