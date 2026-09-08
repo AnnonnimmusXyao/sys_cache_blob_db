@@ -1,4 +1,4 @@
 --game: Hentai Shooter 2: World Tour
 
 addappid(1015660)
-addappid(1015661,0,"f68d06d75654966d0ac244faff57afcb2bcca82a07160ca05267e5399dc2db60")
+addappid(1015661, 1, "f68d06d75654966d0ac244faff57afcb2bcca82a07160ca05267e5399dc2db60")
