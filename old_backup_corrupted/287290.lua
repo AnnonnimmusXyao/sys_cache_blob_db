@@ -1,28 +1,29 @@
 --game: Resident Evil Revelations 2
 
 addappid(287290)
-addappid(287291,0,"bc5ba048977d68842139f6abbd30e78adb6c33ff7d7ff1724d6594768c1def46")
-addappid(319810,0,"53a39700c8494c1a0aecd11cfc46c5fa1892b2e0d362601cbfd2be669a9e1d4e")
-addappid(320350,0,"9776346fd31d33f094d42b1649b2d5e067971f1d322bc6c27bf2362378f6a35b")
-addappid(320351,0,"7aceae0a437a8f22e55ec2fd0d70c2439f568e900eedce12b871b43c6c803008")
-addappid(320352,0,"7a268e53783fdbc08d534ac971b7a696b770f23942803ca6d4d08bbdb0f0fca7")
-addappid(320353,0,"15309a8e76ea76eda0d5fc2b81c59e97a44267f711454761e4247914c4f8635c")
-addappid(320360,0,"9075a49f112b50412bcef290df8dfb0fcada5659a2884af000557bdf48fbf0bc")
-addappid(320361,0,"57da5165aa4915f42b703687917bfdc325932221fb1d359eb8ff376a3c545588")
-addappid(320362,0,"d08c7c74e61ad89f3e2fbb957c536dd103242971f5532d02bab19016675c8963")
-addappid(320363,0,"4d3ba9e7d186d5abfeab5733ba3b66ad6bcd60d7979ca307bc6c8be6355ea5a4")
-addappid(320364,0,"7c13b56551645ea86768f63c481daf346ffd0460159b1ce443fce7b7eb44ab6a")
-addappid(320370,0,"c40e38eb2cd77e678e1d0199fee37c345fb4867dec3fbbe7184bc01b45fc5575")
-addappid(320371,0,"894a8419dd99d9d4789ad3fdb26af975ddd2ed9392410ff09221fa91676e9220")
-addappid(320372,0,"e303e0b4eba747c6beac716d23246f4540a05c6bd10e3dc7d16d0996ebcd62ea")
-addappid(320380,0,"2ce8b359bc397de37a4894ec5279ff1b32590f978bb14d48021824e7c8f7469a")
-addappid(320381,0,"be3f46901f12ae522a3200a4bbcc5e31564a63a7f8120362198fe2de665b556c")
-addappid(320382,0,"1bc60e607a66ea348be45a08469b6f9d5548a2c75c6af0ee9510bf5ad81bc8f4")
-addappid(320383,0,"292114b7d25dcdd90ffdf2ae70bf4221837ed533514e18d6261b2ef4f0b08dac")
-addappid(320384,0,"12a2834066ac426d0a7645d83cdda941fc19f3ceb446dc8e5fee5f6dd700d902")
-addappid(320385,0,"78d89fded00bc816adb18a065ebacfab71db55c1a97b2f96bd6e47ce0c6c51c2")
-addappid(320386,0,"3690861be3638379dbba02777752f7ebcb1d54de1737c8c95d0c7f7f3aafbd29")
-addappid(320387,0,"f28a03bbe6ac4171bcde880aa1d66e83a0ebeb0c111a87abcf7048a4eea6d101")
-addappid(320388,0,"c1308298693c0dd251da63594ebd524590841e68dbf0e328907fd4ecb8f26770")
-addappid(353310,0,"fb47ed848fbd5a65bde94ef5fd88d17670c0dfc48aba5f5a91be5eaed3fd443d")
-addappid(353311,0,"b96c56908603fbd2bd84bab165bdbf7cfb17dd8a5be97954c00da20897407d8e")
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+addappid(287291, 1, "bc5ba048977d68842139f6abbd30e78adb6c33ff7d7ff1724d6594768c1def46") -- ベースコンテンツ
+addappid(319810, 1, "53a39700c8494c1a0aecd11cfc46c5fa1892b2e0d362601cbfd2be669a9e1d4e") -- RER2BHR2 Episode Two Contemplation - Episode 2 (319810) Depot
+addappid(320350, 1, "9776346fd31d33f094d42b1649b2d5e067971f1d322bc6c27bf2362378f6a35b") -- RER2BHR2 Episode Three Judgment - Episode3 (320350) Depot
+addappid(320351, 1, "7aceae0a437a8f22e55ec2fd0d70c2439f568e900eedce12b871b43c6c803008") -- RER2BHR2 Episode Four Metamorphosis - Episode4 (320351) Depot
+addappid(320352, 1, "7a268e53783fdbc08d534ac971b7a696b770f23942803ca6d4d08bbdb0f0fca7") -- RER2BHR2 Extra Episode The Struggle - Ex Episode1 (320352) Depot
+addappid(320353, 1, "15309a8e76ea76eda0d5fc2b81c59e97a44267f711454761e4247914c4f8635c") -- RER2BHR2 Extra Episode Little Miss - Ex Episode2 (320353) Depot
+addappid(320360, 1, "9075a49f112b50412bcef290df8dfb0fcada5659a2884af000557bdf48fbf0bc") -- Claires Rodeo Costume - Costume Claire (320360) Depot
+addappid(320361, 1, "57da5165aa4915f42b703687917bfdc325932221fb1d359eb8ff376a3c545588") -- Moiras Urban Ninja Costume - Costume Moira (320361) Depot
+addappid(320362, 1, "d08c7c74e61ad89f3e2fbb957c536dd103242971f5532d02bab19016675c8963") -- Natalias Lottie Suit Costume - Costume Nataria (320362) Depot
+addappid(320363, 1, "4d3ba9e7d186d5abfeab5733ba3b66ad6bcd60d7979ca307bc6c8be6355ea5a4") -- Barrys Commandant Costume - Costume Barry (320363) Depot
+addappid(320364, 1, "7c13b56551645ea86768f63c481daf346ffd0460159b1ce443fce7b7eb44ab6a") -- Costume Pack - Costume Pack (320364) Depot
+addappid(320370, 1, "c40e38eb2cd77e678e1d0199fee37c345fb4867dec3fbbe7184bc01b45fc5575") -- Raid Mode Character HUNK - Hunk (320370) Depot
+addappid(320371, 1, "894a8419dd99d9d4789ad3fdb26af975ddd2ed9392410ff09221fa91676e9220") -- Raid Mode Character Albert Wesker - Wesker (320371) Depot
+addappid(320372, 1, "e303e0b4eba747c6beac716d23246f4540a05c6bd10e3dc7d16d0996ebcd62ea") -- Raid Mode Throwback Map Pack - RAID-MODE Stage Pack (320372) Depot
+addappid(320380, 1, "2ce8b359bc397de37a4894ec5279ff1b32590f978bb14d48021824e7c8f7469a") -- Raid Mode Weapon Storage A - Weapon Building Rank1 (320380) Depot
+addappid(320381, 1, "be3f46901f12ae522a3200a4bbcc5e31564a63a7f8120362198fe2de665b556c") -- Raid Mode Weapon Storage B - Weapon Building Rank2 (320381) Depot
+addappid(320382, 1, "1bc60e607a66ea348be45a08469b6f9d5548a2c75c6af0ee9510bf5ad81bc8f4") -- Raid Mode Weapon Storage C - Weapon Building Rank3 (320382) Depot
+addappid(320383, 1, "292114b7d25dcdd90ffdf2ae70bf4221837ed533514e18d6261b2ef4f0b08dac") -- Raid Mode Parts Storage A - Parts Building Rank1 (320383) Depot
+addappid(320384, 1, "12a2834066ac426d0a7645d83cdda941fc19f3ceb446dc8e5fee5f6dd700d902") -- Raid Mode Parts Storage B - Parts Building Rank2 (320384) Depot
+addappid(320385, 1, "78d89fded00bc816adb18a065ebacfab71db55c1a97b2f96bd6e47ce0c6c51c2") -- Raid Mode Parts Storage C - Parts Building Rank3 (320385) Depot
+addappid(320386, 1, "3690861be3638379dbba02777752f7ebcb1d54de1737c8c95d0c7f7f3aafbd29") -- Raid Mode Album Storage A - Unjudged Building Rank1 (320386) Depot
+addappid(320387, 1, "f28a03bbe6ac4171bcde880aa1d66e83a0ebeb0c111a87abcf7048a4eea6d101") -- Raid Mode Album Storage B - Unjudged Building Rank2 (320387) Depot
+addappid(320388, 1, "c1308298693c0dd251da63594ebd524590841e68dbf0e328907fd4ecb8f26770") -- Raid Mode Album Storage C - Unjudged Building Rank3 (320388) Depot
+addappid(353310, 1, "fb47ed848fbd5a65bde94ef5fd88d17670c0dfc48aba5f5a91be5eaed3fd443d") -- Resident Evil Revelations 2 - Soundtrack Selections - Resident Evil Revelations 2 - Soundtrack Selections (353310) Depot
+addappid(353311, 1, "b96c56908603fbd2bd84bab165bdbf7cfb17dd8a5be97954c00da20897407d8e") -- Resident Evil Revelations 2 - mini Artbook - Resident Evil Revelations 2 - mini Artbook (353311) Depot
