@@ -1,16 +1,4 @@
 --game: First Class Trouble
 
-addappid(1611050)
-addappid(1749280)
-addappid(1749281)
-addappid(1749282)
-addappid(1749283)
-addappid(1749284)
-addappid(1783790)
-addappid(1840110)
-addappid(1881330)
-addappid(1910530)
-addappid(1951600)
-addappid(2025040)
 addappid(953880)
-addappid(953881,0,"ce1fdb3e32096060b07aa5974520c9f9dd7fb35346b6a38725bde5e8fa684f30")
+addappid(953881,1,"ce1fdb3e32096060b07aa5974520c9f9dd7fb35346b6a38725bde5e8fa684f30")
