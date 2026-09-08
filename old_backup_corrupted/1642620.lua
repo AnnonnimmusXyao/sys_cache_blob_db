@@ -1,4 +1,5 @@
 --game: COLLECTION of SaGa FINAL FANTASY LEGEND
 
 addappid(1642620)
+addappid(228988)
 addappid(1642621,0,"37e5c69516ba3fe109dd57a96a172e4f586356fa6fcc47efe6ac465cb2370b1a")
