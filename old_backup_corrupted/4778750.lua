@@ -1,0 +1,4 @@
+--game: Sinner's Siesta
+
+addappid(4778750)
+addappid(4778751,0,"8fec259328325a7a2a905cfcdd37d335fffb36a92d37f077fea3e4864c98b543")
