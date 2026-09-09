@@ -1,0 +1,4 @@
+--game: Defying Fate: 60 Days to the Exam
+
+addappid(4733250)
+addappid(4733251,0,"1c5c1d49b2f044127226674d701ff6935ab65d5c52ab92a54fc747c747a9c7fc")
