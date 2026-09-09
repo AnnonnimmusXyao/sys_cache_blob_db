@@ -1,0 +1,4 @@
+--game: TEAM PANIC
+
+addappid(4753590)
+addappid(4753591,0,"d3e9b49088c7664264617f9e9a1b172a5d5b80397b7b1cd3ccf6ba588aada9d3")
