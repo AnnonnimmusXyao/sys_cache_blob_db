@@ -1,0 +1,4 @@
+--game: Car Hustle Simulator
+
+addappid(4870800)
+addappid(4870801,0,"64814a21f0eb85eb72f24f39a14c9c16add6e674f85741b742b5ea7881c7329a")
