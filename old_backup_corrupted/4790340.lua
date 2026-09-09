@@ -1,0 +1,4 @@
+--game: Cultivation：Mystic Realm of Spirit Mountain
+
+addappid(4790340)
+addappid(4790342,0,"c5f32c695e1b94cdb6943e0570d1dac7027c93490b3b69378726fb0041bbf305")
