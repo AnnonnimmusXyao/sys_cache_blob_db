@@ -1,0 +1,4 @@
+--game: Escape from Umbra
+
+addappid(4830970)
+addappid(4830971,0,"f0d9236e91af917c12749825c39fc1d4d24688685c7bb267d8e32bf9d0f0cd18")
