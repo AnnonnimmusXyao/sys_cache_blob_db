@@ -1,0 +1,4 @@
+--game: My Giant Bully
+
+addappid(4769870)
+addappid(4769872,0,"65e115eb486e6b5e3f2ed5b5cc2fe568fddd894f1cbd8b94be070bc6f71449c0")
