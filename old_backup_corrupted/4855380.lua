@@ -1,0 +1,4 @@
+--game: Idle Regenerator
+
+addappid(4855380)
+addappid(4855381,0,"c8cfd69a8be546bc65c57455da7d572d4e36ad6cc5e53c61fa1b20e0199fbc5c")
