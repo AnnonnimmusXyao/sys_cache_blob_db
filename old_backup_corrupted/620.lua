@@ -1,4 +1,4 @@
---game: Portal 2
+--game: Juego 620
 
 addappid(620)
 addappid(621, 1, "d2718f2424c94832a7112661774d98ffb3d52f454312f543a71418d253100d1d") -- portal 2 common
