@@ -1,0 +1,4 @@
+--game: Fart X Bully
+
+addappid(4741850)
+addappid(4741851,0,"139bd52cfa7457039a710f2f1802541b70614b8f7f87aa95c5c47ba638cffb38")
