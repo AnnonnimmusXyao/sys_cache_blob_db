@@ -1,0 +1,4 @@
+--game: House of Temptations
+
+addappid(4793110)
+addappid(4793111,0,"9f5d123cd2ca638d816e5cc45d83616d44a5d9e476ab766783154778e8ef2bde")
