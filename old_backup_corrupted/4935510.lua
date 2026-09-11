@@ -1,0 +1,4 @@
+--game: Cellar Keeper
+
+addappid(4935510)
+addappid(4935511,0,"af021b487d377a7f01808ef44c074f24b3cb156767bb49718e986f5ec528daf2")
