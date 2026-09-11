@@ -1,0 +1,4 @@
+--game: Europe Heatwave Simulator
+
+addappid(4910780)
+addappid(4910781,0,"142b3ac7027de33d62a31f11096a143ffce54f4c332cf1e4afcbf36e74d20ce0")
