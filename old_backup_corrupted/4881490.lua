@@ -1,0 +1,4 @@
+--game: FinSim
+
+addappid(4881490)
+addappid(4881491,0,"79f58241f24107e268ff9d0d3d660c9cf5233fcbbcb7c4712f33b2dc5c3ec9b8")
