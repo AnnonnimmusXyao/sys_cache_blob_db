@@ -1,7 +1,7 @@
 --game: Fate/EXTELLA
 
-addappid(228985)
 addappid(511680)
+addappid(228985)
 addappid(511681,0,"82e6ba761fe89ee09217c7c14065b1c8ef168fbd5acff142b3f129c8af6cceb9")
 addappid(623190,0,"09443f212bb0b2efd167ea37bba1e93ce5fe9ee8a9b77da864ba361efecc97f0")
 addappid(623191,0,"45ee7a6b5e5f165b2b438c1202f16ccc90cc2d0bad5c91761d96a7e550bef967")
