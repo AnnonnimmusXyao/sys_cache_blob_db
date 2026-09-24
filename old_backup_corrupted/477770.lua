@@ -1,7 +1,7 @@
 --game: Ride 2
 
-addappid(228985)
 addappid(477770)
+addappid(228985)
 addappid(477771,0,"eed4fa04dc09fbbfc1423a3b2d645c2b3e0af242fe7ba6ebb4370bf435da35d2")
 addappid(562060,0,"36d9e1c90d43ebccf0696583690b69b6f73d0d6d0c89536b1436050b45d196a4")
 addappid(563790,0,"b524078cb01928295acdbd9bde302fdab09dd3def09819808e19ba41e3dc9ea6")
