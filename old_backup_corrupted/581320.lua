@@ -1,5 +1,8 @@
 --game: Insurgency: Sandstorm
 
+addappid(581320)
+addappid(581322,0,"1cf7a7b78cda78f21064d61cbb2ac22836872b85b7dc263a8bd13ca32e17a814")
+addappid(996220)
 addappid(1308180)
 addappid(1308181)
 addappid(1308182)
@@ -52,6 +55,3 @@ addappid(2606110)
 addappid(2606120)
 addappid(2606130)
 addappid(2606140)
-addappid(581320)
-addappid(581322,0,"1cf7a7b78cda78f21064d61cbb2ac22836872b85b7dc263a8bd13ca32e17a814")
-addappid(996220)
