@@ -1,0 +1,7 @@
+--game: ​Hands Off the Priest! My Creditor is a Telepathic Pervert
+
+addappid(4754770)
+addappid(4754771,0,"14bb146df497088c5f6dd795f9bc372d4594af5db16549ad5826ef4c66c28211")
+addappid(4819970)
+addappid(4819980)
+addappid(4820000)
