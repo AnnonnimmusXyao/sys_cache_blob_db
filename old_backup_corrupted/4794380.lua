@@ -1,0 +1,4 @@
+--game: Thousand Floors
+
+addappid(4794380)
+addappid(4794381,0,"d39a73abfa7da78a6aff1f23d602e9a3f7bd7c85c51d3b75514d5de8e9f643a3")
