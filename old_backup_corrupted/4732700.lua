@@ -1,0 +1,7 @@
+--game: Kingdom of Ashes - Fallen Era
+
+addappid(4732700)
+addappid(4732701,0,"aca42e8670b0e32c2b458d788bc99191e2901055f26f29e4ca7b517a4332a772")
+addappid(4873590)
+addappid(4910200)
+addappid(4913860)
