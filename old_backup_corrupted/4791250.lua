@@ -1,0 +1,4 @@
+--game: 電卓 - Desktop Mate Widgets
+
+addappid(4791250)
+addappid(4791251,0,"0275bcc2155d284cc95f813fd09f82b3f245573718107ed2ad96012a2cd1b96b")
