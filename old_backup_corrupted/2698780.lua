@@ -1,5 +1,8 @@
 --game: ContractVille
 
 addappid(2698780)
+addappid(228982)
+addappid(228985)
+addappid(228989)
+addappid(228990)
 addappid(2698781,0,"828d5f7224a4a0900737bb184f8ebcb2f7db10894724f2ca7d7d06c9904cf1cd")
-addappid(3969000)
