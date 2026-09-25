@@ -1,6 +1,7 @@
 --game: Tom Clancy's The Division 2
 
 addappid(2221490)
+addappid(228983)
 addappid(2221491,0,"c1bcc3effbf8f9a08114de2d5d1aa3566e3b6d1598cf0575f174c8a515253d52")
 addappid(2221493,0,"4a6ca4d7aba34c6bd5610356b9376b677f46bc51626d709798bc62bb259ce9ec")
 addappid(2221494,0,"e24ec08305a5c93445186239740fbb352895b8d8cc21bf45c896c3022abff8c2")
@@ -18,7 +19,6 @@ addappid(2222580)
 addappid(2222730)
 addappid(2225120)
 addappid(2225121)
-addappid(228983)
 addappid(2424600)
 addappid(2424601)
 addappid(2560550)
