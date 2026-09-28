@@ -1,5 +1,7 @@
 --game: Touhou Hero of Ice Fairy
 
 addappid(1955830)
-addappid(1955831,1,"7c520a8442f3537e7006593708adc76ceb19a2a0bdb9ad6a1158ad9d5c570dad")
-addappid(2302890,1,"e1e6947c89bdac7882e1d6de61a59d18e5e1fa13688dc9df74db057d89fab786")
+addappid(1955831,0,"7c520a8442f3537e7006593708adc76ceb19a2a0bdb9ad6a1158ad9d5c570dad")
+addappid(2302890)
+addappid(3213970)
+addappid(3858250)
