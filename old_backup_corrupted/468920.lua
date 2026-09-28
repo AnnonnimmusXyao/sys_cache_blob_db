@@ -1,7 +1,8 @@
 --game: Ultimate Fishing Simulator®
 
 addappid(468920)
-addappid(468921,1,"a89390f36b8cf58a71b8a903c2a02cb8f0cb1c0593111e8fa42fa776433cc85c")
+addappid(229007)
+addappid(468921,0,"a89390f36b8cf58a71b8a903c2a02cb8f0cb1c0593111e8fa42fa776433cc85c")
 addappid(940820)
 addappid(970640)
 addappid(994210)
