@@ -1,0 +1,4 @@
+--game: A Lucky Hunt With Myrina
+
+addappid(4734060)
+addappid(4734061,0,"537293c9dae29d7baaedf2b5633133e894a7484e3a61dcf8406a11f91b422abb")
