@@ -1,4 +1,4 @@
 --game: Takelings House Party
 
 addappid(868150)
-addappid(868151,0,"18885cd77c8888cc10a3a749c2e9f60e1a7c71d546844da66a4885c97cc5d4f9")
+addappid(868151, 1, "18885cd77c8888cc10a3a749c2e9f60e1a7c71d546844da66a4885c97cc5d4f9") -- Takelings House Party Content
