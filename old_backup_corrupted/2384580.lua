@@ -1,16 +1,4 @@
 --game: DYNASTY WARRIORS: ORIGINS
 
 addappid(2384580)
-addappid(2384581,0,"c9bfe8a78dc43f75438b3a8e602c7a322b0b53418f80be108058121a71371130")
-addappid(2530290)
-addappid(3319840)
-addappid(3319850)
-addappid(3319860)
-addappid(3319870)
-addappid(3319880)
-addappid(3319890)
-addappid(3319900)
-addappid(3319910)
-addappid(3319920)
-addappid(3319930)
-addappid(3319940)
+addappid(2384581,1,"e524e70e4fbecfd21d13b8fa8cc25d6cf900922301abed0ce0807bacbfe8fa4509362fe6cc6510d2d9f35e4c33347e4df02ec58a2b6ca0553e1bbeede1aab1dd7cb348f94cc2975e2c270dfdc3a989f820d19a0b1a17e9796f34ca0e50467ca3")
