@@ -1,7 +1,8 @@
 --game: 100% Orange Juice
 
 addappid(282800)
-addappid(282801,1,"87e62a71a7524d05f39b2dc02f30dc8512b045ae195f369fc3b67a989b4fb407")
+addappid(282801,0,"87e62a71a7524d05f39b2dc02f30dc8512b045ae195f369fc3b67a989b4fb407")
+addappid(282803,0,"0183f0d2a5c6fb13b33e57af6908b35a2f08dd571dc6ab4ad0c386db4656904e")
 addappid(327340)
 addappid(334080)
 addappid(338360)
@@ -40,3 +41,7 @@ addappid(2242260)
 addappid(2456760)
 addappid(2585600)
 addappid(2727930)
+addappid(2989310)
+addappid(3414420)
+addappid(3587390)
+addappid(3811450)
