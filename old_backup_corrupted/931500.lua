@@ -1,8 +1,7 @@
 --game: Touhou Genso Wanderer -Reloaded- / 不可思议的幻想乡TOD -RELOADED- / 不思議の幻想郷TOD -RELOADED-
 
-addappid(228987)
 addappid(931500)
-addappid(931501,0,"6bf4fb4180e8e1880ae147f5da5286b4510be068609ffe45622c0c3b144dcda7")
+addappid(931501,1,"6bf4fb4180e8e1880ae147f5da5286b4510be068609ffe45622c0c3b144dcda7")
 addappid(940620)
 addappid(940730)
 addappid(940731)
@@ -18,4 +17,4 @@ addappid(940740)
 addappid(940750)
 addappid(940770)
 addappid(940771)
-addappid(942210)
+addappid(942211,1,"e6a4e1db24b93a33a5ca632586a9c03877ec17268a080f286d3480f8bc2502e1")
