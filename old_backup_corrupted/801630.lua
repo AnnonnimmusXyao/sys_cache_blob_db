@@ -1,8 +1,7 @@
 --game: UNDER NIGHT IN-BIRTH Exe:Late[cl-r]
 
 addappid(801630)
-addappid(801631,0,"9a118760190ed8f737acd25dfdd8aac5803aac01f6c81d117bb2132d9a90a1aa")
-addappid(905680,0,"8e383539adf5b815395c59277568abb524a9d96e8760fc0068bf7948bd81545a")
+addappid(801631,1,"9a118760190ed8f737acd25dfdd8aac5803aac01f6c81d117bb2132d9a90a1aa")
 addappid(905681)
 addappid(905682)
 addappid(905683)
@@ -22,7 +21,7 @@ addappid(905706)
 addappid(905707)
 addappid(905708)
 addappid(913930)
-addappid(1216950)
+addappid(1216950,1,"3fd91689671e5e4bb79d727667413253dd9149e60fdb07f0b8e7d589802d7c4b")
 addappid(1216951)
 addappid(1216952)
 addappid(1216953)
