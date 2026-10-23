@@ -1,7 +1,7 @@
 --game: Century: Age of Ashes
 
 addappid(918570)
-addappid(918571,0,"a93b27550f2a4862a1d66a3dafa345b2bc7a796274a2f732caca7d6aa08e7a66")
+addappid(918571,1,"a93b27550f2a4862a1d66a3dafa345b2bc7a796274a2f732caca7d6aa08e7a66")
 addappid(1682640)
 addappid(1691470)
 addappid(1691471)
@@ -22,4 +22,3 @@ addappid(2496230)
 addappid(2689430)
 addappid(2731380)
 addappid(2731390)
-addappid(3059020)
