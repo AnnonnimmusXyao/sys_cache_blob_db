@@ -1,4 +1,5 @@
 --game: BONEWORKS
 
 addappid(823500)
-addappid(823501,0,"bd62786d436b7bc794ccc6f50cdcfc4c47c11029fbbc4751de27d12fb8fe8622")
+addappid(823501, 1, "bd62786d436b7bc794ccc6f50cdcfc4c47c11029fbbc4751de27d12fb8fe8622") -- BONEWORKS Content
+addappid(1162380, 1, "35ec85be012d69a14fb151b5e2a418fc1c6d06ee4a4aba6e39e43b3291dd42d7") -- BONETONES - Official BONEWORKS OST - BONETONES - Official BONEWORKS OST (1162380) Depot
