@@ -1,8 +1,8 @@
 --game: Kao the Kangaroo
 
+addappid(1370140)
 addappid(228985)
 addappid(229005)
-addappid(1370140)
 addappid(1370141,0,"3f8629fbb74ca939c630c00762b9622a3a5e17611b0a9e65db4caebdb2dbec12")
 addappid(2052960)
 addappid(2052961)
