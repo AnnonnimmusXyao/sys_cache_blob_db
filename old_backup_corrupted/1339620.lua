@@ -1,4 +1,6 @@
 --game: Action SuperCross
 
 addappid(1339620)
+addappid(228988)
 addappid(1290222,0,"150de84d86370e58f991de7dc98551101d744e5aec69083b45a639753bbb4685")
+addappid(1339621)
