@@ -1,7 +1,7 @@
 --game: United Assault - Normandy '44
 
-addappid(229007)
 addappid(1342810)
+addappid(229007)
 addappid(1342811,0,"1ddf5904bfa9b854079491d165adce02ad5cd89b373b42c533d400701e90bbe9")
 addappid(3140140)
 addappid(3140150)
