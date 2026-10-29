@@ -1,4 +1,5 @@
 --game: Blocky Ball
 
 addappid(1343040)
-addappid(1343042,0,"becfc70e62d0d814ece11c7666de618ae9bb479bc7512bd7a10973ab5f398a6b")
+addappid(1343041, 1, "bfb772ef0b490006997466d41ba38cfa021d779e303387e313de2c925fdced4f")
+addappid(1343042, 1, "becfc70e62d0d814ece11c7666de618ae9bb479bc7512bd7a10973ab5f398a6b")
