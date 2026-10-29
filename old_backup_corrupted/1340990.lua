@@ -1,7 +1,7 @@
 --game: Rise of the Ronin
 
-addappid(228989)
 addappid(1340990)
+addappid(228989)
 addappid(1340991,0,"6fdac6ccd9ebadf5c61e1c34ec225a8bc687cab591d28cc5ade262e9a65ae393")
 addappid(1340992,0,"7c7e86cec8a1f874213799a3eb2db858af7a8e28c72d7792330cc7b28f580793")
 addappid(1340993,0,"50234d9ac0cda0a23d385d3c086560656cc037de4dcb3d743e960f416ed5c69d")
