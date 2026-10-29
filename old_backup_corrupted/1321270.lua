@@ -1,4 +1,5 @@
 --game: Duck Life 8: Adventure
 
 addappid(1321270)
+addappid(1321272)
 addappid(1321273,0,"6c3899c1ce8ee47c31b6e998be7522f8ab86828581b44af6a437d8ddf4a6d52e")
