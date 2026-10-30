@@ -1,4 +1,5 @@
 --game: Sinsations
 
 addappid(1738420)
-addappid(1738421,0,"462a50d6cb76dce9079dcefcba25409816083784eed68793ce2fecb95d35ce95")
+addappid(1738421, 1, "462a50d6cb76dce9079dcefcba25409816083784eed68793ce2fecb95d35ce95")
+addappid(2155790)
