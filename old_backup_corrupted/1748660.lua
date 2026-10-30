@@ -1,7 +1,7 @@
 --game: Voice of Cards: The Forsaken Maiden
 
-addappid(229002)
 addappid(1748660)
+addappid(229002)
 addappid(1748661,0,"c0c07258d6f9301adf7b6c572a905205b5746d9f46c9c68903b30e59a7673163")
 addappid(1818620)
 addappid(1818700)
