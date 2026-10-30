@@ -1,8 +1,8 @@
 --game: THE KING OF FIGHTERS XV
 
+addappid(1498570)
 addappid(229000)
 addappid(229001)
-addappid(1498570)
 addappid(1498571,0,"18bfa3c18acd2ad7f907930d4acfd79567d28bbdbb4d60f30eca2fd3c0fdfcdd")
 addappid(1835740,0,"4ae1915ed46e3133ed21ea4076d5602ebbd8118591eec7e5c20e052da5084743")
 addappid(1835741,0,"0dca7d9accbafaa930e6c584d8903bd12d0e297807369e4b6c5731441b8200ee")
