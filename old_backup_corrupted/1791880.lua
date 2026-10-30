@@ -1,5 +1,6 @@
 --game: 宠物王国3
 
+addappid(1791880)
 addappid(228981)
 addappid(228982)
 addappid(228983)
@@ -20,5 +21,4 @@ addappid(229030)
 addappid(229031)
 addappid(229032)
 addappid(229033)
-addappid(1791880)
 addappid(1791881,0,"77b89f28cd7ca1258a25269cb37d28fa83c38b6cc35f8a365c6e6d9cd5f6f280")
