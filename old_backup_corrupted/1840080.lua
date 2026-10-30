@@ -1,8 +1,8 @@
 --game: Homeworld 3
 
+addappid(1840080)
 addappid(228983)
 addappid(228985)
-addappid(1840080)
 addappid(1840081,0,"5d53e08892dfc69e5116808861483da9327d3b294b2c9a5e4afd727309439d2c")
 addappid(1840082,0,"ab8b56a6b90d907fe7c1e1def09d1ca6e13772b960b33235c94f5e13f2e16d06")
 addappid(2667180)
