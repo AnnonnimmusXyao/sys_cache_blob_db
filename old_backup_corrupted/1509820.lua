@@ -1,5 +1,7 @@
 --game: Cloud Climber
 
 addappid(1509820)
+addappid(228988)
+addappid(228990)
+addappid(1509821)
 addappid(1509822,0,"99f19391916c32fccc0b61468c312b1c84939ffbf3fa2c9638de99fe9a243533")
-addappid(1533460,0,"d3afbdc0792f6ec00f0858aa13e0e664f84144e6cc0d4a351aefa414aba7edf6")
