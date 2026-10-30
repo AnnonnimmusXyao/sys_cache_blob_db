@@ -1,4 +1,6 @@
 --game: Birth
 
 addappid(1889040)
+addappid(1889041)
+addappid(1889042)
 addappid(1889043,0,"385e466251c0fc4ccf5340854f344b7abdb84fb353bbcace34147faae0d45427")
