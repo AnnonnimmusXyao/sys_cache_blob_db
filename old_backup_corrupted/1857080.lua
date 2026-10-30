@@ -1,4 +1,5 @@
 --game: The Last Starship
 
 addappid(1857080)
-addappid(1857082,0,"da7ba42e5dc0fab717beb28a4fbae2ec0da3e4805937202e20fd4ada15520b16")
+addappid(1857082, 1, "da7ba42e5dc0fab717beb28a4fbae2ec0da3e4805937202e20fd4ada15520b16") -- Depot 1857082
+addappid(1857083, 1, "d31765f2383e42a54b6614804aa4f36915de4b8d6615fdcdcfce3f873f158f82") -- Depot 1857083
