@@ -1,4 +1,5 @@
 --game: Miasma Chronicles
 
 addappid(1649010)
-addappid(1649011,0,"37e12969216f3718cbc3da5252107bb96e8ea10bea2e65c6edc91b5d632345ec")
+addappid(1649011, 1, "37e12969216f3718cbc3da5252107bb96e8ea10bea2e65c6edc91b5d632345ec")
+addappid(2586980)
