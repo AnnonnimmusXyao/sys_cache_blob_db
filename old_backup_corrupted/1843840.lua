@@ -1,6 +1,8 @@
 --game: Rogue Point
 
 addappid(1843840)
-addappid(1843841,0,"510447300dd91bc76f4ad9c71bb144f9a8ba51cf9217da450eeef32f981003f5")
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+addappid(1843841, 1, "510447300dd91bc76f4ad9c71bb144f9a8ba51cf9217da450eeef32f981003f5") -- Depot 1843841
 addappid(3756640)
-addappid(3756641,0,"b627e6ad73246f4bfc3caad6f2ffac92b802fc85e11bfb5c8c5f6a22aba933d0")
+addappid(3756641, 1, "b627e6ad73246f4bfc3caad6f2ffac92b802fc85e11bfb5c8c5f6a22aba933d0") -- Rogue Point - Supporter DLC - Depot 3756641
