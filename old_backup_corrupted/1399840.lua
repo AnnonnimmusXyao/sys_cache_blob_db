@@ -1,9 +1,9 @@
 --game: Neptunia Virtual Stars
 
+addappid(1399840)
 addappid(228985)
 addappid(229005)
 addappid(229006)
-addappid(1399840)
 addappid(1399841,0,"35aa7810c6bfbefc728b70d915f039bdcd3ef9296de89d8b1f6563bd8a1ca731")
 addappid(1472842)
 addappid(1472843)
