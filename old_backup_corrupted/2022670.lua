@@ -1,7 +1,7 @@
 --game: SONIC SUPERSTARS
 
-addappid(229007)
 addappid(2022670)
+addappid(229007)
 addappid(2022671,0,"f2c1f41d9127af994a3cd878921ff5b89db85334ee15711d98ecac202e0b2c54")
 addappid(2376680)
 addappid(2376681)
