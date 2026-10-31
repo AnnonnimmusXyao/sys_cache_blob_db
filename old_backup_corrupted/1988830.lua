@@ -1,4 +1,5 @@
 --game: Project Wunderwaffe: Prologue
 
 addappid(1988830)
+addappid(228988)
 addappid(1988832,0,"76c619838982e53e8c2aec96aa9542f4e64a0c0f771a30365895e8d12416b52b")
