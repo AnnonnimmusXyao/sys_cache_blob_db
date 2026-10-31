@@ -1,4 +1,4 @@
---game: Ara History Untold: Anniversary Edition 
+--game: Ara History Untold: Anniversary Edition
 
 addappid(2021880)
 addappid(2021881,0,"2ee32023245e16a98b624134e65f2cb58176b2ec23c8cccf202cc305d57d864e")
