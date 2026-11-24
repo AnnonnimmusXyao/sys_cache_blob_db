@@ -1,5 +1,9 @@
 --game: Inochi Creator
 
-addappid(229020)
 addappid(2108550)
+addappid(228988)
+addappid(228989)
+addappid(229020)
 addappid(2108553,0,"a5e10ddb2785775398d4f448b308325d37d0edf23fc75d9d0a1d4dfa8d5186fd")
+addappid(2108554)
+addappid(2108555)
