@@ -1,8 +1,8 @@
 --game: WRC 8 FIA World Rally Championship
 
+addappid(1004750)
 addappid(228983)
 addappid(228987)
-addappid(1004750)
 addappid(1004751,0,"1634a0db5e059e9e0eb5c72533baa526a769d66fda7602f5c7cb893adf3ef935")
 addappid(1101810)
 addappid(1101830)
