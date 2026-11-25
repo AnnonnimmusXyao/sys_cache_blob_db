@@ -1,5 +1,6 @@
 --game: Scary defense
 
+addappid(817160)
 addappid(228981)
 addappid(228982)
 addappid(228983)
@@ -20,5 +21,4 @@ addappid(229030)
 addappid(229031)
 addappid(229032)
 addappid(229033)
-addappid(817160)
 addappid(817161,0,"0abda780dadb15f4b55a5731dceea85a92290dbaa8b5959970e9c44217a40015")
