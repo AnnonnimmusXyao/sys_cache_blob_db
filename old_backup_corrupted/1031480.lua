@@ -1,9 +1,9 @@
 --game: TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II
 
+addappid(1031480)
 addappid(229003)
 addappid(229005)
 addappid(229012)
-addappid(1031480)
 addappid(1031481,0,"3635e797f39bd8bcc7341af13dd88dfcf603d6496fdf94f9452a37e26a076068")
 addappid(1031482,0,"ccc33656d1079283a5f98c4edcaead6ee4b04f2b8ddb5ea6142b6aabe2f4b6bb")
 addappid(1031483,0,"a7bfdc862d06227c9ad06c9c5ae1cf9fe5e877b33ab68bc147510ba6e211d833")
