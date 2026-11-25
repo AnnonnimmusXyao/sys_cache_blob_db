@@ -1,7 +1,7 @@
 --game: Starlink: Battle for Atlas
 
-addappid(228983)
 addappid(950050)
+addappid(228983)
 addappid(950051,0,"c31833eb6039c37bfcf691ba8f0cdf9ee2361bfe135c7a8d09b43e5052e4d99b")
 addappid(1044400)
 addappid(1075450)
