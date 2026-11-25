@@ -1,4 +1,7 @@
 --game: Ministry of Broadcast
 
 addappid(874040)
+addappid(228990)
+addappid(874041)
 addappid(874042,0,"e2153fe669824632242b84aa90702c7aa001f2f1e7cbce19b0a679c66edcab8e")
+addappid(874043)
