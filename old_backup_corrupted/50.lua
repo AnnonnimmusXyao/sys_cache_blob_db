@@ -1,12 +1,12 @@
 --game: Half-Life: Opposing Force
 
+addappid(50)
 addappid(1)
 addappid(2)
 addappid(3)
 addappid(6)
 addappid(8)
 addappid(9)
-addappid(50)
 addappid(51,0,"cfb8898867eae1901bce2e85444f2cf5c689d4806c137692f0f370868d0b4f03")
 addappid(52,0,"9f4f1e296fdb38bfbc27c771600e598198839f9503135a4b2b813536c48c516c")
 addappid(53,0,"3ff910cb008ad4571814eb9367e42406cc39e0e6096ed428cdc5b182bb7874b4")
