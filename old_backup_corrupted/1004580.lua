@@ -1,4 +1,6 @@
 --game: Microwasp Seekers
 
 addappid(1004580)
+addappid(228988)
+addappid(228990)
 addappid(1004582,0,"2cb5e975e533ca1194928fa5e6791fc03a9d88d6d11bf440088cda1bf3e4a3cb")
