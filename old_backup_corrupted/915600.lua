@@ -1,8 +1,8 @@
 --game: Them and Us
 
+addappid(915600)
 addappid(228983)
 addappid(229002)
-addappid(915600)
 addappid(915601,0,"6a461c3ef42e82d34af47a390c24e88f5a10d8dc271e5fc14d456b0151514f12")
 addappid(915602,0,"10c96ac6e918fa7e893b59f12f2dff76eac723c87dea481ac1e4bab228bace73")
 addappid(915603,0,"edae09843ce5737015d20e21aa48b4d3abbd2f11ea533c07d66439a2837448fb")
