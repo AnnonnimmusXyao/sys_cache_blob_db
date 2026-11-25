@@ -1,7 +1,7 @@
 --game: Valor & Victory
 
-addappid(229006)
 addappid(963870)
+addappid(229006)
 addappid(963871,0,"803856b3b708966ab8d5e8c65b1b745f55ad2a8a53dd904caf3eb805ee77ee84")
 addappid(963872,0,"f82accb24165f98fadc86300c3649f35bb60b218fa7c7c500f0ff289e955a203")
 addappid(1830800,0,"86fadbfae6de3aa676909b55dabcf94382e31295037649ebc290d35efb619d2c")
