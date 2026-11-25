@@ -1,7 +1,7 @@
 --game: Steel Division 2
 
-addappid(228987)
 addappid(919640)
+addappid(228987)
 addappid(919641,0,"e4accb53bb694864b0f3b1524387a0a4035d482624f09d6d6872b321642d10d3")
 addappid(988170,0,"ef1a14771041deccaf7b6e1d0b2a5892cc9729e1cb8f17f89e6a96c0b21fa4a0")
 addappid(988171)
