@@ -1,12 +1,12 @@
 --game: Deathmatch Classic
 
+addappid(40)
 addappid(1)
 addappid(2)
 addappid(3)
 addappid(6)
 addappid(8)
 addappid(9)
-addappid(40)
 addappid(41,0,"025b3eca6aed746732da1e3669452167afa6df93a4a732f76f82776d63c11661")
 addappid(42,0,"dbf1cb61d0e85bc273f75e5783379604a9535d51d890ba3ac4bf33a3179e5d1b")
 addappid(43,0,"aa98bee53ed3ef9af322ce948ccb6d047ffb1db406454f26bc1cd4c00f524059")
