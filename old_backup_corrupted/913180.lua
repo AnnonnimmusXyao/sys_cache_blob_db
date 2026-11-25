@@ -1,5 +1,6 @@
 --game: Battle royale simulator
 
+addappid(913180)
 addappid(228981)
 addappid(228982)
 addappid(228983)
@@ -19,5 +20,4 @@ addappid(229020)
 addappid(229030)
 addappid(229031)
 addappid(229032)
-addappid(913180)
 addappid(913181,0,"dc847f375bad2f0ee3730825a7860376e511f96cd2dd2d05fcfbbfbb8cab8414")
