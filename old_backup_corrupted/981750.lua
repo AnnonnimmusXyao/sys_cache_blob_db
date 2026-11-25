@@ -1,7 +1,7 @@
 --game: CRYSTAR -クライスタ-
 
-addappid(228987)
 addappid(981750)
+addappid(228987)
 addappid(981751,0,"b5f84767c3819cf86493e80ae299514fd052a780441121db3eb8839e44d1784d")
 addappid(1067471)
 addappid(1067476)
