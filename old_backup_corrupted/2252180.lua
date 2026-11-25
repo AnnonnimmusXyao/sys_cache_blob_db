@@ -1,4 +1,7 @@
 --game: Claris the Princess Knight ~ Extra Story
 
 addappid(2252180)
+addappid(2252181)
 addappid(2252182,0,"264602f00afa9d117f1aa9d4cee8637ab75447bc688c31806189ffff2eca965c")
+addappid(2252183)
+addappid(2252184)
