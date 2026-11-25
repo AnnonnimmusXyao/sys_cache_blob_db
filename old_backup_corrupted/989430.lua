@@ -1,4 +1,5 @@
 --game: 随风而逝 Story About Times
 
 addappid(989430)
-addappid(989431,0,"9d3b400c2ee82afca666ad888a46671db217592ce65e8bba65122ff8bbd11696")
+addappid(989431, 1, "9d3b400c2ee82afca666ad888a46671db217592ce65e8bba65122ff8bbd11696")
+addappid(989432, 1, "d1959d2710397dc2b8de0bb9d53141de51fc566a7cec8b66e1042567fafcb8f4")
