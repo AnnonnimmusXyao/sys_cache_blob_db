@@ -1,7 +1,7 @@
 --game: STORY OF SEASONS: A Wonderful Life
 
-addappid(229005)
 addappid(2111170)
+addappid(229005)
 addappid(2111171,0,"2d9d2b9615e3f11f5256bf67cffb29afba507e75ece6760e7f8e8d8c63f6b8c9")
 addappid(2282580)
 addappid(2282581)
