@@ -1,7 +1,7 @@
 --game: Dusk Diver 酉閃町
 
-addappid(228987)
 addappid(911220)
+addappid(228987)
 addappid(911223,0,"fbe7931e52b91746c65969190b0a2c3d12d3834ccbcedc3cd7cb5c818e28a810")
 addappid(1036112)
 addappid(1036114,0,"55a11e303a0877850848ae437e375f8c4b8d504ef5ecee3e30d937d4e093b7ab")
