@@ -1,4 +1,5 @@
 --game: Psyvariar Delta
 
 addappid(998990)
-addappid(998991,0,"2de5f7a44d626b02b73fb3d6e896895c0314c404f6abda7d7e43a5f7c112940f")
+addappid(998991, 1, "2de5f7a44d626b02b73fb3d6e896895c0314c404f6abda7d7e43a5f7c112940f")
+addappid(1013110)
