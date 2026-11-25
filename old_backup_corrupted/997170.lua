@@ -1,6 +1,7 @@
 --game: Zombie Scrapper
 
 addappid(997170)
+addappid(997171)
 addappid(997172,0,"c89e9584443ce779e930ef9f650ee6b840dbecae1e4b34608ff682945a795d2d")
 addappid(997173,0,"2593487df27eac21e7dc028a7959dd50ae037aa5d3b3fd3dbe5738e278b7fd4f")
 addappid(997174,0,"77b06fa6f495dbad41c4cbecaa4d7a413d62014e8ba53f5093e35a89a596a489")
