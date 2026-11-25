@@ -1,8 +1,8 @@
 --game: SUCCUBUS
 
+addappid(985830)
 addappid(229005)
 addappid(229033)
-addappid(985830)
 addappid(985831,0,"e5a9251be34f44dc070b26c1e6421eabeee3675299df8975935e61325d054480")
 addappid(1592730,0,"9e0bc10b60d9063a2303b7ff234185559ae398cef5bd9e0e3eefa6792406dd63")
 addappid(1670520)
