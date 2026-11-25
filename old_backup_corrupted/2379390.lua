@@ -1,8 +1,8 @@
 --game: Tom Clancy’s Rainbow Six® Extraction
 
+addappid(2379390)
 addappid(228983)
 addappid(1716751,0,"84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
-addappid(2379390)
 addappid(2379391,0,"6dfee38121865ab4de98becbde445d8a84c3a2455fe81dc7542c869c927393e6")
 addappid(2379430)
 addappid(2379440)
