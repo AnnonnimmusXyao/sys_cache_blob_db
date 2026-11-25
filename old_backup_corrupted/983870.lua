@@ -1,5 +1,6 @@
 --game: FOUNDRY
 
 addappid(983870)
+addappid(228989)
+addappid(228990)
 addappid(983872,0,"02b02434bbf6af2846d16a87ae33b7f7afe40754b260232f86761b1d16594aaf")
-addappid(2830490)
