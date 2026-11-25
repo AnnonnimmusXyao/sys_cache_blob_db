@@ -1,12 +1,12 @@
 --game: Ricochet
 
+addappid(60)
 addappid(1)
 addappid(2)
 addappid(3)
 addappid(6)
 addappid(8)
 addappid(9)
-addappid(60)
 addappid(61,0,"32786a74b6590545be36d6d2cdcd75008c950d0baba60407c54c8148743953f2")
 addappid(62,0,"49eba36d29e68a3311048939f73db2d1accb48994d14958792c2be7599b7e928")
 addappid(63,0,"4c7d5239740ea85831b7543da71032f0726b95080e4eda7c6efc69731c7af130")
