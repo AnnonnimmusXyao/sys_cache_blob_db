@@ -1,4 +1,6 @@
 --game: Shipwrecked 64
 
 addappid(2160220)
+addappid(228989)
+addappid(228990)
 addappid(2160222,0,"93030989b69aab728a4f0f2ca3603f6baf6e194d193a607f730b93a4c4e9c855")
