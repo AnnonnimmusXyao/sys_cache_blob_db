@@ -1,12 +1,12 @@
 --game: Day of Defeat
 
+addappid(30)
 addappid(1)
 addappid(2)
 addappid(3)
 addappid(6)
 addappid(8)
 addappid(9)
-addappid(30)
 addappid(31,0,"4d5feb3d2283c50f9d90f8d2b785f4ff4aa057829acf3fc00ce69326b14ca65a")
 addappid(32,0,"8e2fcb16f1a7e99aec4c037da7536085d6342de4b87320cf723f1a7cf30af352")
 addappid(33,0,"2863b8218868795c976bcda78604dd813861c9c8859fb751c71b38fd95c852e2")
