@@ -2,3 +2,6 @@
 
 addappid(1059150)
 addappid(1059152,0,"55ecab879eb55e91594900345cdf8923e103a3ee0f0351314f19d0e1edf2c108")
+addappid(1059153)
+addappid(1059154)
+addappid(1179130)
