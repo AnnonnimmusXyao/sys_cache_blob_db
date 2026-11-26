@@ -1,7 +1,7 @@
 --game: DAEMON X MACHINA
 
-addappid(228987)
 addappid(1167450)
+addappid(228987)
 addappid(1167451,0,"3dc4397d4f94a640043bea785c35492e0b1bfc7e8d08d9f1a1f708f9eab47991")
 addappid(1211671)
 addappid(1211672)
