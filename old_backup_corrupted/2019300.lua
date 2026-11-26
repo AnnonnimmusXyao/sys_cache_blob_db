@@ -1,4 +1,5 @@
 --game: Dokimon
 
 addappid(2019300)
-addappid(2019301,0,"4c11883ba648c4ff5bb9aba47163fbed2b4c8dce779e482645911c2025dcc1b6")
+addappid(2019301, 1, "4c11883ba648c4ff5bb9aba47163fbed2b4c8dce779e482645911c2025dcc1b6")
+addappid(3314520)
