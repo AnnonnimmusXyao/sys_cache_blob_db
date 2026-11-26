@@ -1,8 +1,8 @@
 --game: The Legend of Heroes: Trails of Cold Steel IV
 
+addappid(1198090)
 addappid(228985)
 addappid(229002)
-addappid(1198090)
 addappid(1198091,0,"c48721588f545a66858af8279bee2952b31f66135dcee997568ab854b808265c")
 addappid(1573918,0,"2bf394d404473cf81a43ca7b1b4e33f78bb20bccfce86ae58cf1d7fba287b61a")
 addappid(1575363,0,"98a68524e57364cce7c5ebfeb68f197055115ced4b1aca1351454da1400a51df")
