@@ -1,11 +1,11 @@
 --game: Blazing Sails
 
+addappid(1158940)
 addappid(228985)
 addappid(229004)
 addappid(229005)
 addappid(229006)
 addappid(229007)
-addappid(1158940)
 addappid(1158941,0,"f9130b661ac759f41c7e32b772b9a1a5921b7f7b58f84dbddfd9a291d5d789b1")
 addappid(1371650)
 addappid(1371651)
