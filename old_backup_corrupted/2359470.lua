@@ -1,7 +1,7 @@
 --game: Strayed
 
 addappid(2359470)
-addappid(2359471,0,"fae5ab274cd384def39251b423becea322c959a06e5ec256ba8460c38b2b79c3")
+addappid(2359471, 1, "fae5ab274cd384def39251b423becea322c959a06e5ec256ba8460c38b2b79c3")
 addappid(3344210)
 addappid(3344220)
 addappid(3344230)
@@ -19,3 +19,6 @@ addappid(3891280)
 addappid(3891320)
 addappid(3917360)
 addappid(4036060)
+addappid(4092820)
+addappid(4092830)
+addappid(4095280)
