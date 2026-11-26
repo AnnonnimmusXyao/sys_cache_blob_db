@@ -1,7 +1,7 @@
 --game: Voice of Cards: The Isle Dragon Roars
 
-addappid(229002)
 addappid(1113570)
+addappid(229002)
 addappid(1113571,0,"0144a1d24a86196e672a5c246398b8fdebf6b8456d50c28056624578ab8d3d46")
 addappid(1153310,0,"bc9a86c9b99b568e6e01d91b44fcca0d5f15611984ccb208bf8405724d2c9d8b")
 addappid(1157930,0,"3412bbf399cc52beb6cc73fe448f2c7cc91dec8a2cf73ac60bf1cf9bcab39688")
