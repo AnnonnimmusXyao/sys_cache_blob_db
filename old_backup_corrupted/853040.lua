@@ -1,4 +1,5 @@
 --game: Deep Space Rush
 
 addappid(853040)
-addappid(853041,0,"9f5ce1473d6024c3e519badb1d568cacb2df731f716bf9c061a3ad3b42c663ec")
+addappid(853041, 1, "9f5ce1473d6024c3e519badb1d568cacb2df731f716bf9c061a3ad3b42c663ec")
+addappid(856530)
