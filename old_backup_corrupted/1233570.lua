@@ -1,7 +1,7 @@
 --game: Mirror's Edge™ Catalyst
 
-addappid(228985)
 addappid(1233570)
+addappid(228985)
 addappid(1233571,0,"4a7739c3f8685c5004646c84c6a1e1e012f888b12a033bffbb7174d6dc71fe23")
 addappid(1233572,0,"3bb71854973567ca44bed6ac1627ce0af43164752bb94f1e0ffa2a3e4262685b")
 addappid(1233573,0,"05e7f3b53812763a8afaa3e4cce4eda454dc764f68a83e9409d1e0fbfa46c1ce")
