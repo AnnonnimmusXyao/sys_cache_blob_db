@@ -1,7 +1,7 @@
 --game: Kandagawa Jet Girls
 
-addappid(229002)
 addappid(1233800)
+addappid(229002)
 addappid(1233801,0,"884e87a02f51f4ce9d6c6bdbbb7148a3cd8f812750ce3b3ac57c76743a34bb05")
 addappid(1280120)
 addappid(1280121)
