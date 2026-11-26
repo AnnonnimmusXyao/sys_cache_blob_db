@@ -1,8 +1,8 @@
 --game: Red Dead Redemption 2
 
+addappid(1174180)
 addappid(228987)
 addappid(228990)
-addappid(1174180)
 addappid(1174181,0,"6fbf0f4b33fd5111d0832f0fb63a4d185c5321901ef95776c73e6e10b203bc25")
 addappid(1174182,0,"0824e4e00b9d464a1352b0eaa60416ee3bfe0f3b416459991dc6fca87e84366f")
 addappid(1174183,0,"cd51ee7e8adde797736bc283f9d434fae0aac28753e3f38a29a78aac298c0ccf")
