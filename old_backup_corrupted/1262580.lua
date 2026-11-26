@@ -1,7 +1,7 @@
 --game: Need for Speed™ Payback
 
-addappid(228985)
 addappid(1262580)
+addappid(228985)
 addappid(1262581,0,"bc329d84c6374c986032b34aef38842598bcc144dada9d99208b5d435950bcb2")
 addappid(1262582,0,"d944730a0e8c04a08204140dad83af1b5fca609f02dcbea733e17084e4127541")
 addappid(1262583,0,"b3d27fd471f00e9c5d6ade77d8beff63126e810eb62c7dfe8df91a12cabf63f1")
