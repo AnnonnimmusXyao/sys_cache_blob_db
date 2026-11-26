@@ -1,4 +1,7 @@
 --game: Hentai Shooter 3D: Christmas Party
 
 addappid(975240)
-addappid(975241,0,"e0ec4dc98a5b824df377f2024b477520d61e0e64a3fc4064d5989f1e5fed0ba1")
+addappid(975241, 1, "e0ec4dc98a5b824df377f2024b477520d61e0e64a3fc4064d5989f1e5fed0ba1")
+addappid(979050)
+addappid(979190)
+addappid(1028260)
