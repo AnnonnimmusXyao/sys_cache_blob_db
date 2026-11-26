@@ -1,6 +1,5 @@
 --game: Lushfoil Photography Sim
 
 addappid(1749860)
-addappid(228989)
-addappid(228990)
-addappid(1749861,0,"be2a418138404d2f8797c9edbe07b9bbf450d569b5ce59649288a97a78e2178e")
+addappid(1749861, 1, "be2a418138404d2f8797c9edbe07b9bbf450d569b5ce59649288a97a78e2178e")
+addappid(3887900)
