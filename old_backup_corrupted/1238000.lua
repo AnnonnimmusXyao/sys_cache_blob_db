@@ -1,8 +1,8 @@
 --game: Mass Effect™: Andromeda
 
+addappid(1238000)
 addappid(228983)
 addappid(228985)
-addappid(1238000)
 addappid(1238001,0,"db088a6ddb48c243fa2621cb46380a0bd0fcc691418b35c869b90fc2110b1eb8")
 addappid(1238002,0,"3b487a6917d7bd1c20c9de21d36cefd5d0f53b5fd9d7683669ac962f30aaff6e")
 addappid(1238003,0,"1bbfa9c1e83514aced1b25b9a4f8e27c62843a527b4d056e17607474d885bd51")
