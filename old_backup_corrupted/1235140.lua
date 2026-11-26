@@ -1,7 +1,7 @@
 --game: Yakuza: Like a Dragon
 
-addappid(228987)
 addappid(1235140)
+addappid(228987)
 addappid(1235141,0,"a6c3090851b8f41f9b628ed2b51335e1a9a6944cfb4041001860f1d10465adaa")
 addappid(1235142,0,"ba44937f15fa93fd09f7e671c4927d11fc61e1d46a6c8140eea67eef77efbf0c")
 addappid(1235143,0,"20bdc3f794349917d767fde04a451276f81c1ecbf0a5b9ee3757f34654cf8ff9")
