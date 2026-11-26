@@ -1,4 +1,5 @@
 --game: Bullet Girls Phantasia
 
 addappid(1163590)
-addappid(1163591,0,"76df1aad5ccfdd2627b481c9c6f59d19482f48d179e9a47d303797f580e6f592")
+addappid(1163591, 1, "76df1aad5ccfdd2627b481c9c6f59d19482f48d179e9a47d303797f580e6f592")
+addappid(1198193)
