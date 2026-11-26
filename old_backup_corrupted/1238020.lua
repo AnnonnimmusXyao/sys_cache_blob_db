@@ -1,9 +1,9 @@
 --game: Mass Effect 3 (2012 Edition)
 
+addappid(1238020)
 addappid(228981)
 addappid(228982)
 addappid(229031)
-addappid(1238020)
 addappid(1238021,0,"e997f7dbfb86ef4f47e7cd765bf63931f554188b44b91c3afff856e446a0e4a4")
 addappid(1238022,0,"3cb7a121dab6ddfa948d20dae46362c14551ac652e12f6a61734a512fb0bd2e7")
 addappid(1238023,0,"321db027fcd7979b66e4c0c918934ac3bf9f484159e1d6d6f131ed83064de2a9")
