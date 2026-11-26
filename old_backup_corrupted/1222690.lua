@@ -1,9 +1,9 @@
 --game: Dragon Age™ Inquisition
 
+addappid(1222690)
 addappid(228982)
 addappid(228983)
 addappid(228985)
-addappid(1222690)
 addappid(1222691,0,"542701533d6c8db0061f50ecbd1590287c2dfef83d7999818dda3ba8d49c113b")
 addappid(1222692,0,"69f743c2364a5096480dee7c15cdf6ac1c8bf03c7e43f0c839eeaef83acd66ab")
 addappid(1222693,0,"6010c7f30ae23cd27519e564c780f4376295379ccbc9c8cac48eb86df1808fab")
